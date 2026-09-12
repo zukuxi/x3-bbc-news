@@ -1,5 +1,56 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>BBC World News (x3 Direct)</title><link>https://github.com/zukuxi/x3-bbc-news</link><description>BBC 全文内嵌版，专为纯粹阅读打造</description><item><title>Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq</title><link>https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&amp;at_campaign=rss
+<rss version="2.0"><channel><title>BBC World News (x3 Direct)</title><link>https://github.com/zukuxi/x3-bbc-news</link><description>BBC 全文内嵌版，专为纯粹阅读打造</description><item><title>Anthropic boss Dario Amodei calls for AI development to slow down</title><link>https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Anthropic boss Dario Amodei calls for AI development to slow down
+- Published
+The head of AI company Anthropic has called for the pace of development of artificial intelligence models to slow down and to be closely monitored.
+In an essay on Saturday, Dario Amodei said developing AI was not in question, but the risks associated with it were "serious" and companies and governments must be given time to address them.
+The heads of two rival AI firms, Sam Altman of OpenAI and Elon Musk, have both said they agree with Amodei.
+There have been growing concerns recently about the technology's potential risks, the most serious of which suggested there is a greater than 10% chance it "could kill all humans" within the next decade.
+Anthropic previously said it had identified and disrupted attempts to use its AI model for "malicious activity" which could support the development of biological weapons.
+But the starkest warning came from two employees from Anthropic's safety team who have resigned in the last two weeks saying humanity may not survive, external the race among AI companies to develop machines that are smarter than humans.
+Amodei proposed a three-point plan that includes independent monitoring of AI models as they are developed, industry-wide regulation and global regulation.
+As his proposal made the rounds, even competitors voiced support for the idea of third-party monitors who could evaluate the safety of models as they are developed.
+"I agree with Dario that we need to pace the frontier," wrote OpenAI CEO Sam Altman on X. He called independent evaluators "a great idea."
+In a new interview with Fortune Magazine, Altman had sounded similar safety concerns, saying standards were "not at a place" to push AI capabilities much further.
+He added that he believed AI beyond human control is "absolutely" possible.
+Elon Musk meanwhile said the Anthropic boss was "right".
+The warnings have prompted calls to action, but US President Donald Trump has so far rejected such fears, saying on Thursday he was concerned "if we don't win AI, we're going to be put in a very bad position".
+Some observers have also suggested that Amodei's post may be less about safety than about consolidating control over AI technology.
+Cyber-security concerns have grown as new models have exhibited more and more powerful hacking capabilities.
+Anthropic withheld its Mythos model from public use when it was announced in April that it could independently escape the testing environment, known as the sandbox.
+In the run-up to the release of its most recent Astra model, OpenAI cited cybersecurity concerns as it explained it had paused certain aspects of the model's development.
+Safety has also taken centrestage in the rivalry between Anthropic and OpenAI.
+Amodei, who had previously worked as a vice president at OpenAI, has said he co-founded Anthropic in 2021 so he could build safer and more trusted AI models.
+- Dramatic insider warnings over AI fall flat with some in Silicon Valley 
+  - Published2 hours ago
+In his essay, called We Must Pace the Frontier, Amodei pointed out that AI had advanced "drastically faster" including its "ability to build the next generation of AI" - and mentioned an incident involving rival OpenAI which has revealed that agents conducted cybersecurity attacks, external on targets they were not asked to attack in July.
+The OpenAI agents had "essentially acted as a fanatically devoted collective", Amodei said. OpenAI has said it is slowing down training of certain advanced AI models and tools as a result.
+Amodei called for "building AI at a balanced rate that aims to ensure its safety while still achieving its benefits".
+This would not mean "halting model training or technical progress, but ensuring companies take adequate time to align and safeguard their models, and for third party evaluators to confirm this".
+He was committing Anthropic to this "unilaterally" - as well as calling on governments "to require other frontier companies to match".
+Amodei said he recognised that regulation might not be able to keep up with the pace of AI, and therefore called on AI companies to "voluntarily work together to set standard" in parallel with regulation.
+The Anthropic CEO went on to address the impact that a slowdown would have on the industry and competition with leading developers worldwide, particularly China.
+"I believe that if slowing down bought us even an extra year or two before models reach critical levels of capability, and we used that time to advance alignment, we could greatly reduce the risk that something goes seriously wrong," Amodei said.
+This would have to be done in a co-ordinated manner "without sacrificing commercial advantage or the United States' lead in AI". Any slowdown would have to be limited, he said, to avoid allowing China to pull ahead.
+He urged the US government to take measures so that US companies' AI chips could not be sold to China - or the technology shared with authoritarian countries.
+Amodei's post has prompted a wide range of responses.
+Clement Delangue, the CEO of the AI platform Hugging Face, said he was launching a new project called the Open Alignment Initiative, adding he wanted to be among "embedded evaluators" that Amodei proposed could be part of a solution.
+Hugging Face was hacked by OpenAI agents earlier this year prompting an outcry over AI safety.
+"Let's make AI safer by making it more transparent." Delangue wrote on X.
+Elon Musk also voiced his support, writing that "Dario is right".
+Musk, whose SpaceXAI makes the controversial chatbot Grok, once called Anthropic "evil" but has changed his tone since signing a $15bn deal to sell compute capacity to Anthropic in May.
+However some observers suggested that Amodei's post was less about safety than about consolidating control over AI technology.
+"Dario makes the case to stop open source and concentrate enormous technological and economic power with Anthropic," wrote Chamath Palihapitiya, investor and co-host of the tech podcast "All-In".
+Notions of slowing down or even pausing AI development have long been met with such cynicism in certain corners of Silicon Valley, with critics accusing leading AI developers of hyping their technology as a marketing ploy.
+Anthropic and OpenAI are both reportedly preparing for potentially record-setting initial public offerings.
+- Why some experts increasingly fear AI will take over 
+  - Published2 days ago
+- The contradiction at the heart of the trillion-dollar AI race 
+  - Published19 November 2025
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.</description></item><item><title>Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq</title><link>https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -12,11 +63,9 @@ The incident comes amid a major advance by the Iranian-backed Houthi rebels in Y
 On Friday, Yemen's Saudi-backed government forces said they had struck Houthi fighters in the strategic coastal city of Mokha, a day after the Houthis seized control of the entire Red Sea coast.
 Riyadh on Friday said it had shut the pipeline as a precaution, as satellite images of scorched ground and smoke near the site emerged.
 The foreign ministry said the attack resulted in some injuries and damage, which was still being assessed.
-The pipeline has been moving 4% to 5% of global oil supply, news agency Reuters has reported, citing ship tracking companies and analysts.
+The Saudi pipeline has been moving 4% to 5% of global oil supply, news agency Reuters has reported, citing ship tracking companies and analysts.
 Saudi Arabia has chosen not to retaliate at this stage, its foreign ministry says, following a call from Iraq's prime minister.
 It said the kingdom would "support the efforts of the Iraqi government" to "prevent attacks" launched from the country against neighbouring states.
-- Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war 
-  - Published19 hours ago
 "The Kingdom of Saudi Arabia affirms that it reserves its right to take all necessary measures to safeguard its sovereignty and security, protect its facilities, and ensure the safety of its citizens and residents," the statement added.
 The Iraqi prime minister's office in its own statement said the operations commander in the Maysan governorate - a province which borders Iran - had been removed from his post following confirmation the drone attack had been launched from that region.
 Saudi Arabia has previously carried out strikes alongside the US against Iran-backed militias in Iraq after accusing the groups of launching drones from Iraqi territory at oil facilities.
@@ -27,6 +76,8 @@ The group said it had control of the Bab al-Mandab Strait, the gateway to the Re
 The Yemeni Armed Forces have since struck back. On Friday, spokesman Majid al-Nuzaili said they had targeted Houthi positions in and around the city of Mokha, adding that they had destroyed vehicles and weapons and killed a number of Houthi fighters.
 The strategic coastal city on the Red Sea is situated about 80km (50 miles) north of the Bab al-Mandab Strait. The Houthis seized control of Mokha on Thursday. Their attack drove many people to flee to Aden, where Yemen's internationally recognised Presidential Leadership Council and government are based.
 Local sources also reported that government forces carried out air strikes targeting Houthi forces in Taiz governorate, which is along the Red Sea coast, and Ibb governorate, which neighbours Taiz.
+On Saturday the UN said at least 76,000 people had been displaced in Yemen since July, with the number quadrupling in the past week. It warned of a "rapidly worsening displacement crisis in Yemen unfolding by the hour".
+"Entire families are on the move, often at night. They have nowhere safe to go... They are exhausted. Their resources are gone. Most fled with nothing but the clothes on their backs," the UN statement said.
 The developments have squeezed both sides of the Arabian Peninsula, pushing crude oil prices to over $100 a barrel for the first time since July.
 Fears over inflation have risen with the spike in energy prices, further pushing up government borrowing costs.
 Richard Bronze of Energy Aspects told the BBC that even before the latest escalation, diverting Saudi oil via the Suez Canal into the Mediterranean and around Africa was already adding 30 days to sailing times and increasing transportation costs.
@@ -35,7 +86,7 @@ Challenges were particularly acute in diesel markets, he said, where prices have
 "Unless the situation across the Middle East improves, crude oil prices are likely to return to the peak of $120 per barrel seen earlier in the Iran war and could go even higher," he said.
 Additional reporting by Meghan Owen
 Related topics
-  - Published16 hours ago
+  - Published21 hours ago
   - Published1 day ago</description></item><item><title>A united Ireland would be 'fantastic' says Trump during Irish visit </title><link>https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
@@ -46,22 +97,21 @@ US President Donald Trump has said he would love to see a united Ireland while a
 Trump is on a two-day visit to the country where earlier he had a courtesy call with the Irish President Catherine Connolly at the Áras an Uachtaráin - the official residence of the Irish president.
 He attended meetings in Dublin, before travelling to County Clare for the Amgen Irish Open golf tournament.
 Trump said a united Ireland would happen eventually and that the Taoiseach was "the right man over here to get it moving".
+Meanwhile, more than 10,000 people marched through Dublin to show their opposition to the US president.
 During his meeting with Micheál Martin at Farmleigh House, in Phoenix Park, Trump said a united Ireland would be a "fantastic thing", and added: "now the UK would have something to say about it obviously but I think it would be a great thing, I mean, how can it be bad?"
 A spokesperson for Number 10 referred to Prime Minister Andy Burnham's words on Wednesday in the House of Commons that he "will stick to it (the Good Friday Agreement) 100%".
 On Wednesday, Burnham added that "the question of a border poll" was for the Northern Ireland secretary "when there is clear consensus in the country - when public opinion has changed to the point at which the call has to be considered".
-What has the reaction been from politicians?
+A spokesperson for Martin said Trump's comments should "come as a surprise to no one" and the US president has been "consistent in his view that he sees unity in Ireland as the optimal outcome".
+The Good Friday Agreement says the secretary of state must hold a border poll if it appears likely that a majority of people in Northern Ireland would vote for Irish unification - and the circumstances of when that could happen is the subject of constant debate in Northern Ireland and the Republic.
+Earlier this week, Martin said there needed to be more clarity on when a border poll can be called, while Burnham ruled out calling a referendum, describing a poll as "off the table".
 Sinn Féin leader Mary Lou McDonald said she acknowledged Trumps comments on a united Ireland and said the onus is on the Taoiseach to begin planning.
-"Our national journey is now reunification, which is organised, planned and a peaceful transition."
 Democratic Unionist Party (DUP) leader Gavin Robinson said Trump "knows better than most that elections matter".
 "Northern Ireland's constitutional future will be decided by the people of Northern Ireland, not by commentary in London, Dublin or Washington," he said.
-He added that Northern Ireland is part of the UK because it is the "settled democratic will of its people" and added he is confident the country will continue to choose the UK.
 Former DUP MP Ian Paisley and close friend of the Trump family said: "everyone is allowed a personal opinion even when it's wrong".
 Welcoming his comments, the leader of the Social Democratic and Labour Party (SDLP) Claire Hanna said there was something "fairly extraordinary" about Trump standing in Dublin and talking openly about Irish unity.
 "When even Donald Trump has clocked that Irish unity is no longer some distant or theoretical prospect, it tells you something about just how far this conversation has shifted."
-The Ulster Unionist Party (UUP) leader Jon Burrows said while America is an "important ally," Northern Ireland's future will be decided by its people.
-"That is the principle of consent, now enshrined in law through the Belfast Agreement."
+The Ulster Unionist Party (UUP) leader Jon Burrows said while America is an "important ally," Northern Ireland's future will be decided by its people".
 The Traditional Unionist Voice (TUV) leader Jim Allister said Trump "is not the first US President to meddle in the affairs which don't concern him".
-"Northern Ireland not a pawn in Trump's fall out with the UK. Our constitutional future does not depend on him or any other foreign dignitary," Allister added.
 Ireland's Foreign Minister Helen McEntee said: "Something to this magnitude can only happen where there's consent from the Irish people.
 "It's something that that we have to work on and we have to work towards."
 Later, while attending an event at the US Ambassador to Ireland's residence, Trump said there is "no good answer" to a question about a united Ireland.
@@ -70,8 +120,7 @@ Trump also said his country's relationship with Ireland is "stronger than ever".
 During his meeting with the Taoiseach, Trump said: "We've a big relationship with Ireland."
 "The two countries do very well together," he said, adding: "It's never been as good as it is right now."
 He said they discussed various topics, including trade.
-He was greeted by Tánaiste (Irish deputy prime minister) Simon Harris and Irish Foreign Minister Helen McEntee at Dublin Airport on Saturday morning.
-President Connolly, an outspoken Gaza activist who has been critical of the US, said that she told the US President that "the normalisation of war and genocide can never be accepted".
+President Connolly, an outspoken Gaza activist who has been critical of the US, said that she told the US president that "the normalisation of war and genocide can never be accepted".
 The two heads of state met earlier on Saturday morning.
 Connolly faced pressure from left wing parties who backed her at the presidential elections in 2025 to raise Gaza with Trump.
 "As a country which has suffered famine, colonisation and the violence of the Troubles, but also the importance of the long and challenging road to peace, I emphasised the unique insight which Irish people can bring to the resolution of conflict," she said in a statement issued after the meeting.
@@ -80,23 +129,22 @@ Allow X content?
 This article contains content provided by X. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read X’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’.
 On Friday night Trump boarded Air Force One at Joint Base Andrews in Maryland, near the US capital Washington DC, and flew out for his trip to Ireland.
 He visited the Republic in 2019, when he spent time at his golf course, but he also visited in 2023.
-More than 10,000 people have marched through Dublin to show their opposition to US President Donald Trump.
-The protest began near O'Connell Street in the city centre and took 31 minutes to pass.
-The route went past the GPO building, a focal point for Dublin protests over many years.
+Protesters turn out against Trump
+The protest against Trump began near O'Connell Street in Dublin and took 31 minutes to pass.
 Although President Trump left the city just as the protest began ,organisers said they wanted to send out a message of opposition to him and his policies.
-Among the protesters were Adrian and Tawnie. Originally from California, Tawnie thinks Trump's presidency has been "a disgrace and an embarrassment".
+Among the protesters were Adrian and Tawnie.
+Originally from California, Tawnie thinks Trump's presidency has been "a disgrace and an embarrassment".
 Adrian said Trump "serves the mantra of money makes the world go around".
 "He serves a billionaire class, I just don't like him."
 The common theme of posters and chants was the US involvement in the Israel-Gaza conflict.
-Ireland is one of the most pro-Palestinian countries in the EU, and many attending the protest will be hoping to send a message.
-Angela Jennings and Margot Feely said the US President's attitude to the Middle East was "reprehensible".
+Ireland is one of the most pro-Palestinian countries in the EU, and many attending the protest were hoping to send a message.
+Angela Jennings and Margot Feely said the US president's attitude to the Middle East was "reprehensible".
 "He's causing chaos around the world, there's a war going on in Iran that isn't necessary and it's impacting the whole world," Margot said.
-Alison said her message to Trump is to: "Go home, we don't want you here."
-Protesters have also gathered in Doonbeg, a few miles from Trump's hotel where he will attend the Irish Open.
+Protesters also gathered in Doonbeg, a few miles from Trump's hotel where he will attend the Irish Open.
 He will be accompanied by his sons Eric and Donald Trump Junior.
 There is a heavy Garda (Irish Police) presence, road closures and countless tricolour bunting through the village.
-Sixty-year-old Jessie Phillips is in Doonbeg to protest
-She lives in county Clare but is originally from Tennessee and said she was protesting as a "concerned member of the public".
+Sixty-year-old Jessie Phillips is in Doonbeg to protest.
+She lives in County Clare but is originally from Tennessee and said she was protesting as a "concerned member of the public".
 "I just want him [President Trump] to see my placard so he knows I don't care for him and that my family doesn't care for him and that he's not welcome here or over there in my opinion."
 Jenelle Jones is in Doonbeg but is originally from New York City.
 "I think especially as a US citizen I feel the need to show that we don't all agree with him and we want him out," she said.
@@ -106,7 +154,36 @@ I hope our activity here changes the minds of some people," he said.
 Related topics
   - Published3 September
   - Published2 July
-  - Published1 day ago</description></item><item><title>Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC</title><link>https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&amp;at_campaign=rss
+  - Published1 day ago</description></item><item><title>Fire at nursing home in Chile kills 16 residents</title><link>https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Fire at nursing home in Chile kills 16 residents
+- Published
+At least 16 elderly residents have died in a fire at a nursing home in Chile, according to authorities.
+Ten others were evacuated after a blaze broke out at El Edén home in /idt2/d9cfcc9a-2842-463f-a4d8-4dd007ef9547, around 640km (400 miles) south of the capital Santiago, on Friday evening.
+Jorge Granada, a prosecutor leading the case, said it was not clear at this stage what caused the incident.
+Chile's President José Antonio Kast said he had ordered a review into the condition of nursing homes across the country.
+"We will fully collaborate with the justice system to clarify what happened, determine where failures may have existed in oversight or prevention, identify what alerts were raised and what actions were taken in response to them," Kast said.
+"We need to know the truth and, based on that, correct whatever is necessary to do everything possible to prevent a tragedy like this from happening again," thre president added.
+The fire, which began at around 22:30 (01:30 GMT) was finally put out on Saturday morning.
+On Saturday, firefighters were still clearing debris and removing collapsed corrugated metal roofing. Police cordoned off the area for safety.
+"It is a situation that fills our souls with great sorrow and pain. We have been... providing support to the families," said local mayor Jacqueline Romero.</description></item><item><title>French officials investigate if malicious act caused train derailment</title><link>https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+French officials investigate if malicious act caused train derailment
+- Published
+Officials in northern France are investigating whether the derailment of a passenger train on Friday evening was the result of a malicious act.
+"At this stage, the leading theory is that a piece of rail was present on one of the tracks, potentially causing the derailment. The reason for its presence is unknown," prosecutor Sébastien Gallois said on Saturday.
+Local media say 186 passengers were on board the train that was operating between Rouen and Caen in Normandy.
+Forty-four people were treated for injuries, including an 18-year-old woman who was airlifted to hospital in a critical condition.
+"The train's 'black box' has been seized. Several interviews are scheduled, and a court-appointed expert has been called in," prosecutor Gallois said in a press release.
+"The main victim is still in hospital but her life is no longer in danger. The other victims have received care and treatment; they have either been discharged or are about to be."
+The Rouen prosecutor's office earlier said the train driver had tested negative for drugs and alcohol.
+The train derailed near Cléon, just south of Rouen, shortly before 20:00 (18:00 GMT), and some 140 firefighters and other emergency teams were immediately deployed to the crash scene.
+"Suddenly there were a few jolts, and then after about three seconds it got stronger and stronger," Louis, a passenger on the train, told ICI Normandie radio.
+"I couldn't stay in my seat anymore. The windows partially shattered, the stones from the track came into the carriage. It was really shocking. I'm still shaking," he added.</description></item><item><title>Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC</title><link>https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -135,100 +212,48 @@ Under efforts to prepare Ukraine for winter the UN Development Programme is help
 De Croo said completing the difficult and dangerous work was "almost an impossible task".
 "They are reconstructing these sites under constant, constant air alarms. And they know that they are working at a site which is a target," he said. "So you try to reconstruct, but part of your day you can't work because it's just too dangerous."
 Related topics
-  - Published2 days ago</description></item><item><title>Death toll from Philippines ferry fire climbs to 35, with dozens still missing</title><link>https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&amp;at_campaign=rss
+  - Published2 days ago</description></item><item><title>Uganda's King Oyo buried amid calls for unity over his successor</title><link>https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Death toll from Philippines ferry fire climbs to 35, with dozens still missing
+Uganda's King Oyo buried amid calls for unity over his successor
 - Published
-The Philippine Coast Guard says it has recovered 30 bodies from the wreckage of a ferry that caught fire this week, bringing the total death toll to 35.
+Uganda's King Oyo Nyimba Kabamba Iguru Rukidi IV, once the world's youngest reigning monarch, was buried on Saturday, days after a row broke out over who would succeed him.
+Oyo, 34, who had ruled the traditional kingdom of Tooro in western Uganda since the age of three, died last month while undergoing cancer treatment in the US.
+Tooro is one of Uganda's traditional kingdoms. They were abolished in 1967 but restored in the 1990s under President Museveni. Their monarchs are recognised as cultural leaders rather than political rulers.
+Thousands of mourners lined the streets as the king's casket was transported to the royal tombs in Fort Portal where a private ceremony took place.
+Oyo was just a toddler when he was named as Tooro's king and, according to Guinness World Records, was the world's youngest monarch while he reigned.
+TV news presenter Prince Edward Rukidi Kijanangoma, 56, who was named as the next monarch by clan elders, reportedly cast nine coffee beans into Oyo's grave, a ritual signifying the end of one reign and the start of another.
+But days earlier, Oyo's family rejected Kijanangoma, the late monarch's cousin, as Tooro's new king.
+Oyo's sister, Princess Ruth Komuntale, said the late king had left a will, written in 2022, naming his young son as his successor.
+The boy's identity has never been disclosed.
+Meanwhile, his mother, Queen Best Kemigisa, said royal guards had been withdrawn from the palace and soldiers deployed. This, she said, restricted the royal family's movement and their ability to receive visitors, describing it as "house arrest".
+On Saturday, the Archbishop of the Church of Uganda, Stephen Kazimba Mugalu, urged unity.
+"Words spoken in grief can cause pain, division and conflict. It can even destroy the legacy of the king we are mourning," he told mourners.
+Uganda's President Yoweri Museveni also called for the matter to be resolved "and to favour unity over division".
+The clan overseeing the succession defended its choice of Kijanangoma.
+Omusuuga Charles Karumasi, head of the Babiito royal clan, said: "We have done everything in observance of the culture and traditions of Tooro. We must all preserve peace and serenity."
+Related topics
+  - Published28 August</description></item><item><title>Death toll from Philippines ferry fire rises to 76, with more still missing</title><link>https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Death toll from Philippines ferry fire rises to 76, with more still missing
+- Published
+The Philippine Coast Guard says it has recovered 41 bodies from the wreckage of a ferry that caught fire this week, bringing the total death toll to 76.
 More than 130 people were on board the MV June Aster when the blaze erupted on Wednesday as it neared its destination at the tourist hotspot of Coron, after departing from Manila.
-Forty-three people were rescued, with many receiving treatment in hospital, and searches continue for more than 50 people who remain unaccounted for.
-The country's coast guard says more bodies remain on the boat, which they were unable to board until Friday due to toxic fumes and lingering heat.
-In a press conference, coast guard spokesperson Commodore Noemie Cayabyab said most bodies had been retrieved from the sleeping area of the boat, which had been making a 22-hour journey.
-"Agencies are currently undertaking the proper recovery and identification of the remains in accordance with established procedures," Cayabyab said.
-"We recognise the grief of the families affected by this tragic incident."
-Earlier, the coast guard said preliminary interviews with the survivors suggest that the fire started in the cargo hold. Some passengers were not wearing life vests, they noted.
+The coast guard said on Saturday the number of survivors remained 43, with many receiving treatment in hospital, but 13 people remain unaccounted for.
+Recovery of bodies had been hampered due to toxic fumes and lingering heat, which meant authorities were unable to board until Friday.
+Geronimo Tuvilla, an official for the Philippine Coast Guard, said the priority was identifying victims and determining the cause of the blaze.
+Kristine Ablana, a tourism official in Coron, said relatives were being asked to help identify family members through personal items and DNA testing.
+"Once someone is able to verify that this photo or these belongings are indeed those of their relative, they will be asked to provide a DNA sample," she said.
+Coast Guard spokesperson Commodore Noemie Cayabyab said the fire began in a cargo hold before spreading.
+She said survivors had described hearing a loud explosion, "the appearance of smoke and then fire. It spread very quickly". She added that those who had made it off the ship did not have time to put on lifejackets.
 A survivor who was hauled to safety on a rescue boat told the BBC he had heard frantic cries onboard when the fire erupted, and was trampled by panicked people as he tried to escape.
-The Philippines' maritime authority is investigating the circumstances surrounding the incident.
 The ferry, built in 2002, held valid safety certificates and passed an enforcement inspection in March, but investigators are looking into potential manifest discrepancies, cargo loading integrity, and crew emergency response protocols, the Palawan Daily reported.
 The vessel was carrying 117 passengers and 17 crew members.
-Atienza Interisland Ferries, the vessel's operator, has pledged full cooperation with the inquiry.
-"Our hearts remain with the affected families, and we will not rest until all individuals are accounted for," the company said in a statement on Thursday.
-  - Published1 day ago</description></item><item><title>'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders</title><link>https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders
-- Published
-For Ndaikech Ali, who has been traversing the streets of the Kenyan capital eking out a living as a tuk-tuk driver for the past nine years, Nairobi's traffic - not xenophobia - has been his biggest concern.
-During his time in the East African nation, the Burundian says he has always found Kenyans to be friendly and welcoming - that is until last week, when the president ordered a crackdown on foreigners working as traders or operating small-scale businesses.
-"Now they have turned against us," he told the BBC at the Burundian embassy in Nairobi where many have been queuing this week for documents to allow them to travel back home.
-"The threats are many… even from children," he said, adding: "It's a like a dog has been set loose upon us. We have been bitten."
-President William Ruto made his remarks last week when addressing Kenyan traders gathered at state house - in reference to legislation before parliament that seeks to exclude foreign nationals from petty trade and to mandate the local sourcing of certain materials.
-During his speech, he said that all foreign nationals operating small businesses had until 7 September to pack up shop, saying such low-level jobs should be reserved for Kenyans.
-Ali, like others, panicked, saying it seemed the president's announcement had been interpreted by some Kenyans as a signal that foreign nationals were no longer welcome in the country.
-"We face harassment and can't work," he says. "If our work is stopped, we lose the income that enables us to pay rent and buy food. When those jobs are taken away, the only option left is to return home."
-Now he's gone, who will help me pay school fees"
-Other Burundians and some other foreign nationals have rushed to border crossing points to leave the country, with reports suggesting that a number have ended up stranded there.
-Some couples fear they will be forced to separate - and some families have already been divided.
-"I have been here from 2019," said a Burundian man, who identified himself only as Prosper and who has a child with a Kenyan woman.
-"When I heard the announcement, it was very painful because when I go, I'm forced to leave my family... and I love my family," he told the BBC.
-In Nairobi's low-income neighbourhood of Majengo, Kenyan Grace Wamaitha said her Burundian husband had already gone - leaving the day after the president's 3 September directive.
-She is distraught as she has been left trying to feed their five children - and has taken on extra work washing clothes.
-"Now he's gone, who will help me pay school fees? I don't know what to do. Let them come back," she told the BBC.
-In Nairobi and other major towns, migrants from the region can be found working in barber shops and salons, construction, operating motorbike taxis and street vending, as well as selling clothes, food and household goods.
-Some have fled conflicts or economic hardship at home, while others have moved to Kenya in search of better opportunities. Within the East African Community (EAC), a regional bloc made up of eight countries, including Burundi and Kenya, the relative free movement of people is allowed - but employment and long-term residence do require permits.
-Kenyan law also recognises the right of refugees to work and operate businesses, although they are also required to obtain the appropriate documentation.
-Filmon Eyob, a co-ordinator within Nairobi's Eritrean community, agrees with concerns that the crackdown order will be used as pretext to harass foreigners.
-He told the BBC that while many Kenyans had been supportive and welcoming, some Eritreans and Ethiopians had closed their businesses and stayed at home over the last week as a precaution.
-The president's remarks also sparked a diplomatic row, with the Burundian foreign affairs minister warning that "hate speech against Burundi" could have repercussions for Kenyans abroad.
-The authorities in Kenya have struggled to contain the fallout - and as the matter came to a head, Kenyan foreign affairs official Korir Sing'Oei visited and apologised to Burundians at the embassy this week, assuring them of protection from violence.
-Critics argue that Ruto's remarks were a populist move that risked stoking xenophobia, although the government has denied this.
-Since then, a series of official statements have sought to clarify the directive.
-The government has now given a 90-day window for undocumented foreign nationals running small business to register and comply with local laws. During the process, those undergoing registration will be presumed to be living legally in Kenya.
-Yet observers and those affected argue that it did not have to be this way.
-Academic Hesbon Owilla told the BBC the president's comments were bound to be misinterpreted, especially by people who did not have the right documentation.
-He says that while the proposed policy is good for Kenya and in line with global migration protocols, the communication about it ought to have been more diplomatic.
-For those not in the audience, Owilla says people interpreted the president words as saying: "We are kicking these guys out."
-The president did not stop at small-scale traders. A day later, he ordered India's Tata Chemicals to leave the country, saying the company had not provided sufficient benefits to the local Maasai community in Kajiado county.
-Tata has been mining soda ash for years in Lake Magadi, a vast area often covered by a whitish salt crust. The lake's extreme briny environment sustains algae blooms that attract flamboyances of pink flamingos that thrive in the area.
-Mining operations began at the lake in 1911 under a British colonial arrangement that is said to have remained largely intact, despite long-running land and resource disputes pitting the company and its predecessors against community and the government.
-Economist Odhiambo Ramogi argues that the move to restrict foreign nationals from businesses is too broad - and could do with finessing.
-He points out that Kenya hosts hundreds of thousands of refugees as well as other migrants, mostly from the EAC region, as well as other international investors.
-Ramogi says that Ruto's intention seemed to go beyond "just protecting jobs for Kenyans".
-The president's remarks have prompted a wave of support for foreign nationals, including by civil society groups and ordinary Kenyans who have criticised his approach.
-In the wake of the criticism, Ruto, who is up for re-election next year, has sought to counter the backlash.
-"Kenya will remain an open, secure and welcoming country, protecting opportunities for its citizens, safeguarding the rights of all persons lawfully within its borders," a statement by his spokesman said.
-"Kenya's commitment to the East African Community of the African continent remains firm."
-Ramogi says that in the end, it is Kenya that stands to lose when citizens of neighbouring countries are targeted.
-He points out that Kenya earned $56m (£41m) in exports to Burundi last year, adding that the country would still benefit by allowing competition, as "locking out aliens simply means you don't want a competitive economy that gets to grow a lot faster".
-"Now, if you got $56m out of a country, why are you worried about a hawker who's just trying to make, say, $200 in a month?
-"It absolutely makes no sense what the president has done."
-For Nairobi resident Lima Kabura, whose husband is Tanzanian, the president's remarks were just too hasty. She says he should have first established those who were in the country illegally.
-"When they are forced out, I'm left with no work, no business and no husband," she said.
-Additional reporting by Ahmed Bahajj
-You may also be interested in:
-- Kenya's chai lovers are not happy as the nation's cows run dry 
-  - Published4 September
-- 'We live in fear' - forced expulsions taint Kenya's safe haven image 
-  - Published7 November 2024
-Go to BBCAfrica.com, external for more news from the African continent.
-Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external</description></item><item><title>Passenger train derails in France leaving at least 44 injured</title><link>https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Passenger train derails in France leaving at least 44 injured
-- Published
-At least 44 people have been injured, including one seriously, after a passenger train derailed in northern France, local officials have said.
-An 18-year-old woman was airlifted in critical condition by helicopter to hospital.
-The officials said 186 passengers were on board the train that was operating between Rouen and Caen in Normandy.
-Transport Minister Philippe Tabarot said 140 firefighters and other emergency teams were deployed to the scene of the crash on Friday evening near Cléon, just south of Rouen.
-The cause of the crash was not immediately known, but reports in the French media suggest it could have been an act of sabotage. The authorities have not commented on the issue.
-Local authorities activated a mass-casualty response plan after the crash shortly before 20:00 (18:00 GMT).
-"Suddenly there were a few jolts, and then after about three seconds it got stronger and stronger," Louis, a passenger on the train, told ICI Normandie radio.
-"I couldn't stay in my seat any more. The windows partially shattered, the stones from the track came into the carriage. It was really shocking. I'm still shaking," he added.
-Photographs later emerged showing passengers leaving the train, three of whose carriages had overturned, according to French media.</description></item><item><title>Record heatwaves in France set to make champagne stronger</title><link>https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&amp;at_campaign=rss
+Atienza Interisland Ferries, the vessel's operator, has pledged full co-operation with the inquiry.
+  - Published1 day ago</description></item><item><title>Record heatwaves in France set to make champagne stronger</title><link>https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -258,7 +283,28 @@ Climate change is driving up global average temperatures, making heatwaves more 
 It has been felt acutely in Europe, which is the fastest warming continent, heating up twice as fast as the global average, according to the Copernicus climate service., external
   - Published1 day ago
   - Published5 November 2025
-  - Published4 September</description></item><item><title>Arrest made over the death of black woman found hanged from tree in Mississippi</title><link>https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&amp;at_campaign=rss
+  - Published4 September</description></item><item><title>Bulgaria investigates fire at weapons  site that owner calls sabotage</title><link>https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Bulgaria investigates fire at weapons site that owner calls sabotage
+- Published
+Bulgaria is investigating the cause of an overnight fire at an ammunition storage site run by a private defence company.
+Interior Minister Ivan Demerdzhiev said the authorities "are not ruling out outside interference" in the incident in central Bulgaria. No-one was injured in the blaze that triggered a series of explosions.
+EMCO company, whose weapons are used by Ukraine against invading Russian forces, said the fire at its site was sabotage and that human error was "completely ruled out". It did not say who might be responsible.
+The latest incident follows last month's fire and blasts at another EMCO ammunition warehouse in the area.
+In a statement, EMCO said the storage facility that was burned this time - near the central village of Gorni Varpishta, some 170km (106 miles) east of the capital Sofia - had not been used for months and was inspected just 20 days ago, when full compliance with all regulations was confirmed.
+It cited a number of similar incidents at Bulgarian defence firms since 2011, saying that the latest was "no exception to the series of acts of sabotage against the Bulgarian defence industry".
+"As the EU and Nato member state most severely affected by such actions, Bulgaria must join the collective effort to prevent and neutralise these attacks," EMCO said.
+The firm is run by Bulgarian arms dealer Emilian Gebrev, who Bulgarian prosecutors allege has already been targeted by Russian agents.
+This includes a poisoning attempt in 2015 of Gebrev, his son and another company employee - three Russian nationals were later charged in absentia for attempted murder.
+Bulgaria is a major weapons supplier to Ukraine, as it continues to repel a full-scale Russian invasion launched in 2022.
+And although Sofia has recently halted state-owned arms supplies to Ukraine, Bulgarian private defence companies continue such transfers.
+Russia appears to have recently escalated its sabotage campaign across Europe.
+Last week, Germany said Russia was responsible for August's drone attack at Leipzig's airport - a claim denied by Moscow as "absurd".
+There have also been a number of suspicious fires at defence facilities from Italy to Estonia, with some of the affected countries blaming Russia.
+Related topics
+  - Published2 September</description></item><item><title>Arrest made over the death of black woman found hanged from tree in Mississippi</title><link>https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -352,7 +398,7 @@ He sought to link the "war on terror" that followed 9/11, which sparked years of
 Trump told the crowd that the Islamic Republic "will never, ever have a nuclear weapon".
 Commemorations were also held in Shanksville, Pennsylvania, where Flight 93 crashed after passengers fought back against the hijackers.
 - Gen Zs recall first learning of 'deeply harrowing, terrifying' 9/11 
-  - Published21 hours ago
+  - Published1 day ago
 - 9/11: What happened and how many people died in September 11 attacks? 
   - Published2 days ago
 Janice Brooks had only moved to New York a couple of weeks before 9/11 to begin what she calls "the biggest adventure", working for a company on the 84th floor of the South Tower of the World Trade Center.
@@ -380,44 +426,66 @@ In Milan, a group of Italian and US firefighters participated in a ceremonial st
 Dressed in their uniforms and carrying equipment, they climbed 110 floors up and down the Galfa Tower, in remembrance of the number of storeys on each of the Twin Towers.
 Related topics
   - Published3 days ago
-  - Published1 day ago</description></item><item><title>Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane</title><link>https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&amp;at_campaign=rss
+  - Published1 day ago</description></item><item><title>'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders</title><link>https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane
+'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders
 - Published
-Yemen's Houthis have claimed a major advance on the western Red Sea coast, consolidating their grip on the key international shipping route.
-The Iran-backed group seized Perim Island at the mouth of the waterway in the Bab al-Mandab Strait, a source from Yemen's internationally recognised government told the BBC.
-It comes a day after the Houthis captured the strategic port city of Mokha from Saudi-backed pro-government forces, according to military sources. A Yemeni military official told the AFP news agency the Houthis now control the entire coastline.
-The Houthis earlier said they posed no threat to international shipping but reiterated their threat to target vessels from Saudi Arabia.
-Saudi Crown Prince Mohammed bin Salman, the country's de facto ruler, has personally pressed US President Donald Trump to take military action against the Houthis during their rapid advance, two sources familiar with the matter told CBS News - the BBC's media partner in North America.
-Trump has so far declined to involve the US military directly, offering instead to assist with intelligence and targeting support, the sources said.
-A senior Trump administration official later told the BBC: "We are in continuous dialogue with Saudi Arabia and the Republic of Yemen government regarding regional stability."
-On Friday, Yemeni pro-government forces withdrew from Perim (also known as Mayyun).
-Witnesses and news agencies reported that Houthi forces moved on to the island.
-The Houthis later issued a statement, saying that their military operation to expel Saudi-backed forces had been a "success" and that "maritime navigation is safe for all companies except for Saudi vessels".
-Houthi military spokesman Yahya Sarea said the "large-scale" military operation was launched on 3 September due to Saudi Arabia's "blatant aggression" against "our dear people".
-Sarea also said the Houthis had expelled "Saudi enemy" forces from six districts in the Taiz and Hodeidah regions, claiming that hundreds of troops had been killed, wounded or captured.
-The Houthi statement, however, did not mention Perim Island.
-Saudi Arabia has not publicly commented on the latest developments.
-Perim Island sits at the narrowest point of the Bab al-Mandab Strait, which has become increasingly important following the effective closure of the Strait of Hormuz - another crucial waterway - in the conflict between the US and Iran.
-Saudi Arabia has been relying on the Red Sea and the Bab al-Mandab Strait for shipping oil to customers in Asia.
-The escalation of the conflict between the Houthis, Yemen's government and Saudi Arabia has contributed to a surge in oil prices.
-Hundreds of people have reportedly been killed and thousands displaced in Yemen since the Houthis launched an offensive in the south-west a week ago.
-A Saudi-led coalition has also carried out air strikes on Houthi-controlled areas in western Yemen in support of the pro-government forces, and the Houthis have launched missiles and drones at cities and oil facilities in southern Saudi Arabia.
-The Saudi foreign affairs ministry said on Friday that drones from Iraq had targeted the country's East-West oil pipeline, forcing it to be closed as a "precautionary measure" and injuring several people.
-Iraq's government condemned the attack and its prime minister has launched an investigation.
-In a statement, the prime minister's office said the operations commander in the Maysan governorate - a province which borders Iran - had been removed from his post following confirmation the drone attack had originated from that region.
-Saudi Arabia's foreign ministry said that, following a call from Iraq's prime minister, it had chosen not to respond to the attacks at this stage.
-- Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war 
-  - Published19 hours ago
-- Oil hits $100 a barrel for first time since July after US and Houthi strikes 
-  - Published2 days ago
-At least 46,000 people have been displaced in Yemen since fighting escalated with Yemen's government and Saudi Arabia, according to the International Organization for Migration (IOM).
-On Friday, the IOM said the number was "alarmingly rising by the hour".
-Amy Pope, IOM director general, said: "Families are being forced to flee for the second or third time in this conflict, with almost nothing left."
-The Houthis ousted the internationally-recognised government in 2015, triggering Saudi military intervention in the civil war.
-The group currently control much of Yemen, including the capital Sanaa. A truce that had largely held for more than four years effectively collapsed in July.</description></item><item><title>Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war</title><link>https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&amp;at_campaign=rss
+For Ndaikech Ali, who has been traversing the streets of the Kenyan capital eking out a living as a tuk-tuk driver for the past nine years, Nairobi's traffic - not xenophobia - has been his biggest concern.
+During his time in the East African nation, the Burundian says he has always found Kenyans to be friendly and welcoming - that is until last week, when the president ordered a crackdown on foreigners working as traders or operating small-scale businesses.
+"Now they have turned against us," he told the BBC at the Burundian embassy in Nairobi where many have been queuing this week for documents to allow them to travel back home.
+"The threats are many… even from children," he said, adding: "It's a like a dog has been set loose upon us. We have been bitten."
+President William Ruto made his remarks last week when addressing Kenyan traders gathered at state house - in reference to legislation before parliament that seeks to exclude foreign nationals from petty trade and to mandate the local sourcing of certain materials.
+During his speech, he said that all foreign nationals operating small businesses had until 7 September to pack up shop, saying such low-level jobs should be reserved for Kenyans.
+Ali, like others, panicked, saying it seemed the president's announcement had been interpreted by some Kenyans as a signal that foreign nationals were no longer welcome in the country.
+"We face harassment and can't work," he says. "If our work is stopped, we lose the income that enables us to pay rent and buy food. When those jobs are taken away, the only option left is to return home."
+Now he's gone, who will help me pay school fees"
+Other Burundians and some other foreign nationals have rushed to border crossing points to leave the country, with reports suggesting that a number have ended up stranded there.
+Some couples fear they will be forced to separate - and some families have already been divided.
+"I have been here from 2019," said a Burundian man, who identified himself only as Prosper and who has a child with a Kenyan woman.
+"When I heard the announcement, it was very painful because when I go, I'm forced to leave my family... and I love my family," he told the BBC.
+In Nairobi's low-income neighbourhood of Majengo, Kenyan Grace Wamaitha said her Burundian husband had already gone - leaving the day after the president's 3 September directive.
+She is distraught as she has been left trying to feed their five children - and has taken on extra work washing clothes.
+"Now he's gone, who will help me pay school fees? I don't know what to do. Let them come back," she told the BBC.
+In Nairobi and other major towns, migrants from the region can be found working in barber shops and salons, construction, operating motorbike taxis and street vending, as well as selling clothes, food and household goods.
+Some have fled conflicts or economic hardship at home, while others have moved to Kenya in search of better opportunities. Within the East African Community (EAC), a regional bloc made up of eight countries, including Burundi and Kenya, the relative free movement of people is allowed - but employment and long-term residence do require permits.
+Kenyan law also recognises the right of refugees to work and operate businesses, although they are also required to obtain the appropriate documentation.
+Filmon Eyob, a co-ordinator within Nairobi's Eritrean community, agrees with concerns that the crackdown order will be used as pretext to harass foreigners.
+He told the BBC that while many Kenyans had been supportive and welcoming, some Eritreans and Ethiopians had closed their businesses and stayed at home over the last week as a precaution.
+The president's remarks also sparked a diplomatic row, with the Burundian foreign affairs minister warning that "hate speech against Burundi" could have repercussions for Kenyans abroad.
+The authorities in Kenya have struggled to contain the fallout - and as the matter came to a head, Kenyan foreign affairs official Korir Sing'Oei visited and apologised to Burundians at the embassy this week, assuring them of protection from violence.
+Critics argue that Ruto's remarks were a populist move that risked stoking xenophobia, although the government has denied this.
+Since then, a series of official statements have sought to clarify the directive.
+The government has now given a 90-day window for undocumented foreign nationals running small business to register and comply with local laws. During the process, those undergoing registration will be presumed to be living legally in Kenya.
+Yet observers and those affected argue that it did not have to be this way.
+Academic Hesbon Owilla told the BBC the president's comments were bound to be misinterpreted, especially by people who did not have the right documentation.
+He says that while the proposed policy is good for Kenya and in line with global migration protocols, the communication about it ought to have been more diplomatic.
+For those not in the audience, Owilla says people interpreted the president words as saying: "We are kicking these guys out."
+The president did not stop at small-scale traders. A day later, he ordered India's Tata Chemicals to leave the country, saying the company had not provided sufficient benefits to the local Maasai community in Kajiado county.
+Tata has been mining soda ash for years in Lake Magadi, a vast area often covered by a whitish salt crust. The lake's extreme briny environment sustains algae blooms that attract flamboyances of pink flamingos that thrive in the area.
+Mining operations began at the lake in 1911 under a British colonial arrangement that is said to have remained largely intact, despite long-running land and resource disputes pitting the company and its predecessors against community and the government.
+Economist Odhiambo Ramogi argues that the move to restrict foreign nationals from businesses is too broad - and could do with finessing.
+He points out that Kenya hosts hundreds of thousands of refugees as well as other migrants, mostly from the EAC region, as well as other international investors.
+Ramogi says that Ruto's intention seemed to go beyond "just protecting jobs for Kenyans".
+The president's remarks have prompted a wave of support for foreign nationals, including by civil society groups and ordinary Kenyans who have criticised his approach.
+In the wake of the criticism, Ruto, who is up for re-election next year, has sought to counter the backlash.
+"Kenya will remain an open, secure and welcoming country, protecting opportunities for its citizens, safeguarding the rights of all persons lawfully within its borders," a statement by his spokesman said.
+"Kenya's commitment to the East African Community of the African continent remains firm."
+Ramogi says that in the end, it is Kenya that stands to lose when citizens of neighbouring countries are targeted.
+He points out that Kenya earned $56m (£41m) in exports to Burundi last year, adding that the country would still benefit by allowing competition, as "locking out aliens simply means you don't want a competitive economy that gets to grow a lot faster".
+"Now, if you got $56m out of a country, why are you worried about a hawker who's just trying to make, say, $200 in a month?
+"It absolutely makes no sense what the president has done."
+For Nairobi resident Lima Kabura, whose husband is Tanzanian, the president's remarks were just too hasty. She says he should have first established those who were in the country illegally.
+"When they are forced out, I'm left with no work, no business and no husband," she said.
+Additional reporting by Ahmed Bahajj
+You may also be interested in:
+- Kenya's chai lovers are not happy as the nation's cows run dry 
+  - Published4 September
+- 'We live in fear' - forced expulsions taint Kenya's safe haven image 
+  - Published7 November 2024
+Go to BBCAfrica.com, external for more news from the African continent.
+Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external</description></item><item><title>Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war</title><link>https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -429,9 +497,9 @@ According to some estimates, the Iranian-backed rebels have captured as much as 
 It's the group's most impressive military coup for several years, proving that despite a civil war that has lasted 12 years, devastating Saudi air raids and attacks by American, Israeli and British forces, the Houthis remain a force to be reckoned with.
 With their opponents stunned and demoralised, it's unlikely the Houthis will be dislodged any time soon.
 - Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane 
-  - Published16 hours ago
+  - Published21 hours ago
 - Oil hits $100 a barrel for first time since July after US and Houthi strikes 
-  - Published2 days ago
+  - Published3 days ago
 "Now that they are there, they're going to be entrenched," Hisham al-Omeisi, senior analyst at the Brussels-based European Institute of Peace, told the BBC. "And it's going to be a lot more costly to push them out."
 Of course, the Houthis are not alone. They enjoy the backing of Iran, support that has become even more important for Tehran in the wake of the setbacks and defeats experienced by other parts of its so-called "Axis of Resistance" – Lebanese Hezbollah, Hamas in Gaza and the Assad regime in Syria.
 "So they redirected their support to the Houthis," al-Omeisi said. "And of course they need that support."
@@ -634,47 +702,18 @@ Sack said there was "biological plausibility" to think such a treatment might wo
 Sack said the debate over glutathione "shifts the emphasis away from things that we know work" like giving firefighters access to good personal protective equipment.
 Greg Fonts, a fire captain in West Sacramento and vice-president of his local IAFF chapter, said there is a growing understanding of the importance of firefighter health. Gone are the days of not decontaminating equipment, leaving the ashes on helmets and jackets, in order to boast of past infernos.
 "When I got the fire service in 2000, I would say that was the attitude was cancer was just part of the job."
-"Culture has changed drastically," said Fonts, who also has been treated with glutathione. "Younger firefighters are taking health way more seriously."</description></item><item><title>Gen Zs recall first learning of 'deeply harrowing, terrifying' 9/11</title><link>https://www.bbc.co.uk/news/articles/cgmrzzkjywlo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cgmrzzkjywlo?at_medium=RSS&amp;at_campaign=rss
+"Culture has changed drastically," said Fonts, who also has been treated with glutathione. "Younger firefighters are taking health way more seriously."</description></item><item><title>Céline Dion fans prepare for comeback concert in Paris</title><link>https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Gen Zs recall first learning of 'deeply harrowing, terrifying' 9/11
-- Published
-Most Americans remember exactly what they were doing and how they felt the day four airplanes were hijacked and crashed into the World Trade Center, the Pentagon, and a field in Pennsylvania.
-But now, 25 years on from the 11 September 2001 attacks, there is a new generation, too young to remember the day that permanently altered much of American life.
-Members of Generation Z, born between 1997 and 2012, were told - well after the fact - about the event that undoubtedly reshaped their futures.
-They carry distinct memories not from the day itself, but from the moment years later that they learned about the attacks.
-'Hard to explain what a terrorist is to a child'
-Avery Black, 20, a journalism student at the University of South Carolina, remembers hearing about 9/11 for the first time in elementary school, then going home and asking her mother about it, she told the BBC.
-"She just started telling me where she was the day it happened, and just broke down in tears, explaining to me about all the firefighters that went in and never came out," Black recalled.
-As a child, Black didn't quite grasp the day's gravity, but for her, certain details still stand out.
-She remembers, most distinctly, the "falling man" – a famous image of a man plummeting, upside down, from the North Tower. A Dallas, Texas native, she also recalls teachers showing the video of then-President George W. Bush first learning about the attacks at an elementary school event.
-For Annie Erickson, 26, who grew up in North Carolina, personal anecdotes, more than school or reports, created her first memories of 9/11.
-"My mother grew up in New York City, so I remember my mom telling me about 9/11 and talking about how someone that lived in her building, who she was friends with, passed away in the towers," Erickson said.
-She also was struck when learning about 9/11 at school that it was one of the few historical events teachers could personalise with their own memories.
-Currently, there's no national requirement for US schools to teach students about the attacks, and the expectations vary widely by state. Twenty-five states require or expect public schools to teach the events of 9/11, while 13 make 9/11 instruction optional, according to a recent analysis by The Associated Press.
-But not every state that requires it specifies a curriculum.
-Allegra Tashjian, 28, who grew up in Wisconsin, said her teacher explained in first or second grade that it was a very important, sombre day and asked if anyone knew why. After a student responded that it was the day planes hit the towers in New York, Tashjian wondered why she had never heard of it before.
-Later, at home, she recalls asking her mom if she remembered planes crashing in New York. "I remember she kind of paused folding her laundry and was like, 'um no, I don't think I've ever heard anything about that,'" the PhD student said.
-"For whatever reason at that point, I guess she really didn't want to talk about it."
-Tashjian, Erickson, Black and several other Gen Zs all told the BBC that they remember hearing a few details about the attacks in school and from their families, but only through their own research did they learn in depth what actually happened that day.
-Black didn't realise as a child who was behind the attack. "That was the part that I wasn't really taught until I did my own research. It's really hard to explain what a terrorist is to a child."
-"It really took me until I was like 13 or 14 to sit down and watch news coverage of 9/11, and really process this is a deeply harrowing, terrifying event," said Jack Coyne, 28, a Connecticut native who lives in Boston.
-Now, as an adult, Coyne said he wishes people had a more nuanced perspective, recognizing 9/11 as a tragedy that also fuelled Islamophobia in the US and led to further deaths in ensuing wars.
-Professor David Schanzer, who teaches "9/11 &amp; Its Aftermath" at Duke University, wrote this week in a campus magazine commentary that there's still strong interest generations later. His course is full, with dozens on a waitlist.
-"Ten years ago, I thought student interest was ebbing and I would need to find something else to teach about," he wrote.
-But current world events, he said, only made young people more curious about what happened 25 years ago on 9/11.
-"If you want to understand what has gone wrong over the past couple of decades it makes sense to learn about 9/11, the first global catastrophe of the 21st century (the others being the Great Recession and the COVID-19 pandemic)," he wrote.
-Different generation, different approach
-Several Gen Zs told the BBC that, despite gaining knowledge about the tragic day, it is still common among peers to actively lighten conversations about 9/11.
-Thomas Schwartz, a professor of history and political science at Vanderbilt University, said in a recent class discussion, his seniors - born in 2004 or 2005 - remarked on their generation's tendency to "deflect and joke about 9/11".
-He added that "students from the Northeast, who had parents with personal memories of 9/11, were more careful about this, remarking on the sensitivities in their family about the subject."
-Erickson said many Gen Zs tend to downplay monumental events or tragedies because either they "can't fully understand their impact" or they're using humour as a coping mechanism "to not have to think too deeply about some of the larger anxieties in our world".
-Even now as an adult, Tashjian said it's still difficult for her to fathom large numbers of people dying in any event, and she still gravitates toward individual anecdotes to help her understand 9/11's toll.
-Schanzer contends that learning about 9/11 and understanding its impact remains crucial for younger generations without first-hand knowledge.
-"But like most significant historical events, one can't fully understand our world today unless you understand why 9/11 occurred and how the United States responded to it," he said.
+Céline Dion fans prepare for comeback concert in Paris
+Céline Dion greeted fans today as she left her hotel, hours before she kicked off her comeback concert in Paris.
+The Canadian singer returns to the stage on Saturday for her first full concert in six years, to open a sell-out Paris residency after a battle with a rare neurological disorder put a pause in her career.
+Some fans arrived as early as 06:00 to get a spot in front of LeRoyal Monceau hotel to catch a glimpse of the star before she left.
+She is one of the best-selling music artists of all time and is due to perform a series of 26 concerts over the next eight months.
+Read more: Céline Dion announces comeback shows: 'I'm so ready for this'
 Related topics
-  - Published3 days ago</description></item><item><title>How global trade and oil prices could be hit by Houthi advance</title><link>https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&amp;at_campaign=rss
+- MusicUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item><item><title>How global trade and oil prices could be hit by Houthi advance</title><link>https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -735,14 +774,4 @@ Related topics
 - September 11 attacksUpdates from your News topics will appear in My News and in a collection on the News homepage.
 - New York CityUpdates from your News topics will appear in My News and in a collection on the News homepage.
 - United StatesUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- DronesUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item><item><title>Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence</title><link>https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence
-US Senator Bernie Sanders recently said he intends to introduce legislation banning AI superintelligence and propose a sort of sovereign wealth fund in which the US would take a 50% stake in AI companies.
-Sanders, who is an independent but often collaborates with his Democratic lawmaker colleagues, would need to pass both houses of Congress - currently held by Republicans - and be signed by President Donald Trump to become law. Trump has championed US government investment in AI companies, to "create almost a partnership with the American public".
-The US senator spoke to BBC Newsnight about his concerns about artificial intelligence overtaking humanity.
-Related topics
-- Artificial intelligenceUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- Bernie SandersUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item></channel></rss>
+- DronesUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item></channel></rss>
