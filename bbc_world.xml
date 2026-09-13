@@ -1,90 +1,147 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>BBC World News (x3 Direct)</title><link>https://github.com/zukuxi/x3-bbc-news</link><description>BBC 全文内嵌版，专为纯粹阅读打造</description><item><title>Anthropic boss Dario Amodei calls for AI development to slow down</title><link>https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss
+<rss version="2.0"><channel><title>BBC World News (x3 Direct)</title><link>https://github.com/zukuxi/x3-bbc-news</link><description>BBC 全文内嵌版，专为纯粹阅读打造</description><item><title>AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC</title><link>https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Anthropic boss Dario Amodei calls for AI development to slow down
+AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC
 - Published
-The head of AI company Anthropic has called for the pace of development of artificial intelligence models to slow down and to be closely monitored.
-Dario Amodei wrote in an online essay that developing AI was not in question, but that the risks associated with it were "serious" and that companies and governments must be given time to address them.
-The bosses of two rival AI firms, Sam Altman of OpenAI and Elon Musk, have both said they agree with Amodei.
-There have been growing concerns recently about the technology's potential risks. An AI researcher who left Anthropic told the BBC that "if we don't slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future".
-Jacob Coxon told Laura Kuenssberg that people working at AI companies were "genuinely frightened... genuinely concerned about the fate of humanity in the next two years".
-"It's not at all an exaggeration to say that the people who are involved with both founding these companies and building the tech believe there is a possibility of human extinction," Coxon said.
-In Amodei's essay, called We Must Pace the Frontier and published on Saturday, he proposed a three-point plan that included independent monitoring of AI models as they are developed, industry-wide regulation and global regulation.
-As his proposal made the rounds, even competitors voiced support for the idea of third-party monitors who could evaluate the safety of models as they are developed.
-"I agree with Dario that we need to pace the frontier," wrote OpenAI CEO Sam Altman on X. He called independent evaluators "a great idea".
-Altman sounded similar safety concerns in a new interview, telling Fortune magazine that standards were "not at a place" to push AI capabilities much further.
-He added that he believed AI beyond human control was "absolutely" possible.
-Musk, meanwhile, who founded Grok producer xAI, said the Anthropic boss was "right".
-The warnings have prompted calls to action, but US President Donald Trump has so far rejected such fears, saying on Thursday he was concerned that "if we don't win AI, we're going to be put in a very bad position".
-Cyber-security concerns have grown as new models have exhibited more and more powerful capabilities.
-Anthropic withheld its Mythos model from public use when it was announced in April that it could independently escape the testing environment, known as the sandbox.
-In the run-up to the release of its most recent Astra model, OpenAI cited cyber-security concerns as it explained it had paused certain aspects of the model's development.
-The OpenAI agents had "essentially acted as a fanatically devoted collective", Amodei said. OpenAI has said it was slowing down training of certain advanced AI models and tools as a result.
-Safety has also taken centre stage in the rivalry between Anthropic and OpenAI.
-Amodei, who had previously worked as a vice-president at OpenAI, has said he co-founded Anthropic in 2021 so he could build safer and more trusted AI models.
-He pointed out in his essay that AI had advanced "drastically faster" including its "ability to build the next generation of AI" - and mentioned an incident involving rival OpenAI which has revealed that agents had hacked, external targets they were not asked to attack in July.
-Amodei called for "building AI at a balanced rate that aims to ensure its safety while still achieving its benefits".
-This would not mean "halting model training or technical progress, but ensuring companies take adequate time to align and safeguard their models, and for third party evaluators to confirm this".
-He was committing Anthropic to this "unilaterally" - as well as calling on governments "to require other frontier companies to match".
-Amodei said he recognised that regulation might not be able to keep up with the pace of AI, and therefore called on AI companies to "voluntarily work together to set standard" in parallel with those regulation.
-The Anthropic CEO went on to address the impact that a slowdown would have on the industry and competition with leading developers worldwide, particularly China.
-"I believe that if slowing down bought us even an extra year or two before models reach critical levels of capability, and we used that time to advance alignment, we could greatly reduce the risk that something goes seriously wrong," Amodei said.
-This would have to be done in a co-ordinated manner "without sacrificing commercial advantage or the United States' lead in AI". Any slowdown would have to be limited, he said, to avoid allowing China to pull ahead.
-He urged the US government to take measures so that US companies' AI chips could not be sold to China - or the technology shared with authoritarian countries.
-His former employee, Jacob Coxon, told the BBC, however, that the initiative to slow down must go beyond the US - "there'll need to be some sort of co-ordinated slowdown with China if we're going to avoid a race at an international scale".
-Amodei's post has prompted a wide range of responses.
-Clement Delangue, the CEO of the AI platform Hugging Face, said he was launching a new project called the Open Alignment Initiative, adding that he wanted to be among "embedded evaluators" that Amodei proposed could be part of a solution.
-Hugging Face was hacked by OpenAI agents earlier this year, prompting outcry over AI safety.
-"Let's make AI safer by making it more transparent," Delangue wrote on X.
-Musk, who also voices support for Amodei, once called Anthropic "evil" but has changed his tone since signing a $15bn (£11bn) deal to sell computing capacity to Anthropic in May.
-However, some observers suggested that Amodei's post was less about safety than about consolidating control over AI technology.
-"Dario makes the case to stop open source and concentrate enormous technological and economic power with Anthropic," wrote Chamath Palihapitiya, an investor and co-host of the tech podcast "All-In".
-Notions of slowing down or even pausing AI development have long been met with cynicism in certain corners of Silicon Valley, with critics accusing leading AI developers of hyping their technology as a marketing ploy.
-Anthropic and OpenAI are both reportedly preparing for potentially record-setting initial public offerings.
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
+An artificial intelligence researcher who quit AI firm Anthropic has said people working on the technology were "genuinely frightened" about the speed of its advancements and what it could mean for humanity.
+"I believe that if we don't slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future," he said.
+Jacob Coxon was speaking to the BBC after his resignation post on the dangers of AI went viral on a backdrop of growing safety concerns about the industry.
+The 27-year-old's former boss, Anthropic head Dario Amodei, recently called for AI development to slow down - though some have questioned the motivations behind this.
+The bosses of two rival AI firms, Sam Altman of OpenAI and Elon Musk of xAI, have both said they agree with Amodei's proposal for industry-wide deceleration and regulation, as well as independent monitoring of AI model development.
+Amodei wrote in an essay on Saturday that developing the technology was not in question, but the risks associated with it were "serious", and that companies and governments must be given time to address them.
+Coxon – who worked at OpenAI before joining Anthropic – welcomed the suggestion of a slowdown but said it would need to be co-ordinated with China to avoid "a race at an international scale".
+"The people who work at these companies are completely serious when they ask for regulation because they find themselves trapped in a race. And they're scared of the outcomes of that race," he told Sunday with Laura Kuenssberg.
+- Anthropic boss Dario Amodei calls for AI development to slow down 
+  - Published18 hours ago
+The hardest question to answer, according to Coxon, was what an AI apocalypse would look like.
+One of the risks outlined in Amodei's comments was of a swarm of bots acting like a supercomputer that could take over the internet.
+Coxon said this scenario could be realistic in six months to a year.
+In response to Coxon's departure, an Anthropic spokesperson told BBC News: "We have always been transparent that AI will bring both enormous benefits and unprecedented risks.
+"To address these risks, we continue to build models with some of the strongest safeguards in the industry."
+The firm has been a pioneer in studying how AI models work, the spokesperson added. It was the first to publish a framework for mitigating the risks posed by their development - and it also "aggressively" tests its models and publishes the findings to aid scrutiny and prevent incidents of "AI misalignment".
+"This work is also why we believe the world would benefit from the industry adopting a lawful, verifiable way to work together to pace how we release powerful models," they said.
+Coxon said his peers feared the danger could even arrive in the next two years.
+He said staff at AI firms were "planning what to do with their lives and thinking about the impacts of their work", while some were "considering buying land somewhere because they're so scared of the instability as a result of rapid AI progress".
+"They all keep this in their head on a daily basis while working on the technology."
+But Coxon did have some optimism about the future of AI, telling the BBC that the people researching the technology "genuinely want to see the upside" of things like "solving diseases and improving everyone's lives".
+Many others in the industry have also voiced their concerns since Coxon's social media post, including Anthropic scientist Evan Hubinger.
+"We really do earnestly believe AI could kill all humans! I personally think it is &gt;10% within the next decade," Hubinger said.
+Computer scientist and Nobel Prize winner Geoffrey Hinton, known as the "Godfather of AI", told the BBC on Friday that a 10% chance of AI killing all humans was "not unreasonable", external.
+Meanwhile, Marc Warner, chief executive of AI safety firm Faculty, told the BBC's The World This Weekend that it was "extremely hard to place a probability" on AI killing all humans.
+"But it's important to recognise that these people are very sincere in what they're saying," he added, noting that the risks surrounding AI have been raised by the heads of several AI firms for years.
+Former Prime Minister Rishi Sunak, who is a paid adviser to Anthropic, wrote in the Sunday Times, external that he too was worried about the risk of AI to humanity despite generally being optimistic.
+- Dramatic insider warnings over AI fall flat with some in Silicon Valley 
+  - Published6 hours ago
+However, some industry figures have suggested comments are overstated or may be designed to generate hype.
+Chief executive of the AI platform Hugging Face, Clement Delangue, said on social media: "Sorry, but asking Jacob [Coxon] about AI extinction risk is like asking your AC guy about climate change. Not saying it's necessarily uninteresting or wrong per se but let's keep things in perspective."
+After Amodei's essay was published, however, Delangue offered to help be a part of the potential solutions the Anthropic boss proposed.
+Grindr chief executive George Arison expressed similar views when talking to the BBC, suggesting Anthropic and others statements were being made to drum up investor support.
+"Because the only way to justify these valuations is to actually claim: 'I'm going to take over every industry and I'm going to take over every job, and my AI is going to be doing all that work,'" he said.
+Jensen Huang, boss on AI chip maker Nvdia, also discussed Coxon's comments at a conference hosted by the investment bank Goldman Sachs last week, multiple people in the group told the BBC. They said he dismissed them as untrue.
+Meanwhile, US President Donald Trump told reporters on Sunday that the US was "leading China in AI... And frankly, I want to keep it that way. Because whoever wins AI wins".
+Other critics say Anthropic has been trying to trigger a regulatory push to block competition, leaving it and OpenAI in a duopoly.
+Anthropic is reportedly preparing for a potentially record-setting initial public offering on the stock market, allowing people to buy shares in its firm.
+OpenAI, which was most recently valued at $852bn (£630bn), had been expected to do the same, but OpenAI's Altman said on Friday this would not happen this year, citing AI safety concerns.
+Related topics
+  - Published2 days ago
+  - Published3 days ago</description></item><item><title>Iran war reshapes Brics ties but also exposes divisions</title><link>https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Iran war reshapes Brics ties but also exposes divisions
+- Published
+This weekend, some of the most powerful people in the world gathered in Delhi around a vast circular table.
+Indian Prime Minister Narendra Modi announced that together, the leaders next to him should increasingly become "rule-shapers", not "rule-takers".
+Among those listening were members of the Brics group, including Chinese President Xi Jinping, Russian President Vladimir Putin, Iran's President Masoud Pezeshkian, Abu Dhabi's Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan and South African President Cyril Ramaphosa.
+These are hardly natural allies. They have histories of border disputes and even military confrontations.
+India and China engaged in a deadly clash along their disputed border in 2020. Iran and the UAE have been on opposing ends of the war in the Middle East, with Tehran launching missiles and drones at its fellow Brics member as the conflict sent shockwaves across global economies.
+The fact that India was able to gather these leaders together in person is a feat in and of itself and testament to its diplomatic reach. The weekend also provided a platform for countries to reassess their relationships in light of the Iran war.
+But agreeing on what a new global order should look like and achieving clear, tangible outcomes was a much harder task, and that tension ran through this weekend's summit.
+A counterweight to Western influence
+For members such as China, Russia and Iran, Brics offers a vehicle to dilute the influence of the US and western Europe.
+But India has been reluctant to cast Brics as an anti-Western bloc. Modi himself said at the summit that the group is "not against anyone".
+That distinction matters for Delhi, which wants to preserve its relationships with nations at odds with each other.
+"There are countries in the grouping which would like it to become anti-western, but it is not that," says Anil Trigunayat, a veteran Indian diplomat and former ambassador. What India has achieved, in his view, is a push for "strategic autonomy in an era of war" and initiatives to "enhance greater collaboration amongst themselves".
+Inside the joint declaration
+The summit succeeded in delivering a joint declaration when divisions among members have rarely been so glaring.
+Twice earlier this year, meetings between Brics ministers had failed to produce a joint statement. This time a consensus was reached, but by side-stepping issues that members sharply disagree on, with few solutions.
+The "New Delhi Declaration" was adopted on the first day of the summit. But what is striking is what it doesn't say.
+On the war in the Middle East, the declaration urges "maximum restraint". It also condemns "attacks on civilian infrastructure and peaceful nuclear facilities" but assigns no blame.
+It reiterates support for a two-state solution, opposes forced displacement of Palestinians or actions that could "legitimise or prolong occupation", framing it carefully around existing UN resolutions.
+It makes no mention at all of Russia's war in Ukraine, a departure from previous Brics declarations.
+There is similar caution on trade. It lists concerns over "indiscriminate rising tariffs" and condemns unilateral sanctions but stops short of naming the US, and is likely to avoid Washington's ire.
+Several Brics members would have been loath to draw President Donald Trump's anger, as he has previously called the group's proposals, including potentially linking central-bank digital currencies for cross-border trade, "anti-American".
+"Not mentioning any country by name, even as they condemned the conflict in the Middle East, bears the hallmark of India," says Praveen Donthi, senior analyst at the International Crisis Group.
+"I was pleasantly surprised that there was a strong reference to tariffs, because India could have wanted to be less direct about it, but perhaps this was a chance to convey their displeasure," he added.
+Beyond the summit
+In the wake of Trump's trade threats and the shock of the war in the Middle East, reshaping the global order has become a vital need for many member economies.
+What the summit did provide is a platform for meetings that seemed hard to imagine just a few months ago.
+Iran's Pezeshkian and Abu Dhabi's Crown Prince sat down for talks together - the highest-level face-to-face meeting known between the two countries since the war began.
+This weekend offered Tehran a chance to show that it does not stand alone amid the US and Israel's military attacks and economic pressure.
+As Iran tries to withstand US sanctions, Washington's "Operation Economic Outcast" and a naval blockade on its ports, Pezeshkian pressed for deeper economic ties with Brics members, including Malaysia, India and Ethiopia.
+As for China, this was President Xi's first visit to Delhi in seven years. There has been deep mistrust between China and India since the 2020 border dispute, but those tensions have eased. There is also a large trade imbalance, with a deficit tilting heavily in China's favour.
+There was a cordial handshake between Xi and Modi, not the latter's signature hug. Xi also stayed for less than 24 hours, skipping the gala dinner hosted by Modi on Saturday night.
+But the weekend was still a big moment for two countries with such a difficult relationship. According to official readouts, the two leaders agreed to strengthen business ties and transport links and address barriers to trade.
+Trigunayat believes this is part of a gradual warming of relations in recent years, and that there is a will on both sides to work together. But whether it will produce substantial progress remains to be seen.
+"I always say we have to trust, but verify first," he says.
+What comes next?
+The summit showed that Brics can create space for rivals to talk and manoeuvre outside Western-dominated institutions.
+The harder question is what happens next. It's clear that members agree they need a new global order more than ever, but what exactly should replace it and how to get there is far more challenging to answer.
+Additional reporting by Charlotte Scarr</description></item><item><title>Six dead, 130 missing after Indonesian ferry capsizes in Java Sea</title><link>https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Six dead, 130 missing after Indonesian ferry capsizes in Java Sea
+- Published
+Six people have died and 107 have been rescued from a capsized Indonesian passenger ferry in the Java Sea, authorities have said.
+Another 130 people are still missing after contact was lost with the Virgo Transport8 ship, as it encountered bad weather.
+The ferry was travelling from Surabaya to the South Kalimantan city of Banjarmasin and was last reported to be about 150km (93 miles) south of Banjarmasin around 02:00 on Sunday (18:00 GMT on Saturday).
+Ships and a helicopter have been deployed to the scene, with 280 personnel taking part in a search and rescue operation. All vessels in the area of the Java Sea have been alerted to report any signs of passengers.
+There were 213 passengers and 30 crew members on board the 390ft (119m) ferry.
+The ship left Surabaya at 10:33 on Saturday and was scheduled to arrive in Banjarmasin on Sunday at 14:00, according to data from two maritime monitoring sites. Authorities received the initial distress report at 04:10.
+A joint task force involving Indonesia's search and rescue agency, navy, maritime police and other parties has been set up for the rescue effort.
+Rusmilawati, a resident of Banjarmasin, went to the port to seek information about eight relatives who were passengers on the ship. They were travelling back to Banjarmasin after visiting the tombs of several Islamic scholars in Java.
+"They flew there initially, but for the return journey they wanted to try travelling by ship," she told BBC Indonesia.
+As of Sunday afternoon local time, Rusmilawati said she had not received any information from officials about whether her relatives had been rescued.
+The family last heard from one of the relatives through a WhatsApp status update. In the post, the relative wrote: "The waves are really frightening tonight. Or is this just what it's normally like travelling by ship, rocking and crashing against the waves?"
+"Hopefully they're safe," Rusmilawati said.
+Meanwhile, Misnah broke down in tears after learning that her husband, Ahmad Supandi, had survived.
+Ahmad, a freight driver, had been aboard Virgo Transport 8 and was later rescued by the vessel MV Haida.
+At Tanjung Perak Port in Surabaya, relatives of crew members have also been seeking information about their loved ones.
+One relative, Fredy, said his youngest sibling, Stevie Manuhua, worked aboard the vessel as a keyboard player, entertaining passengers.
+"We spoke two days ago when the ship was docked in Surabaya. After that, there was no news until now," Fredy said.
+He said he had still not received any information about his sibling's whereabouts.
+The Indonesian archipelago has more than 17,000 islands and ferries are a common form of transport.
+But marine transport accidents are not uncommon. Government data show that 111 ship accidents were recorded between 2020 and 2026.
+In July, KM Nurul Salsa sank in waters west of Polassi Island in Selayar Islands Regency, South Sulawesi. A total of 58 people survived, while three were found dead. The whereabouts of another 14 people remain unknown.
+Last month, a separate ferry caught fire off Madura island, killing five.
+Additional reporting by Donny Muslim
 Related topics
   - Published3 days ago
-  - Published19 November 2025</description></item><item><title>Trump's comments on a united Ireland may have targeted audience across the Atlantic</title><link>https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&amp;at_campaign=rss
+  - Published5 days ago</description></item><item><title>Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists</title><link>https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Trump's comments on a united Ireland may have targeted audience across the Atlantic
+Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists
 - Published
-When another world leader meets US President Donald Trump the only certainty about what might happen is the uncertainty about what might happen.
-This was exactly the case ahead of President Trump's two-day visit to Ireland.
-Nobody could have predicted that by the end of the first day, the main global headline would be his desire to see a unified Ireland.
-As the shockwaves of his remarks rippled through this island and Great Britain, it was unclear whether this represented a new US administration policy, or an off-the-cuff remark from a president who likes to take questions from reporters, and likes to give answers.
-Former Republican Congressman Mick Mulvaney was Trump's special envoy to Northern Ireland in his first term in office.
-He cautioned against anyone reading too much into the president's remarks.
-"This does not represent a shift in US foreign policy," he said.
-"We're still very much committed to the Good Friday Agreement."
-Democratic Congressman Brendan Boyle agreed.
-"There is bipartisan support for that deal, and that is not going to change."
-Although both agreed that Donald Trump was probably right to say that "eventually" unification would happen, that did not mean the US was about to start pushing for it.
-Giving an answer to a question that is asked at a free-flowing press conference is one thing, but Donald Trump repeated his sentiments a short time later when he was delivering a speech to an invited audience at the US Ambassador's residence.
-In fact it was almost the first thing he mentioned, hinting that maybe he realised he had kicked over a can of worms at his earlier appearance.
-The rest of that speech was curious. It was billed as a 20-minute address to Irish and Irish American business leaders, but was about twice that and strayed largely into domestic US matters.
-President Trump has a speaking style that he describes himself as "the weave".
-He can bounce from topic to topic during any speaking engagement, veering off the script and then returning to the matter at hand.
-Today he lauded his own achievements, as he sees them, such as clamping down on illegal immigration, doing deals and boosting defence production.
-He repeated his criticisms once again of what he views as the UK's lack of support for his military operation in Iran.
-Midterm elections fast approaching
-But who was his target audience? The gathered business leaders in Dublin or a US audience tuning in before it was even dawn in much of that country?
-This November's crunch midterm elections are fast approaching and the Republican party is under intense pressure because of the president's policies.
-They may lose control of one or both houses of Congress.
-About one tenth of the US population claim Irish heritage but they are not a homogeneous voting bloc.
-Was he trying to target Irish-American independent or swing voters in the US, of which there are many who have flip-flopped between the Republican and Democratic party in recent years?
-Some of them do support a unified Ireland and so in this time of chasing every vote, perhaps that played a part.
-Bill Clinton secured a lot of Irish-American support when he was running for president, by promising to get engaged in the peace process.
-They voted for him and he followed through on his promise and much of that work led to the foundations of the Good Friday Agreement.
-But, Irish America is a different place now. Indeed, America is a different place now as politics have become more polarised.
-The November election campaigns show no indication that will change anytime soon.
-But political leaders in Ireland will be hoping the only debate tomorrow is about the play on the golf course.
-  - Published21 hours ago
-  - Published2 days ago
-  - Published2 days ago</description></item><item><title>They lost their jobs after posting about Charlie Kirk, but some have no regrets</title><link>https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&amp;at_campaign=rss
+Police in Turkey have detained 47 people in a series of raids on gay bars and the homes of LGBTQ+ activists, officials say.
+Raids took place in 12 provinces over the weekend as part of a campaign dubbed "My Family is Safe" that the Turkish government says has been designed to protect family values.
+One of the targets of the operation was LGBTQ+ association Kaos GL.
+Same-sex marriage is not recognised in Turkey, with growing pressure on gay couples. Human rights groups in Turkey have accused the government of using the campaign to target the LGBTQ+ community.
+Officers detained 26 people and seized drugs, digital equipment, smuggled alcohol and a firearm during the raids, according to the Istanbul chief prosecutor's office.
+In a separate statement, the Ankara chief prosecutor's office said another 21 people had been detained as part of an investigation into Kaos GL.
+The organisation said 50 activists had been detained, more than 10 taken after police raids on their homes.
+It said that authorities had blocked several websites and social media accounts linked to LGBTQ+ organisations.
+According to the group, authorities have accused Kaos GL of making "obscenity" in online posts that are available to children and had demanded the shutting down of the Kaos GL X account, as well as those of around 15 other LGBTQ+ organisations.
+Same-sex relations are not an offence in Turkey but homophobia is common, with President Recep Tayyip Erdogan describing LGBTQ people as "perverts" responsible for the falling birth rate.
+As part of "My Family is Safe", Turkish Justice Minister Akin Gurlek says legal proceedings have been started against more than 160 people and a number of organisations and companies across the country.
+Gurlek did not say how many people had been taken into custody, but said the raids came in the context of the "Decade of the Family" campaign.
+However, the Turkish Human Rights Association says the Turkish government has been using the campaign to target the LGBTQ+ community in recent years.
+"The real name of this operation is not 'My Family is Safe'; it is state-led discrimination, politics of fear and the dismantling of civil society," the organisation said on X.
+Related topics
+  - Published3 September</description></item><item><title>They lost their jobs after posting about Charlie Kirk, but some have no regrets</title><link>https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -124,7 +181,7 @@ In the largest settlement reviewed by the BBC, the University of Tennessee agree
 Recently, an arbitrator ordered The Washington Post to rehire, with back pay, opinion journalist Karen Attiah, who was fired for her online posts that said in part she was not going to engage in "performative mourning for a white man that espoused violence".
 Several other lawsuits remain pending, the BBC found.
 Most of the legal actions have been pursued by employees of government institutions, or unionised workers, who have some free-speech protections.
-But in the US, most private sector employees work under "at-will" contracts, which means they can be can be fired without reason.
+But in the US, most private sector employees work under "at-will" contracts, which means they can be fired without reason.
 Even those who have scored some victories don't see it as a win.
 "All I wanted was my job back," biologist Brown said. "How much taxpayer money did they waste on this when I barely made $40,000 a year? So no, it does not feel like justice."
 Shirinian told the BBC she too had wanted to return to her job but felt a legal case could be a lengthy affair.
@@ -187,74 +244,185 @@ She is bitter that the government failed to stop the incursion, that it did not 
 Asked by the BBC to comment on this story, there was no response from the Kursk governor, Russia's human rights commissioner or the Russian Red Cross.
 The command of Ukraine's Territorial Defence Forces and Ukraine's human rights commissioner of Ukraine said all the civilians they had evacuated from Kursk region had been handed over to Russia.
 Lyubov thinks back to when she used to ride her bike across the border into Ukraine to shop for sausages, yarn and ice cream.
-"We went to see them, and they came to see us. And now not one of these villages exists any more."</description></item><item><title>Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq</title><link>https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&amp;at_campaign=rss
+"We went to see them, and they came to see us. And now not one of these villages exists any more."</description></item><item><title>Legendary Canadian boxer George Chuvalo dies aged 89</title><link>https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
+Legendary Canadian boxer George Chuvalo dies aged 89
 - Published
-Saudi Arabia has closed a critical oil pipeline after it was attacked by drones launched from Iraq, as conflict in the Middle East widens.
-Iraq said it had fired a military commander and launched an investigation after admitting the drone attack on its neighbour's East-West pipeline had originated in one of its provinces bordering Iran. Saudi Arabia has previously accused Iran-backed militia in Iraq of targeting its oil facilities.
-The 1,200km (745 mile) pipeline has helped Saudi Arabia - the world's largest crude oil exporter - bypass the Strait of Hormuz.
-The incident comes amid a major advance by the Iranian-backed Houthi rebels in Yemen, putting more pressure on global oil shipping routes as the US-Iran war stretches into its seventh month.
-On Friday, Yemen's Saudi-backed government forces said they had struck Houthi fighters in the strategic coastal city of Mokha, a day after the Houthis seized control of the entire Red Sea coast.
-Riyadh on Friday said it had shut the pipeline as a precaution, as satellite images of scorched ground and smoke near the site emerged.
-The foreign ministry said the attack resulted in some injuries and damage, which was still being assessed.
-The Saudi pipeline has been moving 4% to 5% of global oil supply, news agency Reuters has reported, citing ship tracking companies and analysts.
-Saudi Arabia has chosen not to retaliate at this stage, its foreign ministry says, following a call from Iraq's prime minister.
-It said the kingdom would "support the efforts of the Iraqi government" to "prevent attacks" launched from the country against neighbouring states.
-"The Kingdom of Saudi Arabia affirms that it reserves its right to take all necessary measures to safeguard its sovereignty and security, protect its facilities, and ensure the safety of its citizens and residents," the statement added.
-The Iraqi prime minister's office in its own statement said the operations commander in the Maysan governorate - a province which borders Iran - had been removed from his post following confirmation the drone attack had been launched from that region.
-Saudi Arabia has previously carried out strikes alongside the US against Iran-backed militias in Iraq after accusing the groups of launching drones from Iraqi territory at oil facilities.
-The Gulf Co-operation Council – made up of representatives from Saudi Arabia, the United Arab Emirates, Bahrain, Oman, Qatar and Kuwait – also issued a statement condemning the attack.
-"This attack represents a dangerous escalation and an unacceptable threat to the security of the Kingdom of Saudi Arabia, its territorial integrity, and its vital installations, as well as a flagrant violation of the principles of international law," secretary general Jasem Mohamed Albudaiwi.
-This week, a lightning advance in Yemen has also seen Houthi militants seize control of much of the country's coastline, sources say.
-The group said it had control of the Bab al-Mandab Strait, the gateway to the Red Sea and the Suez Canal, though it said maritime navigation is "safe for all companies except for Saudi vessels".
-The Yemeni Armed Forces have since struck back. On Friday, spokesman Majid al-Nuzaili said they had targeted Houthi positions in and around the city of Mokha, adding that they had destroyed vehicles and weapons and killed a number of Houthi fighters.
-The strategic coastal city on the Red Sea is situated about 80km (50 miles) north of the Bab al-Mandab Strait. The Houthis seized control of Mokha on Thursday. Their attack drove many people to flee to Aden, where Yemen's internationally recognised Presidential Leadership Council and government are based.
-Local sources also reported that government forces carried out air strikes targeting Houthi forces in Taiz governorate, which is along the Red Sea coast, and Ibb governorate, which neighbours Taiz.
-On Saturday the UN said at least 76,000 people had been displaced in Yemen since July, with the number quadrupling in the past week. It warned of a "rapidly worsening displacement crisis in Yemen unfolding by the hour".
-"Entire families are on the move, often at night. They have nowhere safe to go... They are exhausted. Their resources are gone. Most fled with nothing but the clothes on their backs," the UN statement said.
-The developments have squeezed both sides of the Arabian Peninsula, pushing crude oil prices to over $100 a barrel for the first time since July.
-Fears over inflation have risen with the spike in energy prices, further pushing up government borrowing costs.
-Richard Bronze of Energy Aspects told the BBC that even before the latest escalation, diverting Saudi oil via the Suez Canal into the Mediterranean and around Africa was already adding 30 days to sailing times and increasing transportation costs.
-"The buffers that have helped the oil market manage the crisis so far are mostly gone. So oil prices will keep rising if both crises continue," he said.
-Challenges were particularly acute in diesel markets, he said, where prices have already reached record levels that would in turn push up the costs of a range of goods as diesel is widely used in manufacturing and transportation.
-"Unless the situation across the Middle East improves, crude oil prices are likely to return to the peak of $120 per barrel seen earlier in the Iran war and could go even higher," he said.
-Additional reporting by Meghan Owen
+Canadian boxer George Chuvalo, a five-time national heavyweight champion, has died at the age of 89.
+Out of 93 total professional fights in his career - 73 victories, 18 losses, and two draws - Chuvalo was never once knocked down to the canvas.
+"His photos have hung on our walls for decades. His stories have been passed down from one generation of fighters to the next," said Sully's Boxing, the Toronto gym where he trained, in a statement.
+He battled Muhammad Ali in 1966 and 1972, and though Chuvalo lost both fights, Ali called him the toughest guy he ever fought.
+Chuvalo was born in 1937 to Croatian immigrant parents, grew up in Toronto and got into boxing at a young age.
+Widely considered "Canada's greatest warrior", Chuvalo was known for his iron chin, relentless durability, and fights against world famous fighters like George Foreman, Joe Frazier, and Ali.
+"George Chuvalo was a heavyweight boxing legend, a family friend and a Canadian icon," Ontario Premier Doug Ford wrote on social media.
+"My thoughts are with all of George's family and loved ones as we mourn his passing."
+After retiring from professional boxing in 1978, Chuvalo travelled the country as a public speaker advocating for anti-drug education and mental health awareness.
+Chuvalo lost three sons and his wife to drug overdoses and suicide, he has said.
+"I'd like to think if you're ever tempted with the idea of doing drugs, or you ever flirt with doing drugs, I hope you think of me, George Chuvalo, and what drugs did to my family," he once said, according to a CBC Radio report in 1998.
+In retirement, Chuvalo also dipped his toes in acting, appearing in the 1998 comedy film Dirty Work and alongside Jeff Goldblum in the 1986 horror film The Fly.
+He also served as a guest commentator for major boxing matches and co-hosted a TV boxing program called Greatest Knockouts with his friend and fellow fighter Charles "Spider" Jones.
+Chuvalo is survived by his eldest son Mitch, daughter Vanessa, grandchildren, and second wife Joanne.
+He died on Saturday, his birthday, said Sully's Boxing Gym.
 Related topics
-  - Published2 days ago</description></item><item><title>Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea</title><link>https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&amp;at_campaign=rss
+  - Published10 hours ago
+  - Published4 June 2016
+  - Published10 June 2020</description></item><item><title>Trump's comments on a united Ireland may have targeted audience across the Atlantic</title><link>https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea
+Trump's comments on a united Ireland may have targeted audience across the Atlantic
 - Published
-Six people have died and 107 have been rescued from a stricken Indonesian passenger ferry in the Java Sea, Indonesia's search and rescue agency has said.
-A search and rescue operation was launched after contact was lost with the Virgo Transport 8 ship, which was carrying 243 people, as it encountered bad weather, Indonesia's search and rescue agency said.
-The search for the remaining passengers is ongoing.
-The ferry was travelling from Surabaya to the South Kalimantan city of Banjarmasin and was last reported to be about 150km (93 miles) south of Banjarmasin around 02:00 local time on Sunday (18:00 GMT on Saturday).
-Authorities received the initial distress report at 04:10 from the vessel's operator PT Virgo. The ship left Surabaya at 10:33 on Saturday and was scheduled to arrive in Banjarmasin on Sunday at 14:00, according to data from two maritime monitoring sites.
-A joint task force involving Indonesia's search and rescue agency, navy, maritime police and other parties has been set up for the rescue effort.
-Ships and a helicopter have been deployed to the scene, with 280 personnel taking part in the rescue operation. All vessels in the area of the Java Sea have been alerted to report any signs of passengers.
-An operations post for handling the accident was set up in the Trisakti Port area on Sunday morning.
-There are 213 passengers and 30 crew members on board. Of these, 130 people are still missing.
-Rusmilawati, a resident of Banjarmasin, went to the port to seek information about eight relatives who were passengers on the ship. They were travelling back to Banjarmasin after visiting the tombs of several Islamic scholars in Java.
-"They flew there initially, but for the return journey they wanted to try travelling by ship," she told BBC Indonesia.
-As of Sunday afternoon local time, Rusmilawati said she had not received any information from officials about whether her relatives had been rescued.
-The family last heard from one of the relatives through a WhatsApp status update. In the post, the relative wrote: "The waves are really frightening tonight. Or is this just what it's normally like travelling by ship, rocking and crashing against the waves?"
-"Hopefully they're safe," Rusmilawati said.
-Meanwhile, Misnah broke down in tears after learning that her husband, Ahmad Supandi, had survived.
-Ahmad, a freight driver, had been aboard Virgo Transport 8 and was later rescued by the vessel MV Haida.
-At Tanjung Perak Port in Surabaya, relatives of crew members have also been seeking information about their loved ones.
-One relative, Fredy, said his youngest sibling, Stevie Manuhua, worked aboard the vessel as a keyboard player, entertaining passengers.
-"We spoke two days ago when the ship was docked in Surabaya. After that, there was no news until now," Fredy said.
-He said he had still not received any information about his sibling's whereabouts.
-The incident comes after a separate ferry in Indonesia caught fire off Madura island last month, killing five.
-The Indonesian archipelago has more than 17,000 islands and ferries are a common form of transport.
-Additional reporting by Donny Muslim
-Related topics
+When another world leader meets US President Donald Trump the only certainty about what might happen is the uncertainty about what might happen.
+This was exactly the case ahead of President Trump's two-day visit to Ireland.
+Nobody could have predicted that by the end of the first day, the main global headline would be his desire to see a unified Ireland.
+As the shockwaves of his remarks rippled through this island and Great Britain, it was unclear whether this represented a new US administration policy, or an off-the-cuff remark from a president who likes to take questions from reporters, and likes to give answers.
+Former Republican Congressman Mick Mulvaney was Trump's special envoy to Northern Ireland in his first term in office.
+He cautioned against anyone reading too much into the president's remarks.
+"This does not represent a shift in US foreign policy," he said.
+"We're still very much committed to the Good Friday Agreement."
+Democratic Congressman Brendan Boyle agreed.
+"There is bipartisan support for that deal, and that is not going to change."
+Although both agreed that Donald Trump was probably right to say that "eventually" unification would happen, that did not mean the US was about to start pushing for it.
+Giving an answer to a question that is asked at a free-flowing press conference is one thing, but Donald Trump repeated his sentiments a short time later when he was delivering a speech to an invited audience at the US Ambassador's residence.
+In fact it was almost the first thing he mentioned, hinting that maybe he realised he had kicked over a can of worms at his earlier appearance.
+The rest of that speech was curious. It was billed as a 20-minute address to Irish and Irish American business leaders, but was about twice that and strayed largely into domestic US matters.
+President Trump has a speaking style that he describes himself as "the weave".
+He can bounce from topic to topic during any speaking engagement, veering off the script and then returning to the matter at hand.
+Today he lauded his own achievements, as he sees them, such as clamping down on illegal immigration, doing deals and boosting defence production.
+He repeated his criticisms once again of what he views as the UK's lack of support for his military operation in Iran.
+Midterm elections fast approaching
+But who was his target audience? The gathered business leaders in Dublin or a US audience tuning in before it was even dawn in much of that country?
+This November's crunch midterm elections are fast approaching and the Republican party is under intense pressure because of the president's policies.
+They may lose control of one or both houses of Congress.
+About one tenth of the US population claim Irish heritage but they are not a homogeneous voting bloc.
+Was he trying to target Irish-American independent or swing voters in the US, of which there are many who have flip-flopped between the Republican and Democratic party in recent years?
+Some of them do support a unified Ireland and so in this time of chasing every vote, perhaps that played a part.
+Bill Clinton secured a lot of Irish-American support when he was running for president, by promising to get engaged in the peace process.
+They voted for him and he followed through on his promise and much of that work led to the foundations of the Good Friday Agreement.
+But, Irish America is a different place now. Indeed, America is a different place now as politics have become more polarised.
+The November election campaigns show no indication that will change anytime soon.
+But political leaders in Ireland will be hoping the only debate tomorrow is about the play on the golf course.
+  - Published1 day ago
   - Published2 days ago
-  - Published5 days ago</description></item><item><title>Uganda's King Oyo buried amid calls for unity over his successor</title><link>https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&amp;at_campaign=rss
+  - Published3 days ago</description></item><item><title>Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat</title><link>https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat
+- Published
+Ukrainian tennis player Dayana Yastremska has said her family's flat has been destroyed in a Russian aerial strike on the Black Sea port of Odesa.
+"This is what the 'Russian world' looks like. A direct hit by a Kalibr cruise missile," she wrote on social media, showing a photo of a burning multi-storey residential building.
+"The only thing that survived was a Roland Garros... towel," the 26-year-old added, posting an image of a famous clay orange towel from Paris's Grand Slam tournament hanging from the wreckage.
+Odesa regional head Oleh Kiper said 37 people were injured, including a baby, and two missing in the missile and drone attack on Odesa and nearby Chornomorsk on Friday night.
+"A Russian missile destroyed our apartment in Odesa... SYMBOLIC. A piece of world tennis survived a Russian missile. Our home did not," Yastremska wrote on Instagram on Saturday.
+"@wta @itf_reviews Look at these images through our eyes," she said in a reference to the governing bodies of world tennis - the Women's Tennis Association and the International Tennis Federation.
+Yastremska - who in 2024 reached the semifinal stage of the Australian Open - is currently 113th in the women's world singles rankings.
+It is not the first time Ukrainian athletes' homes have been hit by Russia since the start of the full-scale invasion of Ukraine in 2022.
+Last year, Ukraine international football midfielder Heorhiy Sudakov said his flat in the capital Kyiv had been severely damaged by a Russian drone while his wife and child were at home.</description></item><item><title>Afghan woman deported from US in first use of 'alien terrorist' court</title><link>https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Afghan woman deported from US in first use of 'alien terrorist' court
+- Published
+An Afghan woman living in Texas with legal US permanent residency has been deported from the country in the first-ever use of a secretive court.
+Nazira Haji Zada, 47, chose to leave the US rather than continue to argue her case before the Alien Terrorist Removal Court, according to the US Department of Justice (DOJ) and her lawyers.
+The Alien Terrorist Removal Court was created in 1996, but had never heard a case before the proceedings in July. It is meant for non-US citizens facing terrorism-related charges when the evidence is confidential and related to national security.
+Lawyers for Haji Zada argued that the case violated her right to due process under the US Constitution.
+Afghanistan citizen Haji Zada was never charged with a crime, but prosecutors had tried and convicted her son and son-in-law for terror offenses.
+Her son, Abdullah Haji Zada, and son-in-law, Nasir Ahmad Tawhed, were both found guilty of a plot to carry out a mass shooting on Election Day in 2024, inspired by the group calling itself Islamic State.
+Haji Zada, who has been living in Fort Worth, Texas, was accused by prosecutors of being the "matriarch" of the group, who had worked "to radicalize the family".
+In a statement on Friday, the justice department said she "conceded that she is an alien terrorist and waived appeal of the removal order, terminating her previous [immigration] status".
+"This landmark case, resulting in the prompt removal of this alien terrorist to her country of origin, is a win for national security and the rule of law," said US Attorney General Todd Blanche.
+"Those who support and condone terrorism should not be living in the United States, and this first-ever case before the ATRC shows how the Department will use every tool at its disposal to protect our country."
+Court-appointed lawyers for Haji Zada said they were denied access to the evidence in her case.
+"Our client's choice to consent to removal should not be seen as an endorsement of this court's legitimacy," public defenders Matthew Farley and Mary Manning Petras said in a statement to The Washington Post.
+"Dragging lawful permanent residents into court but refusing to show them or their attorneys the evidence that will be used against them is a plain violation of due process. We are confident that the Alien Terrorist Removal Court will be struck down as unconstitutional as soon as a judge is asked to address the issue," they said.</description></item><item><title>Fire at nursing home in Chile kills 16 residents</title><link>https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Fire at nursing home in Chile kills 16 residents
+- Published
+At least 16 elderly residents have died in a fire at a nursing home in Chile, according to authorities.
+Ten others were evacuated after a blaze broke out at El Edén home in /idt2/d9cfcc9a-2842-463f-a4d8-4dd007ef9547, around 640km (400 miles) south of the capital Santiago, on Friday evening.
+Jorge Granada, a prosecutor leading the case, said it was not clear at this stage what caused the incident.
+Chile's President José Antonio Kast said he had ordered a review into the condition of nursing homes across the country.
+"We will fully collaborate with the justice system to clarify what happened, determine where failures may have existed in oversight or prevention, identify what alerts were raised and what actions were taken in response to them," Kast said.
+"We need to know the truth and, based on that, correct whatever is necessary to do everything possible to prevent a tragedy like this from happening again," thre president added.
+The fire, which began at around 22:30 (01:30 GMT) was finally put out on Saturday morning.
+On Saturday, firefighters were still clearing debris and removing collapsed corrugated metal roofing. Police cordoned off the area for safety.
+"It is a situation that fills our souls with great sorrow and pain. We have been... providing support to the families," said local mayor Jacqueline Romero.</description></item><item><title>Anthropic boss Dario Amodei calls for AI development to slow down</title><link>https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Anthropic boss Dario Amodei calls for AI development to slow down
+- Published
+The head of AI company Anthropic has called for the pace of development of artificial intelligence models to slow down and to be closely monitored.
+Dario Amodei wrote in an online essay that developing AI was not in question, but that the risks associated with it were "serious" and that companies and governments must be given time to address them.
+The bosses of two rival AI firms, Sam Altman of OpenAI and Elon Musk, have both said they agree with Amodei.
+There have been growing concerns recently about the technology's potential risks. An AI researcher who left Anthropic told the BBC that "if we don't slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future".
+Jacob Coxon told Laura Kuenssberg that people working at AI companies were "genuinely frightened... genuinely concerned about the fate of humanity in the next two years".
+"It's not at all an exaggeration to say that the people who are involved with both founding these companies and building the tech believe there is a possibility of human extinction," Coxon said.
+In Amodei's essay, called We Must Pace the Frontier and published on Saturday, he proposed a three-point plan that included independent monitoring of AI models as they are developed, industry-wide regulation and global regulation.
+As his proposal made the rounds, even competitors voiced support for the idea of third-party monitors who could evaluate the safety of models as they are developed.
+"I agree with Dario that we need to pace the frontier," wrote OpenAI CEO Sam Altman on X. He called independent evaluators "a great idea".
+Altman sounded similar safety concerns in a new interview, telling Fortune magazine that standards were "not at a place" to push AI capabilities much further.
+He added that he believed AI beyond human control was "absolutely" possible.
+Musk, meanwhile, who founded Grok producer xAI, said the Anthropic boss was "right".
+The warnings have prompted calls to action, but US President Donald Trump has so far rejected such fears, saying on Thursday he was concerned that "if we don't win AI, we're going to be put in a very bad position".
+Cyber-security concerns have grown as new models have exhibited more and more powerful capabilities.
+Anthropic withheld its Mythos model from public use when it was announced in April that it could independently escape the testing environment, known as the sandbox.
+In the run-up to the release of its most recent Astra model, OpenAI cited cyber-security concerns as it explained it had paused certain aspects of the model's development.
+The OpenAI agents had "essentially acted as a fanatically devoted collective", Amodei said. OpenAI has said it was slowing down training of certain advanced AI models and tools as a result.
+Safety has also taken centre stage in the rivalry between Anthropic and OpenAI.
+Amodei, who had previously worked as a vice-president at OpenAI, has said he co-founded Anthropic in 2021 so he could build safer and more trusted AI models.
+- AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC 
+  - Published37 minutes ago
+- Dramatic insider warnings over AI fall flat with some in Silicon Valley 
+  - Published6 hours ago
+He pointed out in his essay that AI had advanced "drastically faster" including its "ability to build the next generation of AI" - and mentioned an incident involving rival OpenAI which has revealed that agents had hacked, external targets they were not asked to attack in July.
+Amodei called for "building AI at a balanced rate that aims to ensure its safety while still achieving its benefits".
+This would not mean "halting model training or technical progress, but ensuring companies take adequate time to align and safeguard their models, and for third party evaluators to confirm this".
+He was committing Anthropic to this "unilaterally" - as well as calling on governments "to require other frontier companies to match".
+Amodei said he recognised that regulation might not be able to keep up with the pace of AI, and therefore called on AI companies to "voluntarily work together to set standard" in parallel with those regulation.
+The Anthropic CEO went on to address the impact that a slowdown would have on the industry and competition with leading developers worldwide, particularly China.
+"I believe that if slowing down bought us even an extra year or two before models reach critical levels of capability, and we used that time to advance alignment, we could greatly reduce the risk that something goes seriously wrong," Amodei said.
+This would have to be done in a co-ordinated manner "without sacrificing commercial advantage or the United States' lead in AI". Any slowdown would have to be limited, he said, to avoid allowing China to pull ahead.
+He urged the US government to take measures so that US companies' AI chips could not be sold to China - or the technology shared with authoritarian countries.
+His former employee, Jacob Coxon, told the BBC, however, that the initiative to slow down must go beyond the US - "there'll need to be some sort of co-ordinated slowdown with China if we're going to avoid a race at an international scale".
+Amodei's post has prompted a wide range of responses.
+Clement Delangue, the CEO of the AI platform Hugging Face, said he was launching a new project called the Open Alignment Initiative, adding that he wanted to be among "embedded evaluators" that Amodei proposed could be part of a solution.
+Hugging Face was hacked by OpenAI agents earlier this year, prompting outcry over AI safety.
+"Let's make AI safer by making it more transparent," Delangue wrote on X.
+Musk, who also voices support for Amodei, once called Anthropic "evil" but has changed his tone since signing a $15bn (£11bn) deal to sell computing capacity to Anthropic in May.
+However, some observers suggested that Amodei's post was less about safety than about consolidating control over AI technology.
+"Dario makes the case to stop open source and concentrate enormous technological and economic power with Anthropic," wrote Chamath Palihapitiya, an investor and co-host of the tech podcast "All-In".
+Notions of slowing down or even pausing AI development have long been met with cynicism in certain corners of Silicon Valley, with critics accusing leading AI developers of hyping their technology as a marketing ploy.
+Anthropic and OpenAI are both reportedly preparing for potentially record-setting initial public offerings.
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
+Related topics
+  - Published3 days ago
+  - Published19 November 2025</description></item><item><title>Death toll from Philippines ferry fire rises to 76, with more still missing</title><link>https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Death toll from Philippines ferry fire rises to 76, with more still missing
+- Published
+The Philippine Coast Guard says it has recovered 41 bodies from the wreckage of a ferry that caught fire this week, bringing the total death toll to 76.
+More than 130 people were on board the MV June Aster when the blaze erupted on Wednesday as it neared its destination at the tourist hotspot of Coron, after departing from Manila.
+The coast guard said on Saturday the number of survivors remained 43, with many receiving treatment in hospital, but 13 people remain unaccounted for.
+Recovery of bodies had been hampered due to toxic fumes and lingering heat, which meant authorities were unable to board until Friday.
+Geronimo Tuvilla, an official for the Philippine Coast Guard, said the priority was identifying victims and determining the cause of the blaze.
+Kristine Ablana, a tourism official in Coron, said relatives were being asked to help identify family members through personal items and DNA testing.
+"Once someone is able to verify that this photo or these belongings are indeed those of their relative, they will be asked to provide a DNA sample," she said.
+Coast Guard spokesperson Commodore Noemie Cayabyab said the fire began in a cargo hold before spreading.
+She said survivors had described hearing a loud explosion, "the appearance of smoke and then fire. It spread very quickly". She added that those who had made it off the ship did not have time to put on lifejackets.
+A survivor who was hauled to safety on a rescue boat told the BBC he had heard frantic cries onboard when the fire erupted, and was trampled by panicked people as he tried to escape.
+The ferry, built in 2002, held valid safety certificates and passed an enforcement inspection in March, but investigators are looking into potential manifest discrepancies, cargo loading integrity, and crew emergency response protocols, the Palawan Daily reported.
+The vessel was carrying 117 passengers and 17 crew members.
+Atienza Interisland Ferries, the vessel's operator, has pledged full co-operation with the inquiry.
+  - Published2 days ago</description></item><item><title>Uganda's King Oyo buried amid calls for unity over his successor</title><link>https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -276,87 +444,114 @@ Uganda's President Yoweri Museveni also called for the matter to be resolved "an
 The clan overseeing the succession defended its choice of Kijanangoma.
 Omusuuga Charles Karumasi, head of the Babiito royal clan, said: "We have done everything in observance of the culture and traditions of Tooro. We must all preserve peace and serenity."
 Related topics
-  - Published28 August</description></item><item><title>Afghan woman deported from US in first use of 'alien terrorist' court</title><link>https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&amp;at_campaign=rss
+  - Published28 August</description></item><item><title>Dramatic insider warnings over AI fall flat with some in Silicon Valley</title><link>https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Afghan woman deported from US in first use of 'alien terrorist' court
+Dramatic insider warnings over AI fall flat with some in Silicon Valley
 - Published
-An Afghan woman living in Texas with legal US permanent residency has been deported from the country in the first-ever use of a secretive court.
-Nazira Haji Zada, 47, chose to leave the US rather than continue to argue her case before the Alien Terrorist Removal Court, according to the US Department of Justice (DOJ) and her lawyers.
-The Alien Terrorist Removal Court was created in 1996, but had never heard a case before the proceedings in July. It is meant for non-US citizens facing terrorism-related charges when the evidence is confidential and related to national security.
-Lawyers for Haji Zada argued that the case violated her right to due process under the US Constitution.
-Afghanistan citizen Haji Zada was never charged with a crime, but prosecutors had tried and convicted her son and son-in-law for terror offenses.
-Her son, Abdullah Haji Zada, and son-in-law, Nasir Ahmad Tawhed, were both found guilty of a plot to carry out a mass shooting on Election Day in 2024, inspired by the group calling itself Islamic State.
-Haji Zada, who has been living in Fort Worth, Texas, was accused by prosecutors of being the "matriarch" of the group, who had worked "to radicalize the family".
-In a statement on Friday, the justice department said she "conceded that she is an alien terrorist and waived appeal of the removal order, terminating her previous [immigration] status".
-"This landmark case, resulting in the prompt removal of this alien terrorist to her country of origin, is a win for national security and the rule of law," said US Attorney General Todd Blanche.
-"Those who support and condone terrorism should not be living in the United States, and this first-ever case before the ATRC shows how the Department will use every tool at its disposal to protect our country."
-Court-appointed lawyers for Haji Zada said they were denied access to the evidence in her case.
-"Our client's choice to consent to removal should not be seen as an endorsement of this court's legitimacy," public defenders Matthew Farley and Mary Manning Petras said in a statement to The Washington Post.
-"Dragging lawful permanent residents into court but refusing to show them or their attorneys the evidence that will be used against them is a plain violation of due process. We are confident that the Alien Terrorist Removal Court will be struck down as unconstitutional as soon as a judge is asked to address the issue," they said.</description></item><item><title>Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat</title><link>https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&amp;at_campaign=rss
+Each September, a who's who of executives from across Silicon Valley descends on San Francisco's Palace Hotel to charm investors at a conference hosted by the investment bank Goldman Sachs.
+This past week, between talk of growth and potential returns, tech titans found themselves addressing the abrupt resignation of Anthropic researcher Jacob Coxon.
+Coxon, a 27-year-old who worked at OpenAI before joining its chief rival Anthropic, said on Tuesday that people building artificial intelligence (AI) believed the technology could destroy humanity.
+They are "gambling with our lives", he said, "these will soon be superhuman systems that can hack anything".
+Coxon is by no means the first AI insider to publicly sound the alarm. There have been a string of high-profile resignations from both Anthropic and OpenAI in recent years over apparent safety concerns, and some current Anthropic employees even echoed Coxon's post.
+"We really do earnestly believe AI could kill all humans! I personally think it is &gt;10% within the next decade," a team lead at Anthropic, Evan Hubinger, posted on X.
+While Coxon said explicitly in his posts that his warnings were "not marketing", some executives and investors in Silicon Valley have reacted with scepticism to a recent flurry of insiders sounding the alarm.
+Anthropic and OpenAI are reportedly preparing for potentially record-setting initial public offerings, and some in the tech sector have suggested the latest stark comments about the dangers of AI may be designed to generate hype by signalling the power of these products.
+Anthropic's boss, Dario Amodei, has come under fire for saying AI technology could wipe out half of entry-level white-collar jobs and will "test who we are as a species".
+One conference speaker, Grindr chief executive George Arison, told the BBC he believed this week's comments from Coxon and others were indicative of an "anti-civilisational worldview at Anthropic".
+He called them "dangerous" and said they had prompted him to instruct some engineers at the LGBTQ+ dating app to stop using Anthropic's technology.
+"It is irresponsible for us as stewards of our shareholders' money to be relying on a business that does what this company does, in terms of its public statements," he said.
+"Maybe they actually believe it," Arison said. "Or you could argue they're saying it because it's a great way to gin up more investor support, because the only way to justify these valuations is to actually claim: 'I'm going to take over every industry and I'm going to take over every job, and my AI is going to be doing all that work.'"
+Anthropic was valued at $965bn (£713bn) in its most recent fundraising round earlier this year.
+The BBC has asked Anthropic for a response to the statements.
+In an essay posted early on Saturday, Amodei called for a slowing of AI model development and global regulation - and said the risks associated with AI were "serious".
+- Anthropic boss Dario Amodei calls for AI development to slow down 
+  - Published18 hours ago
+- Why some experts increasingly fear AI will take over 
+  - Published3 days ago
+Nvidia boss Jensen Huang also discussed Coxon's comments before a crowd at the conference, multiple people in the group told the BBC. They said he dismissed them as untrue.
+Huang has previously said the notion that AI "is going to be the end of humanity" is "complete nonsense".
+And while he may have a business interest in an AI boom - Nvidia builds chips that power AI systems - his comments reflect a growing backlash in Silicon Valley to the existential warnings from current and former staffers.
+Some critics have even accused Anthropic of fearmongering in hopes that it will trigger a regulatory push that could shut out competition and leave it and OpenAI with a duopoly in the sector.
+Brad Gerstner, who is the head of the investment firm Altimeter Capital, posted pictures of Huang from the conference and accused Coxon of "ridiculous hyperbole".
+On Friday, chief executive of AI platform Hugging Face, Clement Delangue, weighed in. Hugging Face, which Nvidia announced it would acquire last week, was hacked by OpenAI agents earlier this year prompting an outcry over AI safety.
+"Sorry, but asking Jacob about AI extinction risk is like asking your AC guy about climate change," he wrote on X. "Not saying it's necessarily uninteresting or wrong per se but let's keep things in perspective."
+Both Gerstner and Delangue were more circumspect on Saturday after Amodei's proposal was posted, with Gerstner calling the idea "an important step forward" in balancing competing considerations like speed and safety.
+Delangue offered to help be a part of the potential solutions proposed by Amodei.
+Could insider warnings prompt a crackdown?
+In April, Anthropic roiled the AI world when it said it found that its Mythos tool could outperform humans at some hacking and cybersecurity tasks.
+Mythos also showed the ability to independently escape what is known as the sandbox environment, setting off a debate among regulators, legislators and businesses about AI's potential dangers.
+In a new development on Thursday, Anthropic said it had found and stopped threat actors who were trying to use its AI technology for activity including the development of bioweapons and cyber-espionage.
+Beneath the sparkling chandeliers hanging in the stained-glass dome atrium of The Palace Hotel, some investors told the BBC that the comments from Coxon and others could accelerate a government crackdown.
+Federal legislation co-sponsored this month by left-wing Senator Bernie Sanders of Vermont, known as the Ban Artificial Superintelligence Act, would impose a temporary pause in advanced AI development.
+"There is a good chance that human beings will lose control over AI," Sanders told the BBC's Newsnight programme on Thursday. "And what happens then, nobody knows. But could it be catastrophic? Yes, it could."
+"When scientists tell you there is a chance that it could have a cataclysmic impact on humanity, you've got be a moron not to say, slow it down," he added.
+If an industry-wide government crackdown comes, however, it is likely to be led by legislators and not the Trump administration which largely supports a policy of unfettered AI development. It has framed this as necessary to ensure the US does not cede dominance to China.
+Speaking to reporters this week, President Donald Trump was asked if he had any concerns about AI leading to human extinction. "No, I don't have any," he said. "I have concerns that if we don't win AI, we're going to be put in a very bad position. We are leading China right now."
+But the president's relationship with Anthropic has been turbulent. After the company refused to allow the US military to use its AI models, the White House described it as "a radical left, woke company" and designated it a supply chain risk, a move that a federal judge has ruled was illegal.
+David Sacks, Trump's AI czar in the early days of his administration, has also levelled repeated attacks at Anthropic.
+OpenAI has not endured the same level of scrutiny from the White House. When releasing a new model called Astra last week, OpenAI President Greg Brockman described his firm's relationship with the Trump administration as "a very good partnership".
+The company did not respond to a BBC inquiry seeking comment.
+At the conference in San Francisco this week, the pursuit of fortunes seemed to mostly trump any mounting existential concerns or fears over potential government restrictions on AI.
+OpenAI, which was most recently valued at $852bn, has previously announced plans to allow people to buy shares in its firm by listing on the stock market.
+However, its chief executive Sam Altman said on Friday this would not happen this year, calling it an "ill-advised moment" to do so "given everything happening with safety" in an interview with Fortune magazine.
+He suggested 2027 would be more likely.
+Meanwhile, one investor said he was looking forward to Anthropic's forthcoming S-1, a document a company must file with securities regulators in order to sell shares.
+His main question about the company was simple: is the firm profitable?
+When asked on Thursday if he fears the world may be coming to an end, Sid Sheth - chief executive of the chip company d-Matrix which inked a deal with Nvidia at the conference that day - did not mince his words.
+"No," he said.
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
+Related topics
+  - Published2 days ago
+  - Published17 April</description></item><item><title>Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris</title><link>https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat
+Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris
 - Published
-Ukrainian tennis player Dayana Yastremska has said her family's flat has been destroyed in a Russian aerial strike on the Black Sea port of Odesa.
-"This is what the 'Russian world' looks like. A direct hit by a Kalibr cruise missile," she wrote on social media, showing a photo of a burning multi-storey residential building.
-"The only thing that survived was a Roland Garros... towel," the 26-year-old added, posting an image of a famous clay orange towel from Paris's Grand Slam tournament hanging from the wreckage.
-Odesa regional head Oleh Kiper said 37 people were injured, including a baby, and two missing in the missile and drone attack on Odesa and nearby Chornomorsk on Friday night.
-"A Russian missile destroyed our apartment in Odesa... SYMBOLIC. A piece of world tennis survived a Russian missile. Our home did not," Yastremska wrote on Instagram on Saturday.
-"@wta @itf_reviews Look at these images through our eyes," she said in a reference to the governing bodies of world tennis - the Women's Tennis Association and the International Tennis Federation.
-Yastremska - who in 2024 reached the semifinal stage of the Australian Open - is currently 113th in the women's world singles rankings.
-It is not the first time Ukrainian athletes' homes have been hit by Russia since the start of the full-scale invasion of Ukraine in 2022.
-Last year, Ukraine international football midfielder Heorhiy Sudakov said his flat in the capital Kyiv had been severely damaged by a Russian drone while his wife and child were at home.</description></item><item><title>Fire at nursing home in Chile kills 16 residents</title><link>https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Fire at nursing home in Chile kills 16 residents
-- Published
-At least 16 elderly residents have died in a fire at a nursing home in Chile, according to authorities.
-Ten others were evacuated after a blaze broke out at El Edén home in /idt2/d9cfcc9a-2842-463f-a4d8-4dd007ef9547, around 640km (400 miles) south of the capital Santiago, on Friday evening.
-Jorge Granada, a prosecutor leading the case, said it was not clear at this stage what caused the incident.
-Chile's President José Antonio Kast said he had ordered a review into the condition of nursing homes across the country.
-"We will fully collaborate with the justice system to clarify what happened, determine where failures may have existed in oversight or prevention, identify what alerts were raised and what actions were taken in response to them," Kast said.
-"We need to know the truth and, based on that, correct whatever is necessary to do everything possible to prevent a tragedy like this from happening again," thre president added.
-The fire, which began at around 22:30 (01:30 GMT) was finally put out on Saturday morning.
-On Saturday, firefighters were still clearing debris and removing collapsed corrugated metal roofing. Police cordoned off the area for safety.
-"It is a situation that fills our souls with great sorrow and pain. We have been... providing support to the families," said local mayor Jacqueline Romero.</description></item><item><title>Death toll from Philippines ferry fire rises to 76, with more still missing</title><link>https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Death toll from Philippines ferry fire rises to 76, with more still missing
-- Published
-The Philippine Coast Guard says it has recovered 41 bodies from the wreckage of a ferry that caught fire this week, bringing the total death toll to 76.
-More than 130 people were on board the MV June Aster when the blaze erupted on Wednesday as it neared its destination at the tourist hotspot of Coron, after departing from Manila.
-The coast guard said on Saturday the number of survivors remained 43, with many receiving treatment in hospital, but 13 people remain unaccounted for.
-Recovery of bodies had been hampered due to toxic fumes and lingering heat, which meant authorities were unable to board until Friday.
-Geronimo Tuvilla, an official for the Philippine Coast Guard, said the priority was identifying victims and determining the cause of the blaze.
-Kristine Ablana, a tourism official in Coron, said relatives were being asked to help identify family members through personal items and DNA testing.
-"Once someone is able to verify that this photo or these belongings are indeed those of their relative, they will be asked to provide a DNA sample," she said.
-Coast Guard spokesperson Commodore Noemie Cayabyab said the fire began in a cargo hold before spreading.
-She said survivors had described hearing a loud explosion, "the appearance of smoke and then fire. It spread very quickly". She added that those who had made it off the ship did not have time to put on lifejackets.
-A survivor who was hauled to safety on a rescue boat told the BBC he had heard frantic cries onboard when the fire erupted, and was trampled by panicked people as he tried to escape.
-The ferry, built in 2002, held valid safety certificates and passed an enforcement inspection in March, but investigators are looking into potential manifest discrepancies, cargo loading integrity, and crew emergency response protocols, the Palawan Daily reported.
-The vessel was carrying 117 passengers and 17 crew members.
-Atienza Interisland Ferries, the vessel's operator, has pledged full co-operation with the inquiry.
-  - Published2 days ago</description></item><item><title>French officials investigate if malicious act caused train derailment</title><link>https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-French officials investigate if malicious act caused train derailment
-- Published
-Officials in northern France are investigating whether the derailment of a passenger train on Friday evening was the result of a malicious act.
-"At this stage, the leading theory is that a piece of rail was present on one of the tracks, potentially causing the derailment. The reason for its presence is unknown," prosecutor Sébastien Gallois said on Saturday.
-Local media say 186 passengers were on board the train that was operating between Rouen and Caen in Normandy.
-Forty-four people were treated for injuries, including an 18-year-old woman who was airlifted to hospital in a critical condition.
-"The train's 'black box' has been seized. Several interviews are scheduled, and a court-appointed expert has been called in," prosecutor Gallois said in a press release.
-"The main victim is still in hospital but her life is no longer in danger. The other victims have received care and treatment; they have either been discharged or are about to be."
-The Rouen prosecutor's office earlier said the train driver had tested negative for drugs and alcohol.
-The train derailed near Cléon, just south of Rouen, shortly before 20:00 (18:00 GMT), and some 140 firefighters and other emergency teams were immediately deployed to the crash scene.
-"Suddenly there were a few jolts, and then after about three seconds it got stronger and stronger," Louis, a passenger on the train, told ICI Normandie radio.
-"I couldn't stay in my seat anymore. The windows partially shattered, the stones from the track came into the carriage. It was really shocking. I'm still shaking," he added.</description></item><item><title>Best friends for decades - until a DNA test revealed they were sisters</title><link>https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&amp;at_campaign=rss
+Iconic Canadian pop singer Céline Dion has kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.
+The 58-year-old superstar was diagnosed with a rare neurological disorder called stiff person syndrome in 2022, which forced her to pull back from touring.
+Dion, one of the best-selling musical artists of all time, has not performed a full show since a 2020 concert in New Jersey - the last before the Covid pandemic cut her tour short. In 2024, she performed just one song at the Paris Olympics closing ceremony.
+Saturday marked the first of Dion's 26-show residency at the Paris La Défense Arena, Europe's largest covered concert arena.
+"I made a promise," she told the Paris audience of about 30,000 people in her emotional return.
+"I made a promise to come back, to be back on stage. And here I am. Singing for you, and singing for me," she said.
+"I am everything I am because you loved me," she told the crowd.
+She also broke down in tears after finishing a song, telling the audience: "I had promised myself not to cry."
+"But I'm so happy to see you all. I missed you."
+They weren't the only tears of the night, as the star appeared to be overcome with emotion several times.
+Dion will be performing in Paris throughout September and October and into the New Year.
+The Mirror's Lucy Needham, external noted that the singer was 50 minutes late to start, and may have needed extra time to "compose herself" for the "emotionally charged return".
+"Eyes-brimming, the veteran singer gave herself little nods of approval after every line, before finally breaking down at the end of the track, seemingly overwhelmed at having made it through."
+After beginning her set in a black gown, she later changed into a trouser suit "to show off some of those signature kooky dance moves," says Needham, adding that she appeared "to be having the time of her life, gyrating and slapping her thighs with glee".
+The night was a "a tense, tearful, joyous affair probably even more so for the singer than for her loyal audience," writes The Telegraph's Neil McCormick, external.
+She started out slow, he says. "Her voice sounded fragile and exposed, but at least it was her distinctive voice, not some autotuned approximation."
+"At first, she was clearly struggling to hold herself together," he continues. "Her vocals wobbled dangerously, as if about to crack or collapse. But she was gaining confidence with every moment back on stage."
+She broke down in tears as the audience roared in approval after the first song, and addressed the crowd in both French and English during the set.
+"This was a high-stakes, high-wire return, perhaps the riskiest comeback in the history of showbusiness," McCormick continues, referring to her health condition.
+But he concludes: "I honestly think I prefer this less superhuman Céline. Her voice is still great, but a bit more raw and real, with a rougher tone, less smoothness in the runs and more edge to her whoops and shrieks."
+Sarah Leavitt, reporting from Paris for the Canadian Broadcasting Corporation (CBC), external, said the crowd "was left without words" by the stunning performance.
+She noted that she didn't want to cry, but "of course she cried right away."
+Dion also "endeared herself" to the crowd by saying during one song that she wanted to stop and start over.
+Will Hodgkinson at the Times of London, external writes in his review, "miraculously, her art will go on," that the performance was "overwhelming".
+She "looked suitably humbled and tearful" as she emerged, he said, going on to praise the stage direction.
+"Truly, she was throwing the love at the crowd, who threw it right back at her. There was no holding back. It was quite overwhelming, actually," he writes.
+The performance was "complete with both costume, key change and air of tragic, important romance".
+"Céline Dion's strength lies in being a diva with the common touch while being as French as they get, even if she is Canadian. She fulfilled that role with all the verve you could hope for," writes Hodgkinson.
+"The concert had a spiritual feel, with visual interludes steeped in biblical imagery alluding to a pilgrimage," Elsa Keslassy writes for Variety., external
+In video clips, Dion is seen wandering in a desert. "The set design was highly cinematic, with a monumental staircase sweeping up one side and a moon dominating the stage, while the backdrop appeared to have a stark, almost brutalist gray texture."
+The star, known for power ballads like My Heart Will Go On and Because You Loved Me, has said she will not let her diagnosis control her life.
+"The way I see it, I have two choices. Either I train like an athlete and work super hard, or I switch off and it's over," she told French Vogue magazine, external in 2024.
+"I've chosen to work with all my body and soul, from head to toe, with a medical team."
+When Dion announced the first leg of her Paris residency back in March, nine million fans signed up for early access tickets to the concerts, French outlet FRI reported.
+The shows sold out so fast that her management company soon announced an additional 10 shows scheduled for May 2027, which have also since sold out.
+Fans who were unable to snag tickets to one of the highly anticipated shows have not been left out entirely - events honouring Dion's comeback have dominated Paris in recent weeks.
+Céline Dion tribute boat cruises on Seine - complete with costume contests, sing-alongs, DJ sets, are happening throughout September.
+Ahead of Saturday's show, fans gathered outside Dion's Paris hotel, LeRoyal Monceau, as early as 06:00 local time to catch a glimpse of the star.
+Paris City Hall organised a massive karaoke event on Friday night, attended by thousands, to celebrate Dion's return to the stage.
+"I couldn't get tickets to the concert. I'm still keeping my fingers crossed and hoping, but I thought to myself: at least I can share a moment here with all the fans," Rania, a participant at the event, told Reuters.
+Earlier this week, thousands of fans also gathered at a historic theatre in central Paris for two nights of karaoke and activities inspired by Dion's music.
+And Paris venues and night clubs are hosting Dion-themed events around the city on Saturday night for fans who couldn't get tickets to the actual show.</description></item><item><title>Best friends for decades - until a DNA test revealed they were sisters</title><link>https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -407,102 +602,7 @@ Related topics
 More weekend picks
   - Published30 August
   - Published7 June 2025
-  - Published2 November 2024</description></item><item><title>'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders</title><link>https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders
-- Published
-For Ndaikech Ali, who has been traversing the streets of the Kenyan capital eking out a living as a tuk-tuk driver for the past nine years, Nairobi's traffic - not xenophobia - has been his biggest concern.
-During his time in the East African nation, the Burundian says he has always found Kenyans to be friendly and welcoming - that is until last week, when the president ordered a crackdown on foreigners working as traders or operating small-scale businesses.
-"Now they have turned against us," he told the BBC at the Burundian embassy in Nairobi where many have been queuing this week for documents to allow them to travel back home.
-"The threats are many… even from children," he said, adding: "It's a like a dog has been set loose upon us. We have been bitten."
-President William Ruto made his remarks last week when addressing Kenyan traders gathered at state house - in reference to legislation before parliament that seeks to exclude foreign nationals from petty trade and to mandate the local sourcing of certain materials.
-During his speech, he said that all foreign nationals operating small businesses had until 7 September to pack up shop, saying such low-level jobs should be reserved for Kenyans.
-Ali, like others, panicked, saying it seemed the president's announcement had been interpreted by some Kenyans as a signal that foreign nationals were no longer welcome in the country.
-"We face harassment and can't work," he says. "If our work is stopped, we lose the income that enables us to pay rent and buy food. When those jobs are taken away, the only option left is to return home."
-Now he's gone, who will help me pay school fees"
-Other Burundians and some other foreign nationals have rushed to border crossing points to leave the country, with reports suggesting that a number have ended up stranded there.
-Some couples fear they will be forced to separate - and some families have already been divided.
-"I have been here from 2019," said a Burundian man, who identified himself only as Prosper and who has a child with a Kenyan woman.
-"When I heard the announcement, it was very painful because when I go, I'm forced to leave my family... and I love my family," he told the BBC.
-In Nairobi's low-income neighbourhood of Majengo, Kenyan Grace Wamaitha said her Burundian husband had already gone - leaving the day after the president's 3 September directive.
-She is distraught as she has been left trying to feed their five children - and has taken on extra work washing clothes.
-"Now he's gone, who will help me pay school fees? I don't know what to do. Let them come back," she told the BBC.
-In Nairobi and other major towns, migrants from the region can be found working in barber shops and salons, construction, operating motorbike taxis and street vending, as well as selling clothes, food and household goods.
-Some have fled conflicts or economic hardship at home, while others have moved to Kenya in search of better opportunities. Within the East African Community (EAC), a regional bloc made up of eight countries, including Burundi and Kenya, the relative free movement of people is allowed - but employment and long-term residence do require permits.
-Kenyan law also recognises the right of refugees to work and operate businesses, although they are also required to obtain the appropriate documentation.
-Filmon Eyob, a co-ordinator within Nairobi's Eritrean community, agrees with concerns that the crackdown order will be used as pretext to harass foreigners.
-He told the BBC that while many Kenyans had been supportive and welcoming, some Eritreans and Ethiopians had closed their businesses and stayed at home over the last week as a precaution.
-The president's remarks also sparked a diplomatic row, with the Burundian foreign affairs minister warning that "hate speech against Burundi" could have repercussions for Kenyans abroad.
-The authorities in Kenya have struggled to contain the fallout - and as the matter came to a head, Kenyan foreign affairs official Korir Sing'Oei visited and apologised to Burundians at the embassy this week, assuring them of protection from violence.
-Critics argue that Ruto's remarks were a populist move that risked stoking xenophobia, although the government has denied this.
-Since then, a series of official statements have sought to clarify the directive.
-The government has now given a 90-day window for undocumented foreign nationals running small business to register and comply with local laws. During the process, those undergoing registration will be presumed to be living legally in Kenya.
-Yet observers and those affected argue that it did not have to be this way.
-Academic Hesbon Owilla told the BBC the president's comments were bound to be misinterpreted, especially by people who did not have the right documentation.
-He says that while the proposed policy is good for Kenya and in line with global migration protocols, the communication about it ought to have been more diplomatic.
-For those not in the audience, Owilla says people interpreted the president words as saying: "We are kicking these guys out."
-The president did not stop at small-scale traders. A day later, he ordered India's Tata Chemicals to leave the country, saying the company had not provided sufficient benefits to the local Maasai community in Kajiado county.
-Tata has been mining soda ash for years in Lake Magadi, a vast area often covered by a whitish salt crust. The lake's extreme briny environment sustains algae blooms that attract flamboyances of pink flamingos that thrive in the area.
-Mining operations began at the lake in 1911 under a British colonial arrangement that is said to have remained largely intact, despite long-running land and resource disputes pitting the company and its predecessors against community and the government.
-Economist Odhiambo Ramogi argues that the move to restrict foreign nationals from businesses is too broad - and could do with finessing.
-He points out that Kenya hosts hundreds of thousands of refugees as well as other migrants, mostly from the EAC region, as well as other international investors.
-Ramogi says that Ruto's intention seemed to go beyond "just protecting jobs for Kenyans".
-The president's remarks have prompted a wave of support for foreign nationals, including by civil society groups and ordinary Kenyans who have criticised his approach.
-In the wake of the criticism, Ruto, who is up for re-election next year, has sought to counter the backlash.
-"Kenya will remain an open, secure and welcoming country, protecting opportunities for its citizens, safeguarding the rights of all persons lawfully within its borders," a statement by his spokesman said.
-"Kenya's commitment to the East African Community of the African continent remains firm."
-Ramogi says that in the end, it is Kenya that stands to lose when citizens of neighbouring countries are targeted.
-He points out that Kenya earned $56m (£41m) in exports to Burundi last year, adding that the country would still benefit by allowing competition, as "locking out aliens simply means you don't want a competitive economy that gets to grow a lot faster".
-"Now, if you got $56m out of a country, why are you worried about a hawker who's just trying to make, say, $200 in a month?
-"It absolutely makes no sense what the president has done."
-For Nairobi resident Lima Kabura, whose husband is Tanzanian, the president's remarks were just too hasty. She says he should have first established those who were in the country illegally.
-"When they are forced out, I'm left with no work, no business and no husband," she said.
-Additional reporting by Ahmed Bahajj
-You may also be interested in:
-- Kenya's chai lovers are not happy as the nation's cows run dry 
-  - Published4 September
-- 'We live in fear' - forced expulsions taint Kenya's safe haven image 
-  - Published7 November 2024
-Go to BBCAfrica.com, external for more news from the African continent.
-Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external</description></item><item><title>Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war</title><link>https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
-- Published
-The Houthis' lightning advance across the southern reaches of the Tihamah – Yemen's arid coastal plain – appears to have taken most observers by surprise.
-Until recently, the anti-Houthi coalition known as the National Resistance held significant territory along Yemen's Red Sea coast. In a matter of days, much of this has fallen to the Houthis.
-According to some estimates, the Iranian-backed rebels have captured as much as 130km (81 miles) of the country's strategically important coastline.
-It's the group's most impressive military coup for several years, proving that despite a civil war that has lasted 12 years, devastating Saudi air raids and attacks by American, Israeli and British forces, the Houthis remain a force to be reckoned with.
-With their opponents stunned and demoralised, it's unlikely the Houthis will be dislodged any time soon.
-"Now that they are there, they're going to be entrenched," Hisham al-Omeisi, senior analyst at the Brussels-based European Institute of Peace, told the BBC. "And it's going to be a lot more costly to push them out."
-Of course, the Houthis are not alone. They enjoy the backing of Iran, support that has become even more important for Tehran in the wake of the setbacks and defeats experienced by other parts of its so-called "Axis of Resistance" – Lebanese Hezbollah, Hamas in Gaza and the Assad regime in Syria.
-"So they redirected their support to the Houthis," al-Omeisi said. "And of course they need that support."
-Even though most analysts agree that it's a mistake simply to describe the Houthis as Iranian puppets, events of the past few days raise an uncomfortable new reality.
-Seven months after the US and Israel launched their huge, combined assault on Iran, the regime in Tehran now exerts authority over not just one, but two of the world's most important maritime passages: the Strait of Hormuz, at the mouth of the Persian Gulf, and the Bab al-Mandab, gateway to the Red Sea (and the Suez Canal).
-"Now Iran, directly and through proxies, controls two of the most strategic choke points in the Middle East and the world," says Farea al-Muslimi, a research fellow at London's Chatham House think tank, "controlling more than 35% of the fuel and oil trade globally."
-"This is as much leverage as a nuclear bomb," he says.
-If the Houthis have also taken control of several key islands in the Red Sea, including Perim - which sits in the middle of the narrowest point of the Bab al-Mandab - then the group's ability to interfere with international shipping will be greatly enhanced.
-As the group's actions in the wake of Israel's war on Gaza proved, shipping in the Red Sea is highly vulnerable to Houthi missiles, drones and small attack boats.
-"They were able to control what was going in and out of the Bab al-Mandab and up towards Suez without having these territorial gains," Yemen expert Iona Craig told BBC Radio 4's Today programme on Friday.
-"But of course now they're controlling the area immediately overlooking the Bab al-Mandab, and this gives them far more leverage."
-Shipping companies are likely to be sceptical about the sincerity of a statement released on Friday afternoon, in which the Houthi military said that maritime navigation was "safe for all companies except for Saudi vessels, which have already been subject to a blockade".
-In their earlier attacks, the Houthis said they were only targeting vessels linked to Israel, but in fact hit ships with no such connection, including a Norwegian-flagged tanker.
-Craig said the Houthis may nevertheless refrain from indiscriminate attacks, fearing a repeat of Operation Rough Rider - six weeks of major US air and naval strikes in the spring of 2025.
-"They've already felt the wrath of the US," she said.
-But would the US want to get involved anyway?
-President Donald Trump's war with Iran is already unpopular. With oil prices creeping back up, it's doubtful that a new front would do much to enhance his approval ratings or his Republican party's chances in November's midterm US elections.
-According to the Axios website, appeals for US intervention from the Saudi Crown Prince Mohammed bin Salman have so far gone unanswered.
-Axios writes that the US "is increasingly concerned about the escalating conflict in Yemen and is working to intensify its support for the kingdom while simultaneously seeking to avoid direct military involvement".
-But it's not just the potential threat to the Bab al-Mandab that's causing fear in Saudi Arabia.
-Satellite images of an apparent Houthi missile-and-drone attack on Saudi Arabia's East-West pipeline – a vital alternative route for oil exports following the closure of the Strait of Hormuz earlier this year – point to an effort by Iran's Yemeni allies to add to the economic pressures generated by the US-Israeli war with Iran.
-Even if Iran did not directly order the attack, it clearly stands to benefit.
-Baraa Shaiban, a researcher and analyst at the London-based Royal United Services Institute, says the origins of the latest upsurge in fighting – the worst since a United Nations-brokered truce in 2022 - can be traced back to July, when a Houthi delegation returned from the state funeral of Iran's Supreme Leader, Ayatollah Ali Khamenei.
-"Immediately after, the escalation started," he says, "and it looked very clearly that [Iran was] determined to now have a bigger foothold on the Red Sea".
-With Yemen teetering on the edge of a return to all-out war, Saudi Arabia anxious about preserving its economic lifeline to the Red Sea and Donald Trump apparently reluctant to get involved, America's conflict with Iran just took on a new and potentially dangerous dimension.
-For the people of Yemen, displaced, bombed, starved and impoverished by a dozen years of civil war, recent developments can only make their lives worse.</description></item><item><title>Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe</title><link>https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&amp;at_campaign=rss
+  - Published2 November 2024</description></item><item><title>Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe</title><link>https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -563,7 +663,7 @@ Museum heists are not increasing everywhere in Europe. In Sweden, major museum t
 The challenge for museums now is increasing security while also staying open to the public.
 "A museum cannot be a fortress," Hollein says. "We want to be open institutions; at the same time, we are facing new challenges and attacks against museums that will require new standards."
 Additional reporting by Madeleine Lake.
-  - Published4 days ago
+  - Published5 days ago
   - Published20 October 2025</description></item><item><title>Céline Dion fans prepare for comeback concert in Paris</title><link>https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
