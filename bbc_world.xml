@@ -6,27 +6,25 @@
 Anthropic boss Dario Amodei calls for AI development to slow down
 - Published
 The head of AI company Anthropic has called for the pace of development of artificial intelligence models to slow down and to be closely monitored.
-In an essay on Saturday, Dario Amodei said developing AI was not in question, but the risks associated with it were "serious" and companies and governments must be given time to address them.
-The heads of two rival AI firms, Sam Altman of OpenAI and Elon Musk, have both said they agree with Amodei.
-There have been growing concerns recently about the technology's potential risks, the most serious of which suggested there is a greater than 10% chance it "could kill all humans" within the next decade.
-Anthropic previously said it had identified and disrupted attempts to use its AI model for "malicious activity" which could support the development of biological weapons.
-But the starkest warning came from two employees from Anthropic's safety team who have resigned in the last two weeks saying humanity may not survive, external the race among AI companies to develop machines that are smarter than humans.
-Amodei proposed a three-point plan that includes independent monitoring of AI models as they are developed, industry-wide regulation and global regulation.
+In an essay, Dario Amodei said developing AI was not in question, but the risks associated with it were "serious" and companies and governments must be given time to address them.
+The bosses of two rival AI firms, Sam Altman of OpenAI and Elon Musk, have both said they agree with Amodei.
+There have been growing concerns recently about the technology's potential risks. An AI researcher who left Anthropic this week told the BBC that "if we don't slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future".
+Jacob Coxon told Laura Kuenssberg that people working at AI companies were "genuinely frightened... genuinely concerned about the fate of humanity in the next two years".
+"It's not at all an exaggeration to say that the people who are involved with both founding these companies and building the tech believe there is a possibility of human extinction," Coxon said.
+"Many of the people who are sort of deep in the weeds on actually coding the thing believe that there is like a greater than ten percent chance, or even greater. Some smaller, but they all have different numbers for a probability that humans might die. And they all keep this in their head on a daily basis while working on the technology."
+In Amodei's essay, called We Must Pace the Frontier and made public on Saturday, he proposed a three-point plan that includes independent monitoring of AI models as they are developed, industry-wide regulation and global regulation.
 As his proposal made the rounds, even competitors voiced support for the idea of third-party monitors who could evaluate the safety of models as they are developed.
 "I agree with Dario that we need to pace the frontier," wrote OpenAI CEO Sam Altman on X. He called independent evaluators "a great idea."
 In a new interview with Fortune Magazine, Altman had sounded similar safety concerns, saying standards were "not at a place" to push AI capabilities much further.
 He added that he believed AI beyond human control is "absolutely" possible.
 Elon Musk meanwhile said the Anthropic boss was "right".
 The warnings have prompted calls to action, but US President Donald Trump has so far rejected such fears, saying on Thursday he was concerned "if we don't win AI, we're going to be put in a very bad position".
-Some observers have also suggested that Amodei's post may be less about safety than about consolidating control over AI technology.
 Cyber-security concerns have grown as new models have exhibited more and more powerful hacking capabilities.
 Anthropic withheld its Mythos model from public use when it was announced in April that it could independently escape the testing environment, known as the sandbox.
 In the run-up to the release of its most recent Astra model, OpenAI cited cybersecurity concerns as it explained it had paused certain aspects of the model's development.
 Safety has also taken centrestage in the rivalry between Anthropic and OpenAI.
 Amodei, who had previously worked as a vice president at OpenAI, has said he co-founded Anthropic in 2021 so he could build safer and more trusted AI models.
-- Dramatic insider warnings over AI fall flat with some in Silicon Valley 
-  - Published2 hours ago
-In his essay, called We Must Pace the Frontier, Amodei pointed out that AI had advanced "drastically faster" including its "ability to build the next generation of AI" - and mentioned an incident involving rival OpenAI which has revealed that agents conducted cybersecurity attacks, external on targets they were not asked to attack in July.
+In his essay, Amodei pointed out that AI had advanced "drastically faster" including its "ability to build the next generation of AI" - and mentioned an incident involving rival OpenAI which has revealed that agents conducted cybersecurity attacks, external on targets they were not asked to attack in July.
 The OpenAI agents had "essentially acted as a fanatically devoted collective", Amodei said. OpenAI has said it is slowing down training of certain advanced AI models and tools as a result.
 Amodei called for "building AI at a balanced rate that aims to ensure its safety while still achieving its benefits".
 This would not mean "halting model training or technical progress, but ensuring companies take adequate time to align and safeguard their models, and for third party evaluators to confirm this".
@@ -36,10 +34,11 @@ The Anthropic CEO went on to address the impact that a slowdown would have on th
 "I believe that if slowing down bought us even an extra year or two before models reach critical levels of capability, and we used that time to advance alignment, we could greatly reduce the risk that something goes seriously wrong," Amodei said.
 This would have to be done in a co-ordinated manner "without sacrificing commercial advantage or the United States' lead in AI". Any slowdown would have to be limited, he said, to avoid allowing China to pull ahead.
 He urged the US government to take measures so that US companies' AI chips could not be sold to China - or the technology shared with authoritarian countries.
+His former employee, Jacob Coxon, told the BBC, however, that the initiative to slow down must go beyond the US - "there'll need to be some sort of co-ordinated slowdown with China if we're going to avoid a race at an international scale".
 Amodei's post has prompted a wide range of responses.
 Clement Delangue, the CEO of the AI platform Hugging Face, said he was launching a new project called the Open Alignment Initiative, adding he wanted to be among "embedded evaluators" that Amodei proposed could be part of a solution.
 Hugging Face was hacked by OpenAI agents earlier this year prompting an outcry over AI safety.
-"Let's make AI safer by making it more transparent." Delangue wrote on X.
+"Let's make AI safer by making it more transparent," Delangue wrote on X.
 Elon Musk also voiced his support, writing that "Dario is right".
 Musk, whose SpaceXAI makes the controversial chatbot Grok, once called Anthropic "evil" but has changed his tone since signing a $15bn deal to sell compute capacity to Anthropic in May.
 However some observers suggested that Amodei's post was less about safety than about consolidating control over AI technology.
@@ -47,7 +46,7 @@ However some observers suggested that Amodei's post was less about safety than a
 Notions of slowing down or even pausing AI development have long been met with such cynicism in certain corners of Silicon Valley, with critics accusing leading AI developers of hyping their technology as a marketing ploy.
 Anthropic and OpenAI are both reportedly preparing for potentially record-setting initial public offerings.
 - Why some experts increasingly fear AI will take over 
-  - Published2 days ago
+  - Published3 days ago
 - The contradiction at the heart of the trillion-dollar AI race 
   - Published19 November 2025
 Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.</description></item><item><title>Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq</title><link>https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&amp;at_campaign=rss
@@ -86,75 +85,102 @@ Challenges were particularly acute in diesel markets, he said, where prices have
 "Unless the situation across the Middle East improves, crude oil prices are likely to return to the peak of $120 per barrel seen earlier in the Iran war and could go even higher," he said.
 Additional reporting by Meghan Owen
 Related topics
-  - Published21 hours ago
-  - Published1 day ago</description></item><item><title>A united Ireland would be 'fantastic' says Trump during Irish visit </title><link>https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&amp;at_campaign=rss
+  - Published1 day ago</description></item><item><title>They lost their jobs after posting about Charlie Kirk, but some have no regrets</title><link>https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-A united Ireland would be 'fantastic' says Trump during Irish visit
+They lost their jobs after posting about Charlie Kirk, but some have no regrets
 - Published
-US President Donald Trump has said he would love to see a united Ireland while at a meeting with the Taoiseach (Irish Prime Minister) during a visit in Dublin.
-Trump is on a two-day visit to the country where earlier he had a courtesy call with the Irish President Catherine Connolly at the Áras an Uachtaráin - the official residence of the Irish president.
-He attended meetings in Dublin, before travelling to County Clare for the Amgen Irish Open golf tournament.
-Trump said a united Ireland would happen eventually and that the Taoiseach was "the right man over here to get it moving".
-Meanwhile, more than 10,000 people marched through Dublin to show their opposition to the US president.
-During his meeting with Micheál Martin at Farmleigh House, in Phoenix Park, Trump said a united Ireland would be a "fantastic thing", and added: "now the UK would have something to say about it obviously but I think it would be a great thing, I mean, how can it be bad?"
-A spokesperson for Number 10 referred to Prime Minister Andy Burnham's words on Wednesday in the House of Commons that he "will stick to it (the Good Friday Agreement) 100%".
-On Wednesday, Burnham added that "the question of a border poll" was for the Northern Ireland secretary "when there is clear consensus in the country - when public opinion has changed to the point at which the call has to be considered".
-A spokesperson for Martin said Trump's comments should "come as a surprise to no one" and the US president has been "consistent in his view that he sees unity in Ireland as the optimal outcome".
-The Good Friday Agreement says the secretary of state must hold a border poll if it appears likely that a majority of people in Northern Ireland would vote for Irish unification - and the circumstances of when that could happen is the subject of constant debate in Northern Ireland and the Republic.
-Earlier this week, Martin said there needed to be more clarity on when a border poll can be called, while Burnham ruled out calling a referendum, describing a poll as "off the table".
-Sinn Féin leader Mary Lou McDonald said she acknowledged Trumps comments on a united Ireland and said the onus is on the Taoiseach to begin planning.
-Democratic Unionist Party (DUP) leader Gavin Robinson said Trump "knows better than most that elections matter".
-"Northern Ireland's constitutional future will be decided by the people of Northern Ireland, not by commentary in London, Dublin or Washington," he said.
-Former DUP MP Ian Paisley and close friend of the Trump family said: "everyone is allowed a personal opinion even when it's wrong".
-Welcoming his comments, the leader of the Social Democratic and Labour Party (SDLP) Claire Hanna said there was something "fairly extraordinary" about Trump standing in Dublin and talking openly about Irish unity.
-"When even Donald Trump has clocked that Irish unity is no longer some distant or theoretical prospect, it tells you something about just how far this conversation has shifted."
-The Ulster Unionist Party (UUP) leader Jon Burrows said while America is an "important ally," Northern Ireland's future will be decided by its people".
-The Traditional Unionist Voice (TUV) leader Jim Allister said Trump "is not the first US President to meddle in the affairs which don't concern him".
-Ireland's Foreign Minister Helen McEntee said: "Something to this magnitude can only happen where there's consent from the Irish people.
-"It's something that that we have to work on and we have to work towards."
-Later, while attending an event at the US Ambassador to Ireland's residence, Trump said there is "no good answer" to a question about a united Ireland.
-Recalling the moment, he said: "Oh that's a nice question, I have a nice answer, I think, we'll read about it tomorrow."
-Trump also said his country's relationship with Ireland is "stronger than ever".
-During his meeting with the Taoiseach, Trump said: "We've a big relationship with Ireland."
-"The two countries do very well together," he said, adding: "It's never been as good as it is right now."
-He said they discussed various topics, including trade.
-President Connolly, an outspoken Gaza activist who has been critical of the US, said that she told the US president that "the normalisation of war and genocide can never be accepted".
-The two heads of state met earlier on Saturday morning.
-Connolly faced pressure from left wing parties who backed her at the presidential elections in 2025 to raise Gaza with Trump.
-"As a country which has suffered famine, colonisation and the violence of the Troubles, but also the importance of the long and challenging road to peace, I emphasised the unique insight which Irish people can bring to the resolution of conflict," she said in a statement issued after the meeting.
-Irish authorities have been planning for Trump's visit for months in what is one of the biggest security operations in the history of the state.
-Allow X content?
-This article contains content provided by X. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read X’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’.
-On Friday night Trump boarded Air Force One at Joint Base Andrews in Maryland, near the US capital Washington DC, and flew out for his trip to Ireland.
-He visited the Republic in 2019, when he spent time at his golf course, but he also visited in 2023.
-Protesters turn out against Trump
-The protest against Trump began near O'Connell Street in Dublin and took 31 minutes to pass.
-Although President Trump left the city just as the protest began ,organisers said they wanted to send out a message of opposition to him and his policies.
-Among the protesters were Adrian and Tawnie.
-Originally from California, Tawnie thinks Trump's presidency has been "a disgrace and an embarrassment".
-Adrian said Trump "serves the mantra of money makes the world go around".
-"He serves a billionaire class, I just don't like him."
-The common theme of posters and chants was the US involvement in the Israel-Gaza conflict.
-Ireland is one of the most pro-Palestinian countries in the EU, and many attending the protest were hoping to send a message.
-Angela Jennings and Margot Feely said the US president's attitude to the Middle East was "reprehensible".
-"He's causing chaos around the world, there's a war going on in Iran that isn't necessary and it's impacting the whole world," Margot said.
-Protesters also gathered in Doonbeg, a few miles from Trump's hotel where he will attend the Irish Open.
-He will be accompanied by his sons Eric and Donald Trump Junior.
-There is a heavy Garda (Irish Police) presence, road closures and countless tricolour bunting through the village.
-Sixty-year-old Jessie Phillips is in Doonbeg to protest.
-She lives in County Clare but is originally from Tennessee and said she was protesting as a "concerned member of the public".
-"I just want him [President Trump] to see my placard so he knows I don't care for him and that my family doesn't care for him and that he's not welcome here or over there in my opinion."
-Jenelle Jones is in Doonbeg but is originally from New York City.
-"I think especially as a US citizen I feel the need to show that we don't all agree with him and we want him out," she said.
-Caolann O'Dwyer is from Lahinch, County Clare.
-I hope our activity here changes the minds of some people," he said.
-"I think our overzealous approach to this welcome is fundamentally crazy."
+In September 2025, Gerald Bourguet felt he was finally living his dream life: he and his wife had bought a house with a pool, they had just welcomed a baby boy, and he was writing about professional men's basketball as his full-time job.
+But all of that changed after he made a series of online posts critical of the late conservative activist Charlie Kirk hours after he was fatally shot on 10 September, while speaking on the campus of Utah Valley University.
+In the posts, Bourguet described Kirk as an "evil man" and suggested he had dedicated his life to hateful causes. He also criticised Kirk's supporters saying they had not been vocal about school shootings.
+"I had seen the way that people were talking about this person - kind of eulogising him and lionising him and it bothered me based on a lot of the things that he had said," Bourguet told the BBC.
+Kirk, who founded Christian youth organisation Turning Point USA, was a divisive figure in US politics. For many on the political right, he was charismatic and had a unique skill in making conservative ideas appeal to young people. But for his opponents, his comments on a large swathe of issues from race to immigration, gun control and gender identity were deeply offensive.
+Screenshots of Bourguet's critical posts went viral quickly. He was fired from his job, his address was exposed online, and he began receiving threatening text messages, he said. Concerned for their safety, the family fled the state with their four-month-old. They returned months later to sell the house and permanently relocated.
+A year later, he says he doesn't regret what he said, but acknowledged: "My life will never be the same after this".
+"At age 35, I am having to start over in a lot of respects… I wouldn't wish this on my worst enemy," Bourguet said from his new location, which the BBC agreed not to disclose.
+PHNX Sports, Bourguet's former employer, did not respond to the BBC's request for comment.
+Bourguet was one of hundreds fired or disciplined over critical comments of Kirk after his death. While some of those who have lost their jobs have been reinstated or received restitution - sometimes in the millions - others like Bourguet have had to rebuild from scratch.
+'Call their employer'
+In the aftermath of Kirk's assassination, most people kept their feelings to themselves, or shared them with close friends.
+But on polarised social media, people rushed to laude, or denounce, the controversial activist. Some called the criticisms, posted hours after his death, tasteless. But others called for swift action, arguing they were callous, mocking, and could even incite further violence.
+Laura Loomer, an influential right-wing commentator with nearly 2 million followers on X, warned Kirk's critics to "prepare to have your whole future professional aspirations ruined".
+The push for punishment also came from the highest levels of US government.
+"When you see someone celebrating Charlie's murder, call them out," Vice-President JD Vance said days after the assassination. "And hell, call their employer," he added.
+White House spokesperson Davis Ingle told the BBC: "Anyone who engages in or endorses political violence or assassination culture must be condemned in the harshest terms possible."
+Critics on the left said there was a difference between criticism of Kirk and celebrating his death. Some accused these conservative leaders of hypocrisy, as many had previously bemoaned the rise of "cancel culture" – where people who voice controversial opinions face severe consequences at work and socially.
+"Cancel culture can be good, it's bad when it's applied in the wrong ways," Jordan Pace, a Republican member of the South Carolina House of Representatives, told the BBC. "If you are someone who celebrates political assassinations and the murder of an innocent man with two young children in a way that many people did, then yeah, that's an appropriate way for society to function, to shame those people."
+Pace had previously called for defunding universities in his state if they didn't take actions against employees who made comments about Kirk. One of his posts was re-shared by US President Donald Trump.
+Across the nation, some employers – private and public – acted swiftly to the pressure campaign. Reliable figures on the number of people fired or disciplined are hard to come by, but a Reuters tally last November found more than 600 instances. It is likely an under-count because not all cases received national or local press attention.
+The specific actions that led to these disciplinary decisions run the gamut. In Tennessee, anthropology professor Tamar Shirinian was suspended and later fired for a Facebook comment saying "the world is better off" without Kirk.
+A Delta Air Lines flight attendant was fired after posting "good riddance" in response to Kirk's killing. Office Depot supply store fired an employee for refusing to serve a customer who had wanted to print flyers for a Kirk vigil. Delta Air Lines declined to comment. Office Depot did not respond to a request for comment.
+Others were disciplined even if they did not make any direct comments about Kirk or his death. Darren Michael, a theatre professor in Tennessee, was fired after he posted a screenshot of a news article from 2023, that covered Kirk's controversial speech on gun control. In the article, Kirk is quoted saying protecting citizens' rights to own guns was worth it even if it led to some gun deaths every year.
+Florida's Fish and Wildlife Conservation Commission fired biologist Brittney Brown after she reposted a meme that also satirised Kirk's position on gun violence in light of his own shooting.
+"I was absolutely gutted," Brown said about her firing to the BBC. "It was like the entire world just completely flipped on its head in a moment."
+Lawsuits have yielded big pay outs for those fired
+In the year since Kirk's killing, dozens of lawsuits have been filed across the country by people fired for their comments about the activist, arguing their terminations violated their rights to free speech. The suits have led to substantial pay outs in some cases.
+Brown agreed to a $485,000 (£355,000) financial settlement – about 12 times Brown's annual salary.
+Darren Michael was reinstated by the Austin Peay State University and in January, the school agreed to pay him $500,000 to settle legal claims. The school did not respond to a request for comment.
+In the largest settlement reviewed by the BBC, the University of Tennessee agreed to pay $1.9m to resolve a lawsuit brought by anthropologist Tamar Shirinian, over her "better off" comment. As part of the settlement, she will not be reinstated and has agreed not to reapply for future positions at the school.
+Recently, an arbitrator ordered The Washington Post to rehire, with back pay, opinion journalist Karen Attiah, who was fired for her online posts that said in part she was not going to engage in "performative mourning for a white man that espoused violence".
+Several other lawsuits remain pending, the BBC found.
+Most of the legal actions have been pursued by employees of government institutions, or unionised workers, who have some free-speech protections.
+But in the US, most private sector employees work under "at-will" contracts, which means they can be can be fired without reason.
+Even those who have scored some victories don't see it as a win.
+"All I wanted was my job back," biologist Brown said. "How much taxpayer money did they waste on this when I barely made $40,000 a year? So no, it does not feel like justice."
+Shirinian told the BBC she too had wanted to return to her job but felt a legal case could be a lengthy affair.
+"I took a settlement because this allows me to move on with my life," she told the BBC. "The one small regret that I have is that I will not see my day in court and justice will not be served in that way. But I think that the number of the settlement actually speaks to that anyway."
+The University of Tennessee and Florida's Fish and Wildlife Conservation Commission did not respond to the BBC's request for comment.
+'I don't regret what I said'
+As an at-will employee at a private company, Bourguet is unlikely to prevail in a lawsuit challenging his dismissal. A year on, he said he has struggled to find work. The new state he lives in has a professional basketball team, but he believes the ordeal has made him unemployable in the small world of sports writers. Instead, he's started his own podcast, although he doubts he can earn enough through it to pay the bills.
+"I have accepted that that life is over and that I need to start a new one." Leaving the country is now on the table, he said.
+Despite the huge personal and professional costs, those who spoke to the BBC said after months of reflection, they did not regret their actions.
+"I have a right to say what I want to say," Brown said. "They are the ones who should have the regrets, not me," she said referring to her former employer.
+Shirinian apologised to the university days after her suspension. She told the BBC her comment was "an emotional outburst" that was not intended to be public and that she regretted the tone used.
+"I don't regret the sentiment, however" she said, adding "the sentiment was that I am not sad. And I refuse to be made to feel like I have to be sad that someone who was so hateful was killed".
+Bourguet also said he does not regret his comments although he has conflicting thoughts about its consequences.
+"I don't regret that line of thinking because I think it's important to push back on things that are steeped in hatred," he said, referring to Kirk's political message.
+"I don't regret what I said. I don't regret the way that I said it. I do regret the ripple effects that came from it and the way that they impacted me, my career, my family, and my son."
 Related topics
-  - Published3 September
-  - Published2 July
-  - Published1 day ago</description></item><item><title>Fire at nursing home in Chile kills 16 residents</title><link>https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&amp;at_campaign=rss
+  - Published13 September 2025</description></item><item><title>Trump's comments on a united Ireland may have targeted audience across the Atlantic</title><link>https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Trump's comments on a united Ireland may have targeted audience across the Atlantic
+- Published
+When another world leader meets US President Donald Trump the only certainty about what might happen is the uncertainty about what might happen.
+This was exactly the case ahead of President Trump's two-day visit to Ireland.
+Nobody could have predicted that by the end of the first day, the main global headline would be his desire to see a unified Ireland.
+As the shockwaves of his remarks rippled through this island and Great Britain, it was unclear whether this represented a new US administration policy, or an off-the-cuff remark from a president who likes to take questions from reporters, and likes to give answers.
+Former Republican Congressman Mick Mulvaney was Trump's special envoy to Northern Ireland in his first term in office.
+He cautioned against anyone reading too much into the president's remarks.
+"This does not represent a shift in US foreign policy," he said.
+"We're still very much committed to the Good Friday Agreement."
+Democratic Congressman Brendan Boyle agreed.
+"There is bipartisan support for that deal, and that is not going to change."
+Although both agreed that Donald Trump was probably right to say that "eventually" unification would happen, that did not mean the US was about to start pushing for it.
+Giving an answer to a question that is asked at a free-flowing press conference is one thing, but Donald Trump repeated his sentiments a short time later when he was delivering a speech to an invited audience at the US Ambassador's residence.
+In fact it was almost the first thing he mentioned, hinting that maybe he realised he had kicked over a can of worms at his earlier appearance.
+The rest of that speech was curious. It was billed as a 20-minute address to Irish and Irish American business leaders, but was about twice that and strayed largely into domestic US matters.
+President Trump has a speaking style that he describes himself as "the weave".
+He can bounce from topic to topic during any speaking engagement, veering off the script and then returning to the matter at hand.
+Today he lauded his own achievements, as he sees them, such as clamping down on illegal immigration, doing deals and boosting defence production.
+He repeated his criticisms once again of what he views as the UK's lack of support for his military operation in Iran.
+Midterm elections fast approaching
+But who was his target audience? The gathered business leaders in Dublin or a US audience tuning in before it was even dawn in much of that country?
+This November's crunch midterm elections are fast approaching and the Republican party is under intense pressure because of the president's policies.
+They may lose control of one or both houses of Congress.
+About one tenth of the US population claim Irish heritage but they are not a homogeneous voting bloc.
+Was he trying to target Irish-American independent or swing voters in the US, of which there are many who have flip-flopped between the Republican and Democratic party in recent years?
+Some of them do support a unified Ireland and so in this time of chasing every vote, perhaps that played a part.
+Bill Clinton secured a lot of Irish-American support when he was running for president, by promising to get engaged in the peace process.
+They voted for him and he followed through on his promise and much of that work led to the foundations of the Good Friday Agreement.
+But, Irish America is a different place now. Indeed, America is a different place now as politics have become more polarised.
+The November election campaigns show no indication that will change anytime soon.
+But political leaders in Ireland will be hoping the only debate tomorrow is about the play on the golf course.
+  - Published12 hours ago
+  - Published2 days ago
+  - Published2 days ago</description></item><item><title>Fire at nursing home in Chile kills 16 residents</title><link>https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -183,36 +209,7 @@ Forty-four people were treated for injuries, including an 18-year-old woman who 
 The Rouen prosecutor's office earlier said the train driver had tested negative for drugs and alcohol.
 The train derailed near Cléon, just south of Rouen, shortly before 20:00 (18:00 GMT), and some 140 firefighters and other emergency teams were immediately deployed to the crash scene.
 "Suddenly there were a few jolts, and then after about three seconds it got stronger and stronger," Louis, a passenger on the train, told ICI Normandie radio.
-"I couldn't stay in my seat anymore. The windows partially shattered, the stones from the track came into the carriage. It was really shocking. I'm still shaking," he added.</description></item><item><title>Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC</title><link>https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC
-- Published
-Ukraine is facing its "toughest winter" since Russia's full-scale invasion in 2022, a top United Nations official told the BBC.
-Alexander De Croo, head of the UN development agency, said there was a risk of "humanitarian catastrophe" if Russian attacks cut off access to power and water.
-Speaking in Ukraine, De Croo – the UN's third most senior official – accused Russia of systematically targeting the country's energy infrastructure. He said there was now a "race against the clock" to repair the power network before winter sets in and temperatures plummet.
-Russia and Ukraine have been intensifying aerial attacks in recent months, and both deny deliberately targeting civilian infrastructure.
-Russia has started to use faster, jet-powered drones that are harder to intercept in recent around-the-clock attacks on Ukraine - and in particular Kyiv. Many of the strikes have targeted Ukraine's infrastructure, including businesses, warehouses, factories, petrol stations, as well as energy infrastructure.
-Ukraine continues to launch drone strikes deep into Russian territory, largely against gas, oil and business distribution facilities. Both countries deny targeting civilians.
-Deadly attacks have resumed after US President Donald Trump sent envoys for talks in Moscow with Russian President Vladimir Putin and in Kyiv with Ukrainian President Volodymyr Zelensky last weekend.
-Five people were killed and 67 others were wounded in a daytime Russian drone strike on a shopping mall in Pavlohrad, a city in Dnipropetrovsk region, on Thursday, Ukrainian officials say. Earlier in the week two other shopping malls were targeted by Russian air strikes, killing two people and injuring 28 people in the attacks on the cities of Zaporizhzhia and Sumy.
-Russia reported a Ukrainian seaborne drone attack on the resort city of Sochi overnight on Wednesday, in which 28 people were wounded, as well as three more deaths blamed on Ukrainian attacks.
-Two people were also killed earlier this week when Russian drones hit a border crossing between Ukraine and Moldova, which has increasingly found itself caught up in the conflict.
-A full-scale war has been raging between Russia and Ukraine since Putin launched an invasion more than four and a half years ago.
-De Croo, a former prime minister of Belgium, told the BBC: "This winter is going to be the toughest one since the war".
-He said Ukraine started "from a very weak base going into this winter". He added the UN were "very, very worried... about what this winter could become."
-The concerns are driven by what De Croo said was Russia's "very systematic" targeting of civilian and energy infrastructure.
-"This is petrol stations, it's shopping malls, it's business centres, but it's especially energy infrastructure, energy transmission lines, and so on. There is absolutely no justification for that," he said.
-This could lead a "worst-case scenario" where people struggled to access energy to run heating, and water and sewage systems stopped working.
-"With the temperatures that you would get here that would lead to circumstances which would be really close to humanitarian catastrophe," De Croo said.
-Winter temperatures in Ukraine can drop to -20C.
-If power supplies and critical infrastructure were severely damaged it could lead to "quite some human suffering", De Croo said.
-Under efforts to prepare Ukraine for winter the UN Development Programme is helping to rebuild parts of its energy system that were damaged last winter. It is also establishing more sustainable and decentralised energy plants, which are less vulnerable to attack.
-De Croo said completing the difficult and dangerous work was "almost an impossible task".
-"They are reconstructing these sites under constant, constant air alarms. And they know that they are working at a site which is a target," he said. "So you try to reconstruct, but part of your day you can't work because it's just too dangerous."
-Related topics
-  - Published2 days ago</description></item><item><title>Uganda's King Oyo buried amid calls for unity over his successor</title><link>https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&amp;at_campaign=rss
+"I couldn't stay in my seat anymore. The windows partially shattered, the stones from the track came into the carriage. It was really shocking. I'm still shaking," he added.</description></item><item><title>Uganda's King Oyo buried amid calls for unity over his successor</title><link>https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -253,7 +250,54 @@ A survivor who was hauled to safety on a rescue boat told the BBC he had heard f
 The ferry, built in 2002, held valid safety certificates and passed an enforcement inspection in March, but investigators are looking into potential manifest discrepancies, cargo loading integrity, and crew emergency response protocols, the Palawan Daily reported.
 The vessel was carrying 117 passengers and 17 crew members.
 Atienza Interisland Ferries, the vessel's operator, has pledged full co-operation with the inquiry.
-  - Published1 day ago</description></item><item><title>Record heatwaves in France set to make champagne stronger</title><link>https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&amp;at_campaign=rss
+  - Published1 day ago</description></item><item><title>Afghan woman deported from US in first use of 'alien terrorist' court</title><link>https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Afghan woman deported from US in first use of 'alien terrorist' court
+- Published
+An Afghan woman living in Texas with legal US permanent residency has been deported from the country in the first-ever use of a secretive court.
+Nazira Haji Zada, 47, chose to leave the US rather than continue to argue her case before the Alien Terrorist Removal Court, according to the US Department of Justice (DOJ) and her lawyers.
+The Alien Terrorist Removal Court was created in 1996, but had never heard a case before the proceedings in July. It is meant for non-US citizens facing terrorism-related charges when the evidence is confidential and related to national security.
+Lawyers for Haji Zada argued that the case violated her right to due process under the US Constitution.
+Afghanistan citizen Haji Zada was never charged with a crime, but prosecutors had tried and convicted her son and son-in-law for terror offenses.
+Her son, Abdullah Haji Zada, and son-in-law, Nasir Ahmad Tawhed, were both found guilty of a plot to carry out a mass shooting on Election Day in 2024, inspired by the group calling itself Islamic State.
+Haji Zada, who has been living in Fort Worth, Texas, was accused by prosecutors of being the "matriarch" of the group, who had worked "to radicalize the family".
+In a statement on Friday, the justice department said she "conceded that she is an alien terrorist and waived appeal of the removal order, terminating her previous [immigration] status".
+"This landmark case, resulting in the prompt removal of this alien terrorist to her country of origin, is a win for national security and the rule of law," said US Attorney General Todd Blanche.
+"Those who support and condone terrorism should not be living in the United States, and this first-ever case before the ATRC shows how the Department will use every tool at its disposal to protect our country."
+Court-appointed lawyers for Haji Zada said they were denied access to the evidence in her case.
+"Our client's choice to consent to removal should not be seen as an endorsement of this court's legitimacy," public defenders Matthew Farley and Mary Manning Petras said in a statement to The Washington Post.
+"Dragging lawful permanent residents into court but refusing to show them or their attorneys the evidence that will be used against them is a plain violation of due process. We are confident that the Alien Terrorist Removal Court will be struck down as unconstitutional as soon as a judge is asked to address the issue," they said.</description></item><item><title>Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC</title><link>https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC
+- Published
+Ukraine is facing its "toughest winter" since Russia's full-scale invasion in 2022, a top United Nations official told the BBC.
+Alexander De Croo, head of the UN development agency, said there was a risk of "humanitarian catastrophe" if Russian attacks cut off access to power and water.
+Speaking in Ukraine, De Croo – the UN's third most senior official – accused Russia of systematically targeting the country's energy infrastructure. He said there was now a "race against the clock" to repair the power network before winter sets in and temperatures plummet.
+Russia and Ukraine have been intensifying aerial attacks in recent months, and both deny deliberately targeting civilian infrastructure.
+Russia has started to use faster, jet-powered drones that are harder to intercept in recent around-the-clock attacks on Ukraine - and in particular Kyiv. Many of the strikes have targeted Ukraine's infrastructure, including businesses, warehouses, factories, petrol stations, as well as energy infrastructure.
+Ukraine continues to launch drone strikes deep into Russian territory, largely against gas, oil and business distribution facilities. Both countries deny targeting civilians.
+Deadly attacks have resumed after US President Donald Trump sent envoys for talks in Moscow with Russian President Vladimir Putin and in Kyiv with Ukrainian President Volodymyr Zelensky last weekend.
+Five people were killed and 67 others were wounded in a daytime Russian drone strike on a shopping mall in Pavlohrad, a city in Dnipropetrovsk region, on Thursday, Ukrainian officials say. Earlier in the week two other shopping malls were targeted by Russian air strikes, killing two people and injuring 28 people in the attacks on the cities of Zaporizhzhia and Sumy.
+Russia reported a Ukrainian seaborne drone attack on the resort city of Sochi overnight on Wednesday, in which 28 people were wounded, as well as three more deaths blamed on Ukrainian attacks.
+Two people were also killed earlier this week when Russian drones hit a border crossing between Ukraine and Moldova, which has increasingly found itself caught up in the conflict.
+A full-scale war has been raging between Russia and Ukraine since Putin launched an invasion more than four and a half years ago.
+De Croo, a former prime minister of Belgium, told the BBC: "This winter is going to be the toughest one since the war".
+He said Ukraine started "from a very weak base going into this winter". He added the UN were "very, very worried... about what this winter could become."
+The concerns are driven by what De Croo said was Russia's "very systematic" targeting of civilian and energy infrastructure.
+"This is petrol stations, it's shopping malls, it's business centres, but it's especially energy infrastructure, energy transmission lines, and so on. There is absolutely no justification for that," he said.
+This could lead a "worst-case scenario" where people struggled to access energy to run heating, and water and sewage systems stopped working.
+"With the temperatures that you would get here that would lead to circumstances which would be really close to humanitarian catastrophe," De Croo said.
+Winter temperatures in Ukraine can drop to -20C.
+If power supplies and critical infrastructure were severely damaged it could lead to "quite some human suffering", De Croo said.
+Under efforts to prepare Ukraine for winter the UN Development Programme is helping to rebuild parts of its energy system that were damaged last winter. It is also establishing more sustainable and decentralised energy plants, which are less vulnerable to attack.
+De Croo said completing the difficult and dangerous work was "almost an impossible task".
+"They are reconstructing these sites under constant, constant air alarms. And they know that they are working at a site which is a target," he said. "So you try to reconstruct, but part of your day you can't work because it's just too dangerous."
+Related topics
+  - Published3 days ago</description></item><item><title>Record heatwaves in France set to make champagne stronger</title><link>https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -283,7 +327,21 @@ Climate change is driving up global average temperatures, making heatwaves more 
 It has been felt acutely in Europe, which is the fastest warming continent, heating up twice as fast as the global average, according to the Copernicus climate service., external
   - Published1 day ago
   - Published5 November 2025
-  - Published4 September</description></item><item><title>Bulgaria investigates fire at weapons  site that owner calls sabotage</title><link>https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&amp;at_campaign=rss
+  - Published4 September</description></item><item><title>Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat</title><link>https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat
+- Published
+Ukrainian tennis player Dayana Yastremska has said her family's flat has been destroyed in a Russian aerial strike on the Black Sea port of Odesa.
+"This is what the 'Russian world' looks like. A direct hit by a Kalibr cruise missile," she wrote on social media, showing a photo of a burning multi-storey residential building.
+"The only thing that survived was a Roland Garros... towel," the 26-year-old added, posting an image of a famous clay orange towel from Paris's Grand Slam tournament hanging from the wreckage.
+Odesa regional head Oleh Kiper said 37 people were injured, including a baby, and two missing in the missile and drone attack on Odesa and nearby Chornomorsk on Friday night.
+"A Russian missile destroyed our apartment in Odesa... SYMBOLIC. A piece of world tennis survived a Russian missile. Our home did not," Yastremska wrote on Instagram on Saturday.
+"@wta @itf_reviews Look at these images through our eyes," she said in a reference to the governing bodies of world tennis - the Women's Tennis Association and the International Tennis Federation.
+Yastremska - who in 2024 reached the semifinal stage of the Australian Open - is currently 113th in the women's world singles rankings.
+It is not the first time Ukrainian athletes' homes have been hit by Russia since the start of the full-scale invasion of Ukraine in 2022.
+Last year, Ukraine international football midfielder Heorhiy Sudakov said his flat in the capital Kyiv had been severely damaged by a Russian drone while his wife and child were at home.</description></item><item><title>Bulgaria investigates fire at weapons  site that owner calls sabotage</title><link>https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -381,52 +439,58 @@ Prosecutors have now opened an investigation to determine whether there was any 
 Friends and supporters were due to gather in Milan on Friday evening to remember her near the spot where her mother was abducted.
 "Denise's entire life revolved between the two extremes of courage and suffering," Luigi Ciotti, president of Libera wrote, calling that a difficult balance.
 "Today, something in that fragile equilibrium was broken forever."
-If you or someone you know are affected by the issues raised in this story, the BBC Action Line has information on organisations that can offer advice and support.</description></item><item><title>'Never, ever forget' - America marks 25th anniversary of 9/11 attacks</title><link>https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&amp;at_campaign=rss
+If you or someone you know are affected by the issues raised in this story, the BBC Action Line has information on organisations that can offer advice and support.</description></item><item><title>Best friends for decades - until a DNA test revealed they were sisters</title><link>https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-'Never, ever forget' - America marks 25th anniversary of 9/11 attacks
+Best friends for decades - until a DNA test revealed they were sisters
 - Published
-Twenty-five years after 9/11, US presidents past and present have commemorated the lives lost when hijacked planes slammed into the World Trade Center, the Pentagon and a Pennsylvania field.
-President Donald Trump led a Pentagon ceremony, while US Vice-President JD Vance attended a memorial at the site of the World Trade Center in New York, along with all four living former US presidents and first ladies.
-Moments of silence were held to mark the timings of the attacks and the names of nearly 3,000 people who died were read out.
-Two beams of light illuminated the Manhattan sky for a Tribute in Light on Friday evening, as other landmarks in the state lit up in blue in commemoration.
-George W Bush, who was president at the time of the attacks, was joined by former Presidents Joe Biden, Barack Obama and Bill Clinton at Friday's ceremony at the World Trade Center site.
-At the Pentagon, President Trump attended a commemoration alongside cabinet secretaries and Condoleezza Rice, who was national security adviser on 9/11.
-"Today we renew the sacred oath that we first swore in their names a quarter of a century ago," Trump said. "We will never, ever forget. That's why we fight today."
-He sought to link the "war on terror" that followed 9/11, which sparked years of US involvement in Middle East wars, with his current conflict in Iran.
-Trump told the crowd that the Islamic Republic "will never, ever have a nuclear weapon".
-Commemorations were also held in Shanksville, Pennsylvania, where Flight 93 crashed after passengers fought back against the hijackers.
-- Gen Zs recall first learning of 'deeply harrowing, terrifying' 9/11 
-  - Published1 day ago
-- 9/11: What happened and how many people died in September 11 attacks? 
-  - Published2 days ago
-Janice Brooks had only moved to New York a couple of weeks before 9/11 to begin what she calls "the biggest adventure", working for a company on the 84th floor of the South Tower of the World Trade Center.
-She told the BBC she was in the office when the first plane hit the North Tower. While she was evacuating, the second plane hit with an "almighty thud".
-Brooks said she heard "one of those horror film screams" as a woman was hit by debris. She looked up and saw a "big gaping hole" where her office should have been.
-Every year on 11 September, bells ring to commemorate the exact time that each of the four planes crashed, and the exact time the Twin Towers fell.
-Each of the six bells is followed by a moment of silence.
-This year, a seventh bell was rung to commemorate the thousands who died from diseases including cancer after the attacks.
-Illnesses related to dust and smoke from the towers' collapse have since claimed more than threefold the nearly 3,000 lives lost in the attacks, US health officials say.
-As the names of the dead were read out for nearly four hours at the ceremony in Manhattan, a 9/11 widow criticised Saudi Arabia and what she characterised as failures by US officials to hold the kingdom accountable.
-"You are missed more with each year that passes," Terry Strada said of her husband Tom Strada in remarks broadcast live worldwide.
-"But how can it be 25 years and still we have no justice for the role that Saudi Arabia played in your murder?"
-- You can listen to Terry Strada's story in the BBC radio documentary Intrigue: A 9/11 story
-The comments by Strada, national chairperson of 9/11 Families United, drew applause from the audience.
-The majority of those who carried out the 9/11 attacks were from Saudi Arabia and planning was led by al-Qaeda founder Osama Bin-Laden, scion of a prominent Saudi family.
-But Saudi officials have repeatedly denied any involvement in the attacks, and in 2004 the 9/11 Commission Report "found no evidence that the Saudi government as an institution or senior Saudi officials individually funded" al-Qaeda.
-Events were also held elsewhere to honour the victims. In London, there was a ceremonial event at Buckingham Palace attended by Foreign Secretary Ed Miliband and the US ambassador Warren Stephens.
-The Toronto Stock Exchange also held an event to remember colleagues who died in the attacks.
-In Gander, Newfoundland, the US ambassador to Canada praised the small town that took in thousands of passengers from 38 diverted planes in the hours after the attack.
-"When people in America hear the word Gander, our hearts soften," Pete Hoekstra said.
-"As a representative of the United States government, thank you for your friendship... to the nation of Canada, thank you for being a partner and for the shared sacrifices that you made with us."
-His remarks come amid fraught relations between the US and Canada, with the two countries engaged in a trade war. Ahead of the 9/11 commemorations, some Gander residents had called for Hoekstra's invite to be rescinded.
-Still, Hoekstra's speech was met with applause. But in separate remarks afterwards, former Canadian Prime Minister Jean Chrétien said: "I have message for American friends... never mistake our generosity for weakness." He received a standing ovation.
-In Milan, a group of Italian and US firefighters participated in a ceremonial stair climb to honour the emergency responders who died in the line of duty.
-Dressed in their uniforms and carrying equipment, they climbed 110 floors up and down the Galfa Tower, in remembrance of the number of storeys on each of the Twin Towers.
+Theirs is a story straight out of a Bollywood film.
+Two Indian-born women in their 40s, adopted as babies by different families and raised near each other in the Netherlands, have now discovered they are biological sisters.
+Meena Geltink and Minal Tijssen, born in the early 1980s, were adopted from two different orphanages in the western Indian city of Mumbai within months of their birth.
+When they first met in their early teens at an event hosted by the adoption agency their parents had used, they were struck by the uncanny similarities in their appearance and mannerisms.
+Meena, now 43, remembers the day clearly.
+"All the adopted children were brought together to hang out and bond and have dinner."
+Both Meena and Minal were with friends who noticed how similar they looked.
+"They said, 'Look at yourselves in the mirror'.
+"And I was like, 'Oh my God, she has my nose! We have the same laugh'.
+"At dinner, I kept looking at her the whole time," Meena told the BBC from her home in the Netherlands.
+The following day, the girls exchanged telephone numbers and addresses and promised to keep in touch.
+Even though there was no indication they were related by blood, their connection was instant, and for years they wrote each other letters, often addressing each other as "Sis" because "we felt that way".
+They wrote about school, friends, boys, going out and dancing. They told each other about the sports they played and discussed music, discovering they both loved Backstreet Boys.
+Then 15 years ago, they lost contact. Minal had moved to France. And Meena had recently had her first child and got busy.
+In 2017, Meena attended another meeting of adoptees from India where she heard about DNA testing and decided to take a test herself. But she never found any matches and earlier this year, deleted the app because her phone storage was full. Then on 20 May, Meena received a message from Minal on Facebook.
+"'Remember me?' she asked.
+Minal had taken a DNA test in April while visiting her parents in the Netherlands and attached a screengrab of her test result.
+"I reinstalled the app. I was so nervous I entered wrong passwords 10 times before I was able to log in," Meena says.
+The result couldn't have been clearer - the two women were "a 100% match".
+"I had a 'full sister' which means we shared the same biological mother and father," Meena explains. "It was like I had an adrenalin shot. I cried. Minal was my missing puzzle piece I had waited so long for. We had called each other sister.
+"This DNA match was the confirmation that all our intuition was right."
+On a fine sunny day in August the old friends met for the first time since discovering they were sisters.
+"It was amazing. It felt like homecoming," Meena, now a mother to three children, says. "For years, Minal and I had felt a big hole in our hearts. We feel like we've been completed. Everything now feels like it's supposed to be."
+Reporting on their "emotional reunion", Reuters said "tears, hugs and laughter punctuated their meeting... followed by their first selfie together".
+Minal, 44, who lives in France with her partner and two sons, told the agency that when her DNA results came in April, she had initially not realised her match was the same teenage girl who had clung to her when they first met 30 years ago.
+It only sank in when she looked at her photos on social media. "'Meena: Sister.' I couldn't believe it. We were friends before we were sisters.
+"We were sisters the whole time," she said, "but we didn't know."
+Meena and Minal were adopted from different orphanages by two different Dutch couples.
+Meena says she grew up in a small village in the Netherlands by parents who taught at a private school.
+"They were also my teachers," she says. "They were very loving people, very trusting."
+Her father died a few years ago, but her mother continues to live in the same village. "We talk every day. She's still my safe space," she adds.
+In 2003, aged 19, Meena had visited the orphanage in Mumbai with her parents and her brother who was adopted from Goa.
+They spent two weeks looking through records, trying to find out about Meena's biological parents "because for me it was important to know where I came from. But the orphanage would not reveal any details about them," she says.
+Since May, Meena and Minal have been speaking every other day. They've met each other's spouses, children, brothers and parents.
+"Everyone notices how we finish each other's sentences, how we move our heads or walk similar," Meena says.
+The fact they are siblings is still sinking in, she says.
+"Sometimes we talk for two hours and lose track of time, suddenly remembering that we have to do groceries or pick up children from school."
+One thing she and her sister would "love to do", Meena says, is return to the place where it all began.
+"We'd love to go to India together sometime, to walk through the streets of Mumbai together.
+"There were times when we both felt very lonely, like when I lost my dad or went through a heartbreak," she says.
+"I regret we couldn't be with each other - we could have shared happiness, helped each other in tough times."
 Related topics
-  - Published3 days ago
-  - Published1 day ago</description></item><item><title>'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders</title><link>https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&amp;at_campaign=rss
+More weekend picks
+  - Published30 August
+  - Published7 June 2025
+  - Published2 November 2024</description></item><item><title>'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders</title><link>https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -496,10 +560,6 @@ Until recently, the anti-Houthi coalition known as the National Resistance held 
 According to some estimates, the Iranian-backed rebels have captured as much as 130km (81 miles) of the country's strategically important coastline.
 It's the group's most impressive military coup for several years, proving that despite a civil war that has lasted 12 years, devastating Saudi air raids and attacks by American, Israeli and British forces, the Houthis remain a force to be reckoned with.
 With their opponents stunned and demoralised, it's unlikely the Houthis will be dislodged any time soon.
-- Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane 
-  - Published21 hours ago
-- Oil hits $100 a barrel for first time since July after US and Houthi strikes 
-  - Published3 days ago
 "Now that they are there, they're going to be entrenched," Hisham al-Omeisi, senior analyst at the Brussels-based European Institute of Peace, told the BBC. "And it's going to be a lot more costly to push them out."
 Of course, the Houthis are not alone. They enjoy the backing of Iran, support that has become even more important for Tehran in the wake of the setbacks and defeats experienced by other parts of its so-called "Axis of Resistance" – Lebanese Hezbollah, Hamas in Gaza and the Assad regime in Syria.
 "So they redirected their support to the Houthis," al-Omeisi said. "And of course they need that support."
@@ -663,46 +723,7 @@ Related topics
 More weekend picks
   - Published8 February
   - Published21 September 2025
-  - Published7 September 2025</description></item><item><title>Firefighters say this antioxidant helped them - their union warns it could be risky</title><link>https://www.bbc.co.uk/news/articles/crk3n5z60pvo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/crk3n5z60pvo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Firefighters say this antioxidant helped them - their union warns it could be risky
-- Published
-Days after he helped extinguish the Eaton Fire in Los Angeles, Pasadena Fire Captain David Marquez inhaled his first dose of glutathione on the side of the road outside the Rose Bowl stadium.
-The wildfire became the second most destructive fire in California's history, killing 19 and destroying 9,000 buildings.
-"We were having trouble sleeping," he said of his team. "Chronic cough, headache, fatigue - just a really rough set of symptoms following the fire."
-"I felt much better immediately after the worst exposure of my career," said Marquez, a 25-year veteran of firefighting, who has battled with health issues for years.
-"We were so desperate because of how messed up we were. We were willing to pretty much try anything," he said.
-Scientists have long known that inhaling toxic smoke from a fire can cause a huge range of illnesses, including several types of cancers. First responders, like firefighters, are especially susceptible. Firefighters have a 14% increased risk of dying from cancer, external compared to the general American population, according to the US National Institute for Occupational Health and Safety.
-And as awareness of the risks evolve, so too has interest in alternative - but often unproven and potentially dangerous - treatments.
-Glutathione, an antioxidant that is naturally produced inside the human body, has been offered as a treatment at some of the largest US wildfires in recent years – including most recently in Spokane, Washington. Anecdotal evidence gathered by clinicians and fire departments has shown promising signs that it could be used to rid firefighters of some of the cancer-causing chemicals they absorb during fires. However, no large-scale research has yet been conducted on its safety and efficacy, and there are concerns over purity and contaminated supplies.
-The International Association of Fire Fighters (IAFF) issued a rare warning about glutathione last month. It noted two recent recalls due to contaminants at compounding pharmacies that produce glutathione. It also noted scientific trials of other common, naturally-occurring vitamins that were found to increase – rather than decrease – the risk of cancer, although none of those vitamins are used in glutathione treatment.
-"We don't know if glutathione is effective," said Sean DeCrane, the assistant to the general president for health and safety at the IAFF, which represents over 360,000 firefighters across the US and Canada.
-"We don't know if it's a placebo effect. We don't know the long-term effect of this type of treatment."
-DeCrane said his group opposes the way it has been "marketed" to firefighters, including in Spokane where morning briefings fire chiefs to their crews included suggestions that they visit a volunteer tent for treatment.
-"The lack of research really raised concerns for us," he said. He adds that the IAFF has spoken to "multiple members who said that they did not feel well after the treatment, [and] that they felt worse."
-"The clinician told them, 'Oh, that's just those metals leaving your body'," he said.
-The recent rise of glutathione can be traced back to 2017, when a group of naturopaths formed together in Santa Rosa, California, to provide assistance to fire crews combating the Tubbs Fire.
-The Integrated Health Action Network (IHAN), previously called the Integrative Healers Network, now sends volunteer clinicians to major wildfires across the country to provide glutathione, as well as other naturopathic treatments including acupuncture and massage therapy.
-In response to the warning from IAFF, the group released a statement agreeing with the need for further testing, and offering to work with researchers to prove glutathione's effectiveness.
-Co-founder Jen Riegle, who is not a medical doctor but is a licensed naturopath, external, said that glutathione treatment often leads to "clinically-meaningful improvements in headaches, fatigue and brain fog, which are some of the top symptoms we see in firefighters when they're on a fire". The treatments help to force out some of the harmful contaminants in firefighters' bodies, she claims, and can have short-term side effects immediately after treatment.
-Riegle is hopeful the data the group has collected will spur on further research, and "to prove that this is a good long-term solution for firefighters". But she adds that all of the evidence IHAN has collected is anecdotal, and far from conclusive.
-"I just want to be really clear that what we are collecting is data that we have because of a treatment programme," she said.
-"It shouldn't ever be misconstrued as clinical trial data, or double-blind, placebo-controlled, peer-reviewed data. It is just meant as a starting point to be able to garner support for future studies." Medical trials of a new drug typically take years before receiving regulatory approval, and involve rigorous a research and standards.
-Interest in glutathione rose last year when California's state Board of Pharmacy attempted to pass new rules that would have severely restricted its production.
-The proposed rule change led to a groundswell of opposition from some firefighters, who travelled to the state capital to testify about how it has improved their health. The plan to further restrict it was later abandoned.
-Marquez was among the firefighters who went to Sacramento to testify in uniform. He said he is grateful that glutathione is being offered more frequently – including by all fire stations in Pasadena, where he works.
-He dismisses concerns about its effectiveness, including suggestions that alleviated symptoms could be due to a placebo effect.
-Using an expletive, Marquez said: "I don't [care] it's a placebo - it was working. Guys were saying they felt better. I felt better. And it made me want to seek out more treatments."
-Regulations and medicines for firefighters have at times lagged behind the need. Until last year, firefighters for the National Forest Service were banned from wearing face masks due to concerns about their ability to operate in rugged mountain terrains. There is now a growing understanding of the need for respiratory protections and decontamination to help prevent certain cancers that are more common for firefighters.
-Dr Coralynn Sack, an occupational pulmonologist specialising in air pollution's effects on the body at the University of Washington, said the noxious fumes from wildfires are well known to pose "inhalational hazards" to firefighters.
-"There's been a lot of interest in using antioxidant supplements for air pollution in general," she said. "Studies have shown mixed responses. Some have even shown worse responses."
-Sack said there was "biological plausibility" to think such a treatment might work, but said she was "very underwhelmed by the data that exists". There have been no clinical trials on glutathione in firefighters, she added.
-Sack said the debate over glutathione "shifts the emphasis away from things that we know work" like giving firefighters access to good personal protective equipment.
-Greg Fonts, a fire captain in West Sacramento and vice-president of his local IAFF chapter, said there is a growing understanding of the importance of firefighter health. Gone are the days of not decontaminating equipment, leaving the ashes on helmets and jackets, in order to boast of past infernos.
-"When I got the fire service in 2000, I would say that was the attitude was cancer was just part of the job."
-"Culture has changed drastically," said Fonts, who also has been treated with glutathione. "Younger firefighters are taking health way more seriously."</description></item><item><title>Céline Dion fans prepare for comeback concert in Paris</title><link>https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&amp;at_campaign=rss
+  - Published7 September 2025</description></item><item><title>Céline Dion fans prepare for comeback concert in Paris</title><link>https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
