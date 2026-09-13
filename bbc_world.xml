@@ -6,86 +6,85 @@
 Anthropic boss Dario Amodei calls for AI development to slow down
 - Published
 The head of AI company Anthropic has called for the pace of development of artificial intelligence models to slow down and to be closely monitored.
-In an essay, Dario Amodei said developing AI was not in question, but the risks associated with it were "serious" and companies and governments must be given time to address them.
+Dario Amodei wrote in an online essay that developing AI was not in question, but that the risks associated with it were "serious" and that companies and governments must be given time to address them.
 The bosses of two rival AI firms, Sam Altman of OpenAI and Elon Musk, have both said they agree with Amodei.
-There have been growing concerns recently about the technology's potential risks. An AI researcher who left Anthropic this week told the BBC that "if we don't slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future".
+There have been growing concerns recently about the technology's potential risks. An AI researcher who left Anthropic told the BBC that "if we don't slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future".
 Jacob Coxon told Laura Kuenssberg that people working at AI companies were "genuinely frightened... genuinely concerned about the fate of humanity in the next two years".
 "It's not at all an exaggeration to say that the people who are involved with both founding these companies and building the tech believe there is a possibility of human extinction," Coxon said.
-"Many of the people who are sort of deep in the weeds on actually coding the thing believe that there is like a greater than ten percent chance, or even greater. Some smaller, but they all have different numbers for a probability that humans might die. And they all keep this in their head on a daily basis while working on the technology."
-In Amodei's essay, called We Must Pace the Frontier and made public on Saturday, he proposed a three-point plan that includes independent monitoring of AI models as they are developed, industry-wide regulation and global regulation.
+In Amodei's essay, called We Must Pace the Frontier and published on Saturday, he proposed a three-point plan that included independent monitoring of AI models as they are developed, industry-wide regulation and global regulation.
 As his proposal made the rounds, even competitors voiced support for the idea of third-party monitors who could evaluate the safety of models as they are developed.
-"I agree with Dario that we need to pace the frontier," wrote OpenAI CEO Sam Altman on X. He called independent evaluators "a great idea."
-In a new interview with Fortune Magazine, Altman had sounded similar safety concerns, saying standards were "not at a place" to push AI capabilities much further.
-He added that he believed AI beyond human control is "absolutely" possible.
-Elon Musk meanwhile said the Anthropic boss was "right".
-The warnings have prompted calls to action, but US President Donald Trump has so far rejected such fears, saying on Thursday he was concerned "if we don't win AI, we're going to be put in a very bad position".
-Cyber-security concerns have grown as new models have exhibited more and more powerful hacking capabilities.
+"I agree with Dario that we need to pace the frontier," wrote OpenAI CEO Sam Altman on X. He called independent evaluators "a great idea".
+Altman sounded similar safety concerns in a new interview, telling Fortune magazine that standards were "not at a place" to push AI capabilities much further.
+He added that he believed AI beyond human control was "absolutely" possible.
+Musk, meanwhile, who founded Grok producer xAI, said the Anthropic boss was "right".
+The warnings have prompted calls to action, but US President Donald Trump has so far rejected such fears, saying on Thursday he was concerned that "if we don't win AI, we're going to be put in a very bad position".
+Cyber-security concerns have grown as new models have exhibited more and more powerful capabilities.
 Anthropic withheld its Mythos model from public use when it was announced in April that it could independently escape the testing environment, known as the sandbox.
-In the run-up to the release of its most recent Astra model, OpenAI cited cybersecurity concerns as it explained it had paused certain aspects of the model's development.
-Safety has also taken centrestage in the rivalry between Anthropic and OpenAI.
-Amodei, who had previously worked as a vice president at OpenAI, has said he co-founded Anthropic in 2021 so he could build safer and more trusted AI models.
-In his essay, Amodei pointed out that AI had advanced "drastically faster" including its "ability to build the next generation of AI" - and mentioned an incident involving rival OpenAI which has revealed that agents conducted cybersecurity attacks, external on targets they were not asked to attack in July.
-The OpenAI agents had "essentially acted as a fanatically devoted collective", Amodei said. OpenAI has said it is slowing down training of certain advanced AI models and tools as a result.
+In the run-up to the release of its most recent Astra model, OpenAI cited cyber-security concerns as it explained it had paused certain aspects of the model's development.
+The OpenAI agents had "essentially acted as a fanatically devoted collective", Amodei said. OpenAI has said it was slowing down training of certain advanced AI models and tools as a result.
+Safety has also taken centre stage in the rivalry between Anthropic and OpenAI.
+Amodei, who had previously worked as a vice-president at OpenAI, has said he co-founded Anthropic in 2021 so he could build safer and more trusted AI models.
+He pointed out in his essay that AI had advanced "drastically faster" including its "ability to build the next generation of AI" - and mentioned an incident involving rival OpenAI which has revealed that agents had hacked, external targets they were not asked to attack in July.
 Amodei called for "building AI at a balanced rate that aims to ensure its safety while still achieving its benefits".
 This would not mean "halting model training or technical progress, but ensuring companies take adequate time to align and safeguard their models, and for third party evaluators to confirm this".
 He was committing Anthropic to this "unilaterally" - as well as calling on governments "to require other frontier companies to match".
-Amodei said he recognised that regulation might not be able to keep up with the pace of AI, and therefore called on AI companies to "voluntarily work together to set standard" in parallel with regulation.
+Amodei said he recognised that regulation might not be able to keep up with the pace of AI, and therefore called on AI companies to "voluntarily work together to set standard" in parallel with those regulation.
 The Anthropic CEO went on to address the impact that a slowdown would have on the industry and competition with leading developers worldwide, particularly China.
 "I believe that if slowing down bought us even an extra year or two before models reach critical levels of capability, and we used that time to advance alignment, we could greatly reduce the risk that something goes seriously wrong," Amodei said.
 This would have to be done in a co-ordinated manner "without sacrificing commercial advantage or the United States' lead in AI". Any slowdown would have to be limited, he said, to avoid allowing China to pull ahead.
 He urged the US government to take measures so that US companies' AI chips could not be sold to China - or the technology shared with authoritarian countries.
 His former employee, Jacob Coxon, told the BBC, however, that the initiative to slow down must go beyond the US - "there'll need to be some sort of co-ordinated slowdown with China if we're going to avoid a race at an international scale".
 Amodei's post has prompted a wide range of responses.
-Clement Delangue, the CEO of the AI platform Hugging Face, said he was launching a new project called the Open Alignment Initiative, adding he wanted to be among "embedded evaluators" that Amodei proposed could be part of a solution.
-Hugging Face was hacked by OpenAI agents earlier this year prompting an outcry over AI safety.
+Clement Delangue, the CEO of the AI platform Hugging Face, said he was launching a new project called the Open Alignment Initiative, adding that he wanted to be among "embedded evaluators" that Amodei proposed could be part of a solution.
+Hugging Face was hacked by OpenAI agents earlier this year, prompting outcry over AI safety.
 "Let's make AI safer by making it more transparent," Delangue wrote on X.
-Elon Musk also voiced his support, writing that "Dario is right".
-Musk, whose SpaceXAI makes the controversial chatbot Grok, once called Anthropic "evil" but has changed his tone since signing a $15bn deal to sell compute capacity to Anthropic in May.
-However some observers suggested that Amodei's post was less about safety than about consolidating control over AI technology.
-"Dario makes the case to stop open source and concentrate enormous technological and economic power with Anthropic," wrote Chamath Palihapitiya, investor and co-host of the tech podcast "All-In".
-Notions of slowing down or even pausing AI development have long been met with such cynicism in certain corners of Silicon Valley, with critics accusing leading AI developers of hyping their technology as a marketing ploy.
+Musk, who also voices support for Amodei, once called Anthropic "evil" but has changed his tone since signing a $15bn (£11bn) deal to sell computing capacity to Anthropic in May.
+However, some observers suggested that Amodei's post was less about safety than about consolidating control over AI technology.
+"Dario makes the case to stop open source and concentrate enormous technological and economic power with Anthropic," wrote Chamath Palihapitiya, an investor and co-host of the tech podcast "All-In".
+Notions of slowing down or even pausing AI development have long been met with cynicism in certain corners of Silicon Valley, with critics accusing leading AI developers of hyping their technology as a marketing ploy.
 Anthropic and OpenAI are both reportedly preparing for potentially record-setting initial public offerings.
-- Why some experts increasingly fear AI will take over 
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
+Related topics
   - Published3 days ago
-- The contradiction at the heart of the trillion-dollar AI race 
-  - Published19 November 2025
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.</description></item><item><title>Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq</title><link>https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&amp;at_campaign=rss
+  - Published19 November 2025</description></item><item><title>Trump's comments on a united Ireland may have targeted audience across the Atlantic</title><link>https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
+Trump's comments on a united Ireland may have targeted audience across the Atlantic
 - Published
-Saudi Arabia has closed a critical oil pipeline after it was attacked by drones launched from Iraq, as conflict in the Middle East widens.
-Iraq said it had fired a military commander and launched an investigation after admitting the drone attack on its neighbour's East-West pipeline had originated in one of its provinces bordering Iran. Saudi Arabia has previously accused Iran-backed militia in Iraq of targeting its oil facilities.
-The 1,200km (745 mile) pipeline has helped Saudi Arabia - the world's largest crude oil exporter - bypass the Strait of Hormuz.
-The incident comes amid a major advance by the Iranian-backed Houthi rebels in Yemen, putting more pressure on global oil shipping routes as the US-Iran war stretches into its seventh month.
-On Friday, Yemen's Saudi-backed government forces said they had struck Houthi fighters in the strategic coastal city of Mokha, a day after the Houthis seized control of the entire Red Sea coast.
-Riyadh on Friday said it had shut the pipeline as a precaution, as satellite images of scorched ground and smoke near the site emerged.
-The foreign ministry said the attack resulted in some injuries and damage, which was still being assessed.
-The Saudi pipeline has been moving 4% to 5% of global oil supply, news agency Reuters has reported, citing ship tracking companies and analysts.
-Saudi Arabia has chosen not to retaliate at this stage, its foreign ministry says, following a call from Iraq's prime minister.
-It said the kingdom would "support the efforts of the Iraqi government" to "prevent attacks" launched from the country against neighbouring states.
-"The Kingdom of Saudi Arabia affirms that it reserves its right to take all necessary measures to safeguard its sovereignty and security, protect its facilities, and ensure the safety of its citizens and residents," the statement added.
-The Iraqi prime minister's office in its own statement said the operations commander in the Maysan governorate - a province which borders Iran - had been removed from his post following confirmation the drone attack had been launched from that region.
-Saudi Arabia has previously carried out strikes alongside the US against Iran-backed militias in Iraq after accusing the groups of launching drones from Iraqi territory at oil facilities.
-The Gulf Co-operation Council – made up of representatives from Saudi Arabia, the United Arab Emirates, Bahrain, Oman, Qatar and Kuwait – also issued a statement condemning the attack.
-"This attack represents a dangerous escalation and an unacceptable threat to the security of the Kingdom of Saudi Arabia, its territorial integrity, and its vital installations, as well as a flagrant violation of the principles of international law," secretary general Jasem Mohamed Albudaiwi.
-This week, a lightning advance in Yemen has also seen Houthi militants seize control of much of the country's coastline, sources say.
-The group said it had control of the Bab al-Mandab Strait, the gateway to the Red Sea and the Suez Canal, though it said maritime navigation is "safe for all companies except for Saudi vessels".
-The Yemeni Armed Forces have since struck back. On Friday, spokesman Majid al-Nuzaili said they had targeted Houthi positions in and around the city of Mokha, adding that they had destroyed vehicles and weapons and killed a number of Houthi fighters.
-The strategic coastal city on the Red Sea is situated about 80km (50 miles) north of the Bab al-Mandab Strait. The Houthis seized control of Mokha on Thursday. Their attack drove many people to flee to Aden, where Yemen's internationally recognised Presidential Leadership Council and government are based.
-Local sources also reported that government forces carried out air strikes targeting Houthi forces in Taiz governorate, which is along the Red Sea coast, and Ibb governorate, which neighbours Taiz.
-On Saturday the UN said at least 76,000 people had been displaced in Yemen since July, with the number quadrupling in the past week. It warned of a "rapidly worsening displacement crisis in Yemen unfolding by the hour".
-"Entire families are on the move, often at night. They have nowhere safe to go... They are exhausted. Their resources are gone. Most fled with nothing but the clothes on their backs," the UN statement said.
-The developments have squeezed both sides of the Arabian Peninsula, pushing crude oil prices to over $100 a barrel for the first time since July.
-Fears over inflation have risen with the spike in energy prices, further pushing up government borrowing costs.
-Richard Bronze of Energy Aspects told the BBC that even before the latest escalation, diverting Saudi oil via the Suez Canal into the Mediterranean and around Africa was already adding 30 days to sailing times and increasing transportation costs.
-"The buffers that have helped the oil market manage the crisis so far are mostly gone. So oil prices will keep rising if both crises continue," he said.
-Challenges were particularly acute in diesel markets, he said, where prices have already reached record levels that would in turn push up the costs of a range of goods as diesel is widely used in manufacturing and transportation.
-"Unless the situation across the Middle East improves, crude oil prices are likely to return to the peak of $120 per barrel seen earlier in the Iran war and could go even higher," he said.
-Additional reporting by Meghan Owen
-Related topics
-  - Published1 day ago</description></item><item><title>They lost their jobs after posting about Charlie Kirk, but some have no regrets</title><link>https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&amp;at_campaign=rss
+When another world leader meets US President Donald Trump the only certainty about what might happen is the uncertainty about what might happen.
+This was exactly the case ahead of President Trump's two-day visit to Ireland.
+Nobody could have predicted that by the end of the first day, the main global headline would be his desire to see a unified Ireland.
+As the shockwaves of his remarks rippled through this island and Great Britain, it was unclear whether this represented a new US administration policy, or an off-the-cuff remark from a president who likes to take questions from reporters, and likes to give answers.
+Former Republican Congressman Mick Mulvaney was Trump's special envoy to Northern Ireland in his first term in office.
+He cautioned against anyone reading too much into the president's remarks.
+"This does not represent a shift in US foreign policy," he said.
+"We're still very much committed to the Good Friday Agreement."
+Democratic Congressman Brendan Boyle agreed.
+"There is bipartisan support for that deal, and that is not going to change."
+Although both agreed that Donald Trump was probably right to say that "eventually" unification would happen, that did not mean the US was about to start pushing for it.
+Giving an answer to a question that is asked at a free-flowing press conference is one thing, but Donald Trump repeated his sentiments a short time later when he was delivering a speech to an invited audience at the US Ambassador's residence.
+In fact it was almost the first thing he mentioned, hinting that maybe he realised he had kicked over a can of worms at his earlier appearance.
+The rest of that speech was curious. It was billed as a 20-minute address to Irish and Irish American business leaders, but was about twice that and strayed largely into domestic US matters.
+President Trump has a speaking style that he describes himself as "the weave".
+He can bounce from topic to topic during any speaking engagement, veering off the script and then returning to the matter at hand.
+Today he lauded his own achievements, as he sees them, such as clamping down on illegal immigration, doing deals and boosting defence production.
+He repeated his criticisms once again of what he views as the UK's lack of support for his military operation in Iran.
+Midterm elections fast approaching
+But who was his target audience? The gathered business leaders in Dublin or a US audience tuning in before it was even dawn in much of that country?
+This November's crunch midterm elections are fast approaching and the Republican party is under intense pressure because of the president's policies.
+They may lose control of one or both houses of Congress.
+About one tenth of the US population claim Irish heritage but they are not a homogeneous voting bloc.
+Was he trying to target Irish-American independent or swing voters in the US, of which there are many who have flip-flopped between the Republican and Democratic party in recent years?
+Some of them do support a unified Ireland and so in this time of chasing every vote, perhaps that played a part.
+Bill Clinton secured a lot of Irish-American support when he was running for president, by promising to get engaged in the peace process.
+They voted for him and he followed through on his promise and much of that work led to the foundations of the Good Friday Agreement.
+But, Irish America is a different place now. Indeed, America is a different place now as politics have become more polarised.
+The November election campaigns show no indication that will change anytime soon.
+But political leaders in Ireland will be hoping the only debate tomorrow is about the play on the golf course.
+  - Published21 hours ago
+  - Published2 days ago
+  - Published2 days ago</description></item><item><title>They lost their jobs after posting about Charlie Kirk, but some have no regrets</title><link>https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -103,7 +102,7 @@ PHNX Sports, Bourguet's former employer, did not respond to the BBC's request fo
 Bourguet was one of hundreds fired or disciplined over critical comments of Kirk after his death. While some of those who have lost their jobs have been reinstated or received restitution - sometimes in the millions - others like Bourguet have had to rebuild from scratch.
 'Call their employer'
 In the aftermath of Kirk's assassination, most people kept their feelings to themselves, or shared them with close friends.
-But on polarised social media, people rushed to laude, or denounce, the controversial activist. Some called the criticisms, posted hours after his death, tasteless. But others called for swift action, arguing they were callous, mocking, and could even incite further violence.
+But on polarised social media, people rushed to laud, or denounce, the controversial activist. Some called the criticisms, posted hours after his death, tasteless. But others called for swift action, arguing they were callous, mocking, and could even incite further violence.
 Laura Loomer, an influential right-wing commentator with nearly 2 million followers on X, warned Kirk's critics to "prepare to have your whole future professional aspirations ruined".
 The push for punishment also came from the highest levels of US government.
 "When you see someone celebrating Charlie's murder, call them out," Vice-President JD Vance said days after the assassination. "And hell, call their employer," he added.
@@ -142,74 +141,120 @@ Bourguet also said he does not regret his comments although he has conflicting t
 "I don't regret that line of thinking because I think it's important to push back on things that are steeped in hatred," he said, referring to Kirk's political message.
 "I don't regret what I said. I don't regret the way that I said it. I do regret the ripple effects that came from it and the way that they impacted me, my career, my family, and my son."
 Related topics
-  - Published13 September 2025</description></item><item><title>Trump's comments on a united Ireland may have targeted audience across the Atlantic</title><link>https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&amp;at_campaign=rss
+  - Published13 September 2025</description></item><item><title>Russians seek answers over hundreds missing after Ukraine's 2024 incursion</title><link>https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Trump's comments on a united Ireland may have targeted audience across the Atlantic
+Russians seek answers over hundreds missing after Ukraine's 2024 incursion
 - Published
-When another world leader meets US President Donald Trump the only certainty about what might happen is the uncertainty about what might happen.
-This was exactly the case ahead of President Trump's two-day visit to Ireland.
-Nobody could have predicted that by the end of the first day, the main global headline would be his desire to see a unified Ireland.
-As the shockwaves of his remarks rippled through this island and Great Britain, it was unclear whether this represented a new US administration policy, or an off-the-cuff remark from a president who likes to take questions from reporters, and likes to give answers.
-Former Republican Congressman Mick Mulvaney was Trump's special envoy to Northern Ireland in his first term in office.
-He cautioned against anyone reading too much into the president's remarks.
-"This does not represent a shift in US foreign policy," he said.
-"We're still very much committed to the Good Friday Agreement."
-Democratic Congressman Brendan Boyle agreed.
-"There is bipartisan support for that deal, and that is not going to change."
-Although both agreed that Donald Trump was probably right to say that "eventually" unification would happen, that did not mean the US was about to start pushing for it.
-Giving an answer to a question that is asked at a free-flowing press conference is one thing, but Donald Trump repeated his sentiments a short time later when he was delivering a speech to an invited audience at the US Ambassador's residence.
-In fact it was almost the first thing he mentioned, hinting that maybe he realised he had kicked over a can of worms at his earlier appearance.
-The rest of that speech was curious. It was billed as a 20-minute address to Irish and Irish American business leaders, but was about twice that and strayed largely into domestic US matters.
-President Trump has a speaking style that he describes himself as "the weave".
-He can bounce from topic to topic during any speaking engagement, veering off the script and then returning to the matter at hand.
-Today he lauded his own achievements, as he sees them, such as clamping down on illegal immigration, doing deals and boosting defence production.
-He repeated his criticisms once again of what he views as the UK's lack of support for his military operation in Iran.
-Midterm elections fast approaching
-But who was his target audience? The gathered business leaders in Dublin or a US audience tuning in before it was even dawn in much of that country?
-This November's crunch midterm elections are fast approaching and the Republican party is under intense pressure because of the president's policies.
-They may lose control of one or both houses of Congress.
-About one tenth of the US population claim Irish heritage but they are not a homogeneous voting bloc.
-Was he trying to target Irish-American independent or swing voters in the US, of which there are many who have flip-flopped between the Republican and Democratic party in recent years?
-Some of them do support a unified Ireland and so in this time of chasing every vote, perhaps that played a part.
-Bill Clinton secured a lot of Irish-American support when he was running for president, by promising to get engaged in the peace process.
-They voted for him and he followed through on his promise and much of that work led to the foundations of the Good Friday Agreement.
-But, Irish America is a different place now. Indeed, America is a different place now as politics have become more polarised.
-The November election campaigns show no indication that will change anytime soon.
-But political leaders in Ireland will be hoping the only debate tomorrow is about the play on the golf course.
-  - Published12 hours ago
+"I used to have complete faith in our country," says Lyubov. The last time she spoke to her mother was a day after Ukrainian forces broke into Russia's Kursk region more than two years ago.
+Now she feels "resentful towards the [Russian] state", in a country where most people avoid criticising the full-scale invasion unleashed on Ukraine in February 2022.
+The local governor says more than 300 Russians are still missing in Kursk region, but no-one really knows the true figure.
+Lyubov says she tried to persuade her mother to leave her village in the Sudzha area, but blames Russian state TV "propaganda" for her refusal to listen. Some 2,000 people remained in the settlements captured by Ukraine's military, Russian authorities estimate.
+"The state channels were convincing viewers that 'everything is under control: two or three days, and it'll be just as it was before'," she recalls.
+She still fails to understand why Russian authorities could not stop Ukrainian soldiers storming two border checkpoints in August 2024, taking around 40 prisoners and bombing a convoy carrying Russian soldiers.
+Within six days they had overrun more than 777 sq km (300 sq miles) of Russian territory, as Ukraine's military sought to divert Russian forces away from their front-line offensive.
+For most of the next eight months, mobile and internet links were down.
+Russia's foreign ministry repeatedly accused Ukraine of war crimes against civilians: allegations rejected in Kyiv as completely unfounded.
+Nearly 200 Russians sent a letter to Ukraine's President Volodymyr Zelensky, Russia's President Vladimir Putin and the United Nations, asking them to organise a humanitarian corridor to evacuate civilians.
+It never happened and, by late autumn, battles raged as Russian forces sought to retake the territory.
+Lyubov and others who had lost contact with their loved ones began to form groups.
+One resident, whose family friends had also stayed behind, began compiling a list of people she saw on videos published by the Ukrainian military and journalists. Then she began detailing those believed to have died and where they were buried.
+"At first, in a panic, you try to do something – anything – to find some sort of information," she said. "Taking action brings a certain sense of relief, and that's how you can cope with the stress."
+Soon about 1,000 names were on the list.
+Lyubov wrote to the Red Cross and Kursk interior ministry appealing for help, but had no response.
+Early in 2025, Russia's human rights commissioner published a list of 517 Kursk residents reported missing. The list mixed up names of the missing with those who were searching for them, and the families said it was like a "slap in the face".
+"Publishing something like this is the height of incompetence and a lack of basic respect for people," said one young woman whose parents had gone missing, in a video shared online.
+Heavy fighting had been reported in late 2024 in the village of Darino, where Lyubov and mother were from, and authorities said that 90% of it had been destroyed.
+The Russian military regained control of the village and then began evacuating those who had survived, and the bodies of those who had not.
+One of the evacuees got in touch with Lyubov, telling her she had lived with her mother for the past few weeks. Her mum had passed away, she explained, following a head injury in circumstances that remain unclear.
+A few other elderly people had also died, she said, unable to cope with wartime conditions.
+Lyubov waited in vain for her mother's body to be brought out, while other families had no idea if their relatives were alive or dead.
+People complained no-one was searching for their loved ones and that there was no single list of those missing.
+Lyubov heard that the bodies of neighbours who died alongside her mother had been taken away from Darino in April, but her mother's body was still missing.
+She tried and failed to get an answer from the authorities: "They wouldn't listen, and everyone just kept saying that it was dangerous there, and no-one was going to deal with it right now."
+The head of one local village council, Yuri Tkachev, was among volunteers who went to retrieve the bodies of civilians, from the streets or from nearby fields.
+"It's hard for people to know – or rather not to know – what has happened to their loved ones, whether they're being held captive or have died, and where they died," he said.
+Body bags and fuel for vans taking part in the evacuations were paid for either by the volunteers themselves or with donations, but not by authorities.
+Although regional officials met the group searching for the missing several times in the second half of 2025, relatives complained it made little difference.
+Lyubov was still searching for her mother's body, until she visited the mortuary last October during a trip to the regional capital Kursk.
+"I just asked: 'A woman born in 1949 from the village of Darino – are there any unidentified bodies?'"
+The official turned his laptop screen towards her and immediately she recognised her deceased mother in a photograph from April 2025.
+She was lying on her side in the street, her knees bent. Lyubov tried not to look too closely. She recognised her mum's face and an old jumper, which she wore while she worked.
+She had provided a DNA sample in January but was told it had been lost, so her mother's body had been in the mortuary unidentified for several months.
+She had wanted to bury her mother in their home village, but for now that is impossible, so she has been cremated and her ashes sit in Lyubov's apartment in Belgorod, about 100 miles away.
+She is bitter that the government failed to stop the incursion, that it did not evacuate residents when it could, and that it persuaded them the situation was not serious.
+Asked by the BBC to comment on this story, there was no response from the Kursk governor, Russia's human rights commissioner or the Russian Red Cross.
+The command of Ukraine's Territorial Defence Forces and Ukraine's human rights commissioner of Ukraine said all the civilians they had evacuated from Kursk region had been handed over to Russia.
+Lyubov thinks back to when she used to ride her bike across the border into Ukraine to shop for sausages, yarn and ice cream.
+"We went to see them, and they came to see us. And now not one of these villages exists any more."</description></item><item><title>Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq</title><link>https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
+- Published
+Saudi Arabia has closed a critical oil pipeline after it was attacked by drones launched from Iraq, as conflict in the Middle East widens.
+Iraq said it had fired a military commander and launched an investigation after admitting the drone attack on its neighbour's East-West pipeline had originated in one of its provinces bordering Iran. Saudi Arabia has previously accused Iran-backed militia in Iraq of targeting its oil facilities.
+The 1,200km (745 mile) pipeline has helped Saudi Arabia - the world's largest crude oil exporter - bypass the Strait of Hormuz.
+The incident comes amid a major advance by the Iranian-backed Houthi rebels in Yemen, putting more pressure on global oil shipping routes as the US-Iran war stretches into its seventh month.
+On Friday, Yemen's Saudi-backed government forces said they had struck Houthi fighters in the strategic coastal city of Mokha, a day after the Houthis seized control of the entire Red Sea coast.
+Riyadh on Friday said it had shut the pipeline as a precaution, as satellite images of scorched ground and smoke near the site emerged.
+The foreign ministry said the attack resulted in some injuries and damage, which was still being assessed.
+The Saudi pipeline has been moving 4% to 5% of global oil supply, news agency Reuters has reported, citing ship tracking companies and analysts.
+Saudi Arabia has chosen not to retaliate at this stage, its foreign ministry says, following a call from Iraq's prime minister.
+It said the kingdom would "support the efforts of the Iraqi government" to "prevent attacks" launched from the country against neighbouring states.
+"The Kingdom of Saudi Arabia affirms that it reserves its right to take all necessary measures to safeguard its sovereignty and security, protect its facilities, and ensure the safety of its citizens and residents," the statement added.
+The Iraqi prime minister's office in its own statement said the operations commander in the Maysan governorate - a province which borders Iran - had been removed from his post following confirmation the drone attack had been launched from that region.
+Saudi Arabia has previously carried out strikes alongside the US against Iran-backed militias in Iraq after accusing the groups of launching drones from Iraqi territory at oil facilities.
+The Gulf Co-operation Council – made up of representatives from Saudi Arabia, the United Arab Emirates, Bahrain, Oman, Qatar and Kuwait – also issued a statement condemning the attack.
+"This attack represents a dangerous escalation and an unacceptable threat to the security of the Kingdom of Saudi Arabia, its territorial integrity, and its vital installations, as well as a flagrant violation of the principles of international law," secretary general Jasem Mohamed Albudaiwi.
+This week, a lightning advance in Yemen has also seen Houthi militants seize control of much of the country's coastline, sources say.
+The group said it had control of the Bab al-Mandab Strait, the gateway to the Red Sea and the Suez Canal, though it said maritime navigation is "safe for all companies except for Saudi vessels".
+The Yemeni Armed Forces have since struck back. On Friday, spokesman Majid al-Nuzaili said they had targeted Houthi positions in and around the city of Mokha, adding that they had destroyed vehicles and weapons and killed a number of Houthi fighters.
+The strategic coastal city on the Red Sea is situated about 80km (50 miles) north of the Bab al-Mandab Strait. The Houthis seized control of Mokha on Thursday. Their attack drove many people to flee to Aden, where Yemen's internationally recognised Presidential Leadership Council and government are based.
+Local sources also reported that government forces carried out air strikes targeting Houthi forces in Taiz governorate, which is along the Red Sea coast, and Ibb governorate, which neighbours Taiz.
+On Saturday the UN said at least 76,000 people had been displaced in Yemen since July, with the number quadrupling in the past week. It warned of a "rapidly worsening displacement crisis in Yemen unfolding by the hour".
+"Entire families are on the move, often at night. They have nowhere safe to go... They are exhausted. Their resources are gone. Most fled with nothing but the clothes on their backs," the UN statement said.
+The developments have squeezed both sides of the Arabian Peninsula, pushing crude oil prices to over $100 a barrel for the first time since July.
+Fears over inflation have risen with the spike in energy prices, further pushing up government borrowing costs.
+Richard Bronze of Energy Aspects told the BBC that even before the latest escalation, diverting Saudi oil via the Suez Canal into the Mediterranean and around Africa was already adding 30 days to sailing times and increasing transportation costs.
+"The buffers that have helped the oil market manage the crisis so far are mostly gone. So oil prices will keep rising if both crises continue," he said.
+Challenges were particularly acute in diesel markets, he said, where prices have already reached record levels that would in turn push up the costs of a range of goods as diesel is widely used in manufacturing and transportation.
+"Unless the situation across the Middle East improves, crude oil prices are likely to return to the peak of $120 per barrel seen earlier in the Iran war and could go even higher," he said.
+Additional reporting by Meghan Owen
+Related topics
+  - Published2 days ago</description></item><item><title>Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea</title><link>https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea
+- Published
+Six people have died and 107 have been rescued from a stricken Indonesian passenger ferry in the Java Sea, Indonesia's search and rescue agency has said.
+A search and rescue operation was launched after contact was lost with the Virgo Transport 8 ship, which was carrying 243 people, as it encountered bad weather, Indonesia's search and rescue agency said.
+The search for the remaining passengers is ongoing.
+The ferry was travelling from Surabaya to the South Kalimantan city of Banjarmasin and was last reported to be about 150km (93 miles) south of Banjarmasin around 02:00 local time on Sunday (18:00 GMT on Saturday).
+Authorities received the initial distress report at 04:10 from the vessel's operator PT Virgo. The ship left Surabaya at 10:33 on Saturday and was scheduled to arrive in Banjarmasin on Sunday at 14:00, according to data from two maritime monitoring sites.
+A joint task force involving Indonesia's search and rescue agency, navy, maritime police and other parties has been set up for the rescue effort.
+Ships and a helicopter have been deployed to the scene, with 280 personnel taking part in the rescue operation. All vessels in the area of the Java Sea have been alerted to report any signs of passengers.
+An operations post for handling the accident was set up in the Trisakti Port area on Sunday morning.
+There are 213 passengers and 30 crew members on board. Of these, 130 people are still missing.
+Rusmilawati, a resident of Banjarmasin, went to the port to seek information about eight relatives who were passengers on the ship. They were travelling back to Banjarmasin after visiting the tombs of several Islamic scholars in Java.
+"They flew there initially, but for the return journey they wanted to try travelling by ship," she told BBC Indonesia.
+As of Sunday afternoon local time, Rusmilawati said she had not received any information from officials about whether her relatives had been rescued.
+The family last heard from one of the relatives through a WhatsApp status update. In the post, the relative wrote: "The waves are really frightening tonight. Or is this just what it's normally like travelling by ship, rocking and crashing against the waves?"
+"Hopefully they're safe," Rusmilawati said.
+Meanwhile, Misnah broke down in tears after learning that her husband, Ahmad Supandi, had survived.
+Ahmad, a freight driver, had been aboard Virgo Transport 8 and was later rescued by the vessel MV Haida.
+At Tanjung Perak Port in Surabaya, relatives of crew members have also been seeking information about their loved ones.
+One relative, Fredy, said his youngest sibling, Stevie Manuhua, worked aboard the vessel as a keyboard player, entertaining passengers.
+"We spoke two days ago when the ship was docked in Surabaya. After that, there was no news until now," Fredy said.
+He said he had still not received any information about his sibling's whereabouts.
+The incident comes after a separate ferry in Indonesia caught fire off Madura island last month, killing five.
+The Indonesian archipelago has more than 17,000 islands and ferries are a common form of transport.
+Additional reporting by Donny Muslim
+Related topics
   - Published2 days ago
-  - Published2 days ago</description></item><item><title>Fire at nursing home in Chile kills 16 residents</title><link>https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Fire at nursing home in Chile kills 16 residents
-- Published
-At least 16 elderly residents have died in a fire at a nursing home in Chile, according to authorities.
-Ten others were evacuated after a blaze broke out at El Edén home in /idt2/d9cfcc9a-2842-463f-a4d8-4dd007ef9547, around 640km (400 miles) south of the capital Santiago, on Friday evening.
-Jorge Granada, a prosecutor leading the case, said it was not clear at this stage what caused the incident.
-Chile's President José Antonio Kast said he had ordered a review into the condition of nursing homes across the country.
-"We will fully collaborate with the justice system to clarify what happened, determine where failures may have existed in oversight or prevention, identify what alerts were raised and what actions were taken in response to them," Kast said.
-"We need to know the truth and, based on that, correct whatever is necessary to do everything possible to prevent a tragedy like this from happening again," thre president added.
-The fire, which began at around 22:30 (01:30 GMT) was finally put out on Saturday morning.
-On Saturday, firefighters were still clearing debris and removing collapsed corrugated metal roofing. Police cordoned off the area for safety.
-"It is a situation that fills our souls with great sorrow and pain. We have been... providing support to the families," said local mayor Jacqueline Romero.</description></item><item><title>French officials investigate if malicious act caused train derailment</title><link>https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-French officials investigate if malicious act caused train derailment
-- Published
-Officials in northern France are investigating whether the derailment of a passenger train on Friday evening was the result of a malicious act.
-"At this stage, the leading theory is that a piece of rail was present on one of the tracks, potentially causing the derailment. The reason for its presence is unknown," prosecutor Sébastien Gallois said on Saturday.
-Local media say 186 passengers were on board the train that was operating between Rouen and Caen in Normandy.
-Forty-four people were treated for injuries, including an 18-year-old woman who was airlifted to hospital in a critical condition.
-"The train's 'black box' has been seized. Several interviews are scheduled, and a court-appointed expert has been called in," prosecutor Gallois said in a press release.
-"The main victim is still in hospital but her life is no longer in danger. The other victims have received care and treatment; they have either been discharged or are about to be."
-The Rouen prosecutor's office earlier said the train driver had tested negative for drugs and alcohol.
-The train derailed near Cléon, just south of Rouen, shortly before 20:00 (18:00 GMT), and some 140 firefighters and other emergency teams were immediately deployed to the crash scene.
-"Suddenly there were a few jolts, and then after about three seconds it got stronger and stronger," Louis, a passenger on the train, told ICI Normandie radio.
-"I couldn't stay in my seat anymore. The windows partially shattered, the stones from the track came into the carriage. It was really shocking. I'm still shaking," he added.</description></item><item><title>Uganda's King Oyo buried amid calls for unity over his successor</title><link>https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&amp;at_campaign=rss
+  - Published5 days ago</description></item><item><title>Uganda's King Oyo buried amid calls for unity over his successor</title><link>https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -231,7 +276,53 @@ Uganda's President Yoweri Museveni also called for the matter to be resolved "an
 The clan overseeing the succession defended its choice of Kijanangoma.
 Omusuuga Charles Karumasi, head of the Babiito royal clan, said: "We have done everything in observance of the culture and traditions of Tooro. We must all preserve peace and serenity."
 Related topics
-  - Published28 August</description></item><item><title>Death toll from Philippines ferry fire rises to 76, with more still missing</title><link>https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&amp;at_campaign=rss
+  - Published28 August</description></item><item><title>Afghan woman deported from US in first use of 'alien terrorist' court</title><link>https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Afghan woman deported from US in first use of 'alien terrorist' court
+- Published
+An Afghan woman living in Texas with legal US permanent residency has been deported from the country in the first-ever use of a secretive court.
+Nazira Haji Zada, 47, chose to leave the US rather than continue to argue her case before the Alien Terrorist Removal Court, according to the US Department of Justice (DOJ) and her lawyers.
+The Alien Terrorist Removal Court was created in 1996, but had never heard a case before the proceedings in July. It is meant for non-US citizens facing terrorism-related charges when the evidence is confidential and related to national security.
+Lawyers for Haji Zada argued that the case violated her right to due process under the US Constitution.
+Afghanistan citizen Haji Zada was never charged with a crime, but prosecutors had tried and convicted her son and son-in-law for terror offenses.
+Her son, Abdullah Haji Zada, and son-in-law, Nasir Ahmad Tawhed, were both found guilty of a plot to carry out a mass shooting on Election Day in 2024, inspired by the group calling itself Islamic State.
+Haji Zada, who has been living in Fort Worth, Texas, was accused by prosecutors of being the "matriarch" of the group, who had worked "to radicalize the family".
+In a statement on Friday, the justice department said she "conceded that she is an alien terrorist and waived appeal of the removal order, terminating her previous [immigration] status".
+"This landmark case, resulting in the prompt removal of this alien terrorist to her country of origin, is a win for national security and the rule of law," said US Attorney General Todd Blanche.
+"Those who support and condone terrorism should not be living in the United States, and this first-ever case before the ATRC shows how the Department will use every tool at its disposal to protect our country."
+Court-appointed lawyers for Haji Zada said they were denied access to the evidence in her case.
+"Our client's choice to consent to removal should not be seen as an endorsement of this court's legitimacy," public defenders Matthew Farley and Mary Manning Petras said in a statement to The Washington Post.
+"Dragging lawful permanent residents into court but refusing to show them or their attorneys the evidence that will be used against them is a plain violation of due process. We are confident that the Alien Terrorist Removal Court will be struck down as unconstitutional as soon as a judge is asked to address the issue," they said.</description></item><item><title>Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat</title><link>https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat
+- Published
+Ukrainian tennis player Dayana Yastremska has said her family's flat has been destroyed in a Russian aerial strike on the Black Sea port of Odesa.
+"This is what the 'Russian world' looks like. A direct hit by a Kalibr cruise missile," she wrote on social media, showing a photo of a burning multi-storey residential building.
+"The only thing that survived was a Roland Garros... towel," the 26-year-old added, posting an image of a famous clay orange towel from Paris's Grand Slam tournament hanging from the wreckage.
+Odesa regional head Oleh Kiper said 37 people were injured, including a baby, and two missing in the missile and drone attack on Odesa and nearby Chornomorsk on Friday night.
+"A Russian missile destroyed our apartment in Odesa... SYMBOLIC. A piece of world tennis survived a Russian missile. Our home did not," Yastremska wrote on Instagram on Saturday.
+"@wta @itf_reviews Look at these images through our eyes," she said in a reference to the governing bodies of world tennis - the Women's Tennis Association and the International Tennis Federation.
+Yastremska - who in 2024 reached the semifinal stage of the Australian Open - is currently 113th in the women's world singles rankings.
+It is not the first time Ukrainian athletes' homes have been hit by Russia since the start of the full-scale invasion of Ukraine in 2022.
+Last year, Ukraine international football midfielder Heorhiy Sudakov said his flat in the capital Kyiv had been severely damaged by a Russian drone while his wife and child were at home.</description></item><item><title>Fire at nursing home in Chile kills 16 residents</title><link>https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Fire at nursing home in Chile kills 16 residents
+- Published
+At least 16 elderly residents have died in a fire at a nursing home in Chile, according to authorities.
+Ten others were evacuated after a blaze broke out at El Edén home in /idt2/d9cfcc9a-2842-463f-a4d8-4dd007ef9547, around 640km (400 miles) south of the capital Santiago, on Friday evening.
+Jorge Granada, a prosecutor leading the case, said it was not clear at this stage what caused the incident.
+Chile's President José Antonio Kast said he had ordered a review into the condition of nursing homes across the country.
+"We will fully collaborate with the justice system to clarify what happened, determine where failures may have existed in oversight or prevention, identify what alerts were raised and what actions were taken in response to them," Kast said.
+"We need to know the truth and, based on that, correct whatever is necessary to do everything possible to prevent a tragedy like this from happening again," thre president added.
+The fire, which began at around 22:30 (01:30 GMT) was finally put out on Saturday morning.
+On Saturday, firefighters were still clearing debris and removing collapsed corrugated metal roofing. Police cordoned off the area for safety.
+"It is a situation that fills our souls with great sorrow and pain. We have been... providing support to the families," said local mayor Jacqueline Romero.</description></item><item><title>Death toll from Philippines ferry fire rises to 76, with more still missing</title><link>https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -250,196 +341,22 @@ A survivor who was hauled to safety on a rescue boat told the BBC he had heard f
 The ferry, built in 2002, held valid safety certificates and passed an enforcement inspection in March, but investigators are looking into potential manifest discrepancies, cargo loading integrity, and crew emergency response protocols, the Palawan Daily reported.
 The vessel was carrying 117 passengers and 17 crew members.
 Atienza Interisland Ferries, the vessel's operator, has pledged full co-operation with the inquiry.
-  - Published1 day ago</description></item><item><title>Afghan woman deported from US in first use of 'alien terrorist' court</title><link>https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&amp;at_campaign=rss
+  - Published2 days ago</description></item><item><title>French officials investigate if malicious act caused train derailment</title><link>https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Afghan woman deported from US in first use of 'alien terrorist' court
+French officials investigate if malicious act caused train derailment
 - Published
-An Afghan woman living in Texas with legal US permanent residency has been deported from the country in the first-ever use of a secretive court.
-Nazira Haji Zada, 47, chose to leave the US rather than continue to argue her case before the Alien Terrorist Removal Court, according to the US Department of Justice (DOJ) and her lawyers.
-The Alien Terrorist Removal Court was created in 1996, but had never heard a case before the proceedings in July. It is meant for non-US citizens facing terrorism-related charges when the evidence is confidential and related to national security.
-Lawyers for Haji Zada argued that the case violated her right to due process under the US Constitution.
-Afghanistan citizen Haji Zada was never charged with a crime, but prosecutors had tried and convicted her son and son-in-law for terror offenses.
-Her son, Abdullah Haji Zada, and son-in-law, Nasir Ahmad Tawhed, were both found guilty of a plot to carry out a mass shooting on Election Day in 2024, inspired by the group calling itself Islamic State.
-Haji Zada, who has been living in Fort Worth, Texas, was accused by prosecutors of being the "matriarch" of the group, who had worked "to radicalize the family".
-In a statement on Friday, the justice department said she "conceded that she is an alien terrorist and waived appeal of the removal order, terminating her previous [immigration] status".
-"This landmark case, resulting in the prompt removal of this alien terrorist to her country of origin, is a win for national security and the rule of law," said US Attorney General Todd Blanche.
-"Those who support and condone terrorism should not be living in the United States, and this first-ever case before the ATRC shows how the Department will use every tool at its disposal to protect our country."
-Court-appointed lawyers for Haji Zada said they were denied access to the evidence in her case.
-"Our client's choice to consent to removal should not be seen as an endorsement of this court's legitimacy," public defenders Matthew Farley and Mary Manning Petras said in a statement to The Washington Post.
-"Dragging lawful permanent residents into court but refusing to show them or their attorneys the evidence that will be used against them is a plain violation of due process. We are confident that the Alien Terrorist Removal Court will be struck down as unconstitutional as soon as a judge is asked to address the issue," they said.</description></item><item><title>Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC</title><link>https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC
-- Published
-Ukraine is facing its "toughest winter" since Russia's full-scale invasion in 2022, a top United Nations official told the BBC.
-Alexander De Croo, head of the UN development agency, said there was a risk of "humanitarian catastrophe" if Russian attacks cut off access to power and water.
-Speaking in Ukraine, De Croo – the UN's third most senior official – accused Russia of systematically targeting the country's energy infrastructure. He said there was now a "race against the clock" to repair the power network before winter sets in and temperatures plummet.
-Russia and Ukraine have been intensifying aerial attacks in recent months, and both deny deliberately targeting civilian infrastructure.
-Russia has started to use faster, jet-powered drones that are harder to intercept in recent around-the-clock attacks on Ukraine - and in particular Kyiv. Many of the strikes have targeted Ukraine's infrastructure, including businesses, warehouses, factories, petrol stations, as well as energy infrastructure.
-Ukraine continues to launch drone strikes deep into Russian territory, largely against gas, oil and business distribution facilities. Both countries deny targeting civilians.
-Deadly attacks have resumed after US President Donald Trump sent envoys for talks in Moscow with Russian President Vladimir Putin and in Kyiv with Ukrainian President Volodymyr Zelensky last weekend.
-Five people were killed and 67 others were wounded in a daytime Russian drone strike on a shopping mall in Pavlohrad, a city in Dnipropetrovsk region, on Thursday, Ukrainian officials say. Earlier in the week two other shopping malls were targeted by Russian air strikes, killing two people and injuring 28 people in the attacks on the cities of Zaporizhzhia and Sumy.
-Russia reported a Ukrainian seaborne drone attack on the resort city of Sochi overnight on Wednesday, in which 28 people were wounded, as well as three more deaths blamed on Ukrainian attacks.
-Two people were also killed earlier this week when Russian drones hit a border crossing between Ukraine and Moldova, which has increasingly found itself caught up in the conflict.
-A full-scale war has been raging between Russia and Ukraine since Putin launched an invasion more than four and a half years ago.
-De Croo, a former prime minister of Belgium, told the BBC: "This winter is going to be the toughest one since the war".
-He said Ukraine started "from a very weak base going into this winter". He added the UN were "very, very worried... about what this winter could become."
-The concerns are driven by what De Croo said was Russia's "very systematic" targeting of civilian and energy infrastructure.
-"This is petrol stations, it's shopping malls, it's business centres, but it's especially energy infrastructure, energy transmission lines, and so on. There is absolutely no justification for that," he said.
-This could lead a "worst-case scenario" where people struggled to access energy to run heating, and water and sewage systems stopped working.
-"With the temperatures that you would get here that would lead to circumstances which would be really close to humanitarian catastrophe," De Croo said.
-Winter temperatures in Ukraine can drop to -20C.
-If power supplies and critical infrastructure were severely damaged it could lead to "quite some human suffering", De Croo said.
-Under efforts to prepare Ukraine for winter the UN Development Programme is helping to rebuild parts of its energy system that were damaged last winter. It is also establishing more sustainable and decentralised energy plants, which are less vulnerable to attack.
-De Croo said completing the difficult and dangerous work was "almost an impossible task".
-"They are reconstructing these sites under constant, constant air alarms. And they know that they are working at a site which is a target," he said. "So you try to reconstruct, but part of your day you can't work because it's just too dangerous."
-Related topics
-  - Published3 days ago</description></item><item><title>Record heatwaves in France set to make champagne stronger</title><link>https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Record heatwaves in France set to make champagne stronger
-- Published
-Champagne lovers may find themselves getting tipsy more quickly after French producers have been given the go-ahead to raise the alcohol content in a bottle of bubbly for the first time following this summer's record heatwave.
-Winemakers can temporarily produce champagne with an alcohol content of up to 15% - above the 13% cap, industry officials have said.
-The extreme heat and drought produced grapes with exceptionally higher sugar levels. Yeast converts sugar into alcohol during fermentation.
-France's Champagne region also saw its earliest-ever harvest due to the weather, something that could become the norm "in 10 to 15 years" because of climate change, according to the Comite Champagne industry association.
-- How will extreme weather affect our food? 
-  - Published24 August
-- France links sharp rise in drownings to heatwaves 
-  - Published23 August
-The temporary increase in champagne's alcohol content is only expected to affect a small number of wines, a spokeswoman for the Comite Champagne told the BBC.
-During the second fermentation process, which gives champagne its bubbles, "a very small number of wines from this harvest could have slightly exceeded the regulatory limit of 13%, reaching around 13.1% or 13.2%".
-"Therefore a decision was made to exceptionally and temporarily increase the regulatory limit to 15% - only for this year," she said.
-The first grapes were cut in early August and the harvest expanded by the middle of the month, "the earliest ever recorded in Champagne", the association said.
-"The 2026 growing season will be remembered as one of the most unusual in Champagne's history, marked by severe spring frosts of historic intensity, an exceptionally early flowering period and five heatwaves throughout the summer." it added.
-Speaking in the Times newspaper, Stéphane Vignon, a producer in Verzenay said: "The Mediterranean climate is moving north. This is year one of a new cycle. It's unlikely to be every year, but it will happen again".
-Higher-strength champagne is unlikely to be an obvious selling point, warned Jane Anson, a wine columnist and author based in Bordeaux.
-She told the Times: "Today people increasingly prefer lower-alcohol
-"The battle between what consumers want and what nature provides must be very stressful for producers."
-The 2026 vintage is unlikely to hit shelves until 2028 as champagne must age for at least 15 months.
-Maxime Toubart, co-chair of the Comite Champagne, told the AFP news agency that the likelihood of hotter weather in the future means "this unusual harvest will probably become the norm in 10 to 15 years".
-France has been one of Europe's worst-hit countries during this year's extreme weather, sparking huge wildfires.
-Climate change is driving up global average temperatures, making heatwaves more frequent and intense.
-It has been felt acutely in Europe, which is the fastest warming continent, heating up twice as fast as the global average, according to the Copernicus climate service., external
-  - Published1 day ago
-  - Published5 November 2025
-  - Published4 September</description></item><item><title>Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat</title><link>https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat
-- Published
-Ukrainian tennis player Dayana Yastremska has said her family's flat has been destroyed in a Russian aerial strike on the Black Sea port of Odesa.
-"This is what the 'Russian world' looks like. A direct hit by a Kalibr cruise missile," she wrote on social media, showing a photo of a burning multi-storey residential building.
-"The only thing that survived was a Roland Garros... towel," the 26-year-old added, posting an image of a famous clay orange towel from Paris's Grand Slam tournament hanging from the wreckage.
-Odesa regional head Oleh Kiper said 37 people were injured, including a baby, and two missing in the missile and drone attack on Odesa and nearby Chornomorsk on Friday night.
-"A Russian missile destroyed our apartment in Odesa... SYMBOLIC. A piece of world tennis survived a Russian missile. Our home did not," Yastremska wrote on Instagram on Saturday.
-"@wta @itf_reviews Look at these images through our eyes," she said in a reference to the governing bodies of world tennis - the Women's Tennis Association and the International Tennis Federation.
-Yastremska - who in 2024 reached the semifinal stage of the Australian Open - is currently 113th in the women's world singles rankings.
-It is not the first time Ukrainian athletes' homes have been hit by Russia since the start of the full-scale invasion of Ukraine in 2022.
-Last year, Ukraine international football midfielder Heorhiy Sudakov said his flat in the capital Kyiv had been severely damaged by a Russian drone while his wife and child were at home.</description></item><item><title>Bulgaria investigates fire at weapons  site that owner calls sabotage</title><link>https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Bulgaria investigates fire at weapons site that owner calls sabotage
-- Published
-Bulgaria is investigating the cause of an overnight fire at an ammunition storage site run by a private defence company.
-Interior Minister Ivan Demerdzhiev said the authorities "are not ruling out outside interference" in the incident in central Bulgaria. No-one was injured in the blaze that triggered a series of explosions.
-EMCO company, whose weapons are used by Ukraine against invading Russian forces, said the fire at its site was sabotage and that human error was "completely ruled out". It did not say who might be responsible.
-The latest incident follows last month's fire and blasts at another EMCO ammunition warehouse in the area.
-In a statement, EMCO said the storage facility that was burned this time - near the central village of Gorni Varpishta, some 170km (106 miles) east of the capital Sofia - had not been used for months and was inspected just 20 days ago, when full compliance with all regulations was confirmed.
-It cited a number of similar incidents at Bulgarian defence firms since 2011, saying that the latest was "no exception to the series of acts of sabotage against the Bulgarian defence industry".
-"As the EU and Nato member state most severely affected by such actions, Bulgaria must join the collective effort to prevent and neutralise these attacks," EMCO said.
-The firm is run by Bulgarian arms dealer Emilian Gebrev, who Bulgarian prosecutors allege has already been targeted by Russian agents.
-This includes a poisoning attempt in 2015 of Gebrev, his son and another company employee - three Russian nationals were later charged in absentia for attempted murder.
-Bulgaria is a major weapons supplier to Ukraine, as it continues to repel a full-scale Russian invasion launched in 2022.
-And although Sofia has recently halted state-owned arms supplies to Ukraine, Bulgarian private defence companies continue such transfers.
-Russia appears to have recently escalated its sabotage campaign across Europe.
-Last week, Germany said Russia was responsible for August's drone attack at Leipzig's airport - a claim denied by Moscow as "absurd".
-There have also been a number of suspicious fires at defence facilities from Italy to Estonia, with some of the affected countries blaming Russia.
-Related topics
-  - Published2 September</description></item><item><title>Arrest made over the death of black woman found hanged from tree in Mississippi</title><link>https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Arrest made over the death of black woman found hanged from tree in Mississippi
-- Published
-Warning: This story contains distressing details
-Police in the US state of Mississippi have arrested a man in connection with the death of a black woman found hanged from a tree, and say they could soon take more people into custody.
-Tasia Fortune's body was found in the lot of an abandoned home in Jackson in August, but police only announced they were treating her death as a possible homicide earlier this week.
-"That arrest today is an important development in this investigation, but it is not the conclusion," Jackson Police Chief RaShall Brackney said on Friday. "This case remains active."
-Fortune's death has worried locals in Jackson, a majority-black city in a state with a history of racial violence and lynching.
-During Friday's news conference, Brackney said the medical examiner had confirmed Fortune's cause of death was homicide and said there would be a murder charge.
-She identified the suspect as Jarques Ratliff, 51, and said there was an "association" between Ratliff, who is also black, and Fortune, but would not elaborate further.
-"Additional arrests will be pending as our investigators continue to follow the evidence," Brackney said, adding that they had interviewed 15 people in the case.
-Fortune's mother, Christy Spivey, told the BBC that she cried when police called to update her about the arrest, saying: "I guess I do feel like a little sigh of relief...like a little bit of peace just come over me."
-"I just hope that they've got the right person," she added.
-The arrest of a suspect followed weeks of what Spivey and residents in Jackson described as relative silence and inaction from local officials.
-Combined with the grim nature of Fortune's death and Mississippi's history of racial lynchings, the lack of information about the case had left the community in shock and fear.
-Spivey earlier told the BBC she had tried contacting Jackson police several times over the last two weeks, leaving multiple voicemails, and had not heard back.
-Brackney addressed the family's frustration on Friday, saying: "We have been in constant contact with the mother and the stepfather, as well as the biological father, throughout this case."
-A letter Spivey wrote to officials about the limited communication and speed of the investigation was read during a public city meeting on Tuesday - moments before Jackson police made the announcement about a possible homicide.
-"I'm kind of like in awe," Spivey said. "Like, I can't believe it. That was quick."
-Earlier this month, Fortune's death was described by a member of the US Congress as part of a pattern of "possible modern-day lynchings".
-More than 50 members of Congress this week sent a letter, external to the FBI and justice department, saying they were "extremely alarmed by reports of black people found hanging from trees in numerous states" and calling for an independent investigation into the deaths of black Americans.
-"The series of deaths raise significant suspicion of foul play given the role of lynching in our nation's history," it states.
-So far this year there have been at least 10 reported hangings of black people in the US, they said, adding that there were more than 70 lynchings documented between 2000 and 2025.</description></item><item><title>Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial</title><link>https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial
-- Published
-Grammy-winning rapper Lil Durk was acquitted on Friday of all charges in a federal murder-for-hire case accusing him of orchestrating the revenge killing of a man shot dead in a daytime ambush in Los Angeles four years ago.
-The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.
-Defence lawyer Drew Findling said the recording artist, whose real name is Durk Devontay Banks, was "thankful" following the verdict.
-Lil Durk has had seven albums in the US Billboard chart's top five since 2019 and has also collaborated with stars including Drake and J Cole on hit singles.
-Supporters cheered outside a Los Angeles courthouse after the verdict, which came following three days of jury deliberations.
-The 33-year-old faced five felony counts, including murder for hire resulting in death and conspiracy. If convicted, he could have faced a life sentence.
-Although Banks was found not guilty of the charges in the case, he remains in custody and faces a separate trial on 5 October, where he will face racketeering murder and firearms charges.
-"While we are disappointed with the jury's decision regarding Durk Banks, a.k.a. 'Lil Durk,' we look forward to presenting our evidence at his second trial", First Assistant US Attorney Bill Essayli said in a statement.
-In the three-week trial, two co-defendants were tried alongside Banks. Deandre "OTF Dede" Wilson and David "Browneyez" Lindsey were convicted of stalking and conspiracy to commit stalking, but acquitted of murder-for-hire charges, the BBC's US partner CBS News reports, external.
-The trial relied on three co-operating witnesses, Kavon "OTF Vonnie" Grant, Keith "Flacka" Jones and Kacey "OTF Jam" Hester, who reached plea deals and testified against Banks, Wilson and Lindsey.
-It stemmed from a fatal shooting in August 2022 at a petrol station in Los Angeles, where a car carrying Rondo, whose real name is Tyquian Bowman, was shot at. Bowman was unharmed, but his cousin Saviay'a Robinson, who was also in the car, was killed.
-Federal prosecutors accused Banks of plotting to kill Bowman, in retaliation for the earlier murder of Chicago OTF rapper King Von, who was signed to OTF. Von was killed in 2020 during an early-morning exchange of gunfire in Atlanta.
-A friend of Bowman was charged with King Von's murder, but the charges were later dropped. Bowman was not arrested or charged.
-Authorities said Banks made it known that he would "pay a bounty" to anyone who killed Bowman. Prosecutors argued that Banks felt pressure on social media to avenge Von's death.
-Banks founded OTF in 2010. He won the 2024 Grammy Award for Best Melodic Rap Performance for his single "All My Life" featuring J Cole. He has also been nominated for a Grammy three other times.
-Related topics
-  - Published1 August 2022
-  - Published16 July 2021</description></item><item><title>Tragic death of woman who testified against father in notorious mafia murder of mother</title><link>https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Tragic death of woman who testified against father in notorious mafia murder of mother
-- Published
-A woman who testified against her own father after her mother was murdered in a notorious mafia killing in Italy is believed to have taken her own life.
-Denise Cosco was found critically injured on Sunday and died later in hospital in Rome.
-Her mother Lea Garofalo, who was killed in 2009, became a powerful symbol of resistance to the mafia after turning witness for the state against the 'Ndrangheta clan in southern Italy.
-Those close to Cosco recall her bravery in speaking out at her father's trial, but also her tremendous struggle in the years that followed.
-At 35, she died at the same age her mother was when she was murdered.
-Enza Rando, a senator and anti-mafia lawyer who represented Cosco at the murder trial, described her death as "a profound wound for the entire country", and proof that the mafia not only kills, but creates "true monsters in the lives and souls" of those who survive.
-Francesca Rispoli, co-president of the anti-mafia organisation Libera, said the death highlighted the struggle experienced by many who break with organised crime.
-"The mafia, it's not just something physical. You can leave. You can change your name," she told the BBC. "But there is still a tie, a family tie, that stays… deep inside and is impossible to overcome."
-Cosco, like her mother, had lived under state protection with a new name and identity for many years.
-But Rispoli said she remained extremely vulnerable and had reconnected with her father, Carlo Cosco, in prison in recent years because, despite everything, she had felt a "hole in her life".
-Friends say she struggled with mental health problems and addiction.
-"Maybe this is a sign that those trying to lead another life need more support. Not just for one year – maybe their whole life," Rispoli argued, as organised crime groups in Italy – especially the 'Ndrangheta - involve close-knit family networks.
-In Cosco's case, both her mother's family and her father were tied to the mafia.
-She had always refused to believe her father's story that her mother had abandoned her to start a new life in Australia.
-In fact, he had tricked Garofalo to a meeting, then had her strangled, her body dismembered then incinerated.
-Several years later, a statement by one of the killers finally allowed police to recover some fragments of bone and a necklace, which Cosco identified.
-At a public funeral in 2013, she spoke of her mother's courage in "putting herself on the line… for justice for all".
-Her father and three accomplices were already serving life in prison.
-At the trial, Cosco described herself as a "proud witness for justice" and said she had taken the difficult choice to testify – speaking from behind a screen – because she wanted "inner freedom to start over" with her life.
-Prosecutors have now opened an investigation to determine whether there was any incitement to suicide and her phone has been seized for analysis.
-Friends and supporters were due to gather in Milan on Friday evening to remember her near the spot where her mother was abducted.
-"Denise's entire life revolved between the two extremes of courage and suffering," Luigi Ciotti, president of Libera wrote, calling that a difficult balance.
-"Today, something in that fragile equilibrium was broken forever."
-If you or someone you know are affected by the issues raised in this story, the BBC Action Line has information on organisations that can offer advice and support.</description></item><item><title>Best friends for decades - until a DNA test revealed they were sisters</title><link>https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&amp;at_campaign=rss
+Officials in northern France are investigating whether the derailment of a passenger train on Friday evening was the result of a malicious act.
+"At this stage, the leading theory is that a piece of rail was present on one of the tracks, potentially causing the derailment. The reason for its presence is unknown," prosecutor Sébastien Gallois said on Saturday.
+Local media say 186 passengers were on board the train that was operating between Rouen and Caen in Normandy.
+Forty-four people were treated for injuries, including an 18-year-old woman who was airlifted to hospital in a critical condition.
+"The train's 'black box' has been seized. Several interviews are scheduled, and a court-appointed expert has been called in," prosecutor Gallois said in a press release.
+"The main victim is still in hospital but her life is no longer in danger. The other victims have received care and treatment; they have either been discharged or are about to be."
+The Rouen prosecutor's office earlier said the train driver had tested negative for drugs and alcohol.
+The train derailed near Cléon, just south of Rouen, shortly before 20:00 (18:00 GMT), and some 140 firefighters and other emergency teams were immediately deployed to the crash scene.
+"Suddenly there were a few jolts, and then after about three seconds it got stronger and stronger," Louis, a passenger on the train, told ICI Normandie radio.
+"I couldn't stay in my seat anymore. The windows partially shattered, the stones from the track came into the carriage. It was really shocking. I'm still shaking," he added.</description></item><item><title>Best friends for decades - until a DNA test revealed they were sisters</title><link>https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -473,7 +390,7 @@ Minal, 44, who lives in France with her partner and two sons, told the agency th
 It only sank in when she looked at her photos on social media. "'Meena: Sister.' I couldn't believe it. We were friends before we were sisters.
 "We were sisters the whole time," she said, "but we didn't know."
 Meena and Minal were adopted from different orphanages by two different Dutch couples.
-Meena says she grew up in a small village in the Netherlands by parents who taught at a private school.
+Meena says she grew up in a small village in the Netherlands with parents who taught at a private school.
 "They were also my teachers," she says. "They were very loving people, very trusting."
 Her father died a few years ago, but her mother continues to live in the same village. "We talk every day. She's still my safe space," she adds.
 In 2003, aged 19, Meena had visited the orphanage in Mumbai with her parents and her brother who was adopted from Goa.
@@ -647,83 +564,7 @@ The challenge for museums now is increasing security while also staying open to 
 "A museum cannot be a fortress," Hollein says. "We want to be open institutions; at the same time, we are facing new challenges and attacks against museums that will require new standards."
 Additional reporting by Madeleine Lake.
   - Published4 days ago
-  - Published20 October 2025</description></item><item><title>When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all</title><link>https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all
-- Published
-As he picked his way past the frozen slope towards two bodies, Mingma Gyalje Sherpa knew his friends were gone.
-Together, the three of them had climbed the world's highest peaks, under crisp mountain skies and in treacherous snowstorms. Nirmal Purja and Kili Pemba Sherpa were two of the strongest climbers Mingma G had ever known.
-But this July, an avalanche swept through Pakistan's Broad Peak while the two were on their way up, engulfing everything in its path.
-The drone images seemed clear: no-one had survived.
-And yet, as Mingma G came closer to the fluorescent down suits, sharp against the snow, he couldn't shake the idea they were waiting for him.
-"I told them: 'It's ok. You don't have to be here in the cold anymore.'"
-Speaking to the BBC in Islamabad, he recalls the terrible moment he reached for their bodies.
-Holding one of them, he promised: "I'm here to take you guys home."
-Mingma G and Nirmal Purja met in Pakistan in 2021, where they were part of the first team to summit the world's second-highest mountain, K2, during winter.
-Mingma G knew of Nirmal - or Nims, as he was known - from his Netflix documentary 14 Peaks, in which he successfully climbed the world's 14 highest mountains in just over six months.
-The pair, both avid climbers from Nepal, had taken different paths.
-Mingma G came from the Sherpa community and built his reputation as a mountain guide over 20 years. Nims was a former Gurkha and British Special Forces soldier who quickly became one of the world's best-known mountaineers.
-Many saw Nims as an incredible climber who helped Nepalese climbers gain international recognition in a field dominated by foreigners. But he also had his critics: they said he focused too much on records, and on marketing his expeditions to a growing social media following.
-In 2024 the New York Times published sexual misconduct allegations from two women, which Purja strongly denied through his lawyer at the time, who said they were "false and defamatory". Purja again denied the allegations in a lengthy interview soon after.
-Before Mingma G met Nims, he wasn't sure about him: "In the beginning, I had the feeling he was very arrogant."
-But that changed when their paths crossed five years ago, as competitors on their way to K2, who then decided to climb the mountain together and share the record. Mingma G says he found Nims to be "very kind-hearted, one of the most beautiful human beings I've met".
-Over the years the two would meet on various mountains around the world: Nims "would always be on Everest".
-This summer they met again, walking into the Karakoram range, before they would split up for different climbs. Nims headed for Broad Peak and Mingma G for K2, around 8km (five miles) apart.
-Nims asked Mingma G to wait another day so they could meet once more before embarking on these separate missions, but that meeting never happened.
-"That was the last thing he told me. I still regret it."
-On 30 July, "we had perfect weather, sunshine, no winds," Mingma G says.
-By then, he was leading a team up K2. Nims's team of climbers had joined others to form a larger group of 10 that was making its way up Broad Peak.
-At 08:30, Mingma G spoke to Kili Pemba Sherpa - better known as Kilu - a childhood friend and expert climber in Nims's group. Snow conditions looked good, Kilu had said, and the two agreed to speak again when they both reached the next camp on their respective mountains.
-The BBC spoke to two trekkers who spotted the climbers scaling Broad Peak. "We were cheering them on," one says. He took a photo of them on the slope, small silhouettes against the snow.
-The group continued ascending. But less than an hour later, there was a "thundercrack", the other trekker says: "a huge avalanche, starting from the top going down both sides of Broad Peak".
-"We were hoping and praying that the climbers were above the avalanche," the first trekker continues. But they couldn't see the silhouettes on the slope.
-The trekkers' guide notified base camp about what they had witnessed.
-The cause of the avalanche is still being investigated, but the Alpine Club of Pakistan told the BBC that while it had snowed heavily earlier that week, their initial research suggested that it was caused by the collapse of an ice slab, irrespective of snowfall.
-By the time Mingma G reached the next camp on K2, his team had not heard from the Broad Peak climbers. They didn't panic because climbers often turn off the radio to save battery life.
-But something was bothering him.
-One of the Broad Peak climbers, Wang Zhong, was a close friend and a client. He would normally message Mingma G through his Garmin satellite tracker to let him know he'd arrived safely at the next camp. But there was no message from him.
-Thousands of metres below, Pakistani mountain guide Waqar Ali says he was also trying to contact the group, but to no avail. He thought they may have been sleeping, in preparation for a final push towards the summit that night.
-But by 15:00, no-one at base camp had had any contact with the group on Broad Peak.
-Mingma G was 7,300m up on K2, where communication was difficult. His team started calling officials, families, contacts in Kathmandu and anyone who might have been in touch with the climbers.
-He says it was probably 20:00 when they first heard that the altitude readings from the Broad Peak climbers' trackers had dramatically fallen: one of them had dropped by around 1,600m.
-It was too late to climb and too dark to send up a drone, so he decided to wait for sunrise. "I had hope," Mingma G says. Especially for Kilu and Nims, who were "experienced and physically… strong".
-Early next morning, a drone was sent up and soon after, the operator radioed them. The drone had spotted bodies down the mountain. It looked like there were no survivors.
-"I was totally blank," Mingma G recalls in a low voice.
-He wasn't quite ready to accept he had lost so many dear friends at once.
-"Maybe still I had a feeling they might all be alive [and] wanted somebody to help them get down. That was just something I had in my heart and mind."
-Later that day, Mingma G called off his K2 expedition.
-Down at the base of Broad Peak, Waqar wept as he arrived with another climber to start the difficult job of bringing the bodies back.
-They retrieved the bodies of Nadhira Al Harthy, the first Omani woman to climb Everest, and Pur Bahadur Gurung, a Nepalese climber who had summited 12 of the world's 14 highest peaks.
-But there were still bodies on the mountain and Mingma G was determined to bring his friends home.
-When he called Nims's wife and brother-in-law to tell them the tragic news, he says they struggled to believe it. Kilu's wife "couldn't say much, but told me: 'don't leave your brother on the mountain'".
-Organising the next steps of the recovery mission was complicated.
-The climbers who'd been heading up K2 with Mingma G were unsettled, he says, and facing pressure from their families to go home.
-Then there were the logistics. From the drone images, Mingma G thought the bodies could be recovered using a helicopter and a long-line rope, but says he was told this wouldn't be possible. "In Nepal it would have taken like two minutes," he says.
-The Pakistani army which would have provided the helicopters didn't respond to the BBC's questions. The Alpine Club of Pakistan says a request made on 1 August was approved, but poor weather meant it could not be carried out for days.
-There was only one other option for Mingma G - a recovery operation on foot.
-On 1 August, Mingma G says, his team of rescuers set off in search of four bodies they believed they'd seen in the drone shots - those of Nims, Kilu, Zhong and a fellow climber called Nima Sherpa. Gyaljen Sherpa would also be discovered nearby.
-With the slope so unstable, there was a risk of falling rocks and further avalanches. A larger team could potentially lead to more casualties, but a smaller team would struggle to bring the bodies down.
-The moment the rescue team reached the bodies and began sending them down on ropes, another avalanche hit, he says.
-The torrent of snow sent one of the bodies down to the bottom. Three others, including Nims, ended up in a more dangerous position - in the centre of a slope with large pillars of glacial ice precariously balanced to the left and right. If either were to collapse while the rescue team were trying to reach the bodies, the tower of ice could sweep them away.
-The team needed a new plan. As the days progressed, some of its members started leaving. Their numbers went from nine to six, then four.
-Given how precarious the slope was, the group decided Mingma G would hang back and monitor by drone, instructing the three climbers. The arduous operation took five to six hours, but they finally managed to bring the bodies back down the slope.
-The moment Mingma G first saw his friends on the mountain still haunts him.
-Nims and Kilu had covered their faces with their jackets - Mingma G believes they had seen the deadly avalanche coming and prepared. The two were attached to the same rope, their legs wrapped in it. Mingma G thinks they may have hit each other on the way down - which he fears killed them rather than the fall.
-"They didn't fall that much, almost 500m. But unfortunately they hit each other a lot, I think. If they were not on the rope, maybe there was a possibility that Nims and Kilu might have survived."
-The team brought the bodies back down the mountain. They were flown by helicopter to the nearby city of Skardu, then on to the capital Islamabad and finally, home to their families.
-Pakistani mountaineer Sohail Sakhi's body was found a few days later, as was the body of American climber Mallory Geis. The body of Nepalese climber Nawang Thindu Sherpa remains on the mountain.
-Nims's family say they are deeply grateful to the "extraordinary team led by our brother, Mingma G, who worked in incredibly challenging conditions to bring Nimsdai home".
-This recovery operation has stayed with Mingma G. It doesn't compare to any other mission he has done.
-As he looks back with deep sorrow, he feels the end of his career could be coming.
-Memories of Kilu and Nims - the three of them singing together as they marched up to the summit of a freezing but sunny K2 a few years ago - will always be with him.
-But, he says, "I'm not sure if it helps, if the memory helps me to keep climbing or it makes me stop."
-Related topics
-More weekend picks
-  - Published8 February
-  - Published21 September 2025
-  - Published7 September 2025</description></item><item><title>Céline Dion fans prepare for comeback concert in Paris</title><link>https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&amp;at_campaign=rss
+  - Published20 October 2025</description></item><item><title>Céline Dion fans prepare for comeback concert in Paris</title><link>https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
