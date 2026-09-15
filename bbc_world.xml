@@ -1,5 +1,355 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>BBC World News (x3 Direct)</title><link>https://github.com/zukuxi/x3-bbc-news</link><description>BBC 全文内嵌版，专为纯粹阅读打造</description><item><title>China criticises idea it is in 'malicious competition' over AI</title><link>https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&amp;at_campaign=rss
+<rss version="2.0"><channel><title>BBC World News (x3 Direct)</title><link>https://github.com/zukuxi/x3-bbc-news</link><description>BBC 全文内嵌版，专为纯粹阅读打造</description><item><title>Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards</title><link>https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards
+- Published
+US President Donald Trump has said fears about the safety of artificial intelligence (AI) are a "hoax", as he criticised calls to have more guardrails in place for the fast-moving technology.
+It comes after Jack Clark, co-founder of AI giant Anthropic, told the BBC that a "kill switch" that can be checked by a third party may need to be mandatory for the industry.
+Clark's comments followed warnings about the risks the technology poses to humanity that have been raised in recent days by several executives and staff at leading AI firms.
+Those concerns triggered a selloff in tech firms' shares as investors weighed the impact of a potential slowdown in the multi-billion dollar development of AI.
+In a series of social media posts, the US president compared warnings about AI to the "Global Warming Scam" which, he said, was "being perpetrated by the Radical Left Dumocrats".
+Trump also called himself "the Hoax Buster", likening concerns about the safety of the technology to what he called "the RUSSIA, RUSSIA, RUSSIA HOAX".
+The only "guardrails" needed for AI was a "strong and smart" president, said Trump.
+In another post he wrote: "There is a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China. WHOEVER WINS AI, WINS!"
+Chinese state media said experts had warned that "Washington's growing anxiety over China's rapid AI development appears to be increasingly distorting its policy priorities".
+"They know that China has become a strong competitor in AI, and worry that if the US slows down development or tightens regulation, China could catch up even faster," Xin Qiang, a professor of American Studies at Fudan University, told the Global Times.
+Clark, who is one of Anthropic's seven founders, said earlier on Monday that a way of shutting off AI software completely if it gets too dangerous was something society "might want to eventually pass rules around".
+He added that "most labs have different ways of being able to pull the plug", including Anthropic, but said lawmakers may need to enforce having one.
+UK Business Secretary, Jonathan Reynolds, said on Tuesday that people should "never be complacent" about the impact AI might have but added: "We've got to be careful not to get hyperbolic about this either."
+Speaking to the BBC, he said: "Of course there are risks but, let's be frank, there are some tremendous upsides, whether it's public services, healthcare, the contribution to the economy."
+A growing number of tech industry and political figures are calling for better safeguards, most recently Microsoft AI which this week discussed limiting the models it is developing in a document on what it called "humanist AI".
+Microsoft AI's chief executive Mustafa Suleyman told business news channel CNBC that it had been working on the new guidance for months and had decided to publish it now due to the current debate around the technology.
+In an indication of how concerns over the technology have been thrust into the spotlight, two high-profile figures on opposite sides of US politics are set to appear at the same event calling for a re-evaluation of AI policy.
+Former Trump chief strategist Steve Bannon and veteran progressive Senator Bernie Sanders are due to speak at the "Pro-Human Assembly" in Washington on Tuesday.
+According to its website the gathering "aims to define a shared vision and articulate a better, more human-centric path for AI development".
+Sanders told BBC's Newsnight last week that "we have got to do something immediately to stop the uncontrolled growth of AI".
+"You've got the existential threat of the possibility of humanity being wiped out," he said.
+The debate over the potential dangers posed by the technology intensified in recent days after a post by Jacob Coxon, a researcher who left Anthropic over concerns AI could wipe out humanity, went viral.
+In response, Anthropic scientist Evan Hubinger said he thought the possibility of AI causing human extinction "within the next decade" was more than 10%.
+Anthropic chief executive Dario Amodei called for the pace of AI development to slow and be more closely monitored, as the company has done before, though some have questioned the motivations behind this.
+Amodei also said that any action to rein in AI should be done "without sacrificing commercial advantage".
+The bosses of two rival AI firms, Sam Altman of OpenAI and Elon Musk of xAI, have also said they agree with Amodei's proposal for industry-wide deceleration and regulation, as well as independent monitoring of AI model development.
+Get in touch
+Do you have any comments or questions about this story?
+Get our flagship newsletter with all the headlines you need to start the day. Sign up here.
+  - Published8 hours ago
+  - Published22 hours ago
+  - Published23 hours ago</description></item><item><title>AI regulation faces political deadlock as calls grow for Congress to act</title><link>https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+AI regulation faces political deadlock as calls grow for Congress to act
+- Published
+When President Donald Trump responded to mounting calls for a slowdown in the development of artificial intelligence (AI) on Monday, he was unequivocal.
+"AI taking over the World, destroying Humanity, and all other things bad, is a HOAX," he wrote on social media. He earlier argued that "the only control or 'guardrails' that AI needs" is a "strong and smart" president.
+Trump's view, unsurprisingly, is not shared by senior Democrats in Congress. It is also opposed by leading figures in the AI sector, who have in recent days issued stark safety warnings and made the case for government regulation.
+In the US, however, new safety legislation on AI is unlikely anytime soon.
+Any bill would have to pass in both the House of Representatives and the Senate to become law. Trump's staunch opposition to new guardrails on AI means the Republican Party, which has a majority in both chambers, is unlikely to break from him and back restrictions or government controls.
+And even if they did, whatever bill is passed would most likely require the president's signature to take effect. Trump's dismissal of the need for regulations on Monday effectively hit pause on any hope for executive action.
+- AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC 
+  - Published10 hours ago
+- UK government rejects 'kill switch' idea for dangerous AI 
+  - Published3 days ago
+Beyond this, a more immediate obstacle to any movement in Congress is the clock.
+The House is set to enter recess at the end of the week until after the midterm elections in early November. Some leading Democrats are calling for that recess to be delayed until AI safeguards can be passed in the chamber.
+"Congress should not leave town until something is done decisively to protect the safety and the wellbeing of the American people," Democratic House Minority Leader Hakeem Jeffries told reporters on Monday.
+A group of House Democrats calling for Congress to be given more time to debate the issue have also written a letter to Republican Speaker Mike Johnson, who would ultimately decide on delaying the recess.
+"Reasonable minds may disagree about precisely how Congress should regulate this rapidly evolving technology," the group said. "We cannot disagree about the imperative for Congress to act."
+Over the weekend, Republican congresswoman Anna Paulina Luna suggested on X that "Congress SHOULD convene a special session" on the issue.
+But it is highly unlikely the recess will be delayed or a special session convened in the coming days. Speaker Johnson, who on Monday faced a barrage of questions about AI from reporters in the halls of Congress, gave no sign he intended to move quickly this week.
+When asked if the House would take action on AI concerns before breaking for the midterms, he replied: "This is a very complex issue."
+He said Trump would hold a meeting at the White House soon with AI executives to discuss "the responsibility of the companies to maintain safety and what role, if any, the government has to play in that".
+"We want to emphasise the necessity of [AI companies] providing safe products and self-regulating," Johnson said, before adding: "There is also a role potentially for Congress to play."
+What that role could look like is unclear - and is a contested question among those in Congress.
+No consensus and competing bills
+While Democrats are pushing for more time to address AI safety, they are themselves divided on how best to regulate AI.
+Even if the party were to win control of both chambers of Congress in November's elections, there are no guarantees of swift action as it would have to unite behind one proposal.
+And there are numerous legislative proposals already on Capitol Hill that are designed to address AI safety, ranging from independent reviews, to a federal "kill switch", to a total moratorium on data centres proposed by Senator Bernie Sanders.
+These diverging proposals point to a lack of consensus in Congress - but also an urgency among some lawmakers to take action.
+Republican Senate Majority Leader John Thune and his Democratic colleague Amy Klobuchar are working on a bill that would force some AI companies to submit to federal oversight.
+"You don't want to stifle innovation," Thune said on Monday, "but I think you also want to make sure that the more advanced threats can be mitigated."
+Democratic congresswoman Lori Trahan, meanwhile, has spent months working on a different bipartisan proposal in the House that would give the government the power to halt the use of an AI model if officials find there is an "imminent catastrophic risk".
+"The federal government needs to put guardrails in place," she told the BBC, warning that the technology would eventually impact every aspect of society. "I don't think we have any more time to wait. This is all hands on deck."
+Trahan has worked on her proposed legislation, the Frontier Act, jointly with Republican Jay Obernolte and, among other things, it would require independent audits of AI research labs.
+But Trahan recognised that any movement this week was unlikely.
+Calls for self-regulation
+Some leading Republicans, including Speaker Johnson, have often referred to "self-regulation" when discussing government action and called on the companies to take responsibility for AI safety.
+One of Trump's top AI advisers, David Sacks, told the BBC's US partner CBS News on Monday that some of the existential warnings by insiders had been overblown. "I think this is becoming a panic," he said.
+"First and foremost, it is on them to make their products safe," Sacks said. "They should tell us how they should do that. If they can't do that, they should step aside for people who can do that."
+"Why are you acting like this is something that you can't control?" he said, referring to Anthropic's boss Dario Amodei, who has called for a slowdown in development. "If you can't control it, then don't do it."
+Some experts share the view that, in the short-term at least, it is up to the AI companies to regulate themselves responsibly.
+"You might want an act of Congress, and I would love a congressionally mandated regime that requires safety and testing and bias testing," said Asad Ramzanali, the director of AI &amp; Technology Policy at Vanderbilt University.
+"But absent that action, the companies have autonomy."
+Others have expressed scepticism at the recent flurry of warnings by AI staffers.
+Trevor Traina, a tech executive who was a diplomat during Trump's first term, said: "I don't think the typical citizen has encountered anything scary or really problematic with AI."
+"We're relying on the tweets of a half-dozen people who are all vying for perceived supremacy," he said. "The cynic in me thinks, 'Are they are really concerned, or are they trying to prove which model is the most awesome?'"
+Alexandra Reeve Givens, who previously worked in government and now leads the US non-profit the Center for Democracy and Technology, said she did not think meaningful federal AI regulation would pass in the foreseeable future.
+While the Trump administration has set up an entirely voluntary framework for AI companies to submit their models and tools for government assessment, Givens noted that the framework itself remains a secret.
+"There's no clear standard to make sure that the approach is even grounded in the rule of law," she said.
+Appeals from various groups to release the framework have so far gone ignored.
+The White House approach, combined with a lack of political will and consensus, makes passing laws around AI difficult.
+"There is no question that federal legislation is challenging in this climate, but Congress also has to grapple with which of the many types of AI risk need to be addressed," Givens said.
+"It's not that AI is ungovernable, it's that each risk needs a tailored approach."
+Follow the twists and turns of Trump's second term with North America correspondent Anthony Zurcher's weekly US Politics Unspun newsletter. Readers in the UK can sign up here. Those outside the UK can sign up here.
+  - Published18 hours ago
+  - Published18 hours ago</description></item><item><title>Denmark says Russian warship fired flares at military helicopter</title><link>https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Denmark says Russian warship fired flares at military helicopter
+- Published
+Denmark has accused a Russian warship of firing two emergency flares at one of its helicopters while it was tracking the vessel in the Baltic Sea.
+The Danish government has summoned the Russian ambassador over the incident, which it said happened during a "routine" monitoring operation on Monday.
+Prime Minister Mette Frederiksen branded the Russian action "reckless" and said it was designed to "intimidate and divide".
+Moscow has not commented on the incident.
+It came on the same day Nato forces shot down a drone over Lithuania in the latest security scare on the alliance's eastern flank, where tensions remain high during Russia's full-scale invasion of Ukraine.
+In a statement detailing the incident in the Baltic Sea, the Danish armed forces said: "One of the air force's Fennec helicopters was today fired at with flares during a routine photographic operation of a Russian frigate, which was located in international waters off Gedser."
+Of the two flares fired at the helicopter, one passed close to it, the statement added.
+The Danish foreign ministry described the incident as "completely unacceptable".
+Danish Foreign Minister Lars Lokke Rasmussen accused Russia of "gradually shifting the boundary for what they consider acceptable behaviour", adding: "That is something we cannot accept."
+Overnight, Nato fighter pilots shot down a drone that entered Lithuania's airspace.
+Authorities said the drone likely entered southern Lithuania, near the second-largest city of Kaunas, from neighbouring Belarus shortly after midnight on Tuesday.
+The origins of the drone are yet to be determined, the Lithuanian national crisis management centre said, but the country's president pointed to increased Russian aggression in recent months.
+President Gitanas Nausėda wrote on X: "With Russia intensifying its aggression against Ukraine, such readiness is vital for our region. Together with our Nato Allies, Lithuania will defend its airspace."
+Lithuania shares a large part of its southern and eastern border with Belarus, a key Russian ally.
+Poland also announced there had been "aviation operations" in its airspace on Monday night "due to the activity of Russian Federation's jet-powered unmanned aerial vehicles conducting strikes on Ukrainian territory".
+It said the overnight operations were of a "preventive nature" and aimed at "securing airspace and its protection, especially in areas adjacent to threatened regions".
+Nato jets have been scrambled several times to shoot down stray Ukrainian drones that have crossed into Baltic countries Estonia and Latvia this year.
+Ukraine has blamed the stray drones on Russian electronic warfare, technology designed to change the flight paths of Ukrainian drones.
+  - Published59 minutes ago</description></item><item><title>Welsh actor Matthew Rhys makes Emmy Awards history with double win</title><link>https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Welsh actor Matthew Rhys makes Emmy Awards history with double win
+- Published
+Welsh actor Matthew Rhys has made history at the Emmy Awards, becoming the first person to win two lead acting prizes in one night.
+Rhys was recognised at the prestigious US ceremony for his roles in supernatural TV comedy Widow's Bay and psychological thriller The Beast In Me.
+On stage, Rhys dedicated his second award "to the great and good people of Wales, who were as much a nurture as anyone else".
+"We are a small but mighty nation. This is incredible," he said, adding "Diolch yn fawr iawn" - which means "thank you very much" in Welsh.
+Other winners of the coveted US TV awards included Jean Smart, Allison Janney and Stephen Colbert, while there was an emotional tribute to Dolly Parton and a special humanitarian award for Michael J Fox.
+Proud Rhys flies the flag
+Rhys was named best lead actor in a limited series for The Beast In Me, then won best lead actor in a comedy for Widow's Bay.
+A small number of actors, including Alan Alda, Sally Field, John Goodman, Elisabeth Moss and Ted Danson, have previously been nominated for two lead acting prizes in the same year, but Rhys is the first to score a double win.
+Backstage, he said: "I'm from a small country, and I'm glad we get moments to kind of put our flag on the map and say, 'we punch higher than our weight sometimes'."
+The Beast In Me follows a grieving author, played by Claire Danes, who becomes obsessed with a mysterious new neighbour suspected of murder.
+Rhys said it was a "real shock" to win the award, and told Danes: "Thank you for letting me join the mystery machine and bringing out the beast, you are an intimidating scene partner, but I'm grateful for all this."
+Later in the night, accepting the comedy actor prize for playing the mayor in Widow's Bay, he thanked the family, friends and colleagues who supported his career, including his parents who "kicked me on to the stage at a very early age".
+A win for 'Lancashire lass'
+His Widow's Bay co-star Kate O'Flynn was among the other British winners, being named best supporting comedy actress for playing Patricia in the show about a fictional island beset by a centuries-old curse.
+"I want to thank our mayor and all the residents of Widow's Bay, in front and behind the camera," said O'Flynn, from Bury in Greater Manchester.
+She added: "This is the role of a lifetime... Thank you for trusting this Lancashire lass to play a sassy broad like Patricia."
+Smart and Janney equal Emmys record
+Elsewhere, Jean Smart won best comedy actress for her role in the fifth and final series of Hacks.
+It is the fifth Emmy she has won for the Hollywood satire. "What a ride this has been," Smart reflected, and joked that the audience only gave her a standing ovation "because I'm old".
+It was Smart's eighth Emmy win in total, and The Diplomat's Allison Janney also picked up the eighth Emmy of her career, scoring best supporting actress in a drama series.
+Smart and Janney have both now equalled the record for the most acting wins ever, shared with Cloris Leachman and Julia Louis-Dreyfus.
+Despite her past success, Janney was a surprise winner on Monday and said she was "genuinely shocked" to see off competition from four stars of hospital drama The Pitt, among others.
+Meanwhile, Rhea Seehorn won the first Emmy of her career for best lead actress in a drama series for Pluribus, the Apple TV show about a woman who discovers almost everyone else in the world has been taken over by a mysterious mind virus.
+The Pitt scores top prize
+The Pitt won best drama, traditionally seen as the most prestigious award of the night.
+And the show's leading star Noah Wyle also picked up the trophy for best lead actor in a drama series for the second year in a row.
+"I'm a Hollywood kid. I was raised on a television, and movie theaters were my place of worship," Wyle told the audience. "This is all I've ever wanted to do and this is the only club I've ever wanted to join. Thank you for accepting me."
+The former ER star praised all of his fellow nominees, but singled out veteran British star Sir Gary Oldman, who was nominated for Slow Horses.
+Wyle said he was inspired by Sir Gary's performance as Sex Pistols bassist Sid Vicious in 1986 film Sid and Nancy, recalling how at the time he thought it was "the benchmark that I want to hit one day in my career".
+Hero's welcome for Michael J Fox
+Michael J Fox was given a standing ovation as he received the Bob Hope Humanitarian Award for his campaigning for support for Parkinson's disease.
+The Back to the Future star, 65, who founded the Michael J Fox Foundation in 2000, said: "When it starts getting tough, you show up, you help, and if you get a little joy while you're doing it, that's even better."
+Appearing in a wheelchair, he told the audience he initially kept his condition secret after being diagnosed at the age of 29.
+"I worried that it would affect my work and my relationships with audiences when they laughed if they knew I was sick," he said.
+But he added: "Eventually, I understood that accepting Parkinson's didn't mean I had to surrender to it. It just meant doing what I could for everyone living with this disease. So I set out to advocate for patients' needs and raise money, and to propel us towards a cure."
+- In pictures: Stars on red carpet at Emmy Awards in LA 
+  - Published8 hours ago
+- Emmys 2026: The winners and nominations list 
+  - Published5 hours ago
+Dolly Parton tribute
+Actress Sally Field, who starred in Steel Magnolias opposite Dolly Parton, led a tribute to the country music star, who died last month.
+Field described Parton as "genuine, humble, supportive and blisteringly funny" as she introduced a special performance by country singer Reba McEntire.
+"She was a humanitarian whose contribution has made a profound difference across our country," Field said of Parton, who won an Emmy herself in 2021.
+"God bless you Dolly Parton my friend, I am not the only one on Earth who will love you for ever and ever."
+Earlier in the night, Field won best actress in a limited series or movie for Remarkably Smart Creatures, a Netflix film about an octopus who observes the staff in his aquarium.
+Catherine O'Hara remembered
+Macaulay Culkin, Annie Murphy and Dan Levy delivered a poignant tribute to their late Home Alone and Schitt's Creek co-star Catherine O'Hara. Culkin remembered her as "our mom", and "like a good mom, she always showed up when I asked her to".
+Referring to the plot of the Home Alone films, he joked: "She may have forgotten me... twice! But we will always remember her."
+Noah Kahan then performed Bridge Over Troubled Water during the in memoriam segment, before Jamie Lee Curtis paid an emotional tribute to actor and director Rob Reiner.
+Reiner, who died last December, received a posthumous Emmy last week for his guest appearance in The Bear.
+Alan Cumming's 'beautiful treachery'
+In other award categories, Scottish TV presenter Alan Cumming accepted the best reality show prize for the US version of The Traitors, an honour he said would encourage the team to "do better and go bigger".
+"It is so beautiful that a show about treachery and betrayal brings people together," he joked, as he also thanked his dog Lala, "the perfect co-host".
+On an evening otherwise light on political messages, Cumming concluded his speech by encouraging US citizens to register to vote ahead of the midterm elections in November.
+Stephen Colbert's swansong
+Stephen Colbert won best variety series after presenting his final episode of The Late Show in May.
+The presenter said nightly talk shows were a "fantastic incubator for young people to come in, work professionally, on a deadline, in collaboration, and that is the future of our business that we have to look after".
+He added: "I want to say to the audience, thank you so much for watching, we hope you enjoyed the show, we had a great time doing it for you. That's it, thank you, and catch you on the flip."
+Get our flagship newsletter with all the headlines you need to start the day. Sign up here.
+Related topics
+  - Published8 hours ago
+  - Published5 hours ago</description></item><item><title>Suspected sabotage causes major Netherlands rail disruption</title><link>https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Suspected sabotage causes major Netherlands rail disruption
+- Published
+Parts of the Netherlands, including Amsterdam, have been hit by major rail disruption after suspected sabotage to the tracks, the country's railway infrastructure operator has said.
+ProRail warned that passengers in the country's centre and north should expect cancellations and delays on Tuesday, while the closure of some level crossings could cause disruption to roads.
+Pipes were attached to the tracks in multiple locations, according to local media. In a statement, ProRail said the incident appeared to be "an intentional disruption... caused by human action".
+It added that no suspects or motives had been identified, but the national police unit was investigating.
+The BBC has contacted police for comment.
+The network's website showed that at least 15 disruptions had been recorded across the country on Tuesday, with routes to the main international airport, Schiphol, and Utrecht also affected.
+Train operator Nederlandse Spoorwegen said services around Zwolle, Deventer, and Amersfoot had been disrupted.
+It added that the disruption was so extensive it was "not possible" to provide a bus replacement service.
+A Eurostar train from Amsterdam to Paris was also delayed due to "operational restrictions" at Amsterdam Centraal on Tuesday, although it was not clear if this was linked to wider disruption. The BBC has contacted Eurostar for further information.
+ProRail said in a statement: "Materials were found at multiple locations in the track that were deliberately placed there. This causes section malfunctions. Sabotage appears to be involved".
+Footage published by Dutch public broadcaster NOS on Tuesday showed police carrying what appeared to be metal pipes - about 1.5 metres (5ft) long - away from railway tracks at Veenendaal in the central Netherlands.
+One train in the city of Steenwijk struck one of the objects, ProRail said, but added there were no injuries as a result.
+The disruption in the Netherlands came after separate reports in French media suggested a derailment in Normandy on Friday could have been an act of sabotage.
+According to prosecutors, a section of rail found on the track may have caused the crash. But France's interior minister Laurent Nunez has urged caution while an investigation is ongoing, saying that authorities are pursuing all leads.</description></item><item><title>US confirms for first time it has deployed space weapons</title><link>https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+US confirms for first time it has deployed space weapons
+- Published
+The US has confirmed it deployed a space weapon in Earth's orbit, the first time it has acknowledged such offensive capabilities.
+US Secretary of the Air Force Troy Meink said the "on orbit" weapon was necessary to safeguard US forces against hostile enemy action.
+Speaking at the Air, Space and Cyber Conference on Monday, Meink said the US was ready for "evolving threats", but did not elaborate on the weapon's capabilities or when it was put into orbit.
+Senior military leaders have previously said they planned to boost military capabilities in space, citing Russian and Chinese programmes developing ways to attack and disrupt US satellites in a future conflict.
+China responded on Tuesday by warning against an "arms race" in space.
+"We urge the US side to stop expanding its military capabilities and preparing for war in outer space," AFP quoted a foreign ministry spokesman as saying.
+Details of how the weapon operates have not been disclosed by US officials.
+A US Space Force spokesperson said: "Space control encapsulates the mission areas required to contest and control the space domain – employing kinetic and non-kinetic means to affect adversary capabilities through disruption, degradation and even destruction, if necessary.
+"These capabilities can be employed for offensive and defensive purposes at the direction of combatant commands."
+An expert on military uses of outer space noted that "precious little" was publicly known about the technology, and told the BBC there could be a "whole range of different weapons systems".
+Speaking to Radio 4's Today programme, Dr Bleddyn Bowen, from the Royal United Services Institute (RUSI), said he was "totally guessing" but that the US could have been referring to "some kind electronic warfare or radio jamming platform".
+That would be the sort of weapon that already exists on Earth and could disrupt radio communications, Bowen said.
+An alternative would be "a kinetic kill vehicle of some sort - so a vehicle that would release a projectile of some sort that would ram into a satellite and destroy it".
+But this was less likely because such a physically destructive tool would be capable of creating a lot of debris, Bowen added.
+The Trump administration has said that space-based capabilities - and interceptor missiles - are a crucial part of its planned "Golden Dome" defence system to protect the US from missiles and other airborne threats.
+Last year President Donald Trump issued an executive order underlining the US Space Force's role in not only defending assets, but also as an attacking force.
+The US Space Force - the first new branch of the US military for more than 70 years - was launched in 2019 as a way to protect American assets in space, including hundreds of satellites used for communication and surveillance.
+A 1967 treaty banned weapons of mass destruction in orbit. Since then, key powers including the US, Russia, and China have been exploring other capabilities outside of the treaty, such as targeting rivals' satellites - which are key for military communications, surveillance and navigation.
+In early February, it was revealed that two Russian satellites had likely intercepted the communications of at least a dozen European ones since Russia's invasion of Ukraine in 2022.
+Such interceptions may have allowed Russian intelligence services to read the sensitive data they transmit, or hypothetically, even to take control of the satellites.
+In 2024, the US said Russia had launched a satellite which it believed may be capable of attacking other such probes. Russia did not publicly comment on the issue.
+The US Space Force says China "develops and operates space and counterspace capabilities as part of a military modernisation strategy," while Russia "views space as a warfighting domain and believes space supremacy will be a decisive factor in future conflicts".
+Get our flagship newsletter with all the headlines you need to start the day. Sign up here.
+Related topics
+  - Published22 May 2024</description></item><item><title>Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'</title><link>https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'
+- Published
+Donald Trump Jr's wife, Bettina Trump, confirmed that their May wedding was paid for in part by an ally of Russian President Vladimir Putin.
+A post on her Instagram account – attributed to the couple – said that two nights of their three-day wedding festivities on a private island in the Bahamas were partially funded by Umar Kremlev, a Russian oligarch with close ties to Putin.
+The statement was released Monday after investigative journalism outlet ProPublica published a story detailing that Kremlev paid "hundreds of thousands of dollars" for the celebration.
+Donald Trump Jr, the president's eldest son, is a private citizen, so it is not illegal for him to accept gifts from a foreign national.
+"Our dear friend Umar very generously hosted two incredible nights of celebrations for us AFTER our wedding. It was an extraordinarily generous wedding gift from a friend, and something for which we were and remain incredibly grateful," the couple said in the statement.
+But ethics watchdog groups said it still presented the appearance of a conflict of interest for the president's son to accept lavish gifts from someone associated with a foreign head of state – even if he is not a US government employee.
+"People don't just give hundreds of thousands of dollars to a random acquaintance without wanting something," said Jordan Libowitz, vice president of communications for Citizens for Responsibility and Ethics in Washington (CREW).
+"You can see how [Putin] would enjoy all this press about how people in his circle are cozying up to people in the president's circle."
+According to the ProPublica article, the couple was married on a private island in the Bahamas, then held a two-day celebration on a separate island that rents for approximately $100,000 per night. Kremlev also paid other costs for the party, including a roughly $70,000 fireworks display, the report found.
+Kremlev runs the International Boxing Association (IBA), an organisation funded by the state-backed Gazprom energy company. The Olympic Committee suspended the group in part over its failure to report its ties to the Russian energy giant.
+Earlier this year Kremlev was part of a delegation that visited China with Putin. The Russian president also gave Kremlev the Order of Friendship, a top state honour, according to ProPublica.
+A spokesperson for Trump Jr told the news outlet that the president's son and Kremlev were personal friends and did not have "a business relationship".
+An ally of Trump Jr referred the BBC to the Instagram statement.
+In a statement to ProPublica, Kremlev's office said "Mr. Kremlev and Mr. Trump Jr have a friendly relationship." The statement said the men met a few years ago.
+Kremlev attended part of the wedding, the outlet reported. Other attendees included one of the US president's daughters, Ivanka Trump, and her husband, Jared Kushner, who has worked for the US on diplomatic negotiations with Iran, Russia and in the Middle East.
+The Trump campaign and family faced controversy for potential ties to Russia during the 2016 presidential election, resulting in a special counsel investigation. During the campaign Donald Trump Jr brokered a meeting at Trump Tower with a Russian operative that was closely scrutinised during the probe.
+Libowitz, of CREW, said either the president, who is a billionaire, or Trump Jr – who is worth $300 million, according to Forbes – could have paid for the full wedding to avoid a conflict of interest.
+"His father is worth billions he could have picked up the tab. Clearly they just didn't want to pay for it," Libowitz said. "They don't really care about the ethical ramifications."
+Related topics
+  - Published2 days ago
+  - Published30 January</description></item><item><title>Nato jets down drone that entered Lithuanian airspace</title><link>https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Nato jets down drone that entered Lithuanian airspace
+- Published
+Nato fighter pilots have shot down a drone that entered Lithuania's airspace overnight, the Lithuanian president said.
+Authorities said the drone likely entered southern Lithuania, near the second-largest city of Kaunas, from neighbouring Belarus shortly after midnight on Tuesday.
+Lithuanian President Gitanas Nausėda wrote in a statement on X: "A drone that just entered Lithuanian airspace was destroyed by NATO fighter jets."
+The origins of the drone are yet to be determined, a spokesperson for the Lithuanian national crisis management centre said.
+It is thought to be the first time that a Nato jet has shot down a drone in Lithuanian airspace.
+Drone alerts sounded across the capital Vilnius and surrounding region earlier on Tuesday.
+Shortly after midnight local time (21:00 GMT), alerts were sent to phones in the region, warning of a potential drone incursion and telling residents to "find a safe place" and "wait for the all clear".
+Lithuania's armed forces and Italian pilots serving in the Nato Air Defence Mission "showed a swift and responsible response" to the drone incursion, Lithuania's Ministry of Defence said.
+Nausėda's post on social media added: "With Russia intensifying its aggression against Ukraine, such readiness is vital for our region. Together with our NATO Allies, Lithuania will defend its airspace."
+Moscow has not commented on the incident.
+The UK's Defence Secretary Wes Streeting said: "Thanks to the swift and professional actions of Lithuanian and Italian forces, Nato once again demonstrated our readiness to protect our airspace.
+"We stand united, around the clock, in defence of every inch of Nato territory."
+The drone debris, scattered widely, will be collected and examined to try to determine who it belonged to, whether it was armed - and whether it was launched at Lithuania deliberately or perhaps strayed off course.
+Lithuania, a staunch supporter of Ukraine, shares a large part of its southern and eastern border with Belarus, a key Russian ally.
+Drone sightings were reported in Lithuania on Sunday. The crisis management centre later said an object had "likely" entered from Belarus and travelled across the country's territory before entering the airspace of Russia. The 13 September incident did not trigger air threat alerts.
+Military drone incursions have become increasingly common across Europe since the beginning of Russia's full-scale of invasion of Ukraine.
+Poland also announced there had been "aviation operations" in its airspace on Monday night "due to the activity of Russian Federation's jet-powered unmanned aerial vehicles conducting strikes on Ukrainian territory".
+These actions are of a "preventive nature" and are aimed at "securing airspace and its protection, especially in areas adjacent to threatened regions", it added.
+Residents in Lithuania's capital were forced to take shelter across Vilnius in May after a drone alert was triggered, briefly grounding flights and rail travel.
+Nato jets have scrambled multiple times to shoot down stray Ukrainian drones that have crossed into Baltic countries Estonia and Latvia this year.
+Ukraine has blamed the stray drones on Russian electronic warfare, technology designed to change the flight paths of Ukrainian drones.
+Lithuania, Estonia and Latvia all joined Nato in 2004, becoming signatories to the Article 5 provision that states "an armed attack against one NATO member shall be considered an attack against all members".
+  - Published20 May</description></item><item><title>Legendary costume designer Bob Mackie dies aged 87</title><link>https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Legendary costume designer Bob Mackie dies aged 87
+- Published
+Bob Mackie, who designed dazzling costumes for stars including Cher, Tina Turner, Dolly Parton and Elton John has died, aged 87.
+The US fashion designer, known as the "Sultan of Sequins" for his sparkling creations, won a Tony Award, nine Emmys and received three Oscar nominations during his career.
+"It is with a heavy heart that we share the news that Mr Bob Mackie passed away today," a statement on his Instagram account announced on Monday.
+"He lived his 87 years to the fullest, fulfilling his dream of being a Fashion and Costume Designer, which is all he ever wanted to do," it added. "His genius and extraordinary designs will live on forever, continuing to bring beauty into this world."
+- From Marilyn Monroe to Sabrina Carpenter - Bob Mackie's designs in pictures 
+  - Published8 hours ago
+Mackie was particularly influential in Cher's career and designed her iconic Mohawk outfit, which she wore to the Oscars in 1986. It became known as her "revenge" outfit, because she wasn't nominated for anything.
+The showgirl-inspired costume featured a plumed mohawk headdress and showed Cher's bare midriff - a very new, and very shocking look at the time.
+The costume has gone down in fashion history as one of the most outrageous and extravagant ever to appear at the awards.
+"I didn't get nominated for a movie that everyone thought I would actually win for [Mask] - so was dressing that night for a kind of revenge," Cher explained in the 2024 documentary Bob Mackie: Naked Illusion.
+Mackie told the BBC in 2010 that when Cher started out she "looked like no-one else in the entertainment business at the time".
+"Everybody just went crazy over this woman as she could wear anything," he added.
+Cher was widely reported to be the first woman to show her belly button on US television - and Mackie's designs were pivotal to that.
+Mackie was also the creative genius behind several of Sir Elton John's costumes, including his now-iconic Dodgers baseball outfit - bedazzled of course - that he wore during his performances at Dodger Stadium in Los Angeles in 1975.
+"Every time I put something on that Bob made, I felt very, very special," Sir John wrote on Instagram. "His costumes were works of art, and he will go down as one of the most legendary designers ever in Hollywood."
+Singer Pink wore many of his designs over the years. Sharing several of the outfits she wore on stage during her Funhouse tour in 2009, she wrote "I was so lucky to be dressed by him for so long. He was loving, wickedly funny and an absolute genius."
+"There are going to be some fabulously dressed angels."
+Mackie was still designing up until recently - Sabrina Carpenter wore one of his designs at the MTV Video Music Awards last year.
+He also designed the dress Miley Cyrus wore during her performance at the 2024 Grammy Awards. She won a Grammy that year for her break-up anthem, Flowers - perhaps it was her own version of a "revenge" dress.
+Robert Gordon Mackie was born in Monterey Park, California, in 1939.
+His design career started as a sketch artist for Jean Louis, a French-American costume designer. One of Mackie's early assignments saw him sketch the dress that Marilyn Monroe wore when she delivered her breathy rendition of "Happy Birthday Mr President" to John F Kennedy in 1962.
+He married Hollywood singer and actress Lulu Porter in 1960, but they divorced three years later. They had a son together, Robin, who died in his early thirties from an Aids related illness.
+Mackie was in a relationship with Iranian fashion designer, Ray Aghayan, from 1963 until Aghayan's death in 2011.
+"I think I'm the oldest living designer in Hollywood," Mackie told The Guardian in 2018. When asked if he'd ever retire, his answer was simple - "I hope not."
+1 of 7</description></item><item><title>Wild dogs record 2,500-mile trek across Zambia in search of a mate</title><link>https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Wild dogs record 2,500-mile trek across Zambia in search of a mate
+- Published
+A pack of African wild dogs has completed a record-breaking 2,485-mile (4000km) journey across Zambia.
+Scientists say it is the furthest recorded distance for any African land mammal searching for a mate, offering hope that wildlife can travel across vast distances despite growing human pressures.
+The three brothers zigzagged across Zambia, navigating a landscape increasingly shaped by people and avoiding obstacles including major cities.
+However, other wild dogs tracked with GPS collars in the study died in illegal snares, underlining the dangers they face.
+Three sisters almost completed an equally epic journey, but stopped when one became trapped in a snare.
+African wild dogs are among Africa's rarest predators, with only about 6,000 remaining in the wild.
+They live in highly social packs, hunt together and are known for their vast roaming in search of new territory and breeding opportunities with other packs.
+They cannot breed within the pack they are born into, so they either wait and may eventually inherit their pack, or set off at the age of two or three in search of a mate.
+The brothers covered about 260 miles in a straight line over the course of eight months, but travelled nearly 10 times that overall while crossing through a broken-up landscape.
+These sorts of journeys are known as dispersals - travelling one way in search of a mate, which is a behaviour distinct from migrations, where animals move back and forth with the seasons in search of food or habitat.
+The UN Convention on Migratory Species identifies Africa's longest migrations as wildebeest moving seasonally between Tanzania and Kenya in search of grazing and water covering more than 400 miles.
+Globally, caribou undertake the longest single land migrations of any animal - travelling 839 miles in a round trip, while grey wolves have been recorded travelling more than 4,350 miles over a year.
+Perhaps even more significant than the distance itself was the route the wild dogs took through Zambia.
+They moved between wildlife strongholds, skirting areas containing major human obstacles, including the capital, Lusaka, and heavily developed industrial areas.
+The findings suggest wild dog populations across eastern and southern Africa may remain more connected than conservationists previously believed.
+Professor Scott Creel of Montana State University, the paper's lead author, who has been studying African wild dogs since 1991, said the study provides cautious optimism.
+"It's plausible to believe that every major wild dog population in eastern and southern Africa, other than fenced ones, are potentially connected," he said.
+But he said, in conservation,"the glass is half empty and the glass is half full", highlighting the threat of poaching snares.
+While the three male wild dogs successfully completed their extraordinary journey, two of the three females died.
+Researchers identified a pattern in which surviving pack members repeatedly returned to the same location, a behaviour that often signals the death of a companion.
+The research, published in the journal, Ecology, external, adds weight to calls to create strips of natural land outside protected areas that connect separate wildlife areas broken apart by roads, towns, or farms.
+Bruce Ellender, one of the paper's co-authors and Kafue Conservation director for the environmental charity, The Nature Conservancy, said species that roam over large areas, such as wild dogs and elephants, need connected landscapes if they are to survive into the future.
+"We can't see these protected areas as islands and expect them to be functional in the long term, we need to think much broader than that," he said.
+Note: An image from the original article was removed and replaced after evidence of digital alteration was found.
+  - Published12 February 2024
+  - Published4 November 2025</description></item><item><title>China criticises idea it is in 'malicious competition' over AI</title><link>https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -35,159 +385,127 @@ While collaboration between the US and China is important, experts say the stake
 Additional reporting by Osmond Chia
 Related topics
   - Published5 days ago
-  - Published19 November 2025</description></item><item><title>Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station</title><link>https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&amp;at_campaign=rss
+  - Published19 November 2025</description></item><item><title>Supreme Court blocks Trump's plan to restrict mail-in ballots</title><link>https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
+Supreme Court blocks Trump's plan to restrict mail-in ballots
 - Published
-A Russian drone has hit a train near the Ukraine-Poland border shortly after former UK Prime Minister Boris Johnson and top European security officials had passed through.
-No casualties were reported after the strike at Yahodyn, which hit the train's engine. All the passengers had been evacuated, Ukrainian authorities said.
-Johnson and other European national security advisers, including the UK's Jonathan Powell, had passed along the same line on a different train on their way back from a conference in Kyiv.
-Russia's defence ministry said it had struck "railway infrastructure" in western Ukraine, but Ukraine's state railway company Ukrzaliznytsia said the drone's target "could have been the diplomatic train".
-Professor Katarzyna Pisarska, chair of the Warsaw Security Forum, told the BBC she was in the same carriage as Johnson and Powell, and the attack had happened about 30 minutes after their train had crossed into the Polish border.
-In a statement, Ukraine's railway authority Ukrzaliznytsia said the diplomatic train "had left the station earlier than expected because of the timetable change... due to constant threats of Russian strikes".
-It also said that an evacuation order for passengers on the hit train had been given "just 15 minutes" before the strike by a Russian jet-propelled drone.
-Former CIA chief David Petraeus, who had been on board another train at Yahodyn station at the time of the strike, said the incident was "terrifying".
-In an interview with the New York Times, Petraeus said: "This is the act of a truly barbaric leader trying to terrorise Ukrainian civilians."
-Both Ukrainian and Polish authorities said the Russian drone had struck 2km (1.2 miles) from the Polish border.
-Johnson wrote on X: "I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning.
-He said this was "the kind of random and senseless attack Ukrainians are enduring every day - even on civilian railways" and urged Kyiv's allies to urgently provide Ukrainians "the air defences they need".
-Ukraine has made repeated pleas to its allies - particularly the US - to provide more interceptors to defend against daily Russian attacks that increasingly use fast-moving ballistic missiles and jet-propelled drones.
-Ukrainian Foreign Minister Andrii Sybiha said the "barbaric strikes" at the Ukraine-Poland border in Yahodyn amounted to "[Russian President Vladimir] Putin's terror 'knocking' directly on the doors of the EU and Nato" and renewed calls for more sanctions on Moscow.
-In Poland, Prime Minister Donald Tusk held an emergency meeting to discuss the latest developments, saying that Russian actions were "getting closer and closer to our border."
-Meanwhile, the EU's foreign policy chief Kaja Kallas accused Russia of attempting to scare Western countries with the attack.
-In response to a question about the incident, Kremlin spokesman Dmitry Peskov told reporters on Monday: "Our military has been conducting operations across the entire territory of Ukraine and will continue to do so."
-Johnson and other top European security advisers were on their way back from the Yalta European Strategy (YES) conference in Kyiv - an annual event that brings together leaders and experts from politics, business, security and mass media.
-Ukraine said strikes had continued overnight, with the country's air force reporting that 85 of 108 Russian drones that were launched had been shot down.
-Police in Chernihiv said on Monday morning that three people had died after a warehouse belonging to an agricultural business was struck in Pryluky.
-Russia's defence ministry also reported that nearly 400 Ukrainian drones had been destroyed over Russian regions overnight.
-Russia appears to be escalating its war against Ukraine by targeting trains, railway depots, petrol stations and border crossings.
-Earlier this week, two people were killed when Russian drones hit a border crossing between Ukraine and Moldova, Ukrainian President Volodymyr Zelensky said.
-Also this week, a female conductor died in a Russian drone attack on a passenger train in southern Ukraine. Six Ukrzaliznytsia employees were killed after a depot was struck in Kyiv at the start of the month.
-In January, Zelensky condemned as "terrorism" a Russian strike on a crowded passenger train in the north-eastern Kharkiv region that left five people dead.
-The Russian attacks have significantly damaged Ukraine's vast train network - the main mode of transportation for millions of Ukrainians as all air travel has been suspended since the start of Russia's full-scale invasion in 2022.
-European countries are also blaming Russia for suspicious incidents on their territory.
-Last week, Germany said Russia was responsible for August's drone attack at Leipzig's airport - a claim denied by Moscow as "absurd".
-There have also been a number of suspicious fires at defence facilities from Italy to Estonia, with some of the affected countries blaming Russia.
-Russian authorities have also accused Ukraine of targeting trains and busses in recent months.
-Last year, Ukraine's Security Service (SBU) said it targeted a railway bridge in Crimea following an operation lasting "several months".
-The Crimea bridge - also known as Kerch Bridge - was built by Russia after it invaded and annexed the Crimean Peninsula in 2014. It was inaugurated by Russian President Vladimir Putin to great fanfare in 2018.
-Additional reporting by Henry Moore</description></item><item><title>Swedish left-wing bloc narrowly ahead with election too close to call</title><link>https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&amp;at_campaign=rss
+The US Supreme Court has rejected President Donald Trump's plan to restrict voting by mail before November's midterm elections, in a setback for the White House.
+The justices upheld a federal judge's order that temporarily blocked the US Postal Service (USPS) from moving forwards with new requirements for postal ballots.
+But it is unlikely to be the final word on the matter. Justice Brett Kavanaugh, a conservative, agreed with the ruling, but indicated he might later rule in Trump's favour as litigation in the case continues.
+Trump, who argued the rules would combat electoral fraud, signed an executive order in March directing the USPS to deliver ballots only to voters on lists of citizens.
+Legal challenges argued that the move violated states' constitutional rights to run elections.
+Justice Kavanaugh wrote in the opinion that there was "at least a fair prospect that the final rule falls within the Postal Service's statutory authority". But he argued that "applying the rule in the 2026 elections would be arbitrary and capricious".
+Justices Samuel Alito and Clarence Thomas, also conservatives, dissented. They wrote that the challenge to Trump's order was a "Hail Mary pass" that was unlikely to be successful ultimately.
+"The Postal Service has broad authority to regulate the mail," they added.
+The White House did not immediately comment on the decision.
+About 30% of voters, mostly Democrats, cast postal ballots in the general election two years ago.
+Since returning to the White House, Trump has sought to restrict voting by mail. While he himself has voted by post, he has long claimed this method allows non-citizens to cast ballots and is prone to fraud.
+In March's executive order, the president directed USPS to introduce unique barcodes on postal ballot envelopes.
+State and local election officials would also be required to supply information to an online portal about voters who receive mail ballots.
+Twenty-three states and Washington DC sued to stop Trump's order.
+The postal workers' union also said clerks could not be trained in time for the election.
+In court filings, the Trump administration maintained the new USPS rules were constitutional.
+It said states "cannot choose to use the federal mails to carry out their elections but then insist that their election-related mail is somehow exempt from the Postal Service's rule-making authority, conferred by Congress".
+Boston-based Judge Indira Talwani imposed an injunction on 4 September blocking Trump's order. She ruled that implementing the measures close to November's elections could disenfranchise voters.
+Last week, a US appeals court refused to put Judge Talwani's order on hold.
+On Sunday, another federal judge, Judge Carl Nichols, ruled against Trump's order.
+Some states have already begun distributing mail-in ballots ahead of the midterm elections, which will decide which party controls Congress.
+It is not the first setback on postal ballots for Trump before the Supreme Court.
+In June, the justices ruled that states may count ballots postmarked by election day, rejecting the Trump administration's push to block votes being tallied when they are received after polls close.
+Trump has previously made false claims that he lost the 2020 election owing to widespread electoral fraud.
+Follow the twists and turns of Trump's second term with North America correspondent Anthony Zurcher's weekly US Politics Unspun newsletter. Readers in the UK can sign up here. Those outside the UK can sign up here.</description></item><item><title>China tightens travel restrictions for citizens</title><link>https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Swedish left-wing bloc narrowly ahead with election too close to call
+China tightens travel restrictions for citizens
 - Published
-Sweden's general election remains too close to call with the left-wing bloc marginally ahead as the vote count continues.
-With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.
-Preliminary counts by Sweden's electoral authority projected the Social Democrats' Magdalena Andersson would likely finish with a three-seat majority over the rival four-party coalition led by current conservative Prime Minister Ulf Kristersson.
-Kristersson has been supported in government by the hard-right Sweden Democrats (SD), which have neo-Nazi roots. He has promised cabinet jobs for the SD if he stays in charge.
-- Close race in Sweden as hard right eyes role in government 
-  - Published3 days ago
-Early on Monday morning, Kristersson said it remained unclear who would form the next government.
-"The voters have had their say, but we still don't have a final result. Which government will lead Sweden in the coming years is still an open question," he told supporters.
-No major media outlets have declared a winner yet.
-Sweden uses a mandate distribution voting system, a proportional representation method to elect "mandates", or "seats", in the Riksdag – the Swedish parliament. A party needs at least 4% of the vote to enter parliament.
-With 95% of votes reported, the left-wing bloc led by the Social Democrats was ahead with 176 mandates compared to the right-wing bloc's 173.
-Counting will continue on Wednesday before the final results determine which side has a clearer path to majority.
-The counting restarts then to include early votes that were submitted late, as well as votes from abroad that did not arrive before election day.
-It is not yet known how many votes will be counted on Wednesday, but back in 2022, more than 220,000 votes were included in the later count.
-If the figures are similar this year, Wednesday's count could make the difference in the outcome, given that only about 28,000 votes currently separate the blocs.
-Sweden has two major political blocs featuring four parties on the right and four on the left - meaning coalition and minority governments are relatively common.
-On Sunday night, Andersson - the leader of the country's main opposition party - urged supporters to wait for the final result, but added that if the current results hold, "Sweden will have a new government."
-Her party, the Social Democrats, have been a major force in Swedish politics since the end of World War Two.
-But SD - founded by Nazi sympathisers in the 1980s - had been shunned for years until 2022 when it became the country's second largest party after campaigning on violent crime and immigration.
-Both Andersson's party and the far-right SD have lost support, according to early count results.
-As of Monday morning, the Social Democrats were on track for their worst result in more than a century with 28 per cent, while the count showed the hard-right SD party was losing support for the first time since 2010 when it entered the Riksdag.
-Other parties comprising the left-wing bloc, including the Left Party, Greens and Centre Party have increased their support.
-Turnout also dropped to approximately 80%, down four points compared to the 2022 poll.
-After casting her vote on Sunday, Andersson laid out the choice facing the Swedish public: "Should we have a government entirely dominated by the Sweden Democrats, something that has never happened in Sweden before? Or should we have a government led by me, which will steer Sweden in a new spirit of co-operation?"
-Kristersson, for his part, said it was important he and his alliance were able to continue their work.
-"I think there is a genuine enthusiasm for us being able to continue our important work," he said after casting his ballot in his home municipality of Strangnas.
-National security, gang crime and welfare spending dominated the election campaign.</description></item><item><title>Wild dogs record 2,500-mile trek across Zambia in search of a mate</title><link>https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&amp;at_campaign=rss
+China has imposed a range of sweeping new rules restricting travel in and out of the country in a move that observers say will give the government even more control over its citizens.
+Citizens deemed to have "harmed" China's national security or interests while overseas can also be barred from leaving China for up to three years.
+But the law also says that it will apply to anyone considered a threat to the country's industrial or technological security.
+China keeps close scrutiny on sectors like semiconductors and AI, as the race between Beijing and Washington for tech dominance heats up. According to reports, travel restrictions were earlier imposed on some executives from these industries.
+In March, the co-founders of Manus - an AI company that had been acquired by Meta - were reportedly barred from leaving China.
+Under the new rules, border officials are now also required to advise Chinese nationals against travelling to countries and regions deemed "high-risk".
+But even prior to the rules being announced, some people were already restricted from going to certain countries. Civil servants were among the earliest groups subjected to these controls, which later expanded to include state-owned enterprise employees and ordinary citizens.
+A retired grassroots civil servant in Anhui told BBC Chinese that around 2018, his workplace made employees surrender their passports. His passport remains in the custody of his former employer even though he retired last year.
+According to the ex-civil servant, employees had to apply and explain their reasons for overseas travel, and not all requests were approved.
+For example, trips to visit relatives were more likely to be approved than tourism trips, he said.
+"It is mainly to prevent corrupt officials from fleeing or transferring assets abroad," he said. "For more senior officials, it may also be intended to prevent the disclosure of state secrets."
+A man identified by his pseudonym, Xiao Wang, who works at a state-owned financial institution in Beijing, told BBC Chinese that his fellow employees have long been required to surrender their passports and get approval for overseas travel.
+The 32-year-old said managers have verbally reminded staff that "sensitive countries such as Japan are definitely off-limits".
+Professor Tom Kellogg, Executive Director of the Center for Asian Law at Georgetown University, told BBC Chinese that the expanding travel restrictions were "deeply concerning" and said they reflect a "growing ideological control under Chinese leader Xi Jinping", which is reminiscent of Mao Zedong's era.
+China was largely cut off from the world under Mao's decades-long regime, and international travel only became a part of life for Chinese people in the 1990s, after China underwent a series of reforms and opening up.
+Today's various travel restrictions, Kellogg said, "bring back memories of that painful era".
+Piyao, a Chinese government "rumour-refuting" platform, posted a statement last week saying the new rules "do not restrict the travel of ordinary citizens, but rather serve as a preventative measure against high-risk destinations and individuals with unusual travel patterns".
+The regulations were issued to address "problems" such as people being deceived into leaving the country or engaging in illegal gambling and scam activities abroad, the statement said.
+According to publicly available information, Chinese citizens currently cannot check whether they are subject to exit controls on their own.
+Unless official written or verbal notification is issued, people generally only discover they are restricted from leaving when applying for documents or attempting to depart.
+China's Ministry of Foreign Affairs and immigration authorities did not respond to enquiries from BBC Chinese.
+Chinese authorities have drastically stepped up exit bans on its citizens in recent years, according to data provided to the BBC from rights group Safeguard Defenders.
+China's supreme court database showed only 89 records mentioning exit bans in 2016, but that figure had risen to 188,760 last year.
+The percentage of civil verdicts that dealt with exit bans also surged more than 30 times between 2019 and 2025, from around 0.23% to 7.3%. The actual volume of such cases is believed to be even higher, owing to an increasing number of withheld judgments.
+The rules could also affect citizens who work in areas such as human rights, say analysts.
+"This is another tool designed to control what Chinese citizens do and say overseas," said Professor Kellogg.
+"In some cases, in order to prevent individuals from criticising the Chinese government overseas or to punish their rights advocacy activities, state security authorities directly refuse to issue passports."
+One 26-year-old Chinese citizen, who wished to be identified only as Pipi, told BBC Chinese that his passport application in 2023 was rejected and he believes it was because he attended the massive pro-democracy protests in Hong Kong in 2019.
+According to Pipi, he was interviewed by Hong Kong media outlets during the protests. When he returned to mainland China, he was questioned by state security police.
+He said one immigration official told him that he could not get a passport "because of the Hong Kong issue" – but this was not confirmed in writing to him.
+"I don't know whether I'll ever be able to leave [China]," he said.</description></item><item><title>Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary</title><link>https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Wild dogs record 2,500-mile trek across Zambia in search of a mate
+Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary
 - Published
-A pack of African wild dogs has completed a record-breaking 2,485-mile (4000km) journey across Zambia.
-Scientists say it is the furthest recorded distance for any African land mammal searching for a mate, offering hope that wildlife can travel across vast distances despite growing human pressures.
-The three brothers zigzagged across Zambia, navigating a landscape increasingly shaped by people and avoiding obstacles including major cities.
-However, other wild dogs tracked with GPS collars in the study died in illegal snares, underlining the dangers they face.
-Three sisters almost completed an equally epic journey, but stopped when one became trapped in a snare.
-African wild dogs are among Africa's rarest predators, with only about 6,000 remaining in the wild.
-They live in highly social packs, hunt together and are known for their vast roaming in search of new territory and breeding opportunities with other packs.
-They cannot breed within the pack they are born into, so they either wait and may eventually inherit their pack, or set off at the age of two or three in search of a mate.
-The brothers covered about 260 miles in a straight line over the course of eight months, but travelled nearly 10 times that overall while crossing through a broken-up landscape.
-These sorts of journeys are known as dispersals - travelling one way in search of a mate, which is a behaviour distinct from migrations, where animals move back and forth with the seasons in search of food or habitat.
-The UN Convention on Migratory Species identifies Africa's longest migrations as wildebeest moving seasonally between Tanzania and Kenya in search of grazing and water covering more than 400 miles.
-Globally, caribou undertake the longest single land migrations of any animal - travelling 839 miles in a round trip, while grey wolves have been recorded travelling more than 4,350 miles over a year.
-Perhaps even more significant than the distance itself was the route the wild dogs took through Zambia.
-They moved between wildlife strongholds, skirting areas containing major human obstacles, including the capital, Lusaka, and heavily developed industrial areas.
-The findings suggest wild dog populations across eastern and southern Africa may remain more connected than conservationists previously believed.
-Professor Scott Creel of Montana State University, the paper's lead author, who has been studying African wild dogs since 1991, said the study provides cautious optimism.
-"It's plausible to believe that every major wild dog population in eastern and southern Africa, other than fenced ones, are potentially connected," he said.
-But he said, in conservation,"the glass is half empty and the glass is half full", highlighting the threat of poaching snares.
-While the three male wild dogs successfully completed their extraordinary journey, two of the three females died.
-Researchers identified a pattern in which surviving pack members repeatedly returned to the same location, a behaviour that often signals the death of a companion.
-The research, published in the journal, Ecology, external, adds weight to calls to create strips of natural land outside protected areas that connect separate wildlife areas broken apart by roads, towns, or farms.
-Bruce Ellender, one of the paper's co-authors and Kafue Conservation director for the environmental charity, The Nature Conservancy, said species that roam over large areas, such as wild dogs and elephants, need connected landscapes if they are to survive into the future.
-"We can't see these protected areas as islands and expect them to be functional in the long term, we need to think much broader than that," he said.
-  - Published12 February 2024
-  - Published4 November 2025</description></item><item><title>Thousands demand end to violence in Mexican cartel hotspot </title><link>https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&amp;at_campaign=rss
+Israel's culture minister has called for the Oscar-winning Israeli co-directors of Naza, a documentary that accuses the Israeli army of mass civilian killings in Gaza, to be stripped of their citizenship over "treason against the state".
+Named for the Hebrew military acronym for collateral damage, the film speaks to 24 unidentified Israeli military and intelligence officers who outlined the AI-powered targeting systems used by the Israeli army to bombard Gaza in the war triggered by the Hamas-led attack on 7 October 2023.
+Since then, more than 73,000 Palestinians, including more than 20,000 children, have been killed in the campaign by the Israel Defense Forces (IDF), according to Gaza's Hamas-run health ministry, figures considered reliable by the UN. About 1,200 people were killed and 251 taken hostage during the Hamas attack.
+Yuval Abraham and Rachel Szor say their 80-minute documentary "details the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza" during the war, according to its official synopsis. One of the people interviewed says there was the approval for an attack to kill 500 people for "one human target", an allegation the IDF said was "completely false".
+In a post on X, Culture Minister Miki Zohar said he had asked the authorities "to investigate how the materials were obtained, who is behind them, and whether in the process of obtaining or publishing them, actions were taken that amount to aiding the enemy during wartime".
+In a letter addressed to Israel's Interior Ministry, he said: "The claims presented in the film are false and distorted, and I categorically reject the attempt to portray IDF soldiers and the State of Israel as perpetrators of intentional crimes." Zohar mentioned the country's Citizenship Law, saying it "allows for the revocation of citizenship due to a 'breach of allegiance to the State of Israel'". The measure, however, has rarely been applied.
+There has been no immediate reaction from Abraham and Szor. The filmmakers won an Oscar last year for No Other Land, a documentary about violence by Jewish settlers against Palestinians in the occupied West Bank.
+Naza premiered last Thursday at the Venice Film Festival, where it received a 25-minute standing ovation, but has not yet been made available to the wider public. It won a special jury prize at the festival. Speaking then, Abraham said the reporting for the film, which was produced by the UK's Guardian newspaper, had been "rigorous" and that efforts to discredit it were "attempts to not face reality".
+"It's a war that has principally been killing civilians. And I think our film is showing that this is not some mistake. It's not an accident. It's something very, very systemic. And this should have been apparent to everyone, I think, from the start. But we are showing it from the inside, with insider testimony," he told the Associated Press in an interview.
+The IDF, after initially saying it "categorically rejects [the] allegations", later issued a new statement via its spokesperson Brig-Gen Effie Defrin, saying: "The film 'Naza' has not yet been released in full. However, based on what can be seen in promotional material, it presents a series of serious and false allegations regarding the IDF and its personnel.
+"To enable a substantive, professional, and fact-based discussion, rather than one based on misleading portrayals, I invite the filmmakers to allow IDF representatives to view the film in full so that we can address each of the allegations it raises on merits."
+Other Israeli politicians have criticised the documentary, including former prime minister Naftali Bennett, who called it a "horrific blood libel against our sons and daughters", and former defence minister Avigdor Lieberman, who described the directors as "haters of Israel".
+But more than 700 members of the film industry signed a petition in support of the filmmakers, saying they were being subjected to a "campaign of incitement and vilification". Speaking to Israel's N12 channel, Israeli actor and screenwriter Shlomi Elkabetz said: "These are questions [raised in the film] that must be examined, not silenced."
+Related topics
+  - Published18 September 2025
+  - Published3 March 2025</description></item><item><title>US scraps limits on emissions from coal and gas power plants</title><link>https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Thousands demand end to violence in Mexican cartel hotspot
+US scraps limits on emissions from coal and gas power plants
 - Published
-Thousands of people have taken to the streets of Culiacán to demand an end to the violence that has wracked the city in northern Mexico.
-The state of Sinaloa has seen the number of murders and disappearances skyrocket since two factions of the Sinaloa cartel started a bloody war two years ago.
-Residents dressed in white held up posters of missing loved ones and signs reading "We don't want fear, we want peace" at the protest on Sunday.
-More than three million people live in Sinaloa and many say that the war between the two rival factions - known as Los Chapitos and La Mayiza - has blighted their lives.
-The march was scheduled to coincide with the second anniversary since the start of the conflict - which broke out after the arrest of wanted drug lord Ismael "El Mayo" Zambada in the US.
-His followers, La Mayiza, allege he was betrayed by the son of the infamous founder of the Sinaloa cartel, Joaquín "El Chapo" Guzmán, and have turned on members of his faction, Los Chapitos.
-The two factions regularly carry out ambushes, drive-by shootings and erect roadblocks by hijacking trucks, which they set alight.
-Residents of Culiacán have been caught up in this internecine war.
-Not only has the number of murders and disappearances shot up in the state but also those of extortions and robberies, official figures suggest.
-Sunday's protest was organised by relatives of victims, local businesses, civil society groups and the Catholic Church.
-Businessman Sergio Esquer told AFP news agency that more than 5,000 businesses had closed since the start of the feud.
-"That's the tragedy Sinaloa is experiencing," Esquer, who is a leader in the centre-left opposition party Movimiento Ciudadano, said.
-The event started with a Mass in which the bishop of Culiacán called on members of the warring groups to put an end to their violence.
-"Stop, look at what's happening, look at the affected families, look at the young people and at our city. No amount of power, of money, territory or ambition is worth more than a human life," he said.
-Among those who attended the protest were relatives of a one-year-old boy who died after being hit by a bullet in the head during a shootout in the city last week.
-As well as the wave of violence, Sinaloa state has also been hit by political upheaval in recent months.
-In April, US prosecutors accused the state's governor, Rubén Rocha, and nine other current and former officials of conspiring with Los Chapitos to smuggle drugs into the US.
-Rocha, who has denied any wrongdoing, stepped down temporarily while Mexican prosecutors opened an investigation of their own into the allegations.
-Three weeks ago, he returned to his post, but just days later requested another leave of absence after President Claudia Sheinbaum wrote on social media, without directly naming him, that "power without principles becomes arrogance".</description></item><item><title>Legendary costume designer Bob Mackie dies aged 87</title><link>https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Legendary costume designer Bob Mackie dies aged 87
-- Published
-Bob Mackie, who designed dazzling costumes for stars including Cher, Tina Turner, Dolly Parton and Elton John has died, aged 87.
-The US fashion designer, known as the "Sultan of Sequins" for his sparkling creations, won a Tony Award, nine Emmys and received three Oscar nominations during his career.
-"It is with a heavy heart that we share the news that Mr Bob Mackie passed away today," a statement on his Instagram account announced on Monday.
-"He lived his 87 years to the fullest, fulfilling his dream of being a Fashion and Costume Designer, which is all he ever wanted to do," it added. "His genius and extraordinary designs will live on forever, continuing to bring beauty into this world."
-Mackie was particularly influential in Cher's career and designed her iconic Mohawk outfit, which she wore to the Oscars in 1986. It became known as her "revenge" outfit, because she wasn't nominated for anything.
-The showgirl-inspired costume featured a plumed mohawk headdress and showed Cher's bare midriff - a very new, and very shocking look at the time.
-The costume has gone down in fashion history as one of the most outrageous and extravagant ever to appear at the awards.
-"I didn't get nominated for a movie that everyone thought I would actually win for [Mask] - so was dressing that night for a kind of revenge," Cher explained in the 2024 documentary Bob Mackie: Naked Illusion.
-Mackie told the BBC in 2010 that when Cher started out she "looked like no-one else in the entertainment business at the time".
-"Everybody just went crazy over this woman as she could wear anything," he added.
-Cher was widely reported to be the first woman to show her belly button on US television - and Mackie's designs were pivotal to that.
-Mackie was also the creative genius behind several of Sir Elton John's costumes, including his now-iconic Dodgers baseball outfit - bedazzled of course - that he wore during his performances at Dodger Stadium in Los Angeles in 1975.
-"Every time I put something on that Bob made, I felt very, very special," Sir John wrote on Instagram. "His costumes were works of art, and he will go down as one of the most legendary designers ever in Hollywood."
-Singer Pink wore many of his designs over the years. Sharing several of the outfits she wore on stage during her Funhouse tour in 2009, she wrote "I was so lucky to be dressed by him for so long. He was loving, wickedly funny and an absolute genius."
-"There are going to be some fabulously dressed angels."
-Mackie was still designing up until recently - Sabrina Carpenter wore one of his designs at the MTV Video Music Awards last year.
-He also designed the dress Miley Cyrus wore during her performance at the 2024 Grammy Awards. She won a Grammy that year for her break-up anthem, Flowers - perhaps it was her own version of a "revenge" dress.
-Robert Gordon Mackie was born in Monterey Park, California, in 1939.
-His design career started as a sketch artist for Jean Louis, a French-American costume designer. One of Mackie's early assignments saw him sketch the dress that Marilyn Monroe wore when she delivered her breathy rendition of "Happy Birthday Mr President" to John F Kennedy in 1962.
-He married Hollywood singer and actress Lulu Porter in 1960, but they divorced three years later. They had a son together, Robin, who died in his early thirties from an Aids related illness.
-Mackie was in a relationship with Iranian fashion designer, Ray Aghayan, from 1963 until Aghayan's death in 2011.
-"I think I'm the oldest living designer in Hollywood," Mackie told The Guardian in 2018. When asked if he'd ever retire, his answer was simple - "I hope not."
-1 of 7</description></item><item><title>Malaysian boy acquitted for murder of schoolgirl on grounds of insanity</title><link>https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&amp;at_campaign=rss
+Rules aimed at limiting pollution from coal and gas power plants are being scrapped, the head of the US Environmental Protection Agency (EPA) has announced.
+The agency also said it would take steps to prevent future administrations from regulating power plant emissions.
+The EPA said that getting rid of the majority of the climate rules from President Joe Biden's era would save $310bn (£223bn) and reduce energy prices.
+But environmental groups warned it would come at a huge cost to Americans' health and the planet. The EPA's move is expected to face immediate legal challenges.
+"The reality is that America produces energy better and cleaner than anywhere else in the world, and our power plants should not be unfairly targeted," the head of the EPA, Lee Zeldin, said on Monday.
+Fossil fuels, which include coal and natural gas, are by far the largest driver of global climate change, according to the United Nations.
+The EPA said in a statement that it found the Biden-era rules on power plant emissions had "exceeded the agency's authority".
+The agency said the regulations required "control technologies that are not adequately demonstrated, effectively forcing plants to retire rather than setting standards they could actually meet".
+The EPA is also seeking to get rid of all other greenhouse gas rules for the power sector.
+The changes, which will undergo public scrutiny, were proposed last year by Zeldin.
+He said the new rules would "ensure affordable and reliable energy supplies and drive down the costs of transportation, heating, utilities, farming, and manufacturing while boosting our national security".
+The Biden-era regulations called for a major reduction in carbon emissions from power plants, as well as vehicles and industrial facilities. It was estimated that the measures would stop 4,500 premature deaths annually.
+But the EPA said on Monday: "Any potential public health harms are too uncertain, conjectural, remote, and convoluted to tie specifically to the US power sector."
+Zeldin told reporters that safeguards against "hazardous air pollutants" would remain in place "to safeguard human health".
+Nathaniel Keohane, president of the Center for Climate and Energy Solutions – an independent environmental organisation – described the move as "a giant step backward".
+"In repealing carbon pollution standards for power plants, EPA has ignored sound science and economics and abdicated its responsibility to protect public health and welfare," Keohane added.
+The US is currently the second-biggest emitter of planet-warming greenhouse gases, such as carbon dioxide, behind China.
+And the power sector makes up about a quarter of US emissions, at roughly 1.5 billion tonnes of carbon dioxide-equivalent each year, according to the latest available estimates.
+That means the US power sector emissions are higher than the total emissions of all but a handful of countries.
+US power sector emissions have been generally falling over the past couple of decades, albeit with a slight uptick last year, as coal use has fallen.
+But Trump has long argued for a resurgence in coal power and has regularly criticised renewables such as wind and solar.
+The precise consequences of today's announcement for US emissions - and global climate change - are uncertain.
+Some researchers question whether coal will ever make the resurgence that Trump hopes for. They point to the sharp falls in costs of many clean technologies such as solar power over the past decade.
+In 2022, the EPA lost some of its powers to limit greenhouse gas emissions when the Supreme Court ruled in favour of 19 states and some of the nation's largest coal companies, which were worried about the economic cost of the policy and argued the agency did not have the authority to limit emissions across whole states.
+Monday's announcement is the latest move by President Donald Trump's administration to walk back policies designed to combat global warming and climate change.
+In February, the EPA reversed a landmark Obama-era scientific ruling, which held that greenhouse gases were a threat to public health. This was challenged by several states and local governments.
+  - Published13 November 2025
+  - Published14 January</description></item><item><title>Malaysian boy acquitted for murder of schoolgirl on grounds of insanity</title><link>https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -202,9 +520,10 @@ During the trial defence lawyers did not deny that the boy killed the girl, but 
 An expert witness, a psychiatrist, testified that the boy had schizophrenia, and had suffered from mental illness and experienced delusions since he was nine years old.
 The boy's condition was said to have worsened during the pandemic and when he eventually returned to school. Lawyers had said that the boy would need medication for the rest of his life to manage symptoms.
 On Monday the judge ruled that the boy would be acquitted, but also ordered for him to be detained and to receive treatment at a psychiatric hospital.
-He will stay at the hospital until he is deemed fit to be released back to society, and would likely be subject to yearly assessments.
+Effectively, he will stay at the hospital until he is deemed fit to be released back to society, and would likely be subject to yearly assessments.
 A defence lawyer told reporters on Monday that upon hearing the verdict, the boy appeared "neutral in emotion, but he understands what is going on, [that] it's a very serious matter".
 The trial and verdict hearings were held in a closed court, which meant that the public and media could not attend.
+On Monday afternoon, the girl's mother posted online a long tribute to her daughter, and added: "I am so sorry my daughter, we will continue to seek justice for you!"
 - Malaysian boy on trial for allegedly murdering girl in school 
   - Published3 August
 The case has profoundly shocked Malaysia and sparked a nationwide conversation about the negative effects of social media on children.
@@ -270,392 +589,42 @@ You may also be interested in:
 - 'Nothing good was supposed to come out of me' 
   - Published7 September
 Go to BBCAfrica.com, external for more news from the African continent.
-Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external</description></item><item><title>Body of missing runner found in South Africa</title><link>https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&amp;at_campaign=rss
+Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external</description></item><item><title>Ukraine's postal workers deliver lifeline under Russian fire</title><link>https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Body of missing runner found in South Africa
+Ukraine's postal workers deliver lifeline under Russian fire
 - Published
-South African police have confirmed the death of a jogger, who went missing during a routine run last week, sparking a nationwide appeal for help finding her.
-The body of Elizabeth Moselakgomo was identified by her relatives on Monday after it was discovered east of Johannesburg on Saturday. She is one of five women whose bodies have been found half-naked and bruised in the same area, Kempton Park.
-Police said they were not linking the deaths to a serial killer but added that the "similarities are sufficiently concerning… to issue a public warning".
-A jogger who knew Moselakgomo through their running club told the BBC the discovery of the five bodies was "very scary".
-"It's sad to know that every woman in South Africa… can't just go outside. You can't just go to the shop and buy flowers… because you are always in danger," said Keamo Sefularo.
-Police have urged women in the Kempton Park area to avoid walking or running alone "particularly in isolated areas".
-South Africa experiences some of the world's highest levels of gender-based violence (GBV), with the rate at which women are killed five times higher than the global average, according to UN Women.
-Moselakgomo's body was found on Saturday night, badly bruised and partially clothed.
-- South Africa calls gender violence a national disaster after protests 
-  - Published21 November 2025
-- I built this 'AI aunt' for women after family tragedy in South Africa 
-  - Published3 November 2025
-Just hours earlier on Monday, another woman's half-naked body was found about 25km (15 miles) away.
-The latest discovery was made by a passer-by, who spotted the body on his way to work, police spokesperson Brig Athlenda Mathe told reporters at the scene.
-One arrest has been made in connection with the discovery of the first body. The person is still in police custody.
-The police have since set up a task team to investigate the murders but these grim discoveries and Moselakgomo's death have sparked renewed outrage and fear among South Africans.
-Tributes poured in for the avid runner, affectionately known as "Tsontso" after police confirmed her death. South Africans also shared the fear and anxiety women often feel in the country.
-Lesedi Ledwaba, in a post on X, said: "Women are not free if we have to calculate where, when and with whom we can walk, run or exist safely".
-This was echoed by Sefularo, who said Moselakgomo's disappearance had been "heavy for the club".
-The 29-year-old also asked whether Moselakgomo would "still be here if maybe she had a small community to run with [or] one or three people"?
-"As we always say, when we go out for runs, there's safety in numbers," she reflected.
-Sefularo shared the measures she often took to keep safe while running, including avoiding taking the same route each day and making sure she ran in areas with good visibility.
-Advocacy group Women for Change said the discovery of these bodies was angering.
-"What is the purpose of having a protective service like the police if we have to make sure… we are [protecting] ourselves," the group's Merlize Jogiat asked.
-Jogiat mostly blamed poor implementation of laws passed for the failure to curb the issue and said "pressure in numbers" from citizens could be the solution.
-Moselakgomo's family thanked the public for the support in searching for the mother of one and commended her eight-year-old daughter for raising the alarm about her disappearance.
-Authorities are yet to identify the remaining bodies.
-You may also be interested in:
-Go to BBCAfrica.com, external for more news from the African continent.
-Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external</description></item><item><title>Zambians warned not to eat dead wildlife after anthrax kills dozens of animals</title><link>https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Zambians warned not to eat dead wildlife after anthrax kills dozens of animals
-- Published
-Authorities in Zambia have warned people not to eat meat from wildlife after dozens of wild animals, including hippos, elephants, buffalo and a crocodile died following an anthrax outbreak.
-A disaster management agency official said over the weekend that 12 people had been infected with the disease after consuming dead wildlife in the Munyamadzi River area.
-The official urged the public not to consume meat from animals that die naturally or from unknown causes, while urging the public to report any such cases.
-Authorities have also called for hunting in the affected area to be suspended until the extent of the disease and associated risks are established.
-Officials have not yet ascertained the full geographical extent of the latest outbreak, with surveillance and laboratory investigations ongoing.
-Anthrax is endemic to Zambia but human deaths are not common. In 2023, the country experienced what was described as an "unprecedented outbreak", which killed four people and spread to nine out of 10 provinces.
-Another large-scale outbreak was reported in 2011, with more than 500 cases, when five people died after consuming meat from infected hippos.
-In the latest outbreak in the Munyamadzi Game Management Area, in Muchinga province, Zambia's Disaster Management and Mitigation Unit said 46 hippos, eight elephants, five buffaloes and one crocodile had died since July.
-"The sad story about the deaths of this wildlife is that the carcasses ended up being eaten by the local people - that's what they depend on for their food," said the unit's national coordinator Norman Chipakupaku.
-No human deaths have been reported, and the 12 infected people are currently receiving treatment.
-Anthrax is caused by a bacteria called Bacillus anthracis, which largely survives as spores that hide away in soil for years before entering an animal through inhalation or a cut or wound.
-It mainly affects grazing animals and can lead to sudden death. It can be transmitted from animals to humans through contact with contaminated animal products.
-Zambians have been urged not to consume, sell, distribute or handle meat from animals that have died suddenly or from suspected anthrax. The public has also been advised against handling wild animals.
-You may also be interested in:
-- The mystery of Anthrax Island and the seeds of death 
-  - Published26 February 2022
-- Fifty hippos killed by anthrax in DR Congo 
-  - Published8 April 2025
-- Inside Africa's biggest bushmeat market 
-  - Published7 June 2016
-Go to BBCAfrica.com, external for more news from the African continent.
-Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external</description></item><item><title>Hyrox apologises for allowing race to continue after athlete soils herself</title><link>https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Hyrox apologises for allowing race to continue after athlete soils herself
-- Published
-International athletics brand Hyrox has issued an apology after it came under fire for allowing an athlete to complete a race in Beijing despite soiling herself midway through the event.
-Footage of the woman competing in the indoor fitness competition raised concerns around hygiene and questions over why race organisers allowed her to continue.
-After a wave of criticism, Hyrox co-founder Moritz Fürste apologised to all those affected "directly or indirectly" by the incident and said the brand is working to make immediate rule changes.
-However, one expert told the BBC that allowing the athlete to continue could represent an attitude within the company that places sporting results over important factors.
-In a statement posted to Instagram, external, Fürste said Hyrox "did not handle the situation like we should have".
-He accepted responsibility for failing to foresee the incident and committed to "improving event processes" to "prevent situations like this from happening again".
-- 'I spent £2,000 on one event': Why Gen Z is obsessed with Hyrox 
-  - Published26 January
-- How Hyrox became the latest sporting craze 
-  - Published20 January 2025
-Earlier, Hyrox said anyone sending abuse or threats of violence towards the athlete would be banned from any future events after her identity was shared online.
-"There is no place in our community for threats of violence or encouragement to harm an athlete," Hyrox said in an earlier statement on Monday.
-"Any person identified as engaging in this behaviour - whether through comments, direct messages or social media - will be permanently banned from all Hyrox events," it said.
-Delving into how the incident played out, the German sports brand insisted it had "clear biocontaminant and medical procedures" in place.
-It said "an unforeseen situation arose" during which protocols became blurred, "creating ambiguity in how they were applied and understood".
-Following Saturday's event some participants had demanded an apology and a refund, arguing that they were forced to come into contact with contaminated equipment, Chinese media reported.
-Joe Ho, who took part in the Hyrox Beijing competition over the weekend, criticised its response to the issue and called on the organisation to "take responsibility when its own procedures fail".
-"If the organisation accepts that something went wrong, why not offer affected participants refunds, credits, or some meaningful form of compensation?" he wrote.
-Anthony Huang, associate professor in the Department of Sport Information and Communication at the National Taiwan University of Sport, told BBC Chinese that incidents such as these could reflect a "results-driven attitude" within the rapidly growing sports brand.
-"The idea that 'a win is a win' represents a results-driven view of competition, but a mature sporting culture can't just ask whether you won - it also has to ask how you won," he said.
-He added the incident raises questions over Hyrox's business model and whether commercialisation may be outpacing its ability to manage the sport.
-In each Hyrox race, participants alternate between running a kilometre and doing fitness exercises, including a sled push, burpee jumps, indoor rowing, and lunges while carrying a sandbag.
-The competition has exploded in popularity since it was founded in 2017 in Hamburg, Germany, and is now held across the world. The sport debuted in mainland China in late 2024.
-Some have questioned why those officiating the competition in Beijing last weekend did not intervene when the athlete soiled herself, given that Hyrox penalises acts including "spitting, nostril clearing, littering, and water abuse".
-Others in the fitness community have pointed out that this is not unheard of for endurance athletes.
-In 2005, British marathoner Paula Radcliffe famously stopped at the 22-mile mark during the London Marathon to relieve herself by the side of the road in full view of cameras and then went on to win the race.
-Speaking to the BBC at the time, Radcliffe called the incident an "embarrassing necessity" and said: "When I'm racing I'm totally focused on winning the race and running as fast as possible".
-Earlier this year, Chinese marathoner Li Meizhen made headlines after crossing the finish line at the Hengshui Lake Marathon with menstrual blood on her legs.
-Hyrox has expanded rapidly across China, with gyms across the country cashing in on the craze. More than 500 affiliated gyms are offering Hyrox specific training, according to the state's Xinhua news agency.
-The recent Beijing race faced such fierce demand that the organisers added an extra day, turning it into a four-day event to make space for even more competitors.
-Additional reporting by Laura Bicker in Beijing.
-  - Published3 June</description></item><item><title>Trump says he will remove all Irish whiskey tariffs as he ends two-day visit</title><link>https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Trump says he will remove all Irish whiskey tariffs as he ends two-day visit
-- Published
-US President Donald Trump announced he will lift all tariffs on Irish whiskey at the end of his two-day visit to Ireland.
-He made the announcement before handing over the winner's trophy at the Trump International golf resort in Doonbeg, Co Clare, to Irish Open winner Shane Lowry.
-Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US, while whiskey made in Northern Ireland or elsewhere in the UK has no tariff.
-It comes after Trump doubled down on his support for a united Ireland and said joining Northern Ireland and the Republic of Ireland was "one of the naturals of all time".
-He spent day two of his visit to Ireland watching the final day of the Irish Open.
-On Saturday, Trump was in Dublin where he met with Taoiseach (Irish PM) Micheál Martin and Irish President Catherine Connolly.
-Addressing the crowd before the trophy presentation, Trump said he had discussed whiskey tariffs with Martin and with golfer Lowry.
-"Everybody's been bugging me," he said.
-"They are saying would you do me a favour? It's so unfair what's going on.
-"Could you possibly take the tariffs off of Irish whiskey and I said, on behalf of the United States of America, I am going to take the tariffs off Irish whiskey."
-The presentation ceremony marked the end of Trump's two-day trip to Ireland before boarding Air Force One at Shannon Airport and departing for Washington.
-Whiskey tariff analysis - BBC News NI economics and business editor John Campbell:
-Assuming the Trump tariffs on Irish whiskey are removed it will end the advantage that some Northern Ireland distillers had over competitors in the Republic of Ireland.
-That is because producers north of the border were covered by the removal of tariffs on all UK-made whiskey which Trump announced in May.
-All-island supply chains meant that some NI whiskey brands could not benefit from the earlier tariff cut.
-Newer distilleries bottle whiskey produced by other companies while they wait for their own product to mature.
-This service is dominated by the Great Northern Distillery in Dundalk, County Louth which produces whiskey under licence for brands across the island.
-It means the NI distilleries bottling that liquid have been classified as EU rather than UK producers.
-Doubling down on united Ireland comments
-On Saturday, Trump told reporters he would love to see a united Ireland while at a meeting with Micheál Martin.
-Speaking on Sunday at his Doonbeg golf resort, he said it would be natural to put Ireland and Northern Ireland "together".
-He spoke to reporters after watching Lowry tee off.
-He described what he said about a united Ireland as "a fairly routine comment".
-"I've always loved the people of Ireland. It just seems to me you have Northern Ireland and Ireland," he said
-"It seems that one of the naturals of all time is to put them together.
-"That's only my opinion, and by the way many people agree."
-The president sidestepped a question about Scottish independence.
-"I won't talk about Scotland yet I will save that," he said.
-Asked about Prime Minister Andy Burnham's remarks that there would be no poll on Irish unity until a majority in Northern Ireland were likely to vote in favour, Trump added: "Everybody says that and then things happen."
-- What's next after Donald Trump's united Ireland comments? 
-  - Published1 day ago
-The taoiseach said the president's remarks did not come as a "surprise" to him.
-"He would make the point this is his view. He believes unity is the logical way for the island to be configured and organised," Martin said.
-He added: "I think some of the reaction is an overreaction. It shouldn't be a surprise. He takes a different sort of perspective on things."
-Protests continue against Trump visit
-More than 10,000 people marched through Dublin on Saturday to show their opposition to the US president.
-Others protesting against the visit arrived in buses to Doonbeg on Sunday, with about 100 protesters present.
-A small crowd were moved from the president's hotel by Gardai (Irish police), Irish broadcaster RTÉ is reporting.
-On Saturday evening, three women were arrested for trespassing on the golf links at Doonbeg and appeared at a special sitting of Ennis District Court.
-Rev Steven Foster, a Methodist minister from Galway, attended the anti-Trump protest in Doonbeg.
-"I'm here because Trump is the exact opposite of everything I stand for as a follower of Jesus," he told BBC News NI.
-Foster added: "As a church leader, it's important for me to be visible, and the church needs to be visible in this regard."
-Foster said the "type of welcome he has been given sends out a terrible message".
-Golf course is a 'massive employer'
-However, others have praised Trump for the benefits and jobs his golf course brings to the local area.
-Martin Kelly is a local businessman from Doonbeg and said the village is "very fortunate" to have the Trump International Golf Course.
-"It's a massive employer here to be honest with you," he told BBC News NI.
-"There's nothing else about here at that scale; they're very decent people to work for, they're very fair."
-He said local people are "very proud" that the golf tournament took place there.
-Seoirse Comerford owns the Comerford bar in Doonbeg. He described the tournament as "unbelievable".
-He said the golf course is a big employer and is keeping Doonbeg "alive".
-"Most rural villages in west Clare are all dying a death, young people going away to college, they don't come back.
-"Like there's over 300 people employed up there at the golf course , it's a big boost to the local economy. You've got big companies in Dublin, like Intel, the golf course is our Intel down here."
-Related topics
-  - Published2 days ago
-  - Published4 days ago</description></item><item><title>Six dead, 130 missing after Indonesian ferry capsizes in Java Sea</title><link>https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Six dead, 130 missing after Indonesian ferry capsizes in Java Sea
-- Published
-Six people have died and 107 have been rescued from a capsized Indonesian passenger ferry in the Java Sea, authorities have said.
-Another 130 people are still missing after contact was lost with the Virgo Transport8 ship, as it encountered bad weather.
-The ferry was travelling from Surabaya to the South Kalimantan city of Banjarmasin and was last reported to be about 150km (93 miles) south of Banjarmasin around 02:00 on Sunday (18:00 GMT on Saturday).
-Ships and a helicopter have been deployed to the scene, with 280 personnel taking part in a search and rescue operation. All vessels in the area of the Java Sea have been alerted to report any signs of passengers.
-There were 213 passengers and 30 crew members on board the 390ft (119m) ferry.
-The ship left Surabaya at 10:33 on Saturday and was scheduled to arrive in Banjarmasin on Sunday at 14:00, according to data from two maritime monitoring sites. Authorities received the initial distress report at 04:10.
-A joint task force involving Indonesia's search and rescue agency, navy, maritime police and other parties has been set up for the rescue effort.
-Rusmilawati, a resident of Banjarmasin, went to the port to seek information about eight relatives who were passengers on the ship. They were travelling back to Banjarmasin after visiting the tombs of several Islamic scholars in Java.
-"They flew there initially, but for the return journey they wanted to try travelling by ship," she told BBC Indonesia.
-As of Sunday afternoon local time, Rusmilawati said she had not received any information from officials about whether her relatives had been rescued.
-The family last heard from one of the relatives through a WhatsApp status update. In the post, the relative wrote: "The waves are really frightening tonight. Or is this just what it's normally like travelling by ship, rocking and crashing against the waves?"
-"Hopefully they're safe," Rusmilawati said.
-Meanwhile, Misnah broke down in tears after learning that her husband, Ahmad Supandi, had survived.
-Ahmad, a freight driver, had been aboard Virgo Transport 8 and was later rescued by the vessel MV Haida.
-At Tanjung Perak Port in Surabaya, relatives of crew members have also been seeking information about their loved ones.
-One relative, Fredy, said his youngest sibling, Stevie Manuhua, worked aboard the vessel as a keyboard player, entertaining passengers.
-"We spoke two days ago when the ship was docked in Surabaya. After that, there was no news until now," Fredy said.
-He said he had still not received any information about his sibling's whereabouts.
-The Indonesian archipelago has more than 17,000 islands and ferries are a common form of transport.
-But marine transport accidents are not uncommon. Government data show that 111 ship accidents were recorded between 2020 and 2026.
-In July, KM Nurul Salsa sank in waters west of Polassi Island in Selayar Islands Regency, South Sulawesi. A total of 58 people survived, while three were found dead. The whereabouts of another 14 people remain unknown.
-Last month, a separate ferry caught fire off Madura island, killing five.
-Additional reporting by Donny Muslim
-Related topics
-  - Published4 days ago
-  - Published6 days ago</description></item><item><title>Bali police investigate after Australian man and children found dead in home</title><link>https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Bali police investigate after Australian man and children found dead in home
-- Published
-Police in Bali are investigating after the bodies of an Australian man and his two children were found dead in their bungalow in a popular tourist area.
-Damien John Shaw, 56, and his two children, a boy aged six and a girl aged four, were found dead in their home in Kuta on Sunday.
-Police said neighbours had checked in on the family after a call from the man's wife, who had become concerned after a phone call with her husband. She was not in Bali at the time.
-Australian media reported that police were treating the case as a suspected murder-suicide. Police told the BBC they had not yet determined the cause or manner of death and that further examinations would be carried out.
-Police said the man's wife had called a neighbour after hearing one of her children crying while on the phone to her husband. She was subsequently unable to contact him again.
-His wife had reportedly travelled to the capital Jakarta in the previous days.
-Police said that the neighbour, accompanied by other local residents, had then forced their way into the property after there was no response to their knocks. The three victims were discovered inside.
-Police said Shaw was originally from Fremantle in Western Australia. Roger Cook, the state's premier, described the news as a "very confronting situation".
-"This is a very sad situation; our hearts go out to everyone involved. We hope we can get to the bottom of what's gone on as soon as possible," he added.</description></item><item><title>Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists</title><link>https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists
-- Published
-Police in Turkey have detained 47 people in a series of raids on gay bars and the homes of LGBTQ+ activists, officials say.
-Raids took place in 12 provinces over the weekend as part of a campaign dubbed "My Family is Safe" that the Turkish government says has been designed to protect family values.
-One of the targets of the operation was LGBTQ+ association Kaos GL.
-Same-sex marriage is not recognised in Turkey, with growing pressure on gay couples. Human rights groups in Turkey have accused the government of using the campaign to target the LGBTQ+ community.
-Officers detained 26 people and seized drugs, digital equipment, smuggled alcohol and a firearm during the raids, according to the Istanbul chief prosecutor's office.
-In a separate statement, the Ankara chief prosecutor's office said another 21 people had been detained as part of an investigation into Kaos GL.
-The organisation said 50 activists had been detained, more than 10 taken after police raids on their homes.
-It said that authorities had blocked several websites and social media accounts linked to LGBTQ+ organisations.
-According to the group, authorities have accused Kaos GL of making "obscenity" in online posts that are available to children and had demanded the shutting down of the Kaos GL X account, as well as those of around 15 other LGBTQ+ organisations.
-Same-sex relations are not an offence in Turkey but homophobia is common, with President Recep Tayyip Erdogan describing LGBTQ people as "perverts" responsible for the falling birth rate.
-As part of "My Family is Safe", Turkish Justice Minister Akin Gurlek says legal proceedings have been started against more than 160 people and a number of organisations and companies across the country.
-Gurlek did not say how many people had been taken into custody, but said the raids came in the context of the "Decade of the Family" campaign.
-However, the Turkish Human Rights Association says the Turkish government has been using the campaign to target the LGBTQ+ community in recent years.
-"The real name of this operation is not 'My Family is Safe'; it is state-led discrimination, politics of fear and the dismantling of civil society," the organisation said on X.
-Related topics
-  - Published3 September</description></item><item><title>Iran war reshapes Brics ties but also exposes divisions</title><link>https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Iran war reshapes Brics ties but also exposes divisions
-- Published
-This weekend, some of the most powerful people in the world gathered in Delhi around a vast circular table.
-Indian Prime Minister Narendra Modi announced that together, the leaders next to him should increasingly become "rule-shapers", not "rule-takers".
-Among those listening were members of the Brics group, including Chinese President Xi Jinping, Russian President Vladimir Putin, Iran's President Masoud Pezeshkian, Abu Dhabi's Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan and South African President Cyril Ramaphosa.
-These are hardly natural allies. They have histories of border disputes and even military confrontations.
-India and China engaged in a deadly clash along their disputed border in 2020. Iran and the UAE have been on opposing ends of the war in the Middle East, with Tehran launching missiles and drones at its fellow Brics member as the conflict sent shockwaves across global economies.
-The fact that India was able to gather these leaders together in person is a feat in and of itself and testament to its diplomatic reach. The weekend also provided a platform for countries to reassess their relationships in light of the Iran war.
-But agreeing on what a new global order should look like and achieving clear, tangible outcomes was a much harder task, and that tension ran through this weekend's summit.
-A counterweight to Western influence
-For members such as China, Russia and Iran, Brics offers a vehicle to dilute the influence of the US and western Europe.
-But India has been reluctant to cast Brics as an anti-Western bloc. Modi himself said at the summit that the group is "not against anyone".
-That distinction matters for Delhi, which wants to preserve its relationships with nations at odds with each other.
-"There are countries in the grouping which would like it to become anti-western, but it is not that," says Anil Trigunayat, a veteran Indian diplomat and former ambassador. What India has achieved, in his view, is a push for "strategic autonomy in an era of war" and initiatives to "enhance greater collaboration amongst themselves".
-Inside the joint declaration
-The summit succeeded in delivering a joint declaration when divisions among members have rarely been so glaring.
-Twice earlier this year, meetings between Brics ministers had failed to produce a joint statement. This time a consensus was reached, but by side-stepping issues that members sharply disagree on, with few solutions.
-The "New Delhi Declaration" was adopted on the first day of the summit. But what is striking is what it doesn't say.
-On the war in the Middle East, the declaration urges "maximum restraint". It also condemns "attacks on civilian infrastructure and peaceful nuclear facilities" but assigns no blame.
-It reiterates support for a two-state solution, opposes forced displacement of Palestinians or actions that could "legitimise or prolong occupation", framing it carefully around existing UN resolutions.
-It makes no mention at all of Russia's war in Ukraine, a departure from previous Brics declarations.
-There is similar caution on trade. It lists concerns over "indiscriminate rising tariffs" and condemns unilateral sanctions but stops short of naming the US, and is likely to avoid Washington's ire.
-Several Brics members would have been loath to draw President Donald Trump's anger, as he has previously called the group's proposals, including potentially linking central-bank digital currencies for cross-border trade, "anti-American".
-"Not mentioning any country by name, even as they condemned the conflict in the Middle East, bears the hallmark of India," says Praveen Donthi, senior analyst at the International Crisis Group.
-"I was pleasantly surprised that there was a strong reference to tariffs, because India could have wanted to be less direct about it, but perhaps this was a chance to convey their displeasure," he added.
-Beyond the summit
-In the wake of Trump's trade threats and the shock of the war in the Middle East, reshaping the global order has become a vital need for many member economies.
-What the summit did provide is a platform for meetings that seemed hard to imagine just a few months ago.
-Iran's Pezeshkian and Abu Dhabi's Crown Prince sat down for talks together - the highest-level face-to-face meeting known between the two countries since the war began.
-This weekend offered Tehran a chance to show that it does not stand alone amid the US and Israel's military attacks and economic pressure.
-As Iran tries to withstand US sanctions, Washington's "Operation Economic Outcast" and a naval blockade on its ports, Pezeshkian pressed for deeper economic ties with Brics members, including Malaysia, India and Ethiopia.
-As for China, this was President Xi's first visit to Delhi in seven years. There has been deep mistrust between China and India since the 2020 border dispute, but those tensions have eased. There is also a large trade imbalance, with a deficit tilting heavily in China's favour.
-There was a cordial handshake between Xi and Modi, not the latter's signature hug. Xi also stayed for less than 24 hours, skipping the gala dinner hosted by Modi on Saturday night.
-But the weekend was still a big moment for two countries with such a difficult relationship. According to official readouts, the two leaders agreed to strengthen business ties and transport links and address barriers to trade.
-Trigunayat believes this is part of a gradual warming of relations in recent years, and that there is a will on both sides to work together. But whether it will produce substantial progress remains to be seen.
-"I always say we have to trust, but verify first," he says.
-What comes next?
-The summit showed that Brics can create space for rivals to talk and manoeuvre outside Western-dominated institutions.
-The harder question is what happens next. It's clear that members agree they need a new global order more than ever, but what exactly should replace it and how to get there is far more challenging to answer.
-Additional reporting by Charlotte Scarr</description></item><item><title>Legendary Canadian boxer George Chuvalo dies aged 89</title><link>https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Legendary Canadian boxer George Chuvalo dies aged 89
-- Published
-Canadian boxer George Chuvalo, a five-time national heavyweight champion, has died at the age of 89.
-Out of 93 total professional fights in his career - 73 victories, 18 losses, and two draws - Chuvalo was never once knocked down to the canvas.
-"His photos have hung on our walls for decades. His stories have been passed down from one generation of fighters to the next," said Sully's Boxing, the Toronto gym where he trained, in a statement.
-He battled Muhammad Ali in 1966 and 1972, and though Chuvalo lost both fights, Ali called him the toughest guy he ever fought.
-Chuvalo was born in 1937 to Croatian immigrant parents, grew up in Toronto and got into boxing at a young age.
-Widely considered "Canada's greatest warrior", Chuvalo was known for his iron chin, relentless durability, and fights against world famous fighters like George Foreman, Joe Frazier, and Ali.
-"George Chuvalo was a heavyweight boxing legend, a family friend and a Canadian icon," Ontario Premier Doug Ford wrote on social media.
-"My thoughts are with all of George's family and loved ones as we mourn his passing."
-After retiring from professional boxing in 1978, Chuvalo travelled the country as a public speaker advocating for anti-drug education and mental health awareness.
-Chuvalo lost three sons and his wife to drug overdoses and suicide, he has said.
-"I'd like to think if you're ever tempted with the idea of doing drugs, or you ever flirt with doing drugs, I hope you think of me, George Chuvalo, and what drugs did to my family," he once said, according to a CBC Radio report in 1998.
-In retirement, Chuvalo also dipped his toes in acting, appearing in the 1998 comedy film Dirty Work and alongside Jeff Goldblum in the 1986 horror film The Fly.
-He also served as a guest commentator for major boxing matches and co-hosted a TV boxing program called Greatest Knockouts with his friend and fellow fighter Charles "Spider" Jones.
-Chuvalo is survived by his eldest son Mitch, daughter Vanessa, grandchildren, and second wife Joanne.
-He died on Saturday, his birthday, said Sully's Boxing Gym.
-Related topics
-  - Published1 day ago
-  - Published4 June 2016
-  - Published10 June 2020</description></item><item><title>US congressman swims to safety after his plane is forced to land on a lake  </title><link>https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-US congressman swims to safety after his plane is forced to land on a lake
-- Published
-Wisconsin Congressman Tom Tiffany has said he sustained minor injuries after a plane he was on landed on a lake, forcing him and the pilot to swim to safety.
-Tiffany, the state's Republican nominee for governor, was travelling in a small plane on Saturday night when the aircraft encountered a mechanical issue, forcing the pilot to make an emergency landing in Lake Wausau, the county sheriff's office said.
-Tiffany said he and the pilot called 911 once they landed.
-"As the plane began to submerge, we exited the aircraft and swam to a shallow area, where we waited until emergency responders reached us by boat," Tiffany wrote on social media. The pilot also sustained minor injuries.
-Tiffany was coming home from a dinner in La Crosse County when the plane suddenly lost power as it approached Wausau Downtown Airport, he said on Sunday.
-Authorities received a 911 report of a plane crash on the lake at 20:49 local time (02:49 BST), the Marathon County Sheriff's office said in a press release. The pair managed to get out of the plane and to shallow water where a Wausau Fire Department airboat rescued them about 15 minutes later, at 21:05 local time, according to the sheriff's office.
-The office said Tiffany and the pilot were the only two people on board the Beechcraft K35 - a single-engine plane, also known as a Bonanza, that can carry up to five people.
-"God was watching over us tonight, and I am incredibly grateful to be here in the hospital with my wife, Chris, by my side," Tiffany said. "An experience like this reminds you just how precious life is."
-He received a small cut over his right eye in the incident, his campaign said.
-The cause of the mechanical issue was not immediately clear, and the sheriff's office said the Federal Aviation Administration and the National Transportation Safety Board will investigate the incident.
-The plane remains in the lake as emergency crews work to remove it, the office added.
-  - Published12 August</description></item><item><title>They lost their jobs after posting about Charlie Kirk, but some have no regrets</title><link>https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-They lost their jobs after posting about Charlie Kirk, but some have no regrets
-- Published
-In September 2025, Gerald Bourguet felt he was finally living his dream life: he and his wife had bought a house with a pool, they had just welcomed a baby boy, and he was writing about professional men's basketball as his full-time job.
-But all of that changed after he made a series of online posts critical of the late conservative activist Charlie Kirk hours after he was fatally shot on 10 September, while speaking on the campus of Utah Valley University.
-In the posts, Bourguet described Kirk as an "evil man" and suggested he had dedicated his life to hateful causes. He also criticised Kirk's supporters saying they had not been vocal about school shootings.
-"I had seen the way that people were talking about this person - kind of eulogising him and lionising him and it bothered me based on a lot of the things that he had said," Bourguet told the BBC.
-Kirk, who founded Christian youth organisation Turning Point USA, was a divisive figure in US politics. For many on the political right, he was charismatic and had a unique skill in making conservative ideas appeal to young people. But for his opponents, his comments on a large swathe of issues from race to immigration, gun control and gender identity were deeply offensive.
-Screenshots of Bourguet's critical posts went viral quickly. He was fired from his job, his address was exposed online, and he began receiving threatening text messages, he said. Concerned for their safety, the family fled the state with their four-month-old. They returned months later to sell the house and permanently relocated.
-A year later, he says he doesn't regret what he said, but acknowledged: "My life will never be the same after this".
-"At age 35, I am having to start over in a lot of respects… I wouldn't wish this on my worst enemy," Bourguet said from his new location, which the BBC agreed not to disclose.
-PHNX Sports, Bourguet's former employer, did not respond to the BBC's request for comment.
-Bourguet was one of hundreds fired or disciplined over critical comments of Kirk after his death. While some of those who have lost their jobs have been reinstated or received restitution - sometimes in the millions - others like Bourguet have had to rebuild from scratch.
-'Call their employer'
-In the aftermath of Kirk's assassination, most people kept their feelings to themselves, or shared them with close friends.
-But on polarised social media, people rushed to laud, or denounce, the controversial activist. Some called the criticisms, posted hours after his death, tasteless. But others called for swift action, arguing they were callous, mocking, and could even incite further violence.
-Laura Loomer, an influential right-wing commentator with nearly 2 million followers on X, warned Kirk's critics to "prepare to have your whole future professional aspirations ruined".
-The push for punishment also came from the highest levels of US government.
-"When you see someone celebrating Charlie's murder, call them out," Vice-President JD Vance said days after the assassination. "And hell, call their employer," he added.
-White House spokesperson Davis Ingle told the BBC: "Anyone who engages in or endorses political violence or assassination culture must be condemned in the harshest terms possible."
-Critics on the left said there was a difference between criticism of Kirk and celebrating his death. Some accused these conservative leaders of hypocrisy, as many had previously bemoaned the rise of "cancel culture" – where people who voice controversial opinions face severe consequences at work and socially.
-"Cancel culture can be good, it's bad when it's applied in the wrong ways," Jordan Pace, a Republican member of the South Carolina House of Representatives, told the BBC. "If you are someone who celebrates political assassinations and the murder of an innocent man with two young children in a way that many people did, then yeah, that's an appropriate way for society to function, to shame those people."
-Pace had previously called for defunding universities in his state if they didn't take actions against employees who made comments about Kirk. One of his posts was re-shared by US President Donald Trump.
-Across the nation, some employers – private and public – acted swiftly to the pressure campaign. Reliable figures on the number of people fired or disciplined are hard to come by, but a Reuters tally last November found more than 600 instances. It is likely an under-count because not all cases received national or local press attention.
-The specific actions that led to these disciplinary decisions run the gamut. In Tennessee, anthropology professor Tamar Shirinian was suspended and later fired for a Facebook comment saying "the world is better off" without Kirk.
-A Delta Air Lines flight attendant was fired after posting "good riddance" in response to Kirk's killing. Office Depot supply store fired an employee for refusing to serve a customer who had wanted to print flyers for a Kirk vigil. Delta Air Lines declined to comment. Office Depot did not respond to a request for comment.
-Others were disciplined even if they did not make any direct comments about Kirk or his death. Darren Michael, a theatre professor in Tennessee, was fired after he posted a screenshot of a news article from 2023, that covered Kirk's controversial speech on gun control. In the article, Kirk is quoted saying protecting citizens' rights to own guns was worth it even if it led to some gun deaths every year.
-Florida's Fish and Wildlife Conservation Commission fired biologist Brittney Brown after she reposted a meme that also satirised Kirk's position on gun violence in light of his own shooting.
-"I was absolutely gutted," Brown said about her firing to the BBC. "It was like the entire world just completely flipped on its head in a moment."
-Lawsuits have yielded big pay outs for those fired
-In the year since Kirk's killing, dozens of lawsuits have been filed across the country by people fired for their comments about the activist, arguing their terminations violated their rights to free speech. The suits have led to substantial pay outs in some cases.
-Brown agreed to a $485,000 (£355,000) financial settlement – about 12 times Brown's annual salary.
-Darren Michael was reinstated by the Austin Peay State University and in January, the school agreed to pay him $500,000 to settle legal claims. The school did not respond to a request for comment.
-In the largest settlement reviewed by the BBC, the University of Tennessee agreed to pay $1.9m to resolve a lawsuit brought by anthropologist Tamar Shirinian, over her "better off" comment. As part of the settlement, she will not be reinstated and has agreed not to reapply for future positions at the school.
-Recently, an arbitrator ordered The Washington Post to rehire, with back pay, opinion journalist Karen Attiah, who was fired for her online posts that said in part she was not going to engage in "performative mourning for a white man that espoused violence".
-Several other lawsuits remain pending, the BBC found.
-Most of the legal actions have been pursued by employees of government institutions, or unionised workers, who have some free-speech protections.
-But in the US, most private sector employees work under "at-will" contracts, which means they can be fired without reason.
-Even those who have scored some victories don't see it as a win.
-"All I wanted was my job back," biologist Brown said. "How much taxpayer money did they waste on this when I barely made $40,000 a year? So no, it does not feel like justice."
-Shirinian told the BBC she too had wanted to return to her job but felt a legal case could be a lengthy affair.
-"I took a settlement because this allows me to move on with my life," she told the BBC. "The one small regret that I have is that I will not see my day in court and justice will not be served in that way. But I think that the number of the settlement actually speaks to that anyway."
-The University of Tennessee and Florida's Fish and Wildlife Conservation Commission did not respond to the BBC's request for comment.
-'I don't regret what I said'
-As an at-will employee at a private company, Bourguet is unlikely to prevail in a lawsuit challenging his dismissal. A year on, he said he has struggled to find work. The new state he lives in has a professional basketball team, but he believes the ordeal has made him unemployable in the small world of sports writers. Instead, he's started his own podcast, although he doubts he can earn enough through it to pay the bills.
-"I have accepted that that life is over and that I need to start a new one." Leaving the country is now on the table, he said.
-Despite the huge personal and professional costs, those who spoke to the BBC said after months of reflection, they did not regret their actions.
-"I have a right to say what I want to say," Brown said. "They are the ones who should have the regrets, not me," she said referring to her former employer.
-Shirinian apologised to the university days after her suspension. She told the BBC her comment was "an emotional outburst" that was not intended to be public and that she regretted the tone used.
-"I don't regret the sentiment, however" she said, adding "the sentiment was that I am not sad. And I refuse to be made to feel like I have to be sad that someone who was so hateful was killed".
-Bourguet also said he does not regret his comments although he has conflicting thoughts about its consequences.
-"I don't regret that line of thinking because I think it's important to push back on things that are steeped in hatred," he said, referring to Kirk's political message.
-"I don't regret what I said. I don't regret the way that I said it. I do regret the ripple effects that came from it and the way that they impacted me, my career, my family, and my son."
-Related topics
-  - Published13 September 2025</description></item><item><title>Afghan woman deported from US in first use of 'alien terrorist' court</title><link>https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Afghan woman deported from US in first use of 'alien terrorist' court
-- Published
-An Afghan woman living in Texas with legal US permanent residency has been deported from the country in the first-ever use of a secretive court.
-Nazira Haji Zada, 47, chose to leave the US rather than continue to argue her case before the Alien Terrorist Removal Court, according to the US Department of Justice (DOJ) and her lawyers.
-The Alien Terrorist Removal Court was created in 1996, but had never heard a case before the proceedings in July. It is meant for non-US citizens facing terrorism-related charges when the evidence is confidential and related to national security.
-Lawyers for Haji Zada argued that the case violated her right to due process under the US Constitution.
-Afghanistan citizen Haji Zada was never charged with a crime, but prosecutors had tried and convicted her son and son-in-law for terror offenses.
-Her son, Abdullah Haji Zada, and son-in-law, Nasir Ahmad Tawhed, were both found guilty of a plot to carry out a mass shooting on Election Day in 2024, inspired by the group calling itself Islamic State.
-Haji Zada, who has been living in Fort Worth, Texas, was accused by prosecutors of being the "matriarch" of the group, who had worked "to radicalize the family".
-In a statement on Friday, the justice department said she "conceded that she is an alien terrorist and waived appeal of the removal order, terminating her previous [immigration] status".
-"This landmark case, resulting in the prompt removal of this alien terrorist to her country of origin, is a win for national security and the rule of law," said US Attorney General Todd Blanche.
-"Those who support and condone terrorism should not be living in the United States, and this first-ever case before the ATRC shows how the Department will use every tool at its disposal to protect our country."
-Court-appointed lawyers for Haji Zada said they were denied access to the evidence in her case.
-"Our client's choice to consent to removal should not be seen as an endorsement of this court's legitimacy," public defenders Matthew Farley and Mary Manning Petras said in a statement to The Washington Post.
-"Dragging lawful permanent residents into court but refusing to show them or their attorneys the evidence that will be used against them is a plain violation of due process. We are confident that the Alien Terrorist Removal Court will be struck down as unconstitutional as soon as a judge is asked to address the issue," they said.</description></item><item><title>Russians seek answers over hundreds missing after Ukraine's 2024 incursion</title><link>https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&amp;at_campaign=rss
+Every morning Igor Smelyansky looks at a vast map of Ukraine on his office wall and decides where he should put his people in harm's way.
+His aides provide him with live intelligence about Russian attacks and he deploys his teams, balancing their potential operational success against risk to life or limb.
+But Smelyansky is no military commander. He is the head of Ukraine's state postal service, Ukrposhta.
+And every day he must decide how far to send his postmen and women into the deadly "kill zone" along the front lines where the threat of drone attack is ever present.
+"If it's too dangerous to go today, we won't go," Smelyansky told us. "We'll go tomorrow, or we'll go somewhere else. The key is to be as agile as you can."
+Ukrposhta does more than just collect letters and parcels. It pays out pensions in hard cash, it takes payment for utility bills. And it delivers vital food and medicine to people on the margins of society.
+As such, it offers a lifeline to millions of poor and elderly Ukrainians living in remote villages where shops are rare and trips to the city are expensive and dangerous. In a vast rural nation wracked by war, Ukrposhta is part of the glue that holds the country together.
+That has made the service a target for Russia - which in recent months has stepped up not only its attacks on postmen and women but also sorting offices and logistical hubs. The Kremlin has claimed strikes like this are retaliation for Ukrainian attacks on Russian online retailers like Wildberries.
+Speaking in his imposing Soviet-era office building that overlooks Kyiv's famous Maidan square, Smelyansky said: "If we don't go [to a village], we don't have basic supply. We don't have food. We don't have medicine. People will struggle. If we do go, they may delay a decision to evacuate from the areas they probably should have evacuated."
+There are many risks. If a post van turns up unannounced, a crowd can form, creating a target for an opportunistic Russian drone operator. But if they call ahead, information could leak.
+"Is it a danger?" Smelyansky said. "Absolutely. Because there are Russian sympathisers who can give them the location of the truck that's coming."
+By attacking Ukrposhta, you put pressure on people… who are depending on the truck coming in
+If Smelyansky chooses not to send a van in, he faces criticism. "You get messages from people from those villages: 'You betrayed us. You didn't come...' But if I go, I may risk the life of the driver."
+Smelyansky says Russia is deliberately targeting his staff because of the vital role they play shoring up Ukraine's resilience, helping people stay alive in their homes through the fighting and bitter winters.
+"It's not an accident, it's deliberate," he said. "By attacking Ukrposhta, you put pressure on people… who are depending on the truck coming in." Russia denies targeting civilians.
+Since 2022, hundreds of Ukrposhta branches and vehicles have been hit, and more than 50 staff have lost their lives, either on the frontline or on their rounds, according to Ukrposhta.
+We travelled with Kateryna Marynych, a 38-year-old postmistress, near Zaporizhzhia - a city not too far from the southern frontlines.
+She lost her home and her husband during the full-scale invasion, and came to the area to rebuild her life. She ran the post office in the village of Lukasheve for two years until it was destroyed in March by a Russian drone, targeting soldiers working nearby.
+After her van drew up, a steady queue of elderly folk formed. She sat in the front passenger seat, window open, handing out cash, taking payments.
+One customer, Nadiia, said she was grateful: "It's a long way for us to travel to Zaporizhzhia. Especially now, at a time when there are attacks all around us. The fact that they come here is really nice."
+Oleksandrivna, 77, arrived wearing a purple dressing gown, walking with a crutch. When I asked her where she would be without Kateryna, she replied: "We would be stuffed! I am just out of hospital after a stroke. Where could I go for my medicine?"
+But Mykola, 64, pointed to another service the post office provides to a largely elderly population. "It is very important," he said. "It's one of the few joys of the month: you come out, have a chat with people, collect your pension, and go home."
+For many people in remote communities, Kateryna can be their last link with the Ukrainian state.
+She says she hopes her customers are proud of her. "They love me, they need me," she said. "They are waiting for me. Sometimes they call me, especially after attacks on Zaporizhzhia and ask me how I am. We are like a big family. My attitude towards them is like a grandmother or grandfather."
+The attacks on Ukrposhta form part of Russia's wider escalation of its war on Ukraine, stepping up fast drone attacks on civilian infrastructure including business infrastructure, energy facilities, transport networks and border posts. Analysts say that as Russia's invasion stagnates on the battlefield in the east, it is looking for other ways of putting pressure on Kyiv.
+For safety, Kateryna always travels with her partner, Slava, who drives. While she sorts the cash, he works from the back of the van, taking and receiving parcels, delivering food and water. He also carries a side-arm in a holster, for personal protection; these vans carry a lot of cash.
+Both wear body armour when close to the front line. And they have an antenna in the van that shows them the location of the small first-person-view drones that render the frontline so deadly. They have seen drones from the car but luckily have not yet been hit.
+She accepted her job was dangerous but would never change it. "It is my work," she said. "If I can't, who will do my job?"
+Ukraine's defence comes in many forms - and it's not always delivered at the barrel of a gun.
+Additional reporting by Mariana Matveichuk</description></item><item><title>Russians seek answers over hundreds missing after Ukraine's 2024 incursion</title><link>https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -743,7 +712,7 @@ As Professor Hall puts it: "Would you invest in a company that says it's going t
 Additional reporting by Tom McArthur
 Related topics
   - Published2 days ago
-  - Published1 day ago</description></item><item><title>Dramatic insider warnings over AI fall flat with some in Silicon Valley</title><link>https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&amp;at_campaign=rss
+  - Published2 days ago</description></item><item><title>Dramatic insider warnings over AI fall flat with some in Silicon Valley</title><link>https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -802,7 +771,7 @@ When asked on Thursday if he fears the world may be coming to an end, Sid Sheth 
 "No," he said.
 Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
 Related topics
-  - Published3 days ago
+  - Published4 days ago
   - Published17 April</description></item><item><title>Best friends for decades - until a DNA test revealed they were sisters</title><link>https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
@@ -823,7 +792,7 @@ The following day, the girls exchanged telephone numbers and addresses and promi
 Even though there was no indication they were related by blood, their connection was instant, and for years they wrote each other letters, often addressing each other as "Sis" because "we felt that way".
 They wrote about school, friends, boys, going out and dancing. They told each other about the sports they played and discussed music, discovering they both loved Backstreet Boys.
 Then 15 years ago, they lost contact. Minal had moved to France. And Meena had recently had her first child and got busy.
-In 2017, Meena attended another meeting of adoptees from India where she heard about DNA testing and decided to take a test herself. But she never found any matches and earlier this year, deleted the app because her phone storage was full. Then on 20 May, Meena received a message from Minal on Facebook.
+In 2017, Meena attended another meeting of adoptees from India where she heard about MyHeritage DNA testing and decided to take a test herself. But she never found any matches and earlier this year, deleted the app because her phone storage was full. Then on 20 May, Meena received a message from Minal on Facebook.
 "'Remember me?' she asked.
 Minal had taken a DNA test in April while visiting her parents in the Netherlands and attached a screengrab of her test result.
 "I reinstalled the app. I was so nervous I entered wrong passwords 10 times before I was able to log in," Meena says.
@@ -862,7 +831,7 @@ Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris
 - Published
 Iconic Canadian pop singer Céline Dion has kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.
 The 58-year-old superstar was diagnosed with a rare neurological disorder called stiff person syndrome in 2022, which forced her to pull back from touring.
-Dion, one of the best-selling musical artists of all time, has not performed a full show since a 2020 concert in New Jersey - the last before the Covid pandemic cut her tour short. In 2024, she performed just one song at the Paris Olympics closing ceremony.
+Dion, one of the best-selling musical artists of all time, has not performed a full show since a 2020 concert in New Jersey - the last before the Covid pandemic cut her tour short. In 2024, she performed just one song at the Paris Olympics opening ceremony.
 Saturday marked the first of Dion's 26-show residency at Paris' La Plenitude Arena, Europe's largest covered concert arena.
 "I made a promise," she told the Paris audience of about 30,000 people in her emotional return.
 "I made a promise to come back, to be back on stage. And here I am. Singing for you, and singing for me," she said.
@@ -939,7 +908,43 @@ The November election campaigns show no indication that will change anytime soon
 But political leaders in Ireland will be hoping the only debate tomorrow is about the play on the golf course.
   - Published2 days ago
   - Published4 days ago
-  - Published4 days ago</description></item><item><title>Flash flooding interrupts half-marathon, submerges cars</title><link>https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&amp;at_campaign=rss
+  - Published4 days ago</description></item><item><title>Mass nesting brings swarms of turtles to Mexican beach</title><link>https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Mass nesting brings swarms of turtles to Mexican beach
+Thousands of olive ridley turtles came to La Escobilla beach in Oaxaca, Mexico, to lay their eggs within 48 hours, according to sanctuary officials.
+The natural phenomenon is known as "la arribada", meaning "the arrival", and sees hundreds of thousands of the reptiles swim ashore in southern Mexico.
+This is the sixth wave of the creatures in the nesting season, which started in March.
+Related topics
+- TurtlesUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- MexicoUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- WildlifeUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- NatureUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item><item><title>Superstars and broken records: 2026 Emmy highlights</title><link>https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Superstars and broken records: 2026 Emmy highlights
+The 79th Emmy awards were record-breaking and star-studded.
+Welsh actor Matthew Rhys made history with wins in two lead actor categories for his work in Widow's Bay and The Beast in Me.
+Watch the highlights from television's biggest night of the year here.
+Related topics
+- Emmy AwardsUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- TelevisionUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- United StatesUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- Los AngelesUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item><item><title>‘Great’ or ‘alarming’ - Should AI be reined in?</title><link>https://www.bbc.co.uk/news/videos/cmdx5wdl7z0lo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/cmdx5wdl7z0lo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+‘Great’ or ‘alarming’ - Should AI be reined in?
+The rapid development of artificial intelligence and fears over the risks the technology poses to humanity have been thrust into the spotlight by a series of warnings from executives and staff at AI firms.
+Anthropic chief executive Dario Amodei over the weekend called for the pace of AI development to slow and be more closely monitored.
+The BBC spoke to people in Washington DC to learn how concerned they are over the technology and it's speedy development.
+Video by Meiying Wu
+Related topics
+- United StatesUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- Artificial intelligenceUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- Washington DCUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item><item><title>Flash flooding interrupts half-marathon, submerges cars</title><link>https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -947,66 +952,4 @@ Flash flooding interrupts half-marathon, submerges cars
 - Published
 Parts of New York, New Jersey and Connecticut were hit by flash flooding leading to water rescues, stranded motorists and half-marathon runners struggling through waist-deep flood waters. Connecticut officials said parts of the state saw up to seven inches of rain in a very short period of time, according to the BBC's partner, CBS News.
   - Published4 days ago
-  - Published4 days ago</description></item><item><title>Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation</title><link>https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation
-A Russian drone struck a train near the Ukraine-Poland border shortly after the former UK Prime Minister Boris Johnson and top European security officials had passed through.
-No casualties were reported after the strike at Yahodyn, which hit the train's engine. All the passengers had been evacuated, Ukrainian authorities said.
-Johnson and other European national security advisers, including the UK's Jonathan Powell, had passed along the same line on a different train on their way back from a conference in Kyiv.
-BBC's James Landale explains why the incident could signal an escalation in Russia's war against Ukraine.
-Related topics
-- War in UkraineUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- Boris JohnsonUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- RussiaUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- UkraineUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item><item><title>'She's back': Fans dance, sing and cry after Céline Dion's comeback concert in Paris</title><link>https://www.bbc.co.uk/news/videos/cpq01p1wn78o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/cpq01p1wn78o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-'She's back': Fans dance, sing and cry after Céline Dion's comeback concert in Paris
-Céline Dion's first concert in years delighted fans, with the Canadian singer crying as she made an emotional comeback to the stage.
-It was Dion's first full concert in six years after she was diagnosed with a rare neurological disorder called stiff person syndrome, which forced her to cancel tours.
-Joyful fans spilled out of the Paris La Défense Arena on Saturday night singing and dancing to her classic hits, while some were still wiping away tears.
-Paris correspondent Hugh Schofield went along and reflects on getting swept up in the Dion dalliance that French fans are calling "the biggest comeback since Charles de Gaulle".
-Related topics
-- ParisUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- EuropeUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item><item><title>How global trade and oil prices could be hit by Houthi advance</title><link>https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-How global trade and oil prices could be hit by Houthi advance
-Fighters from the Iran-backed Houthi group have seized territory close to the Bab al-Mandab Strait in the Red Sea - a key trade gateway that links Asia and Europe.
-Houthis have said they pose no threat to international shipping but have reiterated their intention to target vessels from Saudi Arabia.
-Saudi Arabia has increasingly relied on the Red Sea for oil exports since the US and Israel's war effectively closed the Strait of Hormuz.
-At least 46,000 people have been displaced in Yemen since fighting escalated last week, according to the United Nations.
-BBC Verify's Thomas Copeland reports.
-Produced by Aisha Sembhi. Graphics by Mark Edwards.
-Related topics
-- YemenUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- HouthisUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- Middle EastUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item><item><title>Has Trump won over voters with his midterm convention?</title><link>https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Has Trump won over voters with his midterm convention?
-Republicans gathered in Dallas for the closing day of the party's first-ever convention held in the middle of a US presidential term, where US President Donald Trump and Vice President JD Vance spoke to voters.
-The aim of the convention was to boost enthusiasm among supporters, even as protesters of Trump gathered outside.
-The BBC's North America editor Sarah Smith breaks down the main takeaways from the two day event.
-Related topics
-- Republican PartyUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- Donald TrumpUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- United StatesUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item><item><title>Watch: Americans remember what they were doing on 9/11</title><link>https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Watch: Americans remember what they were doing on 9/11
-On Tuesday 11 September 2001, hijackers seized US passenger jets and crashed them into two New York skyscrapers, killing thousands of people.
-A third plane destroyed the western face of the Pentagon - the giant headquarters of the US military just outside the nation's capital, Washington DC.
-The fourth plane crashed in a field in Pennsylvania after passengers fought back. It is thought the hijackers had meant to attack Washington's Capitol Building.
-The BBC spoke to Americans in Washington about what they were doing on that day and how 9/11 has changed the country.
-Video by Meiying Wu
-Related topics
-- United StatesUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- Washington DCUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- September 11 attacksUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item></channel></rss>
+  - Published5 days ago</description></item></channel></rss>
