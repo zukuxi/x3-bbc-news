@@ -1,5 +1,96 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>BBC World News (x3 Direct)</title><link>https://github.com/zukuxi/x3-bbc-news</link><description>BBC 全文内嵌版，专为纯粹阅读打造</description><item><title>Iran's president tells Trump it will never 'bend the knee'</title><link>https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&amp;at_campaign=rss
+<rss version="2.0"><channel><title>BBC World News (x3 Direct)</title><link>https://github.com/zukuxi/x3-bbc-news</link><description>BBC 全文内嵌版，专为纯粹阅读打造</description><item><title>AI superpower ambitions take centre stage as Trump and Xi meet</title><link>https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+AI superpower ambitions take centre stage as Trump and Xi meet
+- Published
+"Whoever wins AI, WINS!"
+US President Donald Trump has been blunt about his AI ambitions, as well as about who he considers the US's main rival to be: China.
+His Chinese counterpart, Xi Jinping, has not said anything so forthright - but it seems he holds a similar view.
+"China very much sees it as a race, they very much think China should be the leading force in AI - they see AI as a power maximiser," says Rebecca Arcesati, from the Mercator Institute for China Studies.
+You can look beyond the rhetoric for evidence of this: AI has been a cornerstone of China's technological ambitions for more than a decade, whether Xi emphasises it publicly or not.
+For Trump, beating China to AI supremacy outweighs any risks of the technology to humans - something he has described as "a hoax".
+China's foreign ministry warned that "narratives of threat" and confrontation hinder global AI governance, calling for cooperation to ensure it benefits all.
+It means when the two presidents sit down on Thursday there will be few more important topics than their AI ambitions - and what they say and decide will matter to the whole world.
+Is the US in the lead?
+There's no doubt the US and China are global leaders in AI but who is ahead depends on how success is measured.
+American companies lead on so-called frontier models, with the highest-performing systems on most benchmarks coming from firms such as Anthropic, Google and OpenAI.
+In February 2025, an AI model by China's DeepSeek "briefly matched the top US model" and as of March 2026, Anthropic's top model led the pack "by just 2.7%", according to researchers at Stanford University, external.
+Part of the US advantage stems from the vast sums being invested in leading AI companies as the frontier labs burn through mountains of cash to build the infrastructure to train new models.
+The stock market is booming and a large part of the US economy's expansion relies on the enormous growth - and projected profitability - of AI companies.
+So that might partly explain why President Trump sees AI as key to US success.
+Another factor limiting China's ability is the sweeping government restrictions placed on US companies that prevent them from selling advanced microchips to Chinese firms - these are crucial for developing cutting-edge models.
+China's advantage
+Despite the chip restrictions, new AI models are coming out almost monthly in both countries and it's unclear what "winning" the AI race would actually mean, or whether there is a finish line at all.
+Many companies are racing to develop artificial general intelligence (AGI), a theoretical form of AI capable of learning, reasoning and performing a wide range of tasks at or above the level of humans.
+The Chinese AI industry has so far focused not on creating frontier models but releasing what is known as open weight models - downloadable and tweakable in a similar way to open source software.
+This contrasts with the approach taken by many US firms, which largely focus on proprietary models accessed through paid subscriptions or company platforms.
+Chinese open weight models are being released at a rapid pace, with benchmarks showing the country's top models trailing US rivals by only a few months.
+Models such as Moonshot AI's Kimi K3 have become popular in China and overseas because they perform close to the frontier models while remaining freely downloadable and adaptable.
+Beijing's focus is more about deploying the technology across its economy, China analyst Lizzi Lee from the Asia Society Policy Institute said.
+"AI isn't the moon landing," she said. "The US may lead at the frontier, while China could still gain enormous economic and geopolitical leverage by making capable AI cheap, open and ubiquitous."
+AI is also very energy hungry, and China is very well placed there, Rebecca Arcesati told Tech Life on the BBC World Service.
+"Chinese AI companies are able to access the electricity they need for a much lower cost and that really is an advantage," she said.
+In robotics - a field of AI that some believe will be world-changing - China has become the world's biggest manufacturer of robots, with more than two million working in the country's factories, the International Federation of Robotics estimated.
+The nation is also the world's biggest maker of humanoid robots, accounting for more than nine-tenths of global shipments in the first half of the year, according to independent policy institute Chatham House.
+Chinese AI developers have showed "remarkable resilience and innovation" in spite of the shortage of advanced American chips, analyst Lian Jye Su from tech research firm Omdia said.
+But US officials and AI firms have also alleged that Chinese developers closed the gap by using distillation - a technique that enables models to learn from more advanced platforms.
+China's foreign ministry said in response that AI development was "fuelled" by the country's "vision of extensive consultation and joint contribution for shared benefit".
+Safety concerns?
+China and the US may be in fierce competition, but their governments' approaches to safety concerns are markedly different.
+While some in the industry have recently warned that AI could pose an existential risk to humanity, Chinese researchers seem less concerned about that and are more worried about potential misuse of the technology and cyber war.
+Responding to concerns over AI, Trump has said the US already has sufficient rules in place and that the only guardrails AI needs are a "high IQ" president.
+"We're leading now over China by a lot, and everyone else, and we're going to keep it that way," Trump said this week, adding that the US was not going to "stifle the growth of something that will be bigger than the industrial revolution".
+Washington has prioritised innovation and sought to reduce regulation in an effort to "keep American labs ahead", said information security officer Jayant Dave from cybersecurity firm Check Point Software Technologies.
+Beijing has taken a different strategy to the US hands-off approach.
+Xi urged the country's leaders to keep a close eye on AI's risks and ensure the technology was always "under human control".
+"China has taken a relatively cautious and centrally-coordinated approach," introducing guides on data usage and algorithms before many other countries, helping to address many underlying concerns, Dave said.
+The use of guidelines, though not legally binding, sets expectations while giving developers room to innovate, said National University of Singapore AI ethics lecturer Jonathan Sim.
+Will they cooperate?
+Despite calls for international cooperation, it remains unclear how the AI superpowers plan to address the technology's potential dangers - if at all.
+The two countries have previously cooperated on existential threats such as nuclear weapons, but that was based on a shared understanding of the threat, which is not currently the case with AI, Dave said.
+"Washington worries about capability escaping control. Beijing worries about capability threatening domestic stability," he added.
+Trump has dismissed proposals for an industry-wide slowdown, arguing that it could allow Chinese developers to close the gap.
+Ahead of the Trump-Xi summit, US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng discussed establishing a notification mechanism for serious AI incidents.
+While the messaging from Trump on China in recent weeks has been "more antagonistic", the fact that AI is expected to be on the agenda was a "good start", said policy analyst Leia Wang from the Carnegie Endowment for International Peace.
+What we don't want, she added, was for an "unhealthy version of the race narrative to perpetuate", potentially escalating an already fierce rivalry in AI.
+  - Published1 day ago
+  - Published13 September
+  - Published13 September
+  - Published6 days ago</description></item><item><title>OpenAI agent 'infiltrated' Australian government website, PM says</title><link>https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+OpenAI agent 'infiltrated' Australian government website, PM says
+- Published
+An artificial intelligence agent developed by OpenAI "infiltrated" an Australian government website in June, Prime Minister Anthony Albanese has said.
+The agent hacked a statistics portal containing "non-sensitive" data from Australia's universal healthcare scheme Medicare, Albanese said in New York on Wednesday, local time.
+He had a "very frank discussion" with OpenAI CEO Sam Altman for taking "too long" to tell them about the breach, believed to be one of the world's first publicly reported AI-led hacks of a government website.
+OpenAI said it only became aware of the incident in August "during an ongoing review" of "misaligned model activity", and told Australian officials on 10 September.
+While the review is ongoing, OpenAI said in a statement that it is not believed any patient records were accessed.
+Albanese said the breach occurred in June this year, but OpenAI only informed Services Australia - the national hub directing users across government services - via email on 10 September.
+The agency contacted the relevant minister who passed on the information to the prime minister at the weekend.
+Albanese said he had also expressed "Australia's extreme concern about this incident" when he spoke to Altman and there will "obviously be legal consequences on it".
+Altman, the prime minister said, acknowledged there were "issues with protocols" at OpenAI.
+Albanese said the agent accessed both public and non-public files and a "forensic investigation" is under way to find out if other government systems were affected.
+The investigation will be led by the Australian Signals Directorate, the country's cybersecurity agency.
+The public-facing Medicare Statistics Reporting Service portal which was hacked is administered by Services Australia.
+A spokesperson for OpenAI said in a statement: "We identified activity involving several Australian government websites and services as our models attempted to look up answers, and available statistics for questions about Australia during an internal evaluation.
+"In the course of that, our models took actions we did not intend," the statement continued.
+"The information accessed included aggregate health statistics and internal file names."
+Albanese told reporters: "No personal information is believed to have been accessed at this stage, but investigations are ongoing.
+"Evidence currently available is there is no broader compromise to the Services Australia network. Nonetheless this situation is obviously unacceptable."
+Albanese declined to answer whether he raised the matter with US President Donald Trump during their face-to-face meeting on Tuesday night in New York, where world leaders have gathered for the UN General Assembly.
+Australia was one of 22 countries that this month signed a joint statement calling for global oversight and guardrails for the development of AI, external.
+Cybersecurity experts say the incident should "ring some alarm bells" for governments around the world, given that AI agents are becoming more widely available for individual and commercial use.
+"I expect that these kinds of attacks will keep occurring. They'll grow in severity and in frequency," Dr Hammond Pearce, senior lecturer at the University of New South Wales Institute for Cyber Security, told the BBC.
+Earlier this year, OpenAI revealed a group of AI agents it had been testing had escaped from their controls and secretly worked together to hack another tech firm named Hugging Face.
+The Hugging Face incident showed what can happen when an AI agent is not "well behaved", Dr Rob Nicholls, Senior Research Associate of AI regulation and policy at the University of Sydney, told the BBC.
+AI agents are usually set a task with an objective and a set of parameters, he said.
+"The problem is that agents aren't human," Dr Nicholls continued. "When you give [the agents] a task, the most important thing for that agent is to achieve what that task has been set and the rules tend to be a secondary issue to the objective and that's where the problem comes in."
+Related topics
+  - Published14 hours ago</description></item><item><title>Iran's president tells Trump it will never 'bend the knee'</title><link>https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -11,7 +102,7 @@ Pezeshkian also insisted any deal would have to include an end to the US blockad
 "It cannot be the case that everyone benefits from the Strait of Hormuz while we are denied access," he said.
 There was no immediate comment from the US, whose delegation walked out of the chamber at the start of Pezeshkian's address.
 - US and Iran hold first talks since June after Trump's 'annihilation' threat 
-  - Published14 hours ago
+  - Published20 hours ago
 - American power, AI and a walkout - key moments from Trump's UN speech 
   - Published1 day ago
 - UN experts say grounds to believe US committed war crimes in Iran strikes 
@@ -87,16 +178,19 @@ Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external o
 
 Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction
 - Published
-US President Donald Trump's Board of Peace has announced a Gaza recovery plan worth $2.45 billion (£1.85 billion) during a meeting on the sidelines of the UN General Assembly.
+US President Donald Trump's Board of Peace has announced a Gaza recovery plan worth $2.45bn (£1.85bn) during a meeting on the sidelines of the UN General Assembly.
 The funding will be spread across 66 programmes over six months, and directed at housing, diesel generation and waste removal, among other needs.
-But the board admitted substantial donations were still needed, with $18bn pledged but only $280 million handed over so far. The board estimates full recovery and reconstruction will require about $71.4bn over the next decade.
+But the board admitted substantial donations were still needed, with $18bn pledged but only $280m handed over so far. The board estimates full recovery and reconstruction will require about $71.4bn over the next decade.
 Jared Kushner, Gaza Executive Board member and Trump's son-in-law, conceded the project faced "different delays on different things, for whatever reason".
 "The goal of today was really just to show you that we're really fully committed to doing it," he told the meeting of board members and stakeholders.
 He was joined in New York by US envoy Steve Witkoff, who said the group had made "real progress" over the past year.
 "All of the hostages are home. There is a ceasefire, imperfect as it may be, but it still exists. Humanitarian efforts have achieved historic results, with billions of dollars donated and pledged to meet urgent needs and support the long work of recovery," Witkoff added.
 In addition to fundraising, the plan faces significant challenges including how to ensure security for those operating in Gaza, overhaul internal governance and find consensus between Israeli and Palestinians officials.
 US Secretary of State Marco Rubio told a separate press conference on Wednesday that "a number of countries have stepped forward and pledged financial assistance" and the board was "looking for more that will participate in that".
-In August, a senior official on the Board of Peace, Nickolay Mladenov, criticised Israel's continuing air strikes on Gaza, as well as the actions of the Palestinian armed group Hamas.
+Michael Eisenberg, an Israeli-American Board of Peace member, told the BBC's Newshour programme what the next steps were likely to be.
+"Because it's a war zone, you need to remove unexploded ordnance. And then there are still hundreds of kilometres of tunnels underneath Gaza which need to be destroyed as well.
+"Once that's all done, Gazans can get to rebuilding again: whether it's housing, or better sanitation, or other things," Eisenberg said.
+In August, a senior official on the Board of Peace, Nickolay Mladenov, criticised Israel's continuing air strikes on Gaza, as well as the actions of Hamas.
 In August, Mladenov warned that a collapse of last October's ceasefire would be "a point of no return" for the region.
 At least 1,381 Palestinians, including 300 children, have been killed in Israeli attacks in Gaza since the US-brokered ceasefire began, according to the territory's Hamas-run health ministry, whose figures are considered reliable by the UN.
 The Israeli military says five of its soldiers have been killed in combat since the ceasefire and one contractor was killed in an "operational accident".
@@ -106,53 +200,7 @@ In July, Hamas said it had accepted a disarmament plan for Gaza which will see i
 But that was later rejected by Netanyahu, who said the military would stay in Gaza until Hamas is "genuinely" disarmed.
 The Board of Peace was originally thought to be an international organisation intended to bring peace to Gaza, but later expanded to include conflicts worldwide.
   - Published14 January
-  - Published27 August</description></item><item><title>White House rolling out red carpet for historic Xi Jinping visit</title><link>https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-White House rolling out red carpet for historic Xi Jinping visit
-- Published
-US President Donald Trump will host Chinese leader Xi Jinping this week in Washington, with AI, trade and Taiwan expected to be on the agenda for the leaders of the global superpowers.
-Xi will be greeted personally by Trump at Andrews Air Force Base on the eve of a White House state dinner and a military flyover.
-The three-day trip marks Xi's first state visit to the US since 2015 and his third meeting with Trump in the past year.
-Adding to the high-stakes state visit, a US-China trade agreement reached last year is set to expire in November.
-The trade truce - reached in October 2025 as Trump and Xi met in South Korea - saw Washington suspend steep tariff increases on Chinese goods while Beijing eased back from restricting rare earth exports critical for manufacturing.
-Experts said they will be watching for some sort of announcement around an extension of this agreement during the forthcoming state visit.
-Xi's trip to Washington, which ends on Friday, will have plenty of pomp and pageantry, and includes lavish dinners, private tours and performances.
-He will be accompanied by First Lady Peng Liyuan who is expected to visit the Smithsonian National Museum of Asian Art with US First Lady Melania Trump on Thursday.
-David Sacks, a fellow for Asia studies at the Council on Foreign Relations, described the planned extravagant welcome by Trump as "really unprecedented".
-"From meeting Xi Jinping at Andrews Air Force Base to having a flyover for Xi as well, this is not something afforded to any US ally," Sacks said, "much less an adversary like China.
-"It's quite, quite stunning," he continued.
-Trump is expected to address several issues as he meets Xi, particularly on tariffs and trade.
-The US president has long criticised his country's trade deficit with China, which stands at more than $91bn (£68.2bn), according to the latest US Census Bureau data, external.
-Also, Chinese rare earth exports to the US are down, external despite the agreement last October.
-US and Chinese officials held trade talks on the sidelines of the United Nations General Assembly on Tuesday, but failed to make meaningful progress ahead of the Xi visit, multiple sources told the BBC.
-The talks focused on finding areas of agreement around non-tariff trade issues and agricultural exports, according to sources familiar with White House thinking.
-US negotiators were expected to continue talks with Chinese counterparts in Washington on Wednesday after Xi's arrival.
-- Huge data centres rise at 'China speed' to power its AI ambitions 
-  - Published22 hours ago
-Another likely talking point between Trump and Xi is artificial intelligence, a topic that David Firestein from the Bush China Foundation said has "climbed rapidly toward the top of the agenda" ahead of this visit.
-China and the US are competing in what has been described as an AI arms race. But after a series of recent high-profile security incidents involving the emergent technology, there has been growing pressure on the Trump administration to regulate AI and slow its development.
-Senator Bernie Sanders wrote on X this week: "For the sake of all humanity, Trump and Xi must negotiate a treaty NOW to pause AI and ban superintelligence before it's too late."
-Trump's former White House adviser Steve Bannon and some Republicans in Congress have also warned about dangers posed by AI.
-The president, who views the technology as vital to the US economy and a battleground in a global struggle for power, has been reluctant.
-He views defeating China in the AI race as a primary objective. "Whoever wins AI, wins," Trump has said.
-Firestein told the BBC he expects Trump and Xi to discuss ways for AI collaboration.
-On Sunday, US Treasury Secretary Scott Bessent met his Chinese counterpart, He Lifeng, and said the two had "very successful" talks on trade and AI.
-Several AI and tech industry titans will attend a White House state dinner on Thursday, according to US officials.
-Open AI's CEO Sam Altman, Jensen Huang, whose company Nvidia makes chips that power AI, and X boss Elon Musk are some of the dinner attendees.
-Experts who spoke to the BBC said any major breakthroughs on AI or other issues are unlikely to occur during the Trump-Xi meetings this week.
-Then there is Taiwan, which remains a diplomatic thorn.
-The US Congress has approved a multibillion-dollar arms sale to Taiwan that awaits Trump's signature. He has held off for now, viewing the move as a bargaining chip with China.
-Beijing has long vowed to "reunify" with self-governing Taiwan and has not ruled out the use of force.
-Firestein said he expects Xi will be looking for Trump to either commit to extending the delay of the arms sale or somehow avoiding the sale altogether.
-Xi - like Trump - is also facing economic headwinds at home, and is expected to use this visit to discuss deepening US-China trade.
-However, that presents a potential political problem for Trump. Some members of his cabinet and his supporters view China with deep suspicion.
-US Transportation Secretary Sean Duffy issued a letter, external to Ford Motor Company in September, urging the company to cut ties with China due to national security concerns and protection of American jobs.
-Regardless of the clear hurdles that remain before any new US-China deals are inked, it is clear that Trump views personal contact with Xi as vital to the process.
-"Trump has made a decision that no matter what, we need to not have a confrontational relationship with China," Stephen Orlins, president at the National Committee on US-China Relations, said.
-"He believes that the more he and President Xi meet, the less confrontational that relationship will be," Orlins continued, "and he is right."
-With additional reporting by Daniel Bush, Washington correspondent</description></item><item><title>Dramatic eviction of woman aged 87 highlights Spain's housing shortage</title><link>https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&amp;at_campaign=rss
+  - Published27 August</description></item><item><title>Dramatic eviction of woman aged 87 highlights Spain's housing shortage</title><link>https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -183,7 +231,55 @@ The possibility of a last-minute reprieve for Maricarmen appeared when an anonym
 A shortage of available housing has been blamed for soaring rental costs in recent years, which have left millions of Spaniards struggling to find affordable homes.
 In Madrid, rentals have increased by more than 100% over the last decade, according to property site Idealista, with a 10% rise over the last year.
 The Socialist-led government of Pedro Sánchez has frequently targeted companies whose investment pushes up housing costs. In January, the prime minister said he aimed to "protect those who are most exposed to that speculation and that greed".
-However, some critics of the government say it needs to work harder to build new homes, and others warn that its rhetoric discourages many owners from placing their properties on the rental market.</description></item><item><title>Dolly Parton's manager accuses her nephew of 'threats and intimidation'</title><link>https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&amp;at_campaign=rss
+However, some critics of the government say it needs to work harder to build new homes, and others warn that its rhetoric discourages many owners from placing their properties on the rental market.</description></item><item><title>UK survivor of Canadian poison seller says he exploited her despair</title><link>https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+UK survivor of Canadian poison seller says he exploited her despair
+- Published
+A British woman, one of the survivors of Canadian poison seller Kenneth Law, faced him in court on Wednesday to describe how he had exploited her vulnerability.
+Elisabeth Belien told the four-day sentencing hearing of Law in Ontario, Canada she had been at her lowest ebb when he sold her toxic chemicals when she was just 23.
+Belien, who until Wednesday had not been known as one of his customers, said she had physically recovered after being successfully given an antidote by medics.
+But as she faced him as he sat in the glass-panelled dock, she revealed she had suffered "survivor's guilt" after learning from police others had died.
+Law has admitted 14 counts of aiding suicides in Canada after meeting people in suicide forums online. But there are almost 80 deaths in the UK that have also been linked to him.
+As part of a plea deal with Canadian authorities, Law will not face charges in the UK or over any British deaths.
+But impact statements from their families are being read during the sentencing hearing this week.
+Belien told the court: "I had struggled with my mental health for a long time before this. Kenneth Law made it a lot easier to act on that despair.
+"I continue to struggle with intrusive thoughts and flashbacks of that day.
+"I made a full recovery. However, emotionally and psychologically, the effects are far more long lasting.
+"I feel guilty for surviving. Although I survived It has also impacted my loved ones. I feel like my vulnerability was exploited. I still feel a lot of shame about what happened.
+"I felt like the purchasing from Kenneth Law, I enabled him to continue his business, supplying his products, to other people who might have been vulnerable, like I was. I felt guilty for surviving."
+Belien, who said she took the poison in January 2023, said being in court reminded her "how easily" it could have been her own parents there talking about her.
+"I'm learning that things can get better," she said.
+"I'm learning to be excited to see what the future holds for me. But the gratitude I'm feeling for being alive today doesn't take away from the trauma of the experience."
+Authorities say Law, a former chef, sold about 1,200 packages of toxic substances to recipients he met in online suicide forums in 40 countries. Roughly a quarter of the packages were sent to the UK.
+He was arrested in May 2023, following a complex investigation by at least 11 law-enforcement agencies that involved investigators from around a dozen countries, including the UK, Italy and the US.
+David Parfett, whose son Tom died in October 2021, said in a victim impact statement: "Since Tom died, I've struggled with my mental health.
+"Initially, in the months after he died, I didn't properly mourn him, because my focus was on understanding, and then exposing the harm caused by the internet platforms that allowed Law to trade suicide to kids.
+"I'm still, after five years, unable to fully process Tom's death. I'm a very different person to who I was before Tom took his own life, having previously been gregarious, outgoing. I find it difficult to enjoy life."
+A statement was also read from the parents of Henry Tucker, a 14-year-old British boy who died in October 2021.
+Kate and Henry Tucker said Henry had been diagnosed with autism but actually had a neurological condition that could have been treated with antibiotics.
+"The realisation that his suffering and his death could have been prevented is a weight that is impossible to bear," they said.
+"The death of a children under these circumstance is a heavy burden to carry for the rest of our lives.
+"We will carry it however with Henry's blessings until we meet again. We love you Henry."
+Norson Harris, the father of British victim Ashleigh Harris, read a statement in person on the agony of losing his daughter.
+He said: "The circumstances of Ashleigh's death have been incredibly tough to bear.
+"We all feel we should have been able to prevent Ashleigh's death.
+"Rather than offer the help needed that individual Kenneth Law sold her a chemical that Ashleigh took to end her life.
+"I still hope over time Mr Law will recognise the answer to Ashleigh and the myriad of others who reached out to him should have been that they were loved and there was help available to them."
+Earlier Stephen Mitchell Sr, the father of Canadian Stephen Mitchell Jr, told of the aftermath of his death on March 25 2023.
+"He was ill, he needed help, and I tried my best to bring him that help," he said.
+"Mr Law robbed my son of that chance to be well."
+Mr Mitchel Sr, addressing Law in court, said: "I'm willing to accept that during Mr Law's time in incarceration, he might have had brief moments of regret, or even despair and helplessness.
+"Perhaps he may have even thought during those moments: my life is meaningless, what is the point of living.
+"That was the same thoughts that my son Stephen had before he took the chemicals that Mr Law sold him.
+"When my son was well, he would have gladly helped Mr Law work out his depressive thoughts, if asked, because he believed in the value of people."
+Sandra Scott, whose daughter, Amara Scott, died on February 9 2022 aged 25, said she and her family were trying to help her through a mental health crisis.
+"Our efforts were cut short when, in her most vulnerable state, she made contact with the accused, she said.
+"The day I and her friends found Amara, and the way that she died – it broke my heart.
+"It was a blessing and an honour to be Amara's mother."
+The hearing continues.
+If you or anyone you know has been affected by the issues raised in this article, details of organisations offering information are available at BBC Action Line</description></item><item><title>Dolly Parton's manager accuses her nephew of 'threats and intimidation'</title><link>https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -335,239 +431,269 @@ Much has also been said about improving the economic conditions that make crime 
 There are no easy answers for how to solve South Africa's crime problem but security experts believe that the high proliferation of illegal guns, insufficient visible policing in high crime spots, the slow pace of justice and allegations that senior politicians and police officers have links to criminal gangs all add to the pervasive sentiment that local authorities are losing the fight against crime.
 You may also be interested in:
 Go to BBCAfrica.com, external for more news from the African continent.
-Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external</description></item><item><title>Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing</title><link>https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&amp;at_campaign=rss
+Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external</description></item><item><title>In Amish country, nurses go door to door to stop deadly spread of measles</title><link>https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing
+In Amish country, nurses go door to door to stop deadly spread of measles
 - Published
-The US Justice Department has filed documents that accuse three media outlets banned from the White House of "trafficking in verifiable falsehoods" and reporting which "threatened national security" as it prepared to defend the move in court.
-Last week, President Donald Trump barred CNN, Politico and MS NOW from the White House, accusing them of spreading "fake news".
-After their reporters had their passes confiscated and were denied access to the building, the three outlets jointly launched legal action, calling the move unconstitutional.
-On Wednesday, a judge is set to decide whether to issue an order temporarily lifting the ban, pending a full hearing.
-According to a court filing by the Justice Department in a District of Columbia court, the three outlets were issued with a list of "reporting incidents" by the White House ahead of the ban.
-The filing cites a number of stories about construction at the White House - including about a security bunker and the building of a new ballroom, as well as a report on an internal information leak investigation.
-It goes on to say that "access to the White House is a privilege, not a right".
-The three media organisations have argued that the ban breaches their rights under the First Amendment, which forbids the government from "abridging" the freedom of the press.
-In a joint statement confirming legal action against the government, they said: "Without notice or process, the White House revoked our journalists' credentials because it objected to our reporting.
-"Left unchallenged, this threatens press freedom and the public's right to independent journalism free from government interference."
-Ahead of Wednesday's hearing, 49 media organisations - including CBS News, The New York Times and Fox News - filed a legal brief in support of the lawsuit against the White House.
-Major TV networks have withdrawn from a media-sharing arrangement of video and images of the president, known as the pool, in protest over the ban.
-Shortly after, the White House launched its own streaming channel, Trump TV, which operates a 24/7 feed of clips of the president.
-On Tuesday, tensions continued between Trump and some of the news outlets, as Trump told CNN reporter Kaitlin Collins before his speech to the United Nations General Assembly: "I'm surprised that CNN is here covering me. You should not be here covering me. You said you weren't going to cover me."
-Collins noted later on air that the network had made no such pledge.
-He also took to social media to attack Collins, once again asking why she and others were reporting on the president at the UN. The US president also hit out again at CNN , Politico and MS NOW, calling them "treasonous".
+For the past few months, nurse Dale Weiser has been making unexpected home visits.
+As the state battles the deadliest measles outbreak in recent history, the clinical supervisor drives 30 miles (48.3km), sometimes daily, to a rural corner of Pennsylvania where many Amish people live.
+Walking into strangers' homes, Weiser says she tries her best to be respectful and non-intrusive as she vaccinates dozens of family members against the measles, sometimes around the kitchen table.
+"A lot of people that I encounter, they don't have health insurance. They don't have a lot of interaction with the health system, and they just haven't seen the need to get these vaccines," said Weiser, who works for the Chester County Health Department.
+"When you start talking and you answer their questions, and build that trust, a lot of times they will make a different decision."
+The at-home vaccinations are part of the county and state health departments' strategy to encourage immunisations in the county, which includes an Amish community who abstain from many aspects of modern life, including regular contact with the western medical system.
+The state health department told the BBC it has administered nearly 4,300 measles, mumps and rubella (MMR) vaccines at pop-up clinics near the epicentre of the outbreak since it began in late April.
+But even as health officials see success in their vaccine programmes, the state has reported four deaths from measles complications, marking the most deadly outbreak the US has seen since 1992.
+The infections have led to tensions between state and federal health officials, including vaccine-skeptic Health Secretary Robert F Kennedy Jr.
+Those politics are back of mind in the Amish community, where people are growing fearful of more deaths as they watch their friends and family fall sick with the disease, which for decades has been eliminated in the US.
+"They're not a community that's as easy to reach - we can't just put up a social media post," Weiser said. "They are suffering at the moment, and we're trying to reach out and make connections."
+Amish people began coming to the US in the early 1700s, with the first community settling in Lancaster, Pennsylvania. Known as the "Plain People" for the simple clothes they wear, the Amish are a devout Christian community that does not use many forms of technology, relying on horse and buggies instead of cars.
+About 90,000 Amish people live in Pennsylvania, with estimates suggesting around only a quarter of Amish people in the Lancaster area have had the MMR vaccine.
+There is no particular religious text advising against vaccines, but Amish people do not have regular contact with the western medical system, or have a way to easily travel to appointments, experts said.
+"A lot of people who haven't gotten vaccinated, it's not because they have a strong stance against getting vaccinated for measles. It's just that they haven't gotten around to it. It's not convenient," said Braxton Mitchell, a genetic epidemiologist with University of Maryland School of Medicine who runs a research clinic studying the Amish in Lancaster.
+Amish people are extremely social, he said, so when the virus hits one church group, it affects everyone who is unvaccinated.
+"Measles is rampant in the Amish community," he said. "People are concerned about it."
+He added the community has been especially concerned about the dangers to babies; so far two newborns have died of measles complications, as well as an 18-year-old and a 40-year-old woman, according to state officials.
+Boots on the ground
+Chester County public health officials did not wait long to launch a response to the growing measles outbreak in their community, which shares a border with Lancaster County, the epicentre of the outbreak.
+Jeanne Franklin, the director of the health department, said officials have been using some of the strategies they employed during the Covid pandemic - knocking on doors in the community to let them know about the outbreak and offering private settings, like people's homes, for immunisations.
+Since the outbreak started, the county has given 538 MMR vaccines, 340 of which they administered in private settings.
+"People have called up and said, 'I can't get to your clinic, or, I don't want people to know I've changed my mind," Franklin said. "'If you can come to us, that's a lot easier.'"
+The boots-on-the-ground approach has helped the health department dispel misinformation and build trust with the community, local health officials said.
+In recent years, childhood vaccination rates have fallen across the country as false theories about the safety of the measles vaccine have proliferated on social media.
+Those theories have found roots even in an insulated community with limited access to computers, Weiser said. She has heard people ask if there are heavy metals in the vaccine that could make them magnetic, or if the shot has a computer chip in it.
+"You're clearly getting information from that hard-core group that is promoting that misinformation and disinformation," she said.
+People in this "hard-core group", who are staunchly against vaccines, are unlikely to be swayed, experts and officials themselves said.
+But now, local health officials said, many affected by the Pennsylvania outbreak are seeing their neighbours fall seriously ill and asking thoughtful questions. Weiser said many are parents who are unfamiliar with the shots and are scared to make the wrong choice for their children.
+"There is the classically-defined anti-vaxer, versus people who are unaware or their culture feels differently," Franklin said. "The thinking and the willingness to discuss and possibly change your mind is different between those two bookends."
+Kennedy casts doubt on deaths
+The ongoing measles outbreak in Pennsylvania has once again sparked political debate in the US.
+After the state health department announced the first two deaths - both in infants - Kennedy, the top health official, took to social media to dispute at least one of the deaths. The BBC has contacted the Department of Health and Human Services for comment.
+Democratic Governor Josh Shapiro took aim at Kennedy, saying he told the top US health official that he was spreading misinformation that was worsening the outbreak.
+Lancaster County coroner Stephen Diamantoni, a Republican, has said one of the two infants died of a ruptured spleen rather than measles itself. Measles can cause the spleen to enlarge, making it more likely to rupture. Several doctors have said the measles infection made the child vulnerable.
+"I think the measles very much contributed to that child's demise," said William Moss, a pediatric infectious disease specialist at the Johns Hopkins Bloomberg School of Public Health.
+Public health experts said a number of actions taken by Kennedy and the Trump administration have sowed doubts about vaccine safety and worsened outbreaks.
+Last month, Trump passed an executive order recommending the MMR shot be split into three separate shots, a move doctors say is costly and unnecessary for a vaccine that is already safe.
+"What he's doing is casting doubt," said Dr Moss. "He basically said the vaccine could be dangerous in its current combined form."
+The tensions are not helpful for experts working to combat misinformation in a so-far unrelenting outbreak, they said. They worry for the start of the school year, which will provide even more opportunities for the highly contagious virus to spread.
+"I think we're in this for six to 12 months. It does feel like it's spreading and accelerating," Weiser said. "We're in community transmission now. We can't stop it easily."
 Related topics
-  - Published1 day ago
-  - Published4 days ago</description></item><item><title>Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire</title><link>https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&amp;at_campaign=rss
+  - Published15 September
+  - Published11 August
+  - Published16 April</description></item><item><title>They were labelled 'pervert glasses'. Will a camera-free version transform their image? </title><link>https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire
-- Published
-French national Martin Ryan has been pardoned and his release from prison ordered by Azerbaijani President Ilham Aliyev after he was jailed on charges of spying.
-His release came hours after the EU agreed to lift sanctions on two Russian billionaires, prompting anger from Ukraine. Diplomats had indicated that France had pushed for an end to restrictions on one of the businessmen, Alisher Usmanov.
-Ryan, who denied espionage, is one of 20 people pardoned by Aliyev.
-However, a second Frenchman, Anass Derraz, remains in jail in Azerbaijan accused of accepting a Russian bribe.
-It was not clear what had led to pressure for sanctions on Russian-Uzbek billionaire Usmanov to be lifted - the EU also agreed to take Russian-Israeli oligarch Mikhail Fridman off its sanctions list.
-Slovakia is understood to have pressed for Usmanov's name to removed initially, and France then backed the move, highlighting national security concerns.
-Both men have been under EU embargo since the Russian full-scale invasion of Ukraine in 2022, and until now EU sanctions on more than 3,000 "individuals and entities" have had to be renewed every six months. The latest agreement extends the sanctions on the others for three years.
-Usmanov was cited by the EU in its 2022 listing, external as having "particularly close ties" to Russia's President Vladimir Putin, and of having "supported materially or financially and benefited from Russian decision-makers responsible for the annexation of Crimea and the destabilisation of Ukraine".
-The metals and mining billionaire denied this characterisation of him. He has also been sanctioned by the UK and US governments.
-Ukrainian Foreign Minister Andriy Sybiha bitterly criticised the EU decision to lift sanctions on the two men, complaining that Moscow was "celebrating, because it got what it wanted: a sense of impunity, the humiliation of the EU, and division among Europeans".
-Latvia had initially opposed the move, but decided to abstain, announcing instead that it would impose its own measures on the two men.
-Foreign Minister Baiba Braže said it was "dangerous and sends completely the wrong signal at a time when Russia's behaviour is becoming more aggressive". Prime Minister Andris Kulbergs said later that France's President Emmanuel Macron had agreed to start talks on Latvia's "accession to the French nuclear deterrence initiative".
-French relations with Azerbaijan have been poor in recent years, largely because of France's close relations with neighbouring Armenia. However, in May, Macron discussed developing ties with Aliyev, who later spoke of a "new era" in their relations.
-Under Aliyev's decree on Wednesday, Ryan is one of 20 people including Azerbaijanis and Turks given a pardon.
-Detained in December 2023, he was handed a 10-year jail term last March for espionage, charges denied by the French government.
-Prosecutors alleged he had co-operated with employees of France's security services in Baku and gathered information about Azerbaijan's relations with Turkey, Iran and Pakistan, as well as companies linked to Russia and China.
-"I did not spy. I am not a spy, and during the court case I tried to prove this," Ryan had told the court.
-Another man he went on trial with, Azad Mamedli, was given 12 years in jail. Mamedli was not among the 20 prisoners pardoned by Aliyev.
-  - Published1 day ago
-  - Published16 March</description></item><item><title>Trump meets US-backed Venezuelan president for first time since Maduro seized</title><link>https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&amp;at_campaign=rss
+When Meta first launched its AI-powered smart glasses in 2023, in collaboration with the trendy sunglasses brand Ray-Ban, it unleashed a storm of controversy.
+There have been multiple reports of the devices being used to harass women and girls in particular, filming them without their consent, then sharing the footage.
+The image problem doesn't seem to have been cured by Meta's enlistment this summer of Kylie Jenner, Kim Kardashian's sister, as their prime model. The devices have been dubbed "pervert" or "creepy" glasses. In the UK, JD Wetherspoon pubs, a handful of major theatres, Comic-Con, some schools, and Faslane, home of the UK's nuclear submarines, have all chosen to ban them.
+On Thursday, Meta is unveiling a new version which does not contain a camera at all, called Ray-Ban Meta Audio. They will have the audio functions of the original glasses - including the ability to make phone calls or play music, with the sound funnelled directly into your ear - but with fewer implications for privacy.
+To some in the industry, it looks like an interesting pivot - a response, perhaps, to the backlash over privacy.
+The tech giant denies that the new glasses have been rushed out in response to public anger. They say the product has been in development for two years. The audio-only version is cheaper than its camera-enabled cousins, and Meta says it has a lighter frame and better battery life.
+When I put it to Meta Glasses' head of product Ankit Brahmbhatt that I thought they might overtake the original camera-enabled glasses in sales, there was a pregnant pause.
+"We have, I think, something for everyone," he said, choosing his words very carefully.
+Does the release of a camera-free option represent a shift in how tech companies see the future of smart glasses? And is Meta's original vision getting further away?
+Or should we see camera-free glasses as a niche side-product that serves a small market - a bit like how some mobile manufacturers are now releasing internet-disabled "brick" phones for people who are tired of social media?
+Music, maps, and washing cars
+There's no doubt that smart glasses have become controversial.
+I was lent a pair of Meta Ray-Bans – with cameras - to try out. I was initially nervous about wearing them in public, in case someone got physical: I have heard of people knocking them off wearers' heads and smashing them in the street.
+The reality was that I wore them on public transport and on foot in several cities including London, Glasgow and Portsmouth, and nobody batted an eyelid. It made me wonder whether awareness of them is really as high as both Meta and anti-glasses campaigners believe.
+That said, some people quietly told me they would not be confident enough to approach someone wearing them even if they did spot them, for fear of the interaction being filmed and uploaded.
+The glasses are designed to work as an extension of your phone. They use Bluetooth to sync with a handset via Meta's AI app. They are voice-activated, with open speakers in the arms funnelling sound into your ears. The result is a bit like wearing headphones without the addition of noise-cancelling features, so you can still hear the world around you.
+My potentially cancellable opinion is that I found many of the glasses' features useful. Interestingly, none of them included the camera.
+Listening to music and podcasts on the move without having earbuds stuffed into my ears felt safer. I felt more confident about avoiding the gamut of e-bike-riding phone thieves in central London without my phone physically in my hand.
+And as someone with a pitiful sense of direction, I rely a lot on map apps. It was handy to have the directions spoken in my ears. The pay-off for this, however, was having to accept allowing the Meta AI app to know exactly where I was at all times. Meta is notorious for its hunger for personal data.
+When I posted about using the Meta Ray-Bans on social media, I got a bit of a hard time. Less so when I showed them to people in my everyday life.
+My hairdresser loved the idea of using them to record her clients' hair transformations. A builder I chatted to at the gym reckoned they would be useful on sites for recording what he was doing, either in the event of an accident or even to teach others new skills. My friend who runs said he would like to wear them on a jog.
+Plenty of content creators are big fans. My son borrowed them to wash my car, and was proud of his film showing me how he delicately chipped away at a stubborn bit of bird poo without damaging the paintwork (I was pleased, and happy to take his word for it).
+More broadly, smart glasses have been welcomed by the blind community. One user described them to the BBC as a "game-changer" because they can give audio descriptions of current locations and read out visible text like restaurant menu options. Earlier this year Meta donated 15,000 pairs to a charity for the blind in Ireland.
+Calls for regulation
+But still, anger over privacy has grown.
+The glasses have a blinking white LED that switches on when the camera is active, but a whole industry has sprung up around finding technical workarounds to disable that light, some of which involve taking the glasses apart.
+Meta says less than 0.1% of the frames it has sold worldwide have been physically tampered with. Exact sales figures are unknown, but Ray-Ban's parent company EssilorLuxottica has reported that it sold seven million last year.
+Liz Hunter, a tech founder and parent who has set up a petition calling for urgent new regulation of smart glasses, is furious.
+"They should never, ever have left the lab at Meta," she told me. "It's a real travesty of public trust, and of women's equality, and it's rolled back our privacy rights right before our very eyes."
+Hunter thinks smart glasses should remain available for blind people, but not for the general population.
+"We don't need them, we don't want them," she says.
+A Polish developer has released an app called ZuckOff which uses Bluetooth to identify nearby smart glasses. It's been downloaded thousands of times, reports Wired magazine.
+Ben Wood, from tech research firm CCS Insight, remembers first reading the phrase "pervert glasses" in the usually strait-laced Financial Times - a sign, he says, that it had prompted a "significant public backlash".
+The furore has not deterred other companies from eyeing the market, however.
+Samsung is reported to be working on a collaboration with the upmarket glasses brand Warby Parker. Google is also said to be working on a set. Snap, the firm behind Snapchat, has just launched Specs, which are retailing in the US for $2,195 (and £1,995 in the UK). Users can see data inside the glass, and snap their fingers to take a photo.
+Snap founder Evan Spiegel says he thinks smart glasses will eventually replace phones, and he's not alone.
+Step back or 'half step to the side'?
+When Meta launched smart glasses in 2021, they were geared in part around what the user could see. The firm promised they would allow users to "easily record the world as you see it", and to "capture life's moments as they happen from a unique first-person perspective".
+So Meta's latest announcement - glasses without a camera - is notable.
+Janusz Swierczynski, a researcher at Oxford University's Saïd Business School, who is worried about smart glasses, says the release of a camera-free version is a "positive sign" that Meta seems to have listened to privacy concerns. "They're thinking about it and that they're responding," he says, though he thinks it's "not a perfect" response because the camera-enabled glasses are still on the market.
+Others are less sure it represents a real shift.
+"It's certainly not the end of cameras in glasses," says Wood, from CCS Insight. He thinks that smart glasses are largely about capturing information; the glasses collect as much data as they can from your surroundings and then use AI to tell you about it.
+And glasses armed with a camera - trained on whatever you can see - are an "extremely good" source of that information.
+"That is an invaluable data stream to an AI platform, which can then interpret that data and provide you with the best possible information related to it," Wood says. "So having the vision parts of it with the cameras is a key pillar for getting the best experience."
+More from InDepth
+- AI 'slop' is transforming social media - and a backlash is brewing 
+  - Published4 February
+- Tech billionaires seem to be doom prepping. Should we all be worried? 
+  - Published10 October 2025
+He imagines Meta has been working on the camera-free glasses for several years, and the current backlash over privacy provides "fantastic timing" for their release.
+Indeed, Meta doesn't yet show any signs of slowing down its development of camera-enabled glasses. The company is bringing its third generation of the glasses to the UK next month. These can visually display data inside the specs' lenses. (As a live broadcast journalist who has talked openly about brain fog, I can see the appeal of glasses that can discreetly display a script).
+Kate Winick, a tech analyst at the research firm Forrester, says it's not a step back from camera-enabled glasses but more of a "half step to the side, where they give users time to get comfortable with the technology… so that users themselves start to say, 'Oh, this would be so much more useful if it had a camera'."
+And she says, paradoxically, the existence of camera-free glasses might help "take the heat" off people who wear camera-enabled glasses in public. "It's now clear that out in the market some glasses have cameras and some don't," she says. "You can't automatically get mad at everybody wearing Meta's glasses, because you may not know whether or not they have a camera."
+Towards a social norm
+And other companies are trying to address privacy concerns in different ways - without getting rid of the camera.
+The Taiwanese firm HTC recently launched Vive Eagle glasses, which cost less than a quarter of Snap's.
+Thomas Dexmier, a vice president at HTC Vive, says that if anyone near an Eagle specs wearer says "stop filming" or "stop recording", and it is picked up by one of the four microphones, the camera will deactivate.
+And he adds that all recordings captured by the glasses are encrypted, and the firm itself cannot see them - though this also means HTC cannot flag harmful content.
+"We acknowledge that there are some challenges, potentially becoming a real problem, especially for women," he said.
+He said HTC Vive was working to make it as difficult as possible for the tech to be misused but said it was "too early to comment" on whether the firm would consider a version without cameras.
+Ultimately, Wood thinks that camera-enabled glasses are "not going away".
+He says the current moment reminds him of the 2000s, when some people said that mobile phone companies couldn't install cameras in their devices because of similar concerns over privacy. "There's an inevitability there," he says.
+"We will have to find a societal norm, a framework for the use of these products."
+Top image credit: Getty.
+BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
+Get in touch
+Are you personally affected by the issues raised in this story?</description></item><item><title>Residents eating garden weeds in Russian-occupied city cut off from food and water</title><link>https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Trump meets US-backed Venezuelan president for first time since Maduro seized
+Residents eating garden weeds in Russian-occupied city cut off from food and water
 - Published
-US President Donald Trump has held talks with Venezuela's interim President Delcy Rodríguez at the UN General Assembly, their first face-to-face meeting since the White House backed her to take over the South American country's government.
-Rodríguez succeeded Nicolás Maduro shortly after US forces conducted a raid on the Venezuelan capital Caracas and seized him.
-The pair met a few kilometres from the New York jail where Maduro is awaiting trial for drug trafficking and other charges.
-Rodríguez said they discussed "advancing a cooperation agenda in strategic areas such as energy, mining, and security".
-US Secretary of State Marco Rubio and White House Chief of Staff Susie Wiles also attended the meeting.
-Rodríguez's government has signed an agreement allowing the US to control more than 65 billion barrels of its oil - more than a fifth of the country's reserves. It grants a US-led company 100-year concessions over 17 oilfields in Venezuela.
-Trump previously called it "the biggest oil deal in world history".
-During his address to the UN on Monday, Trump said the US and Venezuela control "more than 60%" of the world's oil, adding: "To the victor belong the spoils."
-Rodríguez is due to address the UN on Wednesday.
-She previously served as vice-president to Maduro and was sanctioned by the US in 2018, but the measures were lifted in April this year.
-She was sworn in as interim president by Venezuela's National Assembly days after the US raid with the White House's blessing.
-Venezuelan opposition leader Maria Corina Machado has repeatedly been barred from re-entering the country.
+"Two more civilians died last night," says Halia, before her phone connection cuts off.
+She is trapped in the Russian-occupied Ukrainian city of Oleshky, which she says is "constantly shelled" and cut off from food and water.
+Three days later she tells me the two who were killed were a husband and wife. She knew them well.
+They were bringing home a bag of food from the closest neighbouring town of Radensk, 23km (14 miles) away, but were unable to get home before a curfew imposed by Russian occupation authorities.
+They were then killed by a drone. Four separate sources have confirmed the deaths of two civilians carrying food on 20 September.
+Halia does not want to share their names for fear she might be identified. Her name has been changed to protect her safety.
+Hers is just one of the many harrowing accounts the BBC has heard from residents in the front-line city in southern Kherson in recent days.
+Occupied by Russia since 2022, Oleshky is trapped between the Dnipro River, which separates it from Ukrainian positions, and Russian forces.
+It is also one of the cities where thousands of people lost their homes after the collapse of Nova Khakova Dam in 2023, flooding buildings up to their rooftops. Ukraine and Nato accused Russia of blowing up the dam, while Russia blamed Ukraine.
+Oleshky was home to 24,000 people before Russia's full-scale invasion. Now the Ukrainian government estimates that some 6,000 people remain in the city and its surrounding areas, including 200 children.
+Residents say children remaining in wider Oleshky are suffering from malnutrition, a lack of medical services, and are "degrading" without access to education.
+Many have also told the BBC independently there is only one hospital partially operational, opening a few days a week to perform critical amputations.
+Ukraine has attempted to deliver supplies to the area but has not had success in recent months.
+Earlier this week the Kremlin acknowledged that Oleshky faced "a critical situation" and "problems with supplies of food and medicine", but added that "Russia's military was working to resolve them" and blamed Kyiv.
+The local population is living under a "full blockade" by Russian forces, according to Ukraine's Foreign Minister Andriy Sybiha.
+Speaking at the UN General Assembly in New York on Tuesday, Sybiha called on the international community to pressure Russia into allowing humanitarian aid into the city.
+Inside Oleshky, Halia faces a daily struggle to survive.
+"There is no food here in the city," she says, adding that the last food delivery was back in May.
+"I eat once a day, a dinner only," she says. "I make some plain bread, sometimes I can have it with a tomato, or with some honey, and a tea. That's it."
+Many residents have turned to cooking garden weeds as they have run out of the vegetables they managed to grow over the summer, she explains.
+Which weeds are safe to eat and how to boil them has become a topic of discussion on local Telegram messaging chats, along with calls between residents to sell, swap or share pieces of food.
+No shops are open any more in Oleshky, with residents unable to source either clothes or hygiene products. The city has had no electricity, gas or water since the Kakhovka dam was attacked three years ago.
+While some residents have risked travelling on foot along mined roads out of the city in search of supplies, it is now deemed too much of a danger.
+Warning: Distressing and graphic descriptions of dead bodies below.
+Working out how many people have been killed in Oleshky is difficult.
+The UN Human Rights Monitoring Mission in Ukraine has recorded reports this year of at least 29 civilians killed and 54 injured in Oleshky and Hola Prystan, external - about 24km to the east.
+Local volunteers estimate that number could be significantly higher.
+Ksenia Arkhipova has been counting the dead since she managed to escape Oleshky in summer 2022 - a few months after it was taken by the Russian army.
+She is a volunteer who is involved in attempts to deliver food and medicine and facilitating evacuations to Oleshky. Locals trust her with their sensitive personal information.
+"I've been putting together a spreadsheet of all those who died as soon as I find out about it, with their names and dates of birth – I've got around 1,200 people now," she says. "Sometimes I don't have time to update it, as the list grows one or two people longer every day: someone was killed by a drone, someone else stepped on the landmine."
+While the BBC cannot independently verify these figures, one local resident has given her personal account of losing her loved ones.
+Both her parents were killed in Oleshky this summer, said Tetiana - also not her real name. She confirmed their identities to the BBC with their dates of birth and photos, but asked not to have them published for her own safety.
+"They were shot inside their home. Russian soldiers came there and wanted to take it," she said.
+- Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says 
+  - Published3 days ago
+Burying the bodies of people killed in Oleshky has been restricted by Russian occupation authorities, residents say. This has made counting the dead even harder.
+They "do not allow us to bury the dead if they were killed by a drone, stepped on a landmine or were killed in any other way", said Tetiana.
+Russia's occupation authorities demand those deaths are confirmed by post mortem examination carried out by a Russian doctor, the BBC has been told. That is not possible in Oleshky.
+Only those who die of natural causes could be buried, she added, and as a result, "some bodies have been on the streets since December".
+Bodies are "either getting piled" up in the local hospital morgue, "where there's been no power since winter", says volunteer Ksenia Arkhipova, or "stray dogs eat them".
+That detail has been verified by the BBC based on numerous pictures obtained from residents. They are all too graphic to publish.
+"This is a tool of psychological pressure," says Ester Vrataryova, the co-founder of charity Humanity, which helps people in Oleshky and the wider Russian-occupied territories of Ukraine.
+"If you try to bury a dead body, you'll become the next one," she says.</description></item><item><title>'Make women feel seen': Why the Dutch have a new word for labia</title><link>https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+'Make women feel seen': Why the Dutch have a new word for labia
+- Published
+Can you imagine seeing the words "shame lips" on your medical notes? The term, which can also be translated as "pubic lips", is the Dutch word for a women's body part. But, for some, it's just one of countless examples that are outdated and loaded with stigma.
+Last month, leading Dutch dictionary Dikke van Dale said it would include a new term for the labia, "vulvalippen" - in its upcoming online addition - alongside the traditional term "schaamlippen".
+European campaigners have long been calling for a rewrite of terms used to discuss women's bodies, sexuality and health. What unites them is the desire to move away from terms that are often seen as misogynistic or judgmental.
+"Language shapes how we see ourselves," says Shari Klein, one of the founders of the Schaamteloos campaign, which targets words that use "schaam" or "shame".
+"It's crucial people have a more neutral, anatomically correct word - not a word that links to shame, whether consciously or sub-consciously," she says.
+'Sex positivity'
+Calls to use vulvalippen aren't new but campaigners say inclusion in the dictionary may be a sign society is "finally ready for change".
+Esther Van der Valk, part of prominent Dutch feminist group Dolle Mina, says it's also about sex positivity and reducing body shaming.
+The campaign's next steps are to convince doctors and officials to use vulvalippen in leaflets and consultations.
+Ton den Boon, editor of the dictionary, says adding vulvalippen is justified because it is becoming more established in the language and is being used more in the media, biology text books, medical leaflets and is even seen in veterinary medicine.
+But whether it will be adopted widely is yet to be seen.
+Other Dutch words, relevant to both men and women, could carry similar connotations - from "schaam haar" (pubic or shame hair) or "schaam been" (pubic or shame bone) to even "schaam lice" for pubic lice.
+However, critics say changing a word will not necessarily change people's lives.
+- Language around birth should be less judgemental 
+  - Published15 June 2022
+The campaign mirrors attempts in Germany, where in 2018 journalists Gunda Windmüller and Mithu Sanyal started a petition to change "Shamlippen" to "Vulvalippen".
+Windmüller says she was compelled to after a gynaecologist told her of the shame some women carry when discussing their bodies and having medical examinations.
+When writing her article, she realised she couldn't even mention anatomy without including the word shame.
+"Vulvalippen" has not yet been adopted by a German dictionary, but Windmüller has spotted it in conversations, school textbooks and women's magazines.
+Her hope is the Dutch move will ignite support closer to home.
+'Virginity membrane'
+Similarly, in Sweden a new word for "hymen" was added in the academic dictionary after a 2009 campaign.
+The association for sexuality education (RFSU) felt traditional term "mödomshinna", which translates as maidenhood skin or virginity membrane, was anatomically inaccurate and did nothing to dispel myths around hymens and virginity.
+The new term "slidkrans" translates as vaginal corona - reflecting the fact the hymen is often folds of tissue in a ring, rather than a seal that breaks once.
+"With a new word we can challenge the myths that seek to control women's sexuality and freedom," Sonja Ghaderi of the RFSU says.
+Ghaderi says slidkrans is used particularly by healthcare professionals and in youth clinics but adds misinformation still exists emphasising the "need to change social constructs".
+In the UK, feminist podcast host Nicola Denson-Elliott started a petition to replace the word "hysterectomy" (surgical removal of the womb) with "uterectomy".
+She argues, as others have, that hysterectomy has linguistic links with hysteria, external - once seen as a disease of emotional excess in women - and wants a more "anatomically correct term" not one "associated with emotion."
+The petition describes it as "medical misogyny", adding: "Women deserve terminology that respects them."
+'Judgmental words'
+Linguistics researcher Dr Beth Malory says any changes need to be researched first.
+"Will people understand uterectomy? Is simply saying removal of the womb better?"
+New words cannot be ambiguous, she says, it's important to look at the whole system so there is no confusion.
+Malory also studies language around pregnancy and loss.
+One phrase highlighted in her research is "incompetent cervix" used to describe the shortening of the cervix that can increase risks of pregnancy loss and early birth. Women told her it made them feel blamed for the medical issue.
+"Why do we need judgmental words like failure or incompetence?" says obstetrician Dr Brooke Vandermolen, external.
+Even though they appear in medical textbooks, she tells me she's moved away from certain terms, including "failure to progress" - which describes labour not moving forward as expected.
+"Language is incredibly important and the words we choose can show recognition and make people feel validated and seen."
+In 2022, the Royal College of Midwives produced guidance offering alternative phrases.
+But Vandermolen says some traditional terms are still being used and still cause distress.
+"I hope this change in the Netherlands sparks more conversations here about how we speak about women's bodies. What we say can have a lasting impact."
 Related topics
-  - Published22 July</description></item><item><title>South Sudan's president dissolves government ahead of country's first elections</title><link>https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&amp;at_campaign=rss
+  - Published3 August
+  - Published9 July</description></item><item><title>Indians are discovering the thrill of shopping without paying </title><link>https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-South Sudan's president dissolves government ahead of country's first elections
+Indians are discovering the thrill of shopping without paying
 - Published
-South Sudan President Salva Kiir has dissolved the transitional government, three months before the country's first election since its independence in 2011.
-The country has previously postponed elections twice and extended the transitional period several times.
-Under the amended law, signed on Monday, Kiir removed the country's five vice-presidents and dissolved parliament, as well as national and state governments.
-Kiir is the presidential candidate of his Sudan People's Liberation Movement (SPLM). No prominent figures have announced plans to challenge him in the December poll. The main opposition leader Riek Machar was sacked as vice-president last year and charged with treason.
-He is under house arrest.
-Machar had been named vice-president as part of a 2018 peace deal to end a five-year civil war between forces loyal to the two men.
-Kiir will remain in office with full constitutional powers until an elected president is sworn in. He also reappointed some ministers and governors in caretaker positions until the 22 December elections.
-Ahead of Tuesday's announcement a heavy security presence was reported in the capital, Juba. Soldiers from the army and national security services blocked access to government ministries. Soldiers were also seen patrolling parts of the city.
-A senior government official told the BBC that staff arriving for work were turned away and told to return the following Monday.
-UN agencies in Juba also asked staff to work remotely while the situation was monitored.
-- South Sudan's leader sacks aides after dead man appointed 
-  - Published3 February
-Kiir last week dismissed the chairman of the national elections commission, Abednego Akok Kacuol, without giving a reason. He was replaced by the commission's secretary-general, Gabriel Bol Deng.
-Akok had said in August that the commission needed $250m (£190m) to conduct the election but had received only $21m.
-In June, the main opposition group, the Sudan People's Liberation Movement in Opposition (SPLM-IO), the party of Machar, warned people not to take part in poll preparations.
-"Anyone coming to register voters and campaign in territories controlled by the mighty SPLM-IO, you will be a prisoner of war," Nathaniel Pierino, acting chairperson of the group, said in a post on Facebook.
-The body which oversees implementation of the 2018 peace agreement, the Reconstituted Joint Monitoring and Evaluation Commission (RJMEC), said South Sudan had entered a "critical phase".
-It said several key talks under the agreement remained incomplete and urged the parties to agree on a path towards credible elections and a peaceful end to the transitional period, which has lasted since independence.
-The latest 24-month extension was due to end on 22 February 2027.
-More BBC stories on South Sudan:
-- South Sudan sets December date for long-delayed first-ever election 
-  - Published23 June
-- Salva Kiir: The president in a cowboy hat 
-  - Published21 June 2018
-Go to BBCAfrica.com, external for more news from the African continent.
-Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external</description></item><item><title>Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico</title><link>https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico
-- Published
-Hurricane Polo, a large storm off the coast of Mexico, has been downgraded to category 4 but remains "very powerful", the US National Hurricane Center said.
-The Pacific hurricane, one of the strongest of the season, was projected to head towards the coast of south-western Mexico, bringing intense wind and rain, though was not expected to make landfall.
-A Hurricane Hunter aircraft, operated by the US National Oceanic and Atmospheric Administration (Noaa), flew into the storm on Tuesday and recorded sustained wind speeds near 180 mph (285 km/h), with stronger gusts.
-The slow-moving storm is being fuelled by extremely warm waters caused by the El Niño climate phenomenon.
-It was previously a category 5 storm - the highest level on the scale - but was downgraded to category 4 on Wednesday morning.
-Forecasters said that the storm was expected to fluctuate in intensity over the next few days.
-As it slowly drifts north west, Polo will drive torrential rainfall in parts of Mexico's south-west coast, and "may produce life-threatening flooding and mudslides, especially in areas of steep terrain," the forecaster said.
-Forecasters said heavy rainfall associated with Polo could impact coastal regions in southwest Mexico through Thursday.
-A tropical storm warning remains in effect for portions of southwest Mexico and a tropical storm watch is in effect west of Playa Perula, the National Hurricane Center said.
-The hurricane centre said people under a tropical storm warning should expect conditions to develop on Wednesday, and those in the watch areas can expect conditions to develop by Thursday.
-Rainfall totals of up to 6in (15cm) are forecast, with 8in possible in some areas. Residents have also been warned of large ocean swells and life-threatening surf conditions for the next few days.
-"So far, the information we have is that (Polo) will not make a direct landfall on the coast," Mexico's President Claudia Sheinbaum said on Tuesday, but she warned residents along the Pacific coast to be vigilant. Sheinbaum highlighted the states of Jalisco, Colima and Michoacan as being at risk.
-So far this season, the Pacific has seen 15 storms, all in early September. Polo is the strongest of a batch of three storms currently swirling between Hawaii and the North American mainland.
-Data from the Hurricane Hunter aircraft indicated that Polo could still strengthen, because of what NOAA called a "very conducive" environment of extremely warm ocean waters feeding the storm.
-Scientists monitoring the ocean temperatures say the current El Niño climate phenomenon is now the strongest on record.
-Daily sea surface temperatures in a key region of the central-eastern Pacific were 3.05C above average on 19 September - exceeding the previous record of 3.02C set during the very strong El Niño of 2015.
-Some longer-term measures of El Niño have not yet hit record levels but this is likely to change, with the peak not expected until later this year.
-Warmer ocean waters mean storms can pick up more energy, leading to higher wind speeds.
-El Niño is a naturally-occurring pattern, which happens about every two to seven years and tends to last for around a year.
-Trade winds that typically blow from east to west across the Pacific Ocean can weaken or even reverse, allowing warm water to spread eastwards.
-Heat is then released from the ocean into the atmosphere which can boost global temperatures and drive changes in weather patterns around the world.
-Related topics
-  - Published1 day ago
-  - Published3 hours ago</description></item><item><title>OpenAI gives cyber defence tools to Ukraine</title><link>https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-OpenAI gives cyber defence tools to Ukraine
-- Published
-The tech giant OpenAI will share its AI cyber defence system Daybreak for free with the Ukraine government to help it protect civilian infrastructure, like hospitals and power plants, from cyber-attacks.
-According to the Computer Emergency Response Team of Ukraine (CERT-UA), the national cyber incident response team, Ukraine recorded nearly 6,000 attacks in 2025.
-Daybreak is able to quickly identify weaknesses in digital systems and help develop fixes.
-Under the deal, Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model - a rival to Anthropic's Mythos and Fable.
-George Osborne, former UK chancellor and now Head of OpenAI for Countries, said: "Protecting civilian infrastructure means defending it against both physical and digital attacks, so people can continue to live, work and access essential services."
-Reacting to the news, Rafe Pilling, senior director of threat intelligence for the cybersecurity firm Sophos, said that Russian offensive cyber operations had been "a key component" of the Kremlin's aggression against Ukraine since 2014.
-"Any initiative that strengthens Ukraine's already highly capable, but heavily burdened, cyber defence efforts is a welcome development and could provide a valuable force multiplier," he said.
-Jamie MacColl, a senior research fellow specialising in cyber at the Royal United Services Institute (RUSI), told the BBC western tech firms had been supporting Ukraine for some time - partly for altruistic reasons but also because they gain very valuable data and intelligence from an active conflict.
-"Given this, it's no surprise that OpenAI is now also providing defensive cyber security services" he said.
-He thought access to Daybreak would be useful, particularly given the volume of Russian cyber-attacks targeting the country.
-But he noted Ukraine already had access to AI tools provided by OpenAI's competitors, like Google.
-Attack and defence at the frontier
-The cyber-abilities of the latest, most powerful AI models, called "frontier" models in AI jargon, can be a boon for cyber-defenders, but the same abilities can also be used for attack.
-Spotting weaknesses in systems, for example, is useful for defenders looking to block hackers, but also for attackers hunting for ways to infiltrate an organisation.
-Anthropic has tightly restricted access to its systems on the grounds that they are too powerful to fall into the wrong hands, but OpenAI has allowed some firms in Europe, as well as UK banks, to use its most advanced cyber models.
-The firm made the announcement alongside the UN General Assembly which is currently underway in New York.
-AI is firmly on the agenda there, and US tech bosses including OpenAI's Sam Altman and Anthropic's Dario Amodei are due to speak at the high-level gathering.
-United Nations Secretary General António Guterres called for the tech to be regulated in his final address, while US President Donald Trump says it should be renamed "super intelligence".
-Evidence suggests the technology is increasingly being used in the Russia-Ukraine conflict.
-In a report published earlier this month, Anthropic claimed that its Claude platform appeared to have been used by a group of Russian developers to build software for a swarm of so-called "kamikaze" drones designed for attacks in Ukraine.
-It said the group had activated virtual private networks - VPNs - in order to get around a geographical block put in place by the tech firm.
-Anthropic also claimed AI had been used in attempts to infiltrate the Ukrainian government, military and diplomatic services.
-Recently, around 100 US companies signed an open letter warning governments and institutions around the world that "the window is closing" to ensure cyber defences are robust enough to withstand AI-enabled cyber attacks.
-But it's not just bad actors deploying the tech that are of growing concern: in the summer, OpenAI revealed that a group of AI agents it had been testing had escaped from their controls, and secretly worked together to hack to another tech firm, Hugging Face.
-Anthropic, and Google subsequently revealed similar incidents.
-Additional reporting by Chris Vallance
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.</description></item><item><title>Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79</title><link>https://www.bbc.co.uk/news/articles/cqn745px55nno?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cqn745px55nno?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79
-- Published
-Rock star Angry Anderson, whose music famously soundtracked the wedding of Kylie Minogue and Jason Donovan's characters in Australian TV soap Neighbours, has died at the age of 79.
-The musician, whose real name was Gary Anderson, rose to fame as the frontman of Rose Tattoo, one of Australia's most revered rock bands, from 1976.
-His solo song Suddenly became a global hit after it was played during the wedding of Minogue and Donovan's characters Scott and Charlene in Neighbours. The episode was watched by 20 million people in the UK in 1988.
-Anderson said Minogue had been "adamant" that the track was used for the scene, and he later declared that Suddenly was the best song he had ever written.
-Paying tribute to Anderson on Instagram, Donovan said: "Legend! What a great guy.
-"Another great Australian. Thank you Angry for all the wonderful music and memories. Condolences to all friends and family."
-Before his death, Anderson had a cardiac arrest while on Rose Tattoo's farewell tour in Europe last month.
-He was treated in hospital before going home to Australia, and the band cancelled nine live dates.
-A joint statement, external from Anderson's family and Rose Tattoo remembered him as a "devoted father, and much-loved bandmate".
-"His loss will be deeply felt by all those who knew and loved him both here in Australia and overseas," it said.
-"We thank everyone for their prayers and messages of love and continued support."
-Born in Melbourne in 1947, Anderson and Rose Tattoo first became known on Australia's rock scene, releasing five albums beginning with their 1978 debut.
-After the band split nine years later, Anderson continued recording music as a solo artist, and co-wrote and released Suddenly in the summer of 1987.
-It was quickly selected by Minogue for use in Neighbours for her character Charlene Mitchell's wedding to Donovan's Scott Robinson.
-Thanks in large part to its use in Neighbours, Suddenly reached the top three in both the UK and Australia.
-However, it was held off the number one spot in its home country by Minogue's own debut solo single, Locomotion.
-Anderson released two albums as a solo artist, before Rose Tattoo reunited in 1993 to support Guns N' Roses on their Australian tour.
-The band returned in 1998 for their own tour and were inducted into the Australian Recording Industry Association (ARIA) Hall of Fame in 2006.
-Anderson's other credits included playing Herod in an Australian production of Jesus Christ Superstar.
-He was made a Member of the Order of Australia in 1993, in recognition of service to the community, particularly his charity work and his work as a youth advocate.
-Related topics
-  - Published10 December 2025</description></item><item><title>US to build two military bases in Greenland under new deal with Denmark</title><link>https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-US to build two military bases in Greenland under new deal with Denmark
-- Published
-The US, Denmark and Greenland have signed a defence deal that allows Washington to build two new military bases in the Arctic territory, while reaffirming Copenhagen's sovereignty over it.
-Before a signing ceremony at the UN General Assembly in New York, US President Donald Trump said "we will immediately begin the process of developing a large military presence in the appropriate locations".
-Danish PM Mette Frederiksen said the deal was "good for the US, Denmark and Greenland" and also for Europe and Nato, while Greenland's PM Jens-Frederik Nielsen said it was a "win-win-win".
-The three leaders then inked the deal, seemingly ending more than a year of tension over the Arctic territory.
-Trump had threatened to "take" the semi-autonomous Arctic territory over what he said were national security concerns, citing its strategic defence location and its mineral wealth.
-His rhetoric prompted outcry from Greenlanders, Danes and European leaders who issued a joint statement saying his words "undermine transatlantic relations and risk a dangerous downward spiral".
-The deal amends and updates a 1951 defence agreement between Denmark and the US.
-The new pact says the US "shall be allowed to establish an additional Defence Area at Narsarsuaq and Mestersvig" - referring to locations in Greenland's south and east.
-Narsarsuaq is a former civilian airport and World War Two base. It has deep-water access and a large runway which US military engineers were recently surveying, the US North Command confirmed to the BBC.
-The Mestersvig outpost is remote, far less developed, and used by a Danish naval dog sled unit.
-The "modalities and technical details" of the bases are yet to be confirmed, and according to the deal, must be mutually agreed by all parties,
-This means the US security arrangements are not unfettered and Greenland and Denmark's approval is still needed.
-Washington currently operates its Pituffik Space Base in Greenland's north-west, and the new deal allows the US to "modernise and expand its activities" there.
-It also says that "no state that is not a member of Nato shall be allowed to establish its own manned or unmanned military installations in Greenland nor shall they be allowed a persistent presence of military forces in Greenland".
-Although the militaries of non-Nato countries are now explicitly barred from the island, it was highly unlikely that non-allied troops would have been allowed access in the first place.
-Critically, no territory is ceded to the US, and it recognises both Denmark's "sovereignty and territorial integrity" and Greenland's right to self-determination.
-On one hand, that's a significant climb down from Trump's earlier calls to acquire the Arctic island.
-But it does deliver a strengthened US military presence and expand on the previous agreement. Therefore to some American eyes, that will be perceived as a historic win.
-The new deal must still be approved by both Denmark's and Greenland's parliaments.
-Despite months of crisis, the mood at Tuesday's signing ceremony appeared strikingly upbeat and friendly.
-"We going to have a tremendous relationship, a secure relationship," Trump said.
-"This is tremendous for Europe and for the United States, for everybody, and for Greenland it's going to be incredible."
-Meanwhile, Frederiksen described the signing of the deal as a "milestone in our long-standing co-operation".
-"Seventy-five years ago we entered into an agreement about the defence of Greenland. Today, we're signing an even bigger and better agreement - a deal that can last forever."
-The Danish prime minister stressed that the agreement "respects sovereignty and territorial integrity of the Kingdom of Denmark, as well as Greenland's right to self-determination".
-Jens-Frederik Nielsen said that "for Greenland, it is not only an agreement about us, it is [an] agreement with us.
-"It takes into account the people of Greenland, our rights, our livelihoods and the development of our country.
-"Greenland matters for North American security and for transatlantic security," he said, adding that the Nato had a key role to play in the North Atlantic in a changing security situation.
-The agreement also confirmed Greenland would remain in Nato if it were to gain independence from Denmark.
-The 1951 agreement already allowed the US to send as many troops as it wanted to Greenland. Washington already has more than 100 military personnel permanently stationed at its Pituffik base.
-Trump had tried for months to purchase or annex Greenland, arguing that it was vulnerable to adversaries, including Russia and China.
-He argued the Arctic island was an essential piece of his plan to build a futuristic "Golden Dome" defence system to protect the US against missile attacks.
-However the deal only mentions the project once, and contains no concrete proposal.
-A Nato spokesperson said shortly afterwards that the military alliance welcomed the deal, which would "help advance security, stability and cooperation in this vital region".
-In Denmark, the deal is being hailed as a triumph of diplomacy, and several political parties in Denmark have already said they would back it.
-For Greenland, a country of 56,000 people, there was good reason for a big sigh of relief. Its leader sat side-by-side with the world's most powerful man, and got a deal that should now bring an end to months of crisis.
-Related topics
-  - Published12 May
-  - Published22 January
-  - Published14 January</description></item><item><title>How Ceuta, football and Israel are shaping Morocco's election</title><link>https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&amp;at_campaign=rss
+You are hungry. Or you are not. It doesn't matter.
+You open FoodNeverComes, pick from 22 cuisines and start scrolling. Butter chicken looks good. So does bibimbap. You add a few dishes, watch the total climb and hit checkout. A tracker says a rider is on the way.
+Then you get a dummy AI-generated call from inside the site. He is outside your building, he says, but cannot find your street or door. Except there was never any food in the first place. The order exists only on the screen.
+"Order the food. Skip the bill," says the site., external Its slogan is blunter: "The food never comes - but the dopamine does."
+Built by two 26-year-old software developers - Purvansh Parmar and Anshul Sharma - from Udaipur in India's northern state of Rajasthan, FoodNeverComes says it has attracted more than 2.7m visitors since its launch in June.
+It now offers 22 kitchens, 327 dishes and 319 real recipes, complete with fake prices, a simulated checkout and a fictional delivery experience.
+FoodNeverComes belongs to a new internet genre: "dopamine sites", which recreate the rituals of consumption without the consumption. There are fake shopping sites, fake delivery services and even fake holidays.
+The genre took off in South Korea, external and has since travelled well beyond, spawning a growing crop of sites - Dopamine Shop, external or Fakehaul, external, for example - that mimic everything from food delivery and shopping to travel.
+What, exactly, are we enjoying when we enjoy buying something?
+The idea began with the founders' own shopping habits. Parmar and Sharma met on a computer science diploma course and later started NeuroX AI, which builds software and AI products and makes Instagram content. They noticed it in their own lives: online baskets filling up with things they wanted, but never actually bought.
+Sharma would browse electronics, fill an online basket and abandon it. Parmar's mother did much the same. "She would add things to the cart and say, 'I will order this later'," he recalls.
+Parmar's own version ended at food delivery checkouts. During a two-month project in Mumbai, he says, he was spending 5,000-10,000 rupees a week on food, sometimes ordering treats he did not necessarily need: Belgian waffles, ice cream and, once, a large jar of sour cream he barely wanted and gave away to friends.
+He believes "perhaps the real craving was not always for the food, but for the ritual of ordering it".
+What begins as genuine hunger, the two argue, can become associated with the pleasure of ordering. Over time, boredom, anxiety or habit can trigger the urge even when the hunger has disappeared.
+"Sometimes you're not hungry at all. You're bored or busy, and then you realise that ordering food makes you feel good. You start associating the act of ordering with that dopamine hit. Eventually, it's not just the food you want," says Parmar.
+Ravi Dhar, director of the Yale Center for Customer Insights, calls this "anticipatory utility" - the pleasure of looking forward to consumption. It is especially strong with things that capture the imagination - a new pair of shoes, a holiday, a restaurant meal - because anticipation becomes part of the experience.
+Sometimes, Dhar says, anticipation can be more pleasurable than ownership: "The thrill is in the chase." Once the object is acquired and the tension resolved, psychological arousal falls.
+Neuroscience has a name for this gap between the chase and the catch, and it complicates a popular idea. Dopamine is not simply the brain's pleasure chemical, whatever the internet's talk of "dopamine hits" might suggest.
+Kent Berridge, a University of Michigan neuroscientist who developed the theory of "wanting" and "liking", says they are separate processes. Wanting is the motivational pull towards something; liking is the pleasure of having it. They often travel together, but not always. Dopamine, in his account, drives the first, not the second.
+Tempting food or products online are likely to activate this wanting system, which Berridge calls "incentive salience".
+"Some situations can trigger 'wanting' by itself," he says. We can pursue something intensely even when the eventual pleasure is weak - or, in more everyday terms, want something more than we ultimately like it.
+Dr Anna Lembke, a Stanford University addiction psychiatrist and author of Dopamine Nation, makes a similar distinction.
+"To call dopamine a chemical of pleasure is an oversimplification," she told me. "Dopamine is the molecule that says 'get more of' or 'do more of', but it doesn't necessarily equate to pleasure."
+What she adds is the role of ritual. Cues and habits attached to a reward can become reinforcing in their own right, she says: in addiction, the routines leading up to drug use can eventually matter as much as the drug itself. "Anticipation of reward can be as reinforcing as the reward itself," she says.
+Can repeatedly ordering imaginary food satisfy a real craving? Berridge says the ritual could produce a "dopamine hit and strong 'wanting', and also evoke faint conditioned 'liking'".
+But he would expect the "novelty to soon wear off", and would be "surprised" if many people returned to place more than about 10 imaginary orders.
+Dhar is more open to the possibility that simulated consumption could serve as a kind of release valve.
+"While we still need more empirical data to know if simulated shopping can satisfy a consumer urge, evidence from simulated consumption in gaming shows it can be highly effective," he says.
+But there is an equally plausible danger: the ritual may simply rehearse the behaviour it is supposed to replace.
+Lembke says the evidence is not in yet, and the effect may depend on the person. But her own bet is that, over time, the sites could "reinforce the same addictive neural networks they are trying to simulate".
+"The one up side, though, is that people using these sites have on some level already admitted to themselves they have a problem, and that admission is often the first step in recovery," says Lembke.
+Sharma ran an accidental experiment of his own. When his phone screen cracked, he spent a week on Amazon comparing six or seven replacements and adding them to his basket. Then he repaired the handset.
+"I enjoyed the process of research and putting the phones in the cart," he says. "Eventually I didn't buy a phone."
+He now catches himself doing the same on food delivery sites, particularly when anxious, filling baskets without checking out. "I realised that I suffer from this problem," he says.
+The site's blog explores the "serious side" of the fake takeaway, from food-delivery addiction and why fake ordering feels good to cravings, guilt and the psychology of the shopping cart.
+The founders have since taken the idea beyond food. A second site, TripNeverLeaves, lets users plan a holiday - destination, flight, seat, hotel and activities - then sends them on a virtual flight that never leaves the runway. They say it has attracted more than 100,000 visitors.
+Who those visitors are is harder to establish. But Lembke says younger people may be especially vulnerable to reinforcing digital rewards because the "developing brain is a vulnerable brain".
+"In childhood and early adolescence, the front lobe, which acts like the brakes on appetite, is not yet fully connected to the emotion centres of the brain. Hence, teens are more likely to take risks without appreciating the negative consequences, and more likely to get addicted to reinforcing substances and behaviours, once exposed," she says.
+For now, the founders say the sites are not about making money. They plan to keep them free and eventually share the data with neuroscientists and psychologists.
+What looks like a joke about ordering too much food has stumbled into a bigger question about modern consumption: if so much of the thrill comes before we get the thing, do we need the thing at all?</description></item><item><title>How Ceuta, football and Israel are shaping Morocco's election</title><link>https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -626,195 +752,25 @@ You may also be interested in:
 - Israel and Morocco agree to normalise relations 
   - Published10 December 2020
 Go to BBCAfrica.com, external for more news from the African continent.
-Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external</description></item><item><title>Huge data centres rise at 'China speed' to power its AI ambitions</title><link>https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&amp;at_campaign=rss
+Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external</description></item><item><title>A red carpet and military flyover - How Trump welcomed Xi</title><link>https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Huge data centres rise at 'China speed' to power its AI ambitions
-- Published
-In the expansive grasslands of Inner Mongolia, farmers are picking plump potatoes alongside new neighbours: huge, rectangular blocks that will fuel China's AI platforms.
-Ulanqab, with its steppes and volcanoes, is an unlikely digital frontier. For years, it has been China's official "potato capital". But now its fields have also become construction sites for a slew of data centres, as Donald Trump and his Chinese counterpart Xi Jinping meet to discuss AI safety among other things.
-Hundreds of workers in yellow helmets carry heavy equipment into the building site as welding sparks fly off metal scaffolding. Above them huge cranes move with precision to build rooftops, while men balance on ladders to plaster brickwork.
-"This is China speed," jokes one worker. "An infrastructure maniac," is how he describes his country, laughing as he walks away. “There is one phase every year. This is the second phase," explains an electrical engineer. "There will be many more phases afterwards."
-Artifical intelligence sits at the heart of China's contest with the United States and the key to it is the computing power inside the data centres here.
-To the Chinese Communist Party, these buildings are critical for the country's economic and national security. Once finished, they will help drive its mission to embed AI across 90% of industries and society by 2030.
-China's not just building the infrastructure. It's also creating a pool of talent: young engineers and researchers who now see their country as a place of opportunity, partly because tensions with the US and Trump's restrictions on immigration have soured the American dream.
-"Fewer students and researchers are heading to the US, and more are returning from the US to China. That is very clear," says Jack Zhang from the University of Science and Technology of China.
-He himself was recruited by a high-level programme after studying at Yale in the US, and Cambridge in the UK.
-"I wanted to take some of the AI work I was doing in the lab and apply it to human health and medicine. That requires more resources, more people and sometimes more government support, which can be difficult to access overseas."
-China's expanding AI capabilities are one reason why the US says it doesn't want to hit pause on its AI development, despite stark warnings from inside the industry that the technology was moving too fast.
-"Whoever wins AI, wins," President Trump said last week. The CEO of AI firm Anthropic, Dario Amodei, called for keeping the US-led ban on selling advanced chips and equipment to China, while warning that a Chinese lead would "pose grave danger for the US and the world".
-This is not what Xi will want to hear when he arrives in Washington on Wednesday. The state-run Global Times, which echoes Beijing, dismissed US fears as part of a "Cold War playbook" to "contain" China's rise.
-But China is not just focused on catching up to the US.
-It is also touting an alternate model. Xi himself is encouraging Chinese AI firms to develop more affordable, open-source models - which allow people, companies and countries to modify it as they wish.
-It also pits Chinese models against those in the US where developers including OpenAI and Anthropic use closed-model approaches, and their design elements are kept a secret.
-One reason Beijing is in favour of their approach is that it has worked well for them. By sharing the tech, Chinese AI firms have been able to innovate quickly.
-This has helped China overcome one of its biggest challenges: a lack of access to advanced chips, which would help unlock greater computing power.
-But Beijing also wants a bigger say in writing the rules that govern AI. Xi has repeatedly called for more regulation and a global framework for others to follow.
-With calls for AI safety growing, this week's summit at the White House is especially significant. Can the two sides collaborate on regulating AI? Is any talk of a slowdown even realistic?
-It certainly doesn't seem like that in places like Ulanqab, where China's AI ambitions are taking shape.
-China is building hundreds of data centres - for Huawei, ByteDance, DeepSeek - in sparsely-populated provinces: Ulanqab, Ningxia and Gansu in the north, Guizhou in the south-west.
-It has already built up vast renewable energy capacity - wind and solar - in these regions, land is cheaper and the weather cooler, so there is less demand for water.
-This doesn't mean there are no concerns or downsides. China wants most of its data centres to be fuelled by green energy by 2030 - but some of its grid is still fed by coal power. Water supply remains a concern in the arid, dry parts of Inner Mongolia.
-Entire villages have been relocated, although it's hard to pin down the number or what compensation residents were offered. It's a topic few people will discuss because it can be dangerous to voice concerns too openly.
-"This big data has absolutely nothing to do with ordinary people," says one local, speaking anonymously off camera. "What benefits has it brought us?"
-He says few locals had found jobs there. Others told us of fears that their land would be taken and they would no longer be able to farm for a living.
-But there are optimists too, such as a man who told us his last name was Zhang, standing alongside potato pickers in a field near the data centres.
-“China is now at the forefront of the world," he says, adding that his children have managed to find jobs there.
-"It's not like the 1960s, when it was relatively backward. China is doing alright now. Whether in economic development or other areas, it is doing well."
-Surveys appear to suggest that there is little opposition to AI or its widespread adoption, compared to so many other countries, but it's hard to evaluate these figures in such a heavily-censored climate.
-Beijing has been quite clear that it sees AI as a solution to its ageing workforce, and is rapidly automating manufacturing and production. That is producing anxiety over job losses, which, again, is hard to measure.
-But this is also a country that is producing around five million science and tech graduates each year, compared to around half a million in the US.
-And as more of them stay in China, they see a growing ecosystem for innovation.
-AI developer Dang Ronghao, 27, who works for a leading tech company says Chinese campuses are becoming more open, allowing him to talk to researchers all over the world from his base in Shanghai.
-"I've seen research combining AI with nuclear fusion, AI with astrophysics, AI with new materials, and AI with the development of new drugs. I think we are entering a good era."
-Even so, some argue that China still rewards conformity over challenge. "It's not as open as I wish," says Professor Liu Jun, Department of Statistics and Data Science at Tsinghua University. He has taught at both Harvard and Stanford.
-"I keep encouraging students here to ask more questions, to challenge more, but that's hard to change. I think partly it's culture, partly it's the system."
-Far from the labs where Prof Liu and others are wrangling with the AI frontier, many Chinese people are still grappling with more immediate economic troubles: a sluggish economy, rising youth unemployment, low spending and property prices that have plummeted. In rural areas, an ageing population is also a growing concern.
-"Big data and all that… pretty good – but it has nothing to do with me," says one farmer in Inner Mongolia, as he trundles on a cart to check on his sheep.
-He says he has no use for AI. He hardly even uses the internet.
-The screen on his phone is smashed, and wifi comes from a pocket dongle for which he pays just over 40 yuan a month.
-"There haven't really been any changes for me. I don't know about the future," he says.
-This kind of scepticism can become a challenge for Beijing.
-So much is changing here and everywhere else in the country, but it's hard to know how many people are as invested as their leaders in this tech-charged future.
+A red carpet and military flyover - How Trump welcomed Xi
+Donald Trump has welcomed Xi Jinping at the Joint Base Andrews with a red carpet and military flyover to kick off a historic three-day US visit.
+During the welcome, which included a red carpet, two B-1 bombers flew overhead to celebrate Xi's arrival.
+The supersonic aircraft are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.
+The BBC's Bernd Debusmann was at Joint Base Andrews and unpacks the pomp and pageantry behind Xi's welcome to America.
 Related topics
-  - Published14 September</description></item><item><title>Playing loud music on the bus? That will cost you hundreds of dollars in Singapore</title><link>https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&amp;at_campaign=rss
+- Xi JinpingUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- Donald TrumpUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item><item><title>Watch: The arms race in space and how the UK is defending itself</title><link>https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Playing loud music on the bus? That will cost you hundreds of dollars in Singapore
-- Published
-Bus passengers in Singapore can now be fined up to $500 Singapore dollars ($391; £293) for placing their feet on seats or playing loud audio, as well as eating, drinking or littering onboard.
-A fine of up to $5,000 will be imposed for more serious offences, such as causing obstruction or danger to fellow commuters within bus terminals or "the soiling of any part of a public bus, bus interchange, or terminal".
-"These will foster a safer, more considerate and pleasant public transport environment for all," the Land Transport Authority (LTA) said in a news release.
-The new regulations, announced on Monday, align with existing rules on Singapore's railway, or Mass Rapid Transit (MRT), network.
-But while there have long been punishments for MRT passengers caught eating onboard, for example, rules on buses were typically company policies enforced by drivers, who could ask commuters to alight.
-Now these nuisance behaviours have become official legal offences carrying immediate fines.
-Authorised bus staff – such as ticket inspectors and bus interchange staff – can issue official notices to passengers who are suspected of committing an offence, according to LTA.
-Bus drivers - or "captains", as they are called in Singapore - will not be given the same authority, leaving them to prioritise their duty of safely operating the bus. They can, however, tell commuters to stop disruptive behaviour, and those who refuse to cooperate may be asked to alight the bus or, in severe cases, face police intervention.
-Singapore is not alone in trying to make public transport more peaceful. As transit networks grow, cities around the world are actively cracking down on bad behaviour to ensure a peaceful commute for all passengers.
-Earlier this year, the Polish city of Kraków introduced similar rules with commuters now facing a fine of up to 200 złoty ($52; £39) for "disturbing the peace and quiet within the vehicle" with their mobile phones and other electronic devices.
-In the United Kingdom, existing laws ban "anti-social behaviour" on trains and stations, including using "sound-producing equipment" without permission if it annoys others.
-Some politicians have pushed to specifically fine so-called "headphone dodgers" - people who play loud music and videos - across all public transport, including buses, with fines of up to £1,000.
-These rules in Singapore, Kraków, and the United Kingdom show a growing trend of transport authorities stepping in to protect passengers.
-"Public transport is a shared space, and every commuter has a part to play in ensuring a gracious and pleasant commuting environment," said Singapore's LTA.</description></item><item><title>'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria</title><link>https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria
-- Published
-Usman Muhammad pauses by the entrance to a tiny Nigerian prison cell and leans his forehead against the wall unable to speak.
-The day before he had been trapped inside the stifling room, measuring roughly 6m (19.7ft) by 3m (9.8ft), with more than 50 other prisoners.
-Thirty-three of his cellmates died in the cramped conditions in the prison in Minna, the capital of Nigeria's Niger state - and four died later in hospital.
-The mass deaths caused an outcry and sparked protests, including attacks on public buildings, as relatives and locals demanded answers.
-Federal officials had initially blamed the deaths on a diphtheria outbreak but exactly what happened is now the subject of an investigation.
-"I have never felt heat like that in my life. When we touched each other's bodies, it felt like fire burning," Muhammad tells the BBC once he is able to gather his thoughts.
-When he was locked inside, there was standing room only amid humidity levels of more than 90%, which in some circumstances can be dangerous to human health as it prevents the natural cooling mechanism of sweat drying on the skin.
-The temperature outside was above 25C and the only ventilation came from a small, high-up window.
-"One of us fainted and we started knocking at the [cell] door. When [a guard] came we asked him for water. He looked at the guy that fainted and closed the door. That's how they started dying one after the other," Muhammad says.
-Like the others who had been detained, the young man, in his 20s, is an artisanal miner, eking out a living searching for precious metals at mine sites.
-The federal government has tried to crack down on this alleged illegal activity as it says it costs the country revenue, damages the environment and can be linked to wider criminal activity.
-Officers from the Nigeria Security and Civil Defence Corps (NSCDC) had arrested a large group of miners near Minna last Tuesday and Wednesday.
-The prisoners were held at its detention centre in the city, but the NSCDC has not shared either the names or the number of those it was holding.
-As the hours inside the cell wore on, the heat and dehydration became unbearable and Muhammad says some of the detainees began drinking their own urine and collecting sweat from their bodies to try to stay alive.
-He describes seeing people in distress and struggling to breathe.
-"People were calling for help, some were already very weak."
-But no-one came to help, he and others allege.
-"While in the cell, we were shouting and telling them that people were dying," another survivor Adamu Isah told the Reuters news agency.
-"We tried to break down the door when they refused to open it… At one point, a security officer came to the door.
-"We were shouting and telling him that people were dying, but he said it wasn't his problem if people died."
-Finally, on Thursday, the cell door was opened and the guards saw the dead bodies.
-The NSCDC has not directly responded to the accusations of neglect and maltreatment but has said that 24 of its personnel are now in custody in connection with the deaths, including its suspended Niger state commandant Suberu Aniviye.
-"The people who were killed are not flies. How can this go unlooked? We will get to the bottom of this," Niger state Governor Umaru Bago told the BBC.
-As the organisation involved is a federal body rather than a force under his jurisdiction, such as the police, the governor is unable to exert direct influence but he welcomes the investigation that has been ordered by the government in capital, Abuja.
-A 10-member committee has now been set-up to determine exactly what happened.
-It has two weeks to establish the causes of the deaths and identify who was responsible and can recommend legal action against anyone found culpable.
-No officer, regardless of rank, would be protected and any attempt to obstruct the investigation would be taken seriously, Interior Minister Olubunmi Tunji-Ojo said.
-As he leaves the cell after talking to the BBC, Muhammad says he hopes that by speaking out he can help find justice and bring some closure to this traumatic event.
-More stories from Nigeria:
-- How Mexican drug cartels have outsourced meth labs to Nigeria 
-  - Published29 July
-Go to BBCAfrica.com, external for more news from the African continent.
-Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external</description></item><item><title>Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC</title><link>https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC
-- Published
-Lithuania's prime minister has told the BBC his country has made evacuation plans in the face of threats from Russia, but added they "will not surrender" if attacked.
-Prime Minister Mindaugas Sinkevičius told Newsnight that Lithuanians feel "constantly threatened" by Russia, in part because of drones entering the nation's airspace.
-He told Newsnight if his country was attacked, "we will fight back... we will engage". But he said there were plans for a "variety of scenarios" and used an example of getting elderly citizens out of cities "smoothly" and avoiding traffic jams.
-Lithuania, a Nato member, shares a land border with the Russian exclave of Kaliningrad.
-Nato is thought to have several thousand troops stationed in the Baltic state, including US and German forces.
-Although the US is currently reviewing its deployments in Europe, Lithuanian President Gitanas Nausėda said on Tuesday that a new US troop rotation was on its way to his country.
-Sinkevičius told the BBC. "We're thinking about a variety of scenarios, not all of them are being discussed very much publicly."
-"We face concrete threats, not on a daily basis, but we're experiencing them and it's a true reality for us."
-Sinkevičius also said the UK needed a "shift in the mindset" in terms of its approach to defence, but noted that Lithuania was "closer to the border and closer to [the] threat".
-Last week Nato fighter pilots shot down a drone that entered Lithuania's airspace.
-Lithuania has experienced numerous incidents in the past year, which it describes as "hybrid attacks" and blames on neighbouring Belarus, a close Russian ally.
-Late on Monday night, flights were disrupted at Lithuania's main airport in the capital Vilnius, because of what the airports operator called a "hybrid attack carried out by Belarus", involving objects that appeared to resemble the shape of balloons.
-The president's chief adviser, Deividas Matulionis, said on Tuesday it was unclear whether the objects were balloons.
-Nato said that as of December last year it had more than 5,000 troops in Lithuania, but says now that it is unable to give a precise figure for the numbers stationed there.
-Germany - a fellow Nato ally - has pledged to send a 5,000-strong combat-ready brigade to Lithuania permanently as a response to the changing security situation in Europe. However, Nato said on Tuesday it would reach "full operational capability" by the end of 2027.
-The Germany military has failed to recruit enough personnel voluntarily and is now turning to compulsory assignments to fill some positions.
-The majority of troops will be based in Rūdninkai, near the Suwałki Gap - a line that borders Lithuania and Poland and also links Belarus with Russia's Kaliningrad.
-The origins of last week's drone incident over Lithuania have not been confirmed, however Defence Minister Robertas Kaunas told Newshour that it had come from the direction of Belarus.
-UK Defence Secretary Wes Streeting said: "Thanks to the swift and professional actions of Lithuanian and Italian forces, Nato once again demonstrated our readiness to protect our airspace.
-"We stand united, around the clock, in defence of every inch of Nato territory."
-Moscow did not comment on the incident.
-Military drone incursions have become increasingly common across Europe since the beginning of Russia's full-scale of invasion of Ukraine.
-Residents in Lithuania's capital Vilnius were also forced to take shelter in May after a drone alert was triggered, briefly grounding flights and rail travel.
-Nato jets have scrambled multiple times to shoot down stray Ukrainian drones that have crossed into fellow Baltic countries Estonia and Latvia this year.
-Ukraine has blamed the stray drones on Russian electronic warfare, technology designed to change the flight paths of Ukrainian drones.
-Lithuania, Estonia and Latvia all joined Nato in 2004, becoming signatories to the Article 5 provision that states "an armed attack against one Nato member shall be considered an attack against all members".
-Related topics
-  - Published4 days ago</description></item><item><title>Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious</title><link>https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious
-- Published
-An elite-level European football match will be played on Sunday at a neutral stadium, with no 'away' fans, and reduced television coverage.
-That the match is even taking place had been in doubt - one side had to vote on a motion confirming whether or not they would participate amid significant opposition from fans, pundits and politicians.
-But the vote confirmed the fixture would go ahead, and now the Republic of Ireland will travel to Debrecen, Hungary, for a Uefa Nations League 'away' match against Israel, played against a backdrop of ongoing and increasingly volatile disagreement between the two countries about Israel's military offensive in Gaza.
-And on 4 October, the Republic of Ireland will face the same opponents in a 'home' match in Backa Topola - a small town in Serbia.
-No tickets have been sold to Irish fans for either fixture, and Irish public broadcaster RTE will air a stripped-back version of match coverage, with no commentators, pundits, or half-time analysis.
-So how did a Uefa Nations League match become one of the most contentious fixtures in football?
-Venue changes have not quietened protests
-As soon as the Republic of Ireland were placed with Israel - plus Austria and Kosovo - at the Nations League draw in February, the Football Association of Ireland (FAI) faced calls from some to boycott the matches because of Israel's military action in Gaza.
-In May a friendly match the Republic of Ireland played against Qatar in Dublin was twice interrupted after fans threw tennis balls onto the pitch featuring the Palestinian flag.
-The FAI eventually took a vote of its delegates in July, in which 75 members voted to play the matches and 32 voted to boycott.
-Not playing the matches could have harmed Irish football in the long-run, the FAI said, amid the possibility of Uefa sanctions for refusing to fulfil the fixtures and the potential loss of millions of euros in income.
-As well as curtailing its coverage, RTE will not take advertising or sponsorship income from the matches, saying it will only "meet its contractual obligations" to broadcast the fixtures.
-No tickets are being sold to Irish fans for either the 'home' or 'away' matches, with a small allocation available for Israeli fans for the first fixture, which has been the case at multiple previous Israel home games held in Hungary.
-Hungary has been deemed a suitable host nation for Israel matches because the two nations enjoy stronger diplomatic ties than those between Israel and many other European nations, and it has been willing to provide the necessary policing and security arrangements for matches to operate smoothly.
-The FAI decided in the summer to play its 'home' fixture against Israel at a neutral stadium, citing "operational challenges that could impact on the delivery of the game on home soil".
-Reports have claimed the FAI was concerned protests could prevent the match from taking place in Dublin.
-The FAI gave no official reason for the selection of Backa Topola, but choosing a venue in Serbia - in a town so remote - in theory renders security management easier and reduces the possibility of protest.
-In 2025, Serbian foreign minister Marko Duric described Israel as one of Serbia's "closest friends and strategic partners". Serbia has also purchased military equipment, including drones and missiles, from Israel in recent years.
-The decision to play in neutral stadiums has not curtailed opposition.
-Fans of various Irish clubs have demonstrated against the matches during domestic fixtures in recent weeks, and on Monday more than 160 Irish athletes signed an open letter by the Irish Sport for Palestine group urging a boycott. The signatories include boxer Tyrone McKenna and former European champion athlete Ciara Mageean.
-FAI CEO David Courrell said last week Uefa had rejected a request for the teams to be kept apart in future draws, director of football John Martin described the games as a "very uncomfortable situation for everyone". Manager Heimer Hallgrimsson, meanwhile, said playing the match did not constitute legitimisation of Israel's "genocide".
-"We're not playing with genocide, we're playing against genocide," Hallgrimmson said. "We're playing against Israel, we're not playing with Israel."
-In response, the Israel Football Association accused Hallgrimsson of "ignorance, hypocrisy and stupidity".
-The Republic of Ireland faced Israel in Women's EuroBasket qualifiers last autumn and earlier this year after "extensive deliberations".
-Irish support for Palestinians is long-standing
-The Republic of Ireland has been among the European countries to most keenly show support for Palestinians since the start of Israel's military offensive in Gaza in October 2023.
-More than 73,000 people have been killed in Israeli attacks, according to the territory's Hamas-run health ministry, whose figures are considered reliable by the United Nations (UN).
-In May 2024, alongside Spain and Norway, Ireland officially recognised a Palestinian state, and later that year joined South Africa's Gaza genocide case against Israel in the International Court of Justice.
-The country has also boycotted Eurovision since 2025 because of Israel's ongoing participation in the song contest, was the first EU country to ban goods from illegal Israeli settlements in the West Bank, and has issued travel bans for Israeli government ministers.
-On Monday, Irish foreign minister Helen McEntee said: "Ireland's view is clear - international law is being breached. We are seeing an attempt to erase a population."
-Israel has criticised Ireland's standpoint and claims its actions in Gaza constitute self-defence, after the armed Palestinian group Hamas attacked Israel on 7 October 2023, killing about 1,200 people and taking 251 hostages.
-Last summer a UN commission of inquiry found that Israel has committed genocide against Palestinians in Gaza, and this year a further investigation determined that the country has deliberately targeted children with military force, resulting in genocide, crimes against humanity and war crimes in Gaza and the occupied West Bank.
-Israel has repeatedly rejected allegations it has committed genocide.
-The Republic of Ireland is not the only nation to have expressed reluctance to face Israel in international football.
-In 2024, Belgium refused to host Israel on home soil, and the match was held instead in Debrecen.
-The president of the Norwegian Football Association, Lise Klaveness, made a public statement last year saying Israel should be suspended from European competitions, and Turkey also called for Israel to be banned.
-In a statement released on Tuesday, Amnesty International said Uefa was "giving Israel an international stage" rather than "sending a clear message there is a cost" for its actions in Gaza.
-BBC Sport reported last autumn that Uefa executives were considering a vote on whether to ban Israel, under pressure from representatives from a number of nations.
-But any plan to hold a vote was pulled when the first phase of a ceasefire was announced last October.
-Related topics
-  - Published1 day ago</description></item><item><title>Watch: How toxic smog from wildfires is making Indonesians sick</title><link>https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&amp;at_campaign=rss
+Watch: The arms race in space and how the UK is defending itself
+The head of Britain's Royal Air Force has warned that we we now face an unprecedented threat in space, which could have a devastating effect on the satellites we rely on for communication, internet, bank transfers and satnav.
+A defence source has told BBC defence correspondent Jonathon Beale, that Britain has already used a ground based system to jam or block the satellite communications of a hostile state.
+Beale explains there is now a new arms race going on in space.</description></item><item><title>Watch: How toxic smog from wildfires is making Indonesians sick</title><link>https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -837,35 +793,4 @@ Related topics
 - ChinaUpdates from your News topics will appear in My News and in a collection on the News homepage.
 - Donald TrumpUpdates from your News topics will appear in My News and in a collection on the News homepage.
 - China-US relationsUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- Xi JinpingUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item><item><title>Rare look at the remote engine rooms fuelling China's AI boom</title><link>https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Rare look at the remote engine rooms fuelling China's AI boom
-The BBC's Laura Bicker is in Inner Mongolia where dozens of Chinese data centres are being built, as the country aims to lead the world in artificial intelligence.
-She explains how attitudes differ between people in China and the US when it comes to the data centre industry, ahead of leaders Xi Jinping and Donald Trump's meeting in Washington later this week.
-Related topics
-- China-US relationsUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- ChinaUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- Artificial intelligenceUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- MongoliaUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item><item><title>Watch: Key moments from Andy Burnham's first UN speech</title><link>https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Watch: Key moments from Andy Burnham's first UN speech
-The UK prime minister gave his first address to the United Nations General Assembly (UNGA) on Tuesday.
-In his speech, Burnham highlighted the risks posed by Russian disinformation and announced new measures for global AI standards.
-Related topics
-- United NationsUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item><item><title>Watch: Threats, deals and passionate speeches at UNGA event</title><link>https://www.bbc.co.uk/news/videos/cqkgx8ynj8zko?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/cqkgx8ynj8zko?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Watch: Threats, deals and passionate speeches at UNGA event
-The United Nations General Assembly event is underway in New York, with delegations from around the world meeting to give speeches and hold meetings.
-Key moments included US President Donald Trump's threat to "annihilate Iran", the UK's new prime minister Andy Burnham meeting some world leaders for the first time, and a farewell speech from UN Secretary General António Guterres.
-Related topics
-- United NationsUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- United StatesUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- FranceUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- BrazilUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- GreenlandUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item></channel></rss>
+- Xi JinpingUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item></channel></rss>
