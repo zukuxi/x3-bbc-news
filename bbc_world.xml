@@ -1,5 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>BBC World News (x3 Direct)</title><link>https://github.com/zukuxi/x3-bbc-news</link><description>BBC 全文内嵌版，专为纯粹阅读打造</description><item><title>Rogue OpenAI agent 'infiltrated' Australian government website in world first</title><link>https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss
+<rss version="2.0"><channel><title>BBC World News (x3 Direct)</title><link>https://github.com/zukuxi/x3-bbc-news</link><description>BBC 全文内嵌版，专为纯粹阅读打造</description><item><title>White House 'repeatedly violated' court order to restore press access, say media outlets</title><link>https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+White House 'repeatedly violated' court order to restore press access, say media outlets
+- Published
+Three US media outlets have requested an emergency court hearing, accusing the White House of having "repeatedly violated" a judge's order to restore their access in a stand-off with President Donald Trump.
+Employees from CNN, Politico and MS Now reported being denied entry on Thursday morning, with some having their credentials confiscated, while others were granted access.
+Judge Timothy Kelly ruled in the early hours of Thursday that Trump's ban on the outlets should be temporarily lifted because it "likely violated their constitutional due process rights".
+Trump initially said he banned the outlets because of "fake news". The White House later cited national security.
+It was unclear whether the refusal to admit some reporters on Thursday morning was because of an administrative lag as the White House potentially worked to comply with the judge's order.
+The standoff was expected to impact TV coverage as Trump welcomes Chinese President Xi Jinping to the White House on Thursday morning ahead of a state dinner.
+CNN said some of their journalists had been denied entry, including senior White House reporter Betsy Klein. But a producer was allowed to enter, the outlet reported.
+Politico said one of its reporters was denied access to the White House and had his press credentials confiscated.
+MS NOW reported that its White House reporter Laura Barrón-López and a producer were barred and had their passes taken, but another MS NOW producer was allowed in.
+The White House is yet to comment on the ruling, and lawyers acting for the president may take further legal action.
+Trump first announced last Friday he was barring the three major US media outlets - CNN, MS Now and Politico - from the White House, accusing them of writing "fiction or lies" about his administration.
+By Saturday morning, each outlet reported that they were denied entry to the White House grounds and that their press badges were confiscated.
+All three outlets spoke out against the ban, accusing the Trump administration of violating their constitutional rights.
+In a joint statement on Monday, they said they were pursuing legal action to "defend the principle that the government does not decide what the press reports".
+Most other major media outlets have stood behind the three outlets in their fight against Trump's ban, with TV networks including Fox News, NBC, CBS and ABC suspending their televised coverage of the White House in solidarity.
+And more than 50 media organisations across the ideological spectrum filed an amicus brief in support of the lawsuit, including Fox News, The New York Times, The Washington Post and The Wall Street Journal.
+There have been previous instances of administrations attempting to limit certain outlets' access.
+The Obama administration tried to exclude Fox News from participating in a specific press pool interview with an administration official in 2009.
+But after objections from the other four networks in the pool, Fox News was allowed in.</description></item><item><title>Rogue OpenAI agent 'infiltrated' Australian government website in world first</title><link>https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -7,7 +31,7 @@ Rogue OpenAI agent 'infiltrated' Australian government website in world first
 - Published
 A rogue OpenAI agent hacked an Australian government website in June and accessed private data in what experts say is the first known case of its kind in the world.
 The agent "infiltrated" a statistics portal containing "non-sensitive" data from Australia's universal healthcare scheme Medicare, Prime Minister Anthony Albanese said in New York on Wednesday, local time.
-He had a "very frank discussion" with OpenAI CEO Sam Altman for taking "too long" to disclose the breach and said there would be "legal consequences".
+He had a "very frank discussion" with OpenAI boss Sam Altman for taking "too long" to disclose the breach and said there would be "legal consequences".
 OpenAI said it only learnt of the breach in August while reviewing "misaligned model activity" and emailed a general inbox of an Australian government agency on 10 September.
 Five days later, that government agency, Services Australia, escalated the email to Australia's cybersecurity centre before a government minister was notified and the prime minister alerted.
 Albanese said he spoke to Altman and raised "Australia's extreme concern about this incident" as well as his "disappointment" that the company had taken months to reveal the breach and "the nature of the way" it did so.
@@ -20,6 +44,8 @@ Three other government systems "may" also have been affected: the Australian Ins
 "Nonetheless this situation is obviously unacceptable," he said.
 OpenAI, in a statement, said it had "identified activity involving several Australian government websites and services as our models attempted to look up answers, and available statistics for questions about Australia during an internal evaluation".
 "In the course of that, our models took actions we did not intend," the statement said.
+It has also emerged that OpenAI's systems tried, and failed, to hack a digital library at the University of New Mexico in May, according to Transluce, a not-for-profit AI research lab.
+It said the systems also attempted to hack Data USA, a repository of public government data that same month. This also failed.
 Albanese declined to answer whether he raised the matter with US President Donald Trump during their face-to-face meeting on Tuesday night in New York, where world leaders have gathered for the UN General Assembly.
 Australia was one of 22 countries that earlier this week signed a joint statement calling for global oversight and guardrails for the development of AI.
 Cybersecurity experts told the BBC the incident is a wake up call for regulators, given that AI agents are becoming more widely available for individual and commercial use.
@@ -32,184 +58,130 @@ Several AI firm leaders themselves - including Altman, Anthropic's Dario Amodei,
 But the US and China, who are vying for AI supremacy, are roadblocks. Both are hostile to greater regulation, wanting the economic and technological spoils of AI, and have downplayed safety concerns.
 Related topics
   - Published4 September
-  - Published12 hours ago
-  - Published22 hours ago</description></item><item><title>Trump offers warm welcome as China's Xi arrives for US visit</title><link>https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&amp;at_campaign=rss
+  - Published17 hours ago
+  - Published1 day ago</description></item><item><title>Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?</title><link>https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Trump offers warm welcome as China's Xi arrives for US visit
+Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?
 - Published
-US President Donald Trump has greeted his Chinese counterpart Xi Jinping with a military flyover and 100ft (30m) red carpet to kick off their three-day summit in Washington.
-In a rare move, Trump welcomed Xi's entourage at the airport as the US Air Force band marched on the tarmac and US and Chinese flags flew.
-Trump and First Lady Melania Trump welcomed Xi and his wife Peng Liyuan at Joint Base Andrews on Wednesday evening in Maryland.
-The high-stakes visit - Xi's first trip to Washington since 2015 - is expected to include closed-door meetings, a state dinner, and plenty to discuss, from AI, to the Iran war and Taiwan, and an extended trade truce.
-The leader of Chinese Communist Party touched down in an Air China plane at 17:39 local time (22:39 BST). The colour and honour guard marched up to the aircraft and stood on both sides of the red carpet as two limos pulled up.
-Xi and Peng exited their plane and the two couples shook hands. They spoke briefly before walking side by side down the red carpet and posing for photos.
-Two B-1s flew over as the Army Air Force Band played the US national anthem. The supersonic aircraft are a key part of the US's combat arsenal.
-After exchanging pleasantries, the two couples departed in separate vehicles to Washington.
-This is the first time since 1962 that a US president has personally welcomed a foreign leader at the base, signalling the importance that Trump is giving this visit.
-In 1962, then-President John F Kennedy greeted British PM Harold Macmillan.
-Also on Wednesday, US Treasury Secretary Scott Bessent announced that the US and China will extend their trade truce to January. The agreement, which saw Trump lower tariff rates on some goods in exchange for Xi loosening restrictions on rare earth minerals, was set to expire 10 November.
-Bessent, who spoke after meeting Chinese Vice-Premier He Lifeng, said the two discussed if there can eventually be a more substantive trade deal between the two countries.
-In a written statement published by China's state news agency Xinhua, Xi said both China and the US are "great nations, and their people are great people".
-"The two countries should be partners rather than rivals," he said.
-Melania Trump has said she has been involved intimately with the planning of the itinerary. She told Fox News that Trump made the decision to personally greet Xi himself at the airport "because they have a great relationship".
-Xi is accompanied on the visit by Cai Qi, a member of the party's Politburo Standing Committee who's widely seen as his right-hand man, Vice Premier He Lifeng, Foreign Minister Wang Yi, as well as other delegates and ambassadors from Beijing.
-"Realising the great rejuvenation of the Chinese nation and making America great again can fully coexist, reinforce each other and benefit the world," Xi said in the statement carried by Xinhua, where he also expressed confidence that the visit would "yield fruitful results".
-It is unclear if Xi has brought any business executives with him. Bringing Chinese firms to the US may also raise questions about Beijing's business practices, subsidies and overcapacity, all of which may draw more fire and questions than Xi or his party would like.
-During Trump's visit to Beijing in May, he was accompanied by a group of tech executives from some of the largest US firms, including Apple's Tim Cook, Tesla's Elon Musk and Nvidia's Jensen Huang.
-Leaders of US AI companies are slated to attend the lavish state dinner set for Thursday. Xi's visit will end on Friday.
-Trump has dismissed recent warnings about the potential dangers of AI from within the industry as a "hoax" and both countries are racing to try to achieve dominance in the sector.
-Trump will aim to achieve other deals around trade and tariffs – like lowering Chinese tariffs on American products, increasing imports of Chinese rare earth minerals, and increasing exports of US agricultural products, according to David Firestein of the Bush China Foundation.
-But China appears to have reneged on promises to buy more American agricultural products and to sell more rare earth minerals to the US.
-Firestein expects Xi to encourage Trump to further stall - or kill - a congressionally approved $14bn (£10.5bn) arms sale to Taiwan and deepen US-China trade integration.
-These are the same US-China issues for the ages, he said, but, this time, "there seems to be a greater degree of, let's say, stability within the relationship, or less volatility relative to where we were last year".
-Xi's visit comes at a time when American attitudes towards China appear to be warming.
-A recent poll by the Chicago Council on Global Affairs indicated that 41% of Americans see China's territorial ambitions as a threat to the US. That number is down from 52% in 2022.
-More than half of Americans - 57% - believe the US should co-operate and engage with Beijing. Notably, that statistic cuts across the American political spectrum.
-Of Republicans who do not identify as Maga, 57% favoured co-operation, as did most Democrats, both moderate and liberal.
-However, most of Trump's loyal base - 63% - favoured limiting US relations with China.
-Aside from the arrival ceremonies at the White House, First Lady Melania Trump has also planned a visit to the Smithsonian National Museum of Asian Art to show her Chinese counterpart the cultural connections between the two countries.
-The landmark visit will end on a historical note at the National Archives building where the couples will view important records including those of "significance to the American and Chinese relationship", the White House has said.
-With additional reporting from Brandon Drenon</description></item><item><title>Trump and Xi come face-to-face as US and China battle to win the AI race</title><link>https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&amp;at_campaign=rss
+An OpenAI agent has gone "rogue" and "infiltrated" an Australian government website in what cyber-security experts are calling the first hack of its kind.
+But why did it take the government months to discover what happened - and could it happen again?
+What was hacked and why did it take Australia so long to realise?
+The hack was carried out by an AI agent - an autonomous computer program that uses AI to complete a task with minimal human oversight.
+On 18 June one of OpenAI's agents went rogue during a test exercise - the company has said it was supposed to "look up answers, and available statistics for questions about Australia during an internal evaluation".
+In the process it "infiltrated" a private statistics portal containing "non-sensitive" data from Australia's universal healthcare scheme Medicare, Prime Minister Anthony Albanese said.
+OpenAI said it only realised the breach had happened at all in August while reviewing "misaligned model activity", and the company sent an email to a generic Australian government inbox some weeks later.
+That email seems to have gone unnoticed for five days before it was escalated to Australia's cyber-security experts on 10 September.
+The prime minister described the breach as "obviously unacceptable" and said OpenAI took "way too long" to inform Australian officials.
+Analysts have also raised concerns over OpenAI's almost three-month delay in noticing and reporting the breach via email.
+"The way the notice arrived bothers me as much as the delay," chief data and AI officer Simon Liu from cyber-security firm TrustDecision told the BBC.
+Are these hacks already happening elsewhere?
+Australia has said this incident is the first of its kind, and experts agree it might be.
+As far as we know, hacks carried out by AI agents are still quite rare occurrences - but then again, it is largely up to companies themselves to disclose them.
+Hacks like this have happened before. In July, OpenAI agents went rogue during a test and infiltrated tech start-up Hugging Face's internal systems.
+The AI agents decided that ignoring the limits on what should be done to achieve their goal was the best course of action.
+This is what the industry calls "misalignment" - broadly defined as when AI machines do not act in humanity's best interests, such as by bending the rules.
+It is a problem that is fundamental to making AI safe, and it is proving challenging.
+To put it simply, the type of AI models at play here - known as large language models - are designed to predict the likeliest output to a given input, rather than consider the consequences of that output as a human would.
+Companies attempt to prevent negative consequences by placing "guardrails" on the AI but, as the Australian government found out, that is not always enough.
+Dr Hammond Pearce, senior lecturer at the University of New South Wales Institute for Cyber Security, told the BBC this sort of hack would likely "grow in severity and in frequency", adding: "I do hope that this incident does start ringing alarm bells in governments around the world."
+Niusha Shafiabady, professor of computational intelligence at the Australian Catholic University, said this incident had shown the need to "judge autonomous AI by its behaviour under pressure, not by the promises in a product launch".
+"The deeper technical risk is that autonomous AI does not always know when it is wrong, and humans may not be able to see why it made a decision," she said.
+"Without strong verification and hard boundaries, probabilistic errors can quietly become operational failures."
+Can AI be stopped if it does 'go rogue'?
+The explosive rise of AI has left governments scrambling to put protective measures in place, with some calling for companies to be forced to build ways to disable their own tech into its systems.
+One idea backed by some AI firms and lawmakers is a "kill switch" - a way to simply to turn the tech off in a crisis.
+OpenAI is reportedly, external already working to build automated tools which can shut down its systems if needed.
+Speaking to BBC Radio 4's Today programme, former deputy prime minister and Facebook executive Sir Nick Clegg said the kill switch remains an unproven idea.
+"There isn't a room with a little fuse box [where] you just pull out the fuse and everything winds down," he said, with AI tools underpinned by global infrastructure.
+Cyber-security experts said the systems protecting Australia's Medicare were just not strong enough, and a skilled human hacker could have got around them.
+But other experts say that is not the point - and that this was the latest case of AI agents ignoring laws around how to safely access online information, and perhaps the most serious yet given the information was under government control.
+- Why are there concerns AI could threaten humanity, and how real are they? 
+  - Published7 days ago
+- How to stop AI agents going rogue 
+  - Published26 August 2025
+What does the Australia hack mean for AI self-regulation?
+As warnings mount about the potentially devastating impact of AI, many in the industry and in governments around the world are openly wondering about what national and international regulations might be needed to keep it in check.
+Meanwhile some scientists, experts and workers have dismissed the bleak projections as vague, hypothetical, or an effort by large AI developers to ensure their dominance.
+As it stands, AI companies largely regulate themselves - but this week, 20 nations, including Australia and Canada, signed a joint statement calling for better safeguards, globally consistent standards, and an international regulator off the back of these concerns.
+However, the US and China, two nations at the forefront of AI development, have so far resisted calls for greater regulation, raising questions over whether this hack will be the first of many, or the wake up call many experts want it to be.
+"The immediate harm here appears limited, but the governance lesson is not," says Dr Raffaele Fabio Ciriello, senior lecturer in business information systems at the University of Sydney.
+"As AI agents become more capable and autonomous, those capabilities need to be matched by proportionate containment, real-time monitoring, clear accountability, independent oversight, and much faster incident reporting."
+Additional reporting by Tom Gerken and Joe Tidy
+  - Published4 September
+  - Published17 hours ago
+  - Published1 day ago</description></item><item><title>Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat</title><link>https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Trump and Xi come face-to-face as US and China battle to win the AI race
+Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat
 - Published
-"Whoever wins AI, WINS!"
-US President Donald Trump has been blunt about his AI ambitions, as well as about who he considers the US's main rival to be: China.
-His Chinese counterpart, Xi Jinping, has not said anything so forthright - but it seems he holds a similar view.
-"China very much sees it as a race, they very much think China should be the leading force in AI - they see AI as a power maximiser," says Rebecca Arcesati, from the Mercator Institute for China Studies.
-You can look beyond the rhetoric for evidence of this: AI has been a cornerstone of China's technological ambitions for more than a decade, whether Xi emphasises it publicly or not.
-For Trump, beating China to AI supremacy outweighs any risks of the technology to humans - something he has described as "a hoax".
-China's foreign ministry warned that "narratives of threat" and confrontation hinder global AI governance, calling for cooperation to ensure it benefits all.
-It means when the two presidents sit down on Thursday there will be few more important topics than their AI ambitions - and what they say and decide will matter to the whole world.
-Is the US in the lead?
-There's no doubt the US and China are global leaders in AI but who is ahead depends on how success is measured.
-American companies lead on so-called frontier models, with the highest-performing systems on most benchmarks coming from firms such as Anthropic, Google and OpenAI.
-In February 2025, an AI model by China's DeepSeek "briefly matched the top US model" and as of March 2026, Anthropic's top model led the pack "by just 2.7%", according to researchers at Stanford University, external.
-Part of the US advantage stems from the vast sums being invested in leading AI companies as the frontier labs burn through mountains of cash to build the infrastructure to train new models.
-The stock market is booming and a large part of the US economy's expansion relies on the enormous growth - and projected profitability - of AI companies.
-So that might partly explain why President Trump sees AI as key to US success.
-Another factor limiting China's ability is the sweeping government restrictions placed on US companies that prevent them from selling advanced microchips to Chinese firms - these are crucial for developing cutting-edge models.
-China's advantage
-Despite the chip restrictions, new AI models are coming out almost monthly in both countries and it's unclear what "winning" the AI race would actually mean, or whether there is a finish line at all.
-Many companies are racing to develop artificial general intelligence (AGI), a theoretical form of AI capable of learning, reasoning and performing a wide range of tasks at or above the level of humans.
-The Chinese AI industry has so far focused not on creating frontier models but releasing what is known as open weight models - downloadable and tweakable in a similar way to open source software.
-This contrasts with the approach taken by many US firms, which largely focus on proprietary models accessed through paid subscriptions or company platforms.
-Chinese open weight models are being released at a rapid pace, with benchmarks showing the country's top models trailing US rivals by only a few months.
-Models such as Moonshot AI's Kimi K3 have become popular in China and overseas because they perform close to the frontier models while remaining freely downloadable and adaptable.
-Beijing's focus is more about deploying the technology across its economy, China analyst Lizzi Lee from the Asia Society Policy Institute said.
-"AI isn't the moon landing," she said. "The US may lead at the frontier, while China could still gain enormous economic and geopolitical leverage by making capable AI cheap, open and ubiquitous."
-AI is also very energy hungry, and China is very well placed there, Rebecca Arcesati told Tech Life on the BBC World Service.
-"Chinese AI companies are able to access the electricity they need for a much lower cost and that really is an advantage," she said.
-In robotics - a field of AI that some believe will be world-changing - China has become the world's biggest manufacturer of robots, with more than two million working in the country's factories, the International Federation of Robotics estimated.
-The nation is also the world's biggest maker of humanoid robots, accounting for more than nine-tenths of global shipments in the first half of the year, according to independent policy institute Chatham House.
-Chinese AI developers have showed "remarkable resilience and innovation" in spite of the shortage of advanced American chips, analyst Lian Jye Su from tech research firm Omdia said.
-But US officials and AI firms have also alleged that Chinese developers closed the gap by using distillation - a technique that enables models to learn from more advanced platforms.
-China's foreign ministry said in response that AI development was "fuelled" by the country's "vision of extensive consultation and joint contribution for shared benefit".
-Safety concerns?
-China and the US may be in fierce competition, but their governments' approaches to safety concerns are markedly different.
-While some in the industry have recently warned that AI could pose an existential risk to humanity, Chinese researchers seem less concerned about that and are more worried about potential misuse of the technology and cyber war.
-Responding to concerns over AI, Trump has said the US already has sufficient rules in place and that the only guardrails AI needs are a "high IQ" president.
-"We're leading now over China by a lot, and everyone else, and we're going to keep it that way," Trump said this week, adding that the US was not going to "stifle the growth of something that will be bigger than the industrial revolution".
-Washington has prioritised innovation and sought to reduce regulation in an effort to "keep American labs ahead", said information security officer Jayant Dave from cybersecurity firm Check Point Software Technologies.
-Beijing has taken a different strategy to the US hands-off approach.
-Xi urged the country's leaders to keep a close eye on AI's risks and ensure the technology was always "under human control".
-"China has taken a relatively cautious and centrally-coordinated approach," introducing guides on data usage and algorithms before many other countries, helping to address many underlying concerns, Dave said.
-The use of guidelines, though not legally binding, sets expectations while giving developers room to innovate, said National University of Singapore AI ethics lecturer Jonathan Sim.
-Will they cooperate?
-Despite calls for international cooperation, it remains unclear how the AI superpowers plan to address the technology's potential dangers - if at all.
-The two countries have previously cooperated on existential threats such as nuclear weapons, but that was based on a shared understanding of the threat, which is not currently the case with AI, Dave said.
-"Washington worries about capability escaping control. Beijing worries about capability threatening domestic stability," he added.
-Trump has dismissed proposals for an industry-wide slowdown, arguing that it could allow Chinese developers to close the gap.
-Ahead of the Trump-Xi summit, US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng discussed establishing a notification mechanism for serious AI incidents.
-While the messaging from Trump on China in recent weeks has been "more antagonistic", the fact that AI is expected to be on the agenda was a "good start", said policy analyst Leia Wang from the Carnegie Endowment for International Peace.
-What we don't want, she added, was for an "unhealthy version of the race narrative to perpetuate", potentially escalating an already fierce rivalry in AI.
-  - Published1 day ago
-  - Published13 September
-  - Published13 September
-  - Published7 days ago</description></item><item><title>Iran's president tells Trump it will never 'bend the knee'</title><link>https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&amp;at_campaign=rss
+A fire at a Starlink satellite station in central Poland was a deliberate "act of sabotage", a government minister has said.
+Polish Deputy Prime Minister Krzysztof Gawkowski said the fire in the Masovian Voivodeship province was "deliberately designed to disable the station... disrupting internet access for various institutions, including the Ukrainian army".
+He told Polish public broadcaster TVP Info an investigation was ongoing but "many indications suggest" the attack fits into a "new Russian doctrine of attack". The Kremlin has not commented.
+Meanwhile, Denmark's intelligence service issued a new threat assessment saying it expects Russia to escalate hybrid warfare in the coming months.
+It said an attack remained "highly unlikely" but warned of "a low but growing risk" that Russia could launch a limited military attack against Nato countries.
+In recent weeks a number of European Nato members have said Russia may be preparing attacks to test their commitment to supporting Ukraine, which Moscow denies.
+Earlier this month, Germany blamed Russia for an attempted drone attack on Leipzig/Halle Airport, while France has ordered a plan to protect critical infrastructure and defence industry sites.
+Hybrid warfare or hybrid attacks are loose terms which tend to describe non-military methods designed to exert pressure and destabilise an adversary - for example cyberattacks, sabotage or misinformation.
+Proxies are often used to carry out the attacks and Russia always denies involvement, despite growing evidence to the contrary.
+The fire at the state-owned Polish satellite station broke out on Wednesday night in Wola Krobowska. It remains operational.
+The deputy prime minister said it transmits internet traffic through Poland to countries including Ukraine, and uses SpaceX systems that provide connectivity via Starlink terminals.
+Asked about the incident at a news conference with Bulgaria's leader on Thursday, Polish Prime Minister Donald Tusk said he disliked "labelling something as sabotage versus an accident without 100% certainty, but it looks bad".
+Also on Thursday, Moldova's president said four Russian drones crossed into its airspace, with at least one exploding, while Romania's defence ministry said one drone crashed in its territory.
+On Wednesday Poland also said a Russian military helicopter briefly violated its airspace, forcing it to scramble fighter jets.
+Russian President Vladimir Putin has repeatedly said Moscow does not plan to attack Nato states.
+Earlier this month, Russian Foreign Minister Sergei Lavrov said it was Europe speaking about preparing for war, adding: "If Europe attacks Russia, it will be a completely different war [from that in Ukraine], and it will be very short."
+Putin launched a full-scale invasion of Ukraine in 2022, and Moscow currently controls about 20% of Ukrainian territory, including the Crimea peninsula annexed in 2014.
+Ukraine is now experiencing round-the-clock attacks and near constant alerts.
+In Kharkiv, six people were killed and 12 others injured in a Russian strike on a farm in the village of Stara Hnylytsia, Ukraine's state emergency services said.
+It said they were agricultural workers sorting vegetables, with the head of the Kharkiv region adding that four were women.
+In Kyiv, there were multiple explosions on Wednesday night as drones, ballistic and cruise missiles landed or were intercepted over the city.
+In the past 24 hours, a bakery, a pharmaceutical plant and a jewellery workshop were all hit. Strikes on several data centres also caused internet disruptions in areas of the city.
+Two people were killed and eight others injured overnight, emergency services said. One was killed when fragments of a drone landed close to a maternity hospital.
+The hospital's director said a woman gave birth to a baby boy in a shelter during that attack, adding: "Even on such a terrible night, life goes on."
+Russia's defence ministry said it had hit Ukrainian defence facilities, logistics and telecom centres, as well as vessels used by the military.
+Ukrainian President Volodymyr Zelensky, who is in New York for the UN General Assembly, accused Russia of deliberately targeting civilian infrastructure. But it is sometimes hard to distinguish between deliberate and accidental hits.
+Attacks on power facilities, railways and data centres are all clearly part of a deliberate Russian strategy to make life as difficult as possible for civilians far from the slow-moving front lines.
+With its long-range attacks on oil refineries and postal warehouses, Ukraine is doing something similar: bringing the war home to ordinary Russians.
+But Russia's attacks on Ukraine's cities have intensified in recent weeks. Jet-powered drones are now more common than their slower predecessors, which used piston engines.
+The latest Russian drones fly high and fast, making them harder to shoot down. There's also less time for civilians to react.
+Kyiv is racing to develop low-cost weapons that can counter them as the missiles and fighter jets it has to fight back are too expensive.
+In New York, Zelensky said, "we need ballistic interceptors to protect lives" and called on the US to help.
+He said Putin needed to be stopped from continuing the war and "spreading this evil further", adding: "Putin is always looking for someone who can help him kill more, kill more people for every kilometre of land."
+The Ukrainian president's comments came as Russian presidential envoy Kirill Dmitriev headed to the US to meet Trump administration officials, including Steve Witkoff and Jared Kushner, Reuters reported, citing two sources.
+Russia's Lavrov told the UN Security Council on Wednesday there would be no pause in the war.
+Related topics
+  - Published16 hours ago
+  - Published4 days ago</description></item><item><title>Ethiopia's army says it has repelled attacks in first comment on fresh fighting</title><link>https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Iran's president tells Trump it will never 'bend the knee'
+Ethiopia's army says it has repelled attacks in first comment on fresh fighting
 - Published
-President Masoud Pezeshkian has said Iran will never "bend the knee" after almost seven months of war with the US and Israel, but is ready for a diplomatic solution to the conflict.
-Responding to US President Donald Trump's threat to "annihilate" the Islamic Republic if a deal is not reached soon, he told the UN General Assembly: "The resistance of the Iranian people will only increase in the face of sanctions, increased pressure, increased bullying."
-Pezeshkian also insisted any deal would have to include an end to the US blockade stopping Iranian ships from using a key Gulf waterway.
-"It cannot be the case that everyone benefits from the Strait of Hormuz while we are denied access," he said.
-There was no immediate comment from the US, whose delegation walked out of the chamber at the start of Pezeshkian's address.
-- American power, AI and a walkout - key moments from Trump's UN speech 
-  - Published1 day ago
-- UN experts say grounds to believe US committed war crimes in Iran strikes 
-  - Published6 days ago
-"The US president described us as terrorists. We have been the victims of terrorism," Iran's president told the UN in New York.
-He then held up a photo of the country's late Supreme Leader, Ayatollah Ali Khamenei, who was killed in a strike on his residence when the US and Israel launched a joint attack in late February.
-He also presented pictures of some of the more than 175 civilians, two thirds of them children, who Iranian authorities say were killed in missile strikes on a primary school in Minab and a sports complex in Lamerd that day. The US has denied striking Lamerd and said it is still investigating what happened in Minab.
-"Our innocent people have been the targets of cowardly attacks and aggressions imposed on our country. And we defended ourselves with utmost strength," Pezeshkian said.
-Also on Wednesday, an attack on a cargo ship in the Strait of Hormuz killed an Indian sailor, the Agence France-Presse news agency reported, citing Omani and Indian authorities.
-The attack was condemned by India's foreign ministry, which called for unimpeded passage through the Strait to be restored.
-In February, Iran retaliated for the massive US-Israeli air campaign by launching deadly missile and drone attacks on Israel and neighbouring Gulf Arab states which host US military bases.
-It also effectively closed the Strait of Hormuz, through which a fifth of global oil and gas shipments usually pass, by attacking commercial vessels in the Gulf, the Gulf of Oman and the Arabian Sea. The US responded by imposing a blockade of Iranian ports and ships in April.
-In June, the US and Iran reached a preliminary agreement to end the war and reopen the strait, but it collapsed within weeks after the Iranian attacks on shipping resumed and the US reinstated its blockade.
-Iran wants to retain some measure of control over the strait and collect fees from vessels that use it, which the US has rejected.
-In his address to the UN General Assembly on Tuesday, Trump said he faced a "big decision" - either negotiate a deal that would allow Iranians to rebuild their country, or "annihilate the Islamic Republic and do it quickly".
-Pezeshkian said the threat was "a sign of a bullying mentality".
-"[Trump] must know that the resistance of the Iranian people will only increase in the face of sanctions, increased pressure, increased bullying. We will never bow our head or bend the knee," he said.
-But he added: "We are ready for dialogue and diplomacy and negotiations without accepting the language of force."
-Pezeshkian made clear that the US blockade would have to end as part of any deal.
-"It cannot be the case that everyone benefits from the Strait of Hormuz while we are denied access to shipping through this waterway," he said.
-He also reiterated that Iran would not give up its right to have a civilian nuclear programme and that it would not seek to develop nuclear weapons.
-"We say it clearly: no nuclear weapons and no limitations on peaceful nuclear technology."
-Trump argued in his speech that the war had prevented Iran from obtaining a nuclear bomb and demanded that its leaders "relinquish their nuclear ambitions".
-On Tuesday, Iranian Foreign Minister Abbas Araghchi and US envoy Steve Witkoff held indirect talks brokered by Qatari mediators on the sidelines of the UN General Assembly in New York.
-Witkoff said he hoped the discussions – the first since June – would "prove constructive and promising", adding that the mediators would continue their work.
-But Iran's foreign ministry spokesman Esmail Baqai said the talks were "not anything new" and that Araghchi had maintained Iran's conditions, including the end of the US blockade and the release of frozen Iranian assets.</description></item><item><title>Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war</title><link>https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war
-- Published
-Ethiopia's government and the party in control of the northern region of Tigray have accused each other of launching offensives, escalating fears of a return to full-scale conflict.
-Getachew Reda, a cabinet minister and adviser to Ethiopia's prime minister, said Tigrayan fighters had taken control of federally administered airports in Tigray and launched offensives in neighbouring Afar and Amhara regions.
-Earlier, the Tigrayan authorities said their forces had been forced to enter a "defensive war". The statement followed reports of drone strikes in Tigray.
-The two-year war in Tigray ended in 2022 - but over recent months both sides have been accusing each other of violating a peace deal.
-It was one of the most deadly conflicts this century - the African Union's mediator estimated some 600,000 people died as the fighting drove the region to the precipice of famine.
-Speaking at the UN General Assembly, Ethiopian President Taye Astike Selassie said his country had shown "immense restraint" in its actions despite "interference in our internal affairs by adversarial elements", without specifying who those elements were.
-He added: "Our message to forces of destruction and mayhem is loud and clear. We urge them to respect the sacred right of the people of the Horn of Africa to live in peace and prosperity."
-On Sunday, the Tigray People's Liberation Front (TPLF), the party that runs Tigray, announced an alliance with six other armed groups in Ethiopia to remove the government in Addis Ababa.
-- Seven Ethiopian rebel groups form new alliance 
-  - Published2 days ago
-Getachew said in a statement shared on social media: "It is rather heartbreaking to learn that, despite efforts by many, including the international community, to avoid yet another round of war in Tigray, the TPLF leadership early this morning launched an all-out offensive against government positions in Afar and Amhara."
-The adviser to Prime Minster Abiy Ahmed previously led Tigray's interim administration, but he fell out with the TPLF in 2025 and joined the federal government.
+Ethiopia's army says it has repelled attacks from Tigrayan forces and their allies in parts of the north of the country, in its first statement since fighting broke out on Wednesday.
+The army said hostilities began in an area of Amhara region close to the border with Tigray, adding that its soldiers had inflicted heavy casualties and seized weapons.
+The developments come as tensions between the federal government and Tigrayan leaders have sharply escalated over the last few days, raising fears that a devastating civil war could resume.
+On Wednesday, the Tigray People's Liberation Front (TPLF), which dominates the region, seized control of three airports from federal police.
+The TPLF has not commented on the army's claims and the BBC has not been able to independently verify the army's claims.
+The BBC is unable to report from Tigray and surrounding areas.
+There are unconfirmed reports that TPLF forces have launched attacks in the neighbouring regions of Afar and Amhara.
+A humanitarian source in Afar told AFP news agency on Thursday that Tigrayan forces had launched heavy artillery attacks as they attempted to take control of the town of Yallo, near the border with Tigray.
+"We are in the situation of full-blown war now," TPLF vice-president Amanuel Assefa is quoted by the news agency as saying.
+The latest escalation follows months of rising tensions between Prime Minister Abiy Ahmed's government and Tigray authorities, who fought a devastating war from 2020 to 2022.
+That ended in an African Union-brokered peace deal but over recent months both sides have been accusing each other of violating the agreement.
+It was one of the most deadly conflicts this century - the AU's mediator estimated some 600,000 people died as the fighting drove the region to the precipice of famine.
+On Sunday, the TPLF announced an alliance with six other armed groups to oust the government.
 Following the seizure of the airports, Ethiopian Airlines has cancelled all flights to Tigray.
 Residents of Tigray's main city of Mekelle told the BBC that local forces had taken over control of the city's airport from the national police early on Wednesday.
 This followed reports of drone strikes in Tigray in recent days.
-A resident of Mekelle told the BBC's Newsday programme there had been no clashes in the city, unlike in the previous war, with most fighting happening elsewhere.
+A Mekelle resident told the BBC's Newsday programme on Thursday there had been no clashes in the city, unlike in the previous war, with most fighting happening elsewhere.
 "Mekelle is calm, except the stress from the people," said the resident, only identified as Fitsum for his safety. He added that the biggest problem was economic, with people not having enough cash.
 "People are in a mood where they are distressed because it's been so difficult, so tough. The last seven or eight months the government has been denying budgets to the civil servants and all the banks were running out of cash."
 Fitsum said people had been relying on mobile banking but with the risk of communications being cut off, "people are going to be in grave danger because there is almost no cash".
 With the outbreak of war, people were limiting their movements and the city was all quiet - "it's like a curfew has been placed," he told the BBC.
-The chairperson of the Africa Union Commission, Mahmoud Ali Youssouf, has called for an "immediate de-escalation" and for both sides to resume talks.
-The US ambassador to Ethiopia condemned the TPLF for making "the poor decision to launch a large-scale offensive", describing it as an "unwinnable fight".
-On Tuesday, a strike in the southern town of Alamata killed at least 14 people and injured 22 others, according to the Tigrayan authorities.
-The town's mayor, Mogos Shiferaw, told the BBC that more than five drones and one fighter jet had carried out more than 21 strikes starting at around 03:30.
-"This caused a lot of psychological trauma in our city and our people were in a state of panic," he said.
-Mogos said all those killed and injured were civilians, accusing federal forces of targeting two secondary schools.
-He believed they were struck on suspicion that they were being used by Tigrayan forces.
-But the mayor said the schools, which had served as federal military bases during the civil war, were unoccupied as the academic year had not yet begun.
-The BBC has not independently verified the allegations and the government has not commented on the alleged strikes.
-On Wednesday, the Tigray authorities accused Addis Ababa of launching an "open invasion" of the region, urging people to support the regional forces and maintain unity.
-It further accused the government of violating international humanitarian and human rights laws, saying public services and critical infrastructure had been disrupted.
-Meanwhile, the US State Department's Bureau of African Affairs has condemned a separate drone strike that it said took place on Monday, targeting a convoy of Catholic vehicles carrying food aid.
-It called for an investigation and urged all parties to resolve their differences through dialogue and take steps to prevent similar incidents.
-Both Addis Ababa and TPLF leaders have faced criticism over delays in implementing key provisions of the Pretoria Agreement, the AU-brokered deal that formally ended the conflict in November 2022.
-In July, Prime Minister Abiy accused the TPLF of preparing for renewed conflict during an address to parliament.
-Just before the general election in May, which was not held in Tigray because of the security situation, the TPLF restored its pre-war administration, disbanding an interim one appointed by Abiy.
-There have also been reports that the TPLF has been forcibly recruiting young men to join its forces.
-More BBC stories about Tigray:
+More about Tigray from the BBC:
 - Ethiopia PM's party wins landslide as fears grow of new conflict 
   - Published21 June
 - Is Ethiopia heading back to war in Tigray? 
@@ -217,7 +189,65 @@ More BBC stories about Tigray:
 - 'I lost my leg on the way home from school' 
   - Published2 November 2024
 Go to BBCAfrica.com, external for more news from the African continent.
-Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external</description></item><item><title>Trump's Board of Peace unveils $2.45bn Gaza recovery plan</title><link>https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&amp;at_campaign=rss
+Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external</description></item><item><title>105-year-old investigated for crimes at Nazi PoW camp in Germany</title><link>https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+105-year-old investigated for crimes at Nazi PoW camp in Germany
+- Published
+German prosecutors are investigating a man aged 105 over allegations that he was an accessory to multiple counts of murder at a Nazi prisoner of war camp in World War Two.
+The suspect is alleged to have been a camp guard at Stalag 326 VI K in Senne in northwestern Germany.
+A similar case had also been under way involving a second former camp guard at Senne, Dortmund public prosecutor Sonja Frodermann said in a statement.
+That suspect died a few months ago at the age of 99, she said.
+No further details about the two former guards have been made public, however the two cases highlight the difficulties faced by prosecutors who continue to investigate Nazi-era crimes, with most of the remaining suspects already dead.
+More than 5.3 million soldiers from the Soviet Red Army were held in German captivity during World War Two and half are thought to have died. Many of those who did survive were treated as traitors on their return home.
+But the PoW camp, or Stalag, at Senne was one of the biggest.
+One in three Soviet PoWs entering Nazi Germany between 1941 and 1945 went through the complex at Senne, according to the memorial site, and they often ended up doing forced labour in the wider region.
+Living conditions at Stalag were horrific, and prisoners faced appalling mistreatment and malnutrition.
+Of the 180,000-200,000 Soviet prisoners of war registered there, many died and tens of thousands are buried there. PoWs from France, Poland, Serbia and Belgium were also held at Senne.
+The prosecutor made clear the investigation surrounding the 105-year-old was still under way and that the allegations of being an accessory to multiple murders related to his activities at Stalag 36.
+There has been no statute of limitations in Germany for either murder or accessory to murder since 1979, to enable the prosecution of Nazi-era crimes.
+Another centenarian camp guard from the Hemer Stalag VI A camp is also said to be under investigation.
+However, bringing perpetrators to justice more than 80 years after the war is now fraught with difficulty.
+Four years ago a 101-year-old concentration camp guard was given a five-year jail term for complicity in murder at Sachsenhausen. Josef Schütz was the oldest Nazi criminal ever brought to justice.
+He never served time in jail and died in 2023 while appealing his sentence.
+A former Nazi concentration camp secretary was convicted in 2022 of abetting murder and given a suspended jail term. She died last year aged 99.
+Although prosecution of Nazi crimes is handled by the public prosecutors in the western city of Dortmund, cases are initially taken on by the central office for Nazi crime investigations in Ludwigsburg in the south-west.
+Related topics
+  - Published28 June 2022
+  - Published20 December 2022</description></item><item><title>Teen rocker Nene Royal becomes first Thai to win America's Got Talent</title><link>https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Teen rocker Nene Royal becomes first Thai to win America's Got Talent
+- Published
+Nene Royal, a 16-year-old rocker, has been crowned the latest winner of America's Got Talent - making her the first ever Thai winner of the long-running talent show.
+For the show's finals on Tuesday in California, Nene, whose real name is Rattikarn Amloy, performed a rendition of Seven Nation Army by American rock duo The White Stripes.
+Her heavy metal performances trumped nine other finalists, including magician acts, canine performers and even a robot dance crew.
+Many in Thailand are celebrating her win, with some saying they were proud that she had made it to "one of the biggest stages in the world". The Thai government has called her an "inspiration to anyone who dares to dream big".
+Nene emerged as a clear fan favourite early in the competition, after a viral clip of her audition, in which she belted out Zombie by The Cranberries to a stunned panel of judges. The video has racked up 20 million views.
+On Wednesday night, ahead of the results being announced, Nene took the stage with Linkin Park to perform The Emptiness Machine, a 2024 rock song by the American band.
+Later that night she broke down in tears, kneeling on the ground as she was crowned the winner of the show's 21st season - which comes with a prize of $1m (£755,000).
+"I'm very happy and emotional right now," she said, thanking everyone for supporting her.
+The results show was also eagerly followed by her legion of fans in Thailand, who were unable to watch the live broadcast on the television network NBC.
+Many in Thailand had to resort to a YouTube livestream instead - and were thrown into distress when the livestream was abruptly cut in the middle of the results announcements.
+But moments later came sighs of relief and exclamations of joy, as word got around that Nene had secured her historic victory.
+"History made!" one Thai social media user wrote on Facebook.
+"Let the world write it down that this Thai kid is incredibly talented," wrote another.
+Prime Minister Anutin Charnvirakul congratulated Nene Royal, saying in a statement that she had "brought honour to Thailand" and "instilled pride in the Thai people" with her win.
+"What makes this win special is that Nene carried her Thai identity with confidence onto one of the world's biggest stages," the Thai government's public relations department said in another statement on Thursday.
+"She showed that talent, hard work, and determination can come from anywhere, including a young girl from Phuket with a guitar and a big dream."
+According to Nene, she started playing the guitar when she was seven years old and harboured dreams of becoming a touring musician.
+In her hometown of Phuket, a tourist hub known for its beaches and seaside resorts, Nene was known to busk at Naka Weekend Market.
+Piyarat Na Songkhla, 43, tour guide in Phuket, tells the BBC that he has seen Nene Royal perform since she was young.
+"She's so adorable," he says. "I feel so elated and happy for her. It's unbelievable that she has gone this far. So proud of her."
+The Facebook account of Naka Weekend Market posted a tribute to Nene after her victory.
+"Everyone at Naka Market is so proud to see you shine on one of the biggest stages in the world," its post reads.
+"Your talent, heart, and courage have inspired so many people, and this victory is a beautiful reminder of what can happen when someone truly gives everything to their dream."
+Kajonkiet International School in Phuket, where Nene studies, also congratulated her on the win.
+"We are so proud of you," reads a Facebook post from the school, which posted a video of its students and staff gathering to watch Nene's final performance, screaming and chanting her name.
+Allow YouTube content?
+This article contains content provided by Google YouTube. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Google’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’.</description></item><item><title>Trump's Board of Peace unveils $2.45bn Gaza recovery plan</title><link>https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -253,7 +283,43 @@ The Board of Peace was originally thought to be an international organisation in
 The war was triggered by the Hamas-led attack on southern Israel on 7 October 2023, in which about 1,200 people were killed and 251 others were taken hostage.
 Israel responded by launching a military campaign in Gaza, during which more than 73,920 people have been killed, according to the territory's health ministry.
   - Published14 January
-  - Published27 August</description></item><item><title>Dramatic eviction of woman aged 87 highlights Spain's housing shortage</title><link>https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&amp;at_campaign=rss
+  - Published27 August</description></item><item><title>Iran's president tells Trump it will never 'bend the knee'</title><link>https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Iran's president tells Trump it will never 'bend the knee'
+- Published
+President Masoud Pezeshkian has said Iran will never "bend the knee" after almost seven months of war with the US and Israel, but is ready for a diplomatic solution to the conflict.
+Responding to US President Donald Trump's threat to "annihilate" the Islamic Republic if a deal is not reached soon, he told the UN General Assembly: "The resistance of the Iranian people will only increase in the face of sanctions, increased pressure, increased bullying."
+Pezeshkian also insisted any deal would have to include an end to the US blockade stopping Iranian ships from using a key Gulf waterway.
+"It cannot be the case that everyone benefits from the Strait of Hormuz while we are denied access," he said.
+There was no immediate comment from the US, whose delegation walked out of the chamber at the start of Pezeshkian's address.
+- American power, AI and a walkout - key moments from Trump's UN speech 
+  - Published1 day ago
+- UN experts say grounds to believe US committed war crimes in Iran strikes 
+  - Published6 days ago
+"The US president described us as terrorists. We have been the victims of terrorism," Iran's president told the UN in New York.
+He then held up a photo of the country's late Supreme Leader, Ayatollah Ali Khamenei, who was killed in a strike on his residence when the US and Israel launched a joint attack in late February.
+He also presented pictures of some of the more than 175 civilians, two thirds of them children, who Iranian authorities say were killed in missile strikes on a primary school in Minab and a sports complex in Lamerd that day. The US has denied striking Lamerd and said it is still investigating what happened in Minab.
+"Our innocent people have been the targets of cowardly attacks and aggressions imposed on our country. And we defended ourselves with utmost strength," Pezeshkian said.
+Also on Wednesday, an attack on a cargo ship in the Strait of Hormuz killed an Indian sailor, the Agence France-Presse news agency reported, citing Omani and Indian authorities.
+The attack was condemned by India's foreign ministry, which called for unimpeded passage through the Strait to be restored.
+In February, Iran retaliated for the massive US-Israeli air campaign by launching deadly missile and drone attacks on Israel and neighbouring Gulf Arab states which host US military bases.
+It also effectively closed the Strait of Hormuz, through which a fifth of global oil and gas shipments usually pass, by attacking commercial vessels in the Gulf, the Gulf of Oman and the Arabian Sea. The US responded by imposing a blockade of Iranian ports and ships in April.
+In June, the US and Iran reached a preliminary agreement to end the war and reopen the strait, but it collapsed within weeks after the Iranian attacks on shipping resumed and the US reinstated its blockade.
+Iran wants to retain some measure of control over the strait and collect fees from vessels that use it, which the US has rejected.
+In his address to the UN General Assembly on Tuesday, Trump said he faced a "big decision" - either negotiate a deal that would allow Iranians to rebuild their country, or "annihilate the Islamic Republic and do it quickly".
+Pezeshkian said the threat was "a sign of a bullying mentality".
+"[Trump] must know that the resistance of the Iranian people will only increase in the face of sanctions, increased pressure, increased bullying. We will never bow our head or bend the knee," he said.
+But he added: "We are ready for dialogue and diplomacy and negotiations without accepting the language of force."
+Pezeshkian made clear that the US blockade would have to end as part of any deal.
+"It cannot be the case that everyone benefits from the Strait of Hormuz while we are denied access to shipping through this waterway," he said.
+He also reiterated that Iran would not give up its right to have a civilian nuclear programme and that it would not seek to develop nuclear weapons.
+"We say it clearly: no nuclear weapons and no limitations on peaceful nuclear technology."
+Trump argued in his speech that the war had prevented Iran from obtaining a nuclear bomb and demanded that its leaders "relinquish their nuclear ambitions".
+On Tuesday, Iranian Foreign Minister Abbas Araghchi and US envoy Steve Witkoff held indirect talks brokered by Qatari mediators on the sidelines of the UN General Assembly in New York.
+Witkoff said he hoped the discussions – the first since June – would "prove constructive and promising", adding that the mediators would continue their work.
+But Iran's foreign ministry spokesman Esmail Baqai said the talks were "not anything new" and that Araghchi had maintained Iran's conditions, including the end of the US blockade and the release of frozen Iranian assets.</description></item><item><title>Dramatic eviction of woman aged 87 highlights Spain's housing shortage</title><link>https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -284,7 +350,43 @@ The possibility of a last-minute reprieve for Maricarmen appeared when an anonym
 A shortage of available housing has been blamed for soaring rental costs in recent years, which have left millions of Spaniards struggling to find affordable homes.
 In Madrid, rentals have increased by more than 100% over the last decade, according to property site Idealista, with a 10% rise over the last year.
 The Socialist-led government of Pedro Sánchez has frequently targeted companies whose investment pushes up housing costs. In January, the prime minister said he aimed to "protect those who are most exposed to that speculation and that greed".
-However, some critics of the government say it needs to work harder to build new homes, and others warn that its rhetoric discourages many owners from placing their properties on the rental market.</description></item><item><title>UK survivor of Canadian poison seller says he exploited her despair</title><link>https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&amp;at_campaign=rss
+However, some critics of the government say it needs to work harder to build new homes, and others warn that its rhetoric discourages many owners from placing their properties on the rental market.</description></item><item><title>Why India's Election Commission is in the eye of a storm - again</title><link>https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Why India's Election Commission is in the eye of a storm - again
+- Published
+India's Election Commission (ECI) is facing yet another crisis of credibility after a series of fresh allegations of irregularities against its chief.
+One of the most trusted public institutions in the world's largest democracy, the three-member commission is headed by the Chief Election Commissioner (CEC) Gyanesh Kumar and includes Sukhbir Singh Sandhu and Vivek Joshi as commissioners.
+The latest row broke out after a report in the Indian Express newspaper, external said that in the past few months, CEC Kumar had been repeatedly questioned by his two colleagues over the integrity of the voter database, changes to the way new voters are enrolled and the security of the electoral rolls itself.
+The report said that Commissioners Sandhu and Joshi objected to several decisions which were taken without their knowledge. There were at least 14 times in the past 10 months when Commissioners Sandhu and Joshi were kept in the dark, it added.
+In one instance, the report says, the two commissioners even wrote a letter complaining to the chief secretary, the top bureaucrat in the Indian government.
+The revelations have created a furore, with opposition leaders demanding Kumar's resignation. Sandhu and Joshi have not publicly commented on the report but the ECI said in a statement that "differing views" were part of the "decision-making process".
+The report comes at a time when the commission is carrying out a controversial country-wide revision of the electoral database.
+The Election Commission says the aim of this Special Intensive Revision - better known by its acronym SIR - is to ensure that no ineligible name remains on the rolls.
+It says the last revision was done nearly a quarter of a century ago and the voters' list needs to be updated to account for those who have died, left the country or are registered in more than one place as they've moved to a new address.
+But the exercise has been mired in controversy from the start with the opposition parties accusing CEC Kumar of manipulating voters' list to favour Prime Minister Narendra Modi's Bharatiya Janata Party (BJP) during elections. Both the BJP and the Election Commission have rejected the accusations.
+But the latest revelations are being seen as much more serious as they are about questions being raised from within the Election Commission about the way its chief is functioning.
+From the start, questions have lingered over the robustness of the revision, which has seen 130 million names from across India struck off the voters' list.
+Millions of voters have also complained to the authorities that their names are missing, saying the new process set by SIR to register as voters is too cumbersome and involves furnishing documents that many don't have.
+Former CEC SY Quraishi, who says he has "been a critic of the SIR from the beginning", told news agency PTI that he always wondered why Commissioners Sandhu and Joshi had been "keeping quiet".
+"[Now] I realised that very silently and quietly they were protesting, they were writing notes. That is a good thing, they have gone up in my esteem," he said.
+The revelations have also provided fresh ammunition to the opposition parties and critics who have repeatedly claimed that SIR is being used to exclude their voters for the BJP's benefit and that elections in India are no longer free and fair.
+On Wednesday, angry opposition politicians once again questioned the sanctity of India's election process and demanded that CEC Kumar resign, saying he had no right to continue in office, with some even calling for his arrest.
+The charge was led by MP and senior Congress party leader Rahul Gandhi who has repeatedly accused the Commission of "stealing votes from the opposition". On Wednesday, he also accused the Commission and its officers of "treason".
+"Vote chori [theft] is a crime against the Indian people and a direct attack on our constitution. The BJP, RSS [Rashtriya Swayamsevak Sangh] and EC who organised it have committed an act of treason. Justice will be served," he posted on X, external. He also shared a 15-second video telling the commission and its officers that "your time will come. You cannot get away".
+Mamata Banerjee, leader of the regional Mamata All India Trinamool Congress, called for Kumar's arrest and demanded fresh polls with the pre-SIR voters' list in the state of West Bengal which she lost to the BJP in the recent elections. At least 2.7million voters were removed in the state during SIR - Banerjee and her supporters say that cost them dozens of seats and the election win.
+Within hours of the Indian Express report and statements from opposition leaders, the Election Commission put out a statement, external defending its way of working.
+"Differing views and observations are a normal part of deliberation in any institution. They are a part of the decision-making process before a final decision is taken.
+"Not only the three Commissioners, but every officer of the Commission is fully authorised to give his suggestions to the Commission for improving the electoral system," the statement said.
+The note said that highlighting "certain specific internal notes and observations spread over the period of 10 months while overlooking the much larger body of approvals, decisions, instructions and initiatives" give only part of the picture.
+And that in recent months, the commission has "introduced around 40 new initiatives and undertaken many electoral reforms including the conduct of electoral roll revision (including SIR) across the country. All these decisions are an outcome of the unanimous decisions of the full commission in the past one year".
+The BJP has also defended CEC Kumar, calling the opposition criticism a "smear campaign" and that dissent was "a sign of a vibrant democracy".
+Party spokesperson Sambit Patra told a press conference that "ever since the Modi government came to power in 2014, opposition parties have been collapsing one after the other". And because they cannot win elections, they are trying to "undermine the institutions of the country", he said.
+But the row over the election database is likely to intensify. Banerjee has already said opposition parties will hold protests until Kumar remains CEC.
+And India's influential Gen Z-led Cockroach Janta Party (CJP), which recently forced the education minister to resign, has also said it will protest against the "hijacking of India's democracy".
+Analysts say the defence of the Election Commission is unlikely to satisfy many, with some pointing out that its statement doesn't address all the issues raised in the newspaper report and that "CEC Kumar needs to clear the air, external if we are to view the Commission as an impartial body".
+Follow BBC News India on Instagram, external, YouTube,, external X, external and Facebook, external.</description></item><item><title>UK survivor of Canadian poison seller says he exploited her despair</title><link>https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -323,7 +425,7 @@ He said: "The circumstances of Ashleigh's death have been incredibly tough to be
 Earlier Stephen Mitchell Sr, the father of Canadian Stephen Mitchell Jr, told of the aftermath of his death on March 25 2023.
 "He was ill, he needed help, and I tried my best to bring him that help," he said.
 "Mr Law robbed my son of that chance to be well."
-Mr Mitchel Sr, addressing Law in court, said: "I'm willing to accept that during Mr Law's time in incarceration, he might have had brief moments of regret, or even despair and helplessness.
+Mitchell Sr, addressing Law in court, said: "I'm willing to accept that during Mr Law's time in incarceration, he might have had brief moments of regret, or even despair and helplessness.
 "Perhaps he may have even thought during those moments: my life is meaningless, what is the point of living.
 "That was the same thoughts that my son Stephen had before he took the chemicals that Mr Law sold him.
 "When my son was well, he would have gladly helped Mr Law work out his depressive thoughts, if asked, because he believed in the value of people."
@@ -460,31 +562,66 @@ Women who are widows or have husbands who are detained or missing are at increas
 "One widow was looking for a tent, and a [camp] representative told her, "I'll give you a tent, we'll put you in our camp, and you can come stay with me tonight," recalls a woman in Gaza City, interviewed for the UNFPA report.
 Aid agencies argue that the dangers for women in Gaza could be greatly eased by improving humanitarian conditions. There are calls for Israel to allow higher quality shelters into the territory as well as equipment to upgrade latrines and sanitation as well as lighting. Israel restricts items it classes as having a potential dual use for military purposes.
 There are ongoing efforts to improve education and healthcare and longer-term plans for campaigns to combat domestic violence and child marriage. While the course of so many lives in Gaza has already been permanently changed, women say they hope for a future in which they at least feel safer.
-If you have been affected by any of the issues in this story, help and support is available in the UK at BBC Action Line.</description></item><item><title>Eleven killed in mass shooting at house in South Africa</title><link>https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&amp;at_campaign=rss
+If you have been affected by any of the issues in this story, help and support is available in the UK at BBC Action Line.</description></item><item><title>Trump and Xi come face-to-face as US and China battle to win the AI race</title><link>https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Eleven killed in mass shooting at house in South Africa
+Trump and Xi come face-to-face as US and China battle to win the AI race
 - Published
-At least 11 people have been killed in a mass shooting in a residential building near the South African city of Durban.
-Gunmen stormed a house in the KwaMakhutha township late on Tuesday and opened fire on 14 people. Ten were killed at the scene and four were taken to hospital, where one later died from their injuries, police said.
-Police said some of the victims were on their watch in connection with illegal activities, which they could not "divulge at the moment to protect investigations which have been launched".
-While the motive of the shooting has not yet been confirmed, the police said they could not rule out a "feud between rival groupings".
-"Information available at this stage suggests that 13 men and one woman, who is believed to be pregnant, were reportedly having a party inside a house when three men arrived and opened fire on them," the police said in a statement. The woman is among those who died.
-A local TV reporter from the eNCA channel at the scene said the gunmen had set fire to a vehicle belonging to one of the victims before fleeing, with footage showing the burnt-out car.
-The police say they have launched a manhunt for the suspects, who were said to be carrying pistols and rifles.
-South Africa has one of the world's highest murder rates, with police data showing a murder rate equivalent to more than 60 deaths a day.
-In recent weeks, the gruesome discovery of at least nine murdered women, with some of the bodies dumped by the roadside, has heightened fears in the country.
-Last year, nine people were killed in a mass shooting at a tavern in Johannesburg.
-Rivalry among criminal gangs amid turf wars, drug trafficking and illegal mining is common in the country, often driving violence within communities.
-In February, President Cyril Ramaphosa said organised crime was "the most immediate threat to our democracy, our society and our economic development", as he announced that he would be deploying the army to support the police.
-Although South Africa has long had a high murder rate, mass shootings are a more recent problem and elicit increased feelings of unsafety, fear and shock.
-The phenomenon has led to calls for the government and law enforcement authorities to do more to dismantle organised crime networks and, in some cases, "murder for hire" syndicates – believed to be among the leading instigators of the attacks.
-Much has also been said about improving the economic conditions that make crime an attractive enterprise for some.
-There are no easy answers for how to solve South Africa's crime problem but security experts believe that the high proliferation of illegal guns, insufficient visible policing in high crime spots, the slow pace of justice and allegations that senior politicians and police officers have links to criminal gangs all add to the pervasive sentiment that local authorities are losing the fight against crime.
-You may also be interested in:
-Go to BBCAfrica.com, external for more news from the African continent.
-Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external</description></item><item><title>In Amish country, nurses go door to door to stop deadly spread of measles</title><link>https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&amp;at_campaign=rss
+"Whoever wins AI, WINS!"
+US President Donald Trump has been blunt about his AI ambitions, as well as about who he considers the US's main rival to be: China.
+His Chinese counterpart, Xi Jinping, has not said anything so forthright - but it seems he holds a similar view.
+"China very much sees it as a race, they very much think China should be the leading force in AI - they see AI as a power maximiser," says Rebecca Arcesati, from the Mercator Institute for China Studies.
+You can look beyond the rhetoric for evidence of this: AI has been a cornerstone of China's technological ambitions for more than a decade, whether Xi emphasises it publicly or not.
+For Trump, beating China to AI supremacy outweighs any risks of the technology to humans - something he has described as "a hoax".
+China's foreign ministry warned that "narratives of threat" and confrontation hinder global AI governance, calling for cooperation to ensure it benefits all.
+It means when the two presidents sit down on Thursday there will be few more important topics than their AI ambitions - and what they say and decide will matter to the whole world.
+Is the US in the lead?
+There's no doubt the US and China are global leaders in AI but who is ahead depends on how success is measured.
+American companies lead on so-called frontier models, with the highest-performing systems on most benchmarks coming from firms such as Anthropic, Google and OpenAI.
+In February 2025, an AI model by China's DeepSeek "briefly matched the top US model" and as of March 2026, Anthropic's top model led the pack "by just 2.7%", according to researchers at Stanford University, external.
+Part of the US advantage stems from the vast sums being invested in leading AI companies as the frontier labs burn through mountains of cash to build the infrastructure to train new models.
+The stock market is booming and a large part of the US economy's expansion relies on the enormous growth - and projected profitability - of AI companies.
+So that might partly explain why President Trump sees AI as key to US success.
+Another factor limiting China's ability is the sweeping government restrictions placed on US companies that prevent them from selling advanced microchips to Chinese firms - these are crucial for developing cutting-edge models.
+China's advantage
+Despite the chip restrictions, new AI models are coming out almost monthly in both countries and it's unclear what "winning" the AI race would actually mean, or whether there is a finish line at all.
+Many companies are racing to develop artificial general intelligence (AGI), a theoretical form of AI capable of learning, reasoning and performing a wide range of tasks at or above the level of humans.
+The Chinese AI industry has so far focused not on creating frontier models but releasing what is known as open weight models - downloadable and tweakable in a similar way to open source software.
+This contrasts with the approach taken by many US firms, which largely focus on proprietary models accessed through paid subscriptions or company platforms.
+Chinese open weight models are being released at a rapid pace, with benchmarks showing the country's top models trailing US rivals by only a few months.
+Models such as Moonshot AI's Kimi K3 have become popular in China and overseas because they perform close to the frontier models while remaining freely downloadable and adaptable.
+Beijing's focus is more about deploying the technology across its economy, China analyst Lizzi Lee from the Asia Society Policy Institute said.
+"AI isn't the moon landing," she said. "The US may lead at the frontier, while China could still gain enormous economic and geopolitical leverage by making capable AI cheap, open and ubiquitous."
+AI is also very energy hungry, and China is very well placed there, Rebecca Arcesati told Tech Life on the BBC World Service.
+"Chinese AI companies are able to access the electricity they need for a much lower cost and that really is an advantage," she said.
+In robotics - a field of AI that some believe will be world-changing - China has become the world's biggest manufacturer of robots, with more than two million working in the country's factories, the International Federation of Robotics estimated.
+The nation is also the world's biggest maker of humanoid robots, accounting for more than nine-tenths of global shipments in the first half of the year, according to independent policy institute Chatham House.
+Chinese AI developers have showed "remarkable resilience and innovation" in spite of the shortage of advanced American chips, analyst Lian Jye Su from tech research firm Omdia said.
+But US officials and AI firms have also alleged that Chinese developers closed the gap by using distillation - a technique that enables models to learn from more advanced platforms.
+China's foreign ministry said in response that AI development was "fuelled" by the country's "vision of extensive consultation and joint contribution for shared benefit".
+Safety concerns?
+China and the US may be in fierce competition, but their governments' approaches to safety concerns are markedly different.
+While some in the industry have recently warned that AI could pose an existential risk to humanity, Chinese researchers seem less concerned about that and are more worried about potential misuse of the technology and cyber war.
+Responding to concerns over AI, Trump has said the US already has sufficient rules in place and that the only guardrails AI needs are a "high IQ" president.
+"We're leading now over China by a lot, and everyone else, and we're going to keep it that way," Trump said this week, adding that the US was not going to "stifle the growth of something that will be bigger than the industrial revolution".
+Washington has prioritised innovation and sought to reduce regulation in an effort to "keep American labs ahead", said information security officer Jayant Dave from cybersecurity firm Check Point Software Technologies.
+Beijing has taken a different strategy to the US hands-off approach.
+Xi urged the country's leaders to keep a close eye on AI's risks and ensure the technology was always "under human control".
+"China has taken a relatively cautious and centrally-coordinated approach," introducing guides on data usage and algorithms before many other countries, helping to address many underlying concerns, Dave said.
+The use of guidelines, though not legally binding, sets expectations while giving developers room to innovate, said National University of Singapore AI ethics lecturer Jonathan Sim.
+Will they cooperate?
+Despite calls for international cooperation, it remains unclear how the AI superpowers plan to address the technology's potential dangers - if at all.
+The two countries have previously cooperated on existential threats such as nuclear weapons, but that was based on a shared understanding of the threat, which is not currently the case with AI, Dave said.
+"Washington worries about capability escaping control. Beijing worries about capability threatening domestic stability," he added.
+Trump has dismissed proposals for an industry-wide slowdown, arguing that it could allow Chinese developers to close the gap.
+Ahead of the Trump-Xi summit, US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng discussed establishing a notification mechanism for serious AI incidents.
+While the messaging from Trump on China in recent weeks has been "more antagonistic", the fact that AI is expected to be on the agenda was a "good start", said policy analyst Leia Wang from the Carnegie Endowment for International Peace.
+What we don't want, she added, was for an "unhealthy version of the race narrative to perpetuate", potentially escalating an already fierce rivalry in AI.
+  - Published1 day ago
+  - Published13 September
+  - Published13 September
+  - Published7 days ago</description></item><item><title>In Amish country, nurses go door to door to stop deadly spread of measles</title><link>https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -618,7 +755,7 @@ They were then killed by a drone. Four separate sources have confirmed the death
 Halia does not want to share their names for fear she might be identified. Her name has been changed to protect her safety.
 Hers is just one of the many harrowing accounts the BBC has heard from residents in the front-line city in southern Kherson in recent days.
 Occupied by Russia since 2022, Oleshky is trapped between the Dnipro River, which separates it from Ukrainian positions, and Russian forces.
-It is also one of the cities where thousands of people lost their homes after the collapse of Nova Khakova Dam in 2023, flooding buildings up to their rooftops. Ukraine and Nato accused Russia of blowing up the dam, while Russia blamed Ukraine.
+It is also one of the cities where thousands of people lost their homes after the collapse of Nova Khakovka Dam in 2023, flooding buildings up to their rooftops. Ukraine and Nato accused Russia of blowing up the dam, while Russia blamed Ukraine.
 Oleshky was home to 24,000 people before Russia's full-scale invasion. Now the Ukrainian government estimates that some 6,000 people remain in the city and its surrounding areas, including 200 children.
 Residents say children remaining in wider Oleshky are suffering from malnutrition, a lack of medical services, and are "degrading" without access to education.
 Many have also told the BBC independently there is only one hospital partially operational, opening a few days a week to perform critical amputations.
