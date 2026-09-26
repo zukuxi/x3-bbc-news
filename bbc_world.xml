@@ -1,5 +1,85 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>BBC World News (x3 Direct)</title><link>https://github.com/zukuxi/x3-bbc-news</link><description>BBC 全文内嵌版，专为纯粹阅读打造</description><item><title>Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says</title><link>https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&amp;at_campaign=rss
+<rss version="2.0"><channel><title>BBC World News (x3 Direct)</title><link>https://github.com/zukuxi/x3-bbc-news</link><description>BBC 全文内嵌版，专为纯粹阅读打造</description><item><title>Iran offers US deal to reopen Strait of Hormuz in seven days</title><link>https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Iran offers US deal to reopen Strait of Hormuz in seven days
+- Published
+Iranian Foreign Minister Abbas Araghchi says his country has proposed a deal to the US that would see the Strait of Hormuz reopened within a week.
+Araghchi told reporters at the UN in New York that this could be done "if the necessary conditions are met" and said these were contained within the memorandum of understanding (MOU) signed in June.
+"The choice now rests with the United States," he said, adding the plan was delivered to the US via Qatar.
+Asked about the Iranian offer, a US official told the BBC positive discussions were taking place through mediators, including about nuclear issues. Earlier this week, US President Donald Trump threatened to "annihilate the Islamic Republic".
+The US and Israel launched air strikes on Iran on 28 February. Iran responded by attacking Israel and US bases in the Gulf and Arab Gulf allies of the US - as well as blocking the Strait of Hormuz.
+Some 20% of the world's oil and liquefied natural gas used to pass through the strait before the war and its closure has caused wild fluctuations of energy prices.
+It has also increased pressure on Trump to find a way of ending the conflict - particularly as the US heads to Congressional elections in November.
+"If the necessary conditions are met, the strait can be reopened, a normal maritime passage restored within seven days," Araghchi told reporters.
+He did not specify what steps Iran wanted the US to take but added that "the actions that the United States should take are not new. They are all already in the MOU".
+"I can tell you if there is seriousness in the US side to come to a deal and reopen the Strait of Hormuz, everything is now prepared," he added.
+A US official told the BBC that the US was "in a very strong position with control of the Strait of Hormuz, so we are not in a rush".
+The MOU between the US and Iran, signed on 18 June, was designed to bring about a ceasefire and at least partly reopen the Strait of Hormuz.
+The 14-point agreement said Iran would never have a nuclear weapon. It noted that the US, Iran and their allies would end military operations on "all fronts" and contained provisions including the end of a US naval blockade and sanctions relief.
+It also said Iran would "make arrangements using its best efforts for the safe passage of commercial vessels" through the strait and hold talks with Oman over future shipping arrangements.
+But it fell apart a short time later when both sides resumed strikes.
+Iran has attacked vessels it says have attempted to cross the Strait of Hormuz without authorisation.
+The US has attacked Iranian sites in the strait - as well as Iranian tankers off the country's coast. It has also maintained a blockade of Iranian ports, causing huge disruption to the Iranian economy.
+Trump since has claimed the US has been successful in getting oil out through the Strait of Hormuz.
+Shipping data shows a recent 10-day average of about 18 transits per day, with daily numbers dropping as low as nine vessels on certain days, according to Kpler, a commodities data and analytics firm cited by Reuters.
+However, Yemen's Houthis - allied to Iran - have recently intensified attacks aimed at disrupting oil exports from Saudi Arabia via the Red Sea on the other side of the Arabian peninsula.
+The group seized large strategically important stretches of the Red Sea coast in a rapid offensive this month, including the port of Mokha, which overlooks the Bab al-Mandab Strait, another chokepoint for global shipping.
+The situation has been exacerbated by Houthi attacks on Saudi oil installations. US media has reported that Saudi Crown Prince Mohammed bin Salman has requested military support from Trump.
+During his speech at the UN General Assembly this week, Trump said he believed an Iran deal, which has so far eluded him, would come right after November's elections.
+"Will a deal be made with Iran that lets them rebuild and create a far greater country than it ever was before?" he said.
+"Or do I annihilate the Islamic Republic and do it quickly, never giving them a chance to kill and destroy people and countries again? Do I drive them into hell?"
+On Friday, Araghchi said Iran did not accept "coercion, threats or intimidation" and added that "peace cannot be built through threats of annihilation".
+  - Published11 September
+  - Published2 days ago
+  - Published18 June</description></item><item><title>OpenAI bots meddled with multiple US government agency sites</title><link>https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+OpenAI bots meddled with multiple US government agency sites
+- Published
+OpenAI has acknowledged that it alerted "dozens" of global institutions that their websites may have been meddled with by its AI bots acting improperly.
+AI agents attempted to get information from "governments, universities, public agencies, and other institutions", including the SEC, Census Bureau and Education Department, the company said.
+The disclosures come just days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme, Medicare.
+Since August, public fears have grown around the potentially serious, even life-threatening, impacts of AI tools falling outside of human control.
+OpenAI said that some of the data was accessed by AI agents, essentially bots that are designed and trained to operate somewhat autonomously, which were working to find "authoritative sources of public information".
+But the company noted that some of the bots went beyond that and worked to bypass security measures on websites.
+When attempting to get information from the Census Bureau, for instance, AI agents used tools reserved for software developers to access it, the company said.
+OpenAI said all of the government data accessed by bots was public.
+However, it noted that information that its bots accessed from the SEC, which regulates the US stock market and protects investors, was later published by AI agents on another website. OpenAI says this action was not intended.
+In other instances that OpenAI disclosed on Friday, its AI agents transferred data when it should not have.
+Such activity resulted in at least 53 incidents where an OpenAI agent took an image from ChatGPT user activity and transferred it elsewhere.
+The company said that in each instance of a user image being used and transferred by an AI agent, the user had opted in to allow OpenAI to train models using their data.
+Nevertheless, OpenAI admitted: "This is not an appropriate use of this data".
+It added that the leak of user images occurred before it had put in place new safeguards on AI training, and it was working to get all the user images transferred to any third-party removed.
+Reuters first reported the expanded investigations. OpenAI also published details to its public blog.
+In certain instances of the agent activity, OpenAI said the tools "bypassed" security controls of some websites.
+In other instances, the AI agents showed "misalignment" in attempts to get at information from websites. Misalignment is a term used by AI companies and researchers to describe instances where an AI tool did something that it was not trained to do or was otherwise unintended.
+OpenAI said that it was limiting identifying what entities were impacted because many had asked the company to not disclose details.
+"Our goal is to give each organization the facts and defer to them on if and when to make the incident public," it said.
+Not all of the instances involved in this incident were being considered a significant security breach, the company noted.
+"Some organizations may review what we share and conclude that the information was intentionally public or that the model's interaction was not concerning," it explained. "Others may identify a design issue or security weakness they want to address."
+- Why are there concerns AI could threaten humanity, and how real are they? 
+  - Published17 September
+- Could AI wipe out humans and how might it do it? 
+  - Published7 days ago
+The company said many of the incidents are being referred to as "agent spam", which it described as "unexpected or concerning" AI agent activity, like posting information to the internet.
+OpenAI began taking such incidents more seriously after an incident in July where a group, or "swarm," of its AI agents hacked the AI developer platform Hugging Face without being prompted to do so.
+Hugging Face was first to go public with the incident, with OpenAI publicly taking responsibility for it later.
+Clement Delangue, the head of Hugging Face, said Wednesday during a United Nations Security Council session on AI: "I often wonder what would have happened had I decided not to disclose this attack publicly."
+"Especially now that we know similar incidents had been happening months earlier in secret at a handful of frontier labs without monitoring," Delangue added.
+During that same UN meeting, OpenAI CEO Sam Altman and Dario Amodei, the head of rival firm Anthropic, asked for international leaders to form global standards for AI safety and ways to monitor and report such incidents.
+While OpenAI and Anthropic have both said in recent weeks that they will bring third-party evaluators inside their companies to do real-time safety evaluations of AI tools and models, such evaluators have not yet arrived, as the BBC has reported.
+OpenAI said on Friday that it is currently reviewing training activity by its AI agents and going back on a "month by month" basis from when the Hugging Face hack occurred.
+"Most cases identified so far have been low severity, with limited or no evidence of meaningful impact," the company said. "Given the scale of the review required, and the need to verify each case, this work will take months to complete."
+David Krueger, a professor of machine learning at University of Montreal and the founder of AI safety group Evitable, said on Friday that he was "deeply troubled" by the increasing number of AI-related safety incidents.
+He called for "an immediate, indefinite, international moratorium" on AI development.
+"We have yet to understand the extent of existing incidents, and future rogue AI scenarios could be catastrophic," Krueger said.
+Related topics
+  - Published1 day ago
+  - Published10 September
+  - Published6 days ago</description></item><item><title>Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says</title><link>https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -39,42 +119,139 @@ Meanwhile, Poland's prosecutors opened an investigation in what they said was an
 In a statement, the national prosecutor's office said "there is a reasonable suspicion... that the perpetrators acted on the orders of the Russian special services". Moscow has not commented.
 The station transmits internet traffic through Poland to countries including Ukraine, and uses SpaceX systems that provide connectivity via Starlink terminals.
 In recent weeks a number of European Nato members have warned Russia may be preparing hybrid attacks to test their commitment to supporting Ukraine, which Moscow denies.
-Earlier this month, Germany blamed Russia for an attempted drone attack on Leipzig/Halle Airport, while France has ordered a plan to protect critical infrastructure and defence industry sites.</description></item><item><title>Special agents' blood and urine test results stolen in FBI hack</title><link>https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&amp;at_campaign=rss
+Earlier this month, Germany blamed Russia for an attempted drone attack on Leipzig/Halle Airport, while France has ordered a plan to protect critical infrastructure and defence industry sites.</description></item><item><title>South African white genocide does not exist, new ambassador to US tells BBC</title><link>https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Special agents' blood and urine test results stolen in FBI hack
+South African white genocide does not exist, new ambassador to US tells BBC
 - Published
-Cyber-criminals who hacked the FBI say they have extremely sensitive medical data for thousands of its special agents.
-BBC News has seen samples of the stolen "fitness-for-work" medical examinations, which contain information such as blood and urine test results, and doctors' notes mentioning conditions such as a "shellfish and banana allergy".
-The records include agents' full names and addresses, as well as references to medical concerns including 'blood in the urine' and 'high cholesterol'.
-Experts say the hack - which the FBI is investigating - could leave agents vulnerable to scams, blackmail and targeted attacks, as well as help criminals impersonate law enforcement officers.
-"The list maps thousands of agents against their medical and fitness records," said Etay Maor, vice-president of threat intelligence at Cato Networks.
-"Passwords can be reset if stolen, but medical records cannot, so once this data is out, it stays compromised for good. That permanence, applied across an entire workforce, is what makes this leak so serious."
-The FBI has not responded to requests for comment. However, on Wednesday it acknowledged the breach and said it was "aggressively investigating" how it happened.
-The cyber-criminal group ShinyHunters claims it breached FBI systems on Monday, and later posted details of the attack on its darknet site.
-The group also shared samples of the alleged stolen data with reporters, along with an extortion demand.
-Unusually, the hackers are not demanding money. Instead, they are seeking a retraction of an FBI advisory published in May, which they claim "offended" them.
-The samples shared with journalists appear genuine and include names, addresses, phone numbers, badge numbers, job titles and information about spouses.
+South Africa's new ambassador to Washington has a personal reason to challenge Donald Trump's assertion that there is a genocide against white Afrikaners - he is "a born Afrikaner" himself.
+"Is he talking about us?", Roelf Meyer remembers thinking, when he first heard President Trump say it.
+His response to the US president's claim is blunt.
+The notion of a mass attack on the white Afrikaner minority in South Africa does not exist, he told the BBC, adding that his identity gave him the legitimacy to say so.
+Meyer was one of the chief mediators to end white-minority rule known as apartheid in South Africa in the 1990s. He was appointed ambassador to the US in April, after diplomatic relations between the US and South Africa plummeted.
+In an interview with the BBC, Meyer said the facts about violence in South Africa had been misrepresented and he never got a clear answer about where this "misdirection of information" was coming from.
+Last year, Trump accused South Africa of white genocide in a meeting with President Cyril Ramaphosa at the White House and launched a US refugee pathway for Afrikaners.
+Since last year, nearly 13,000 refugees were admitted to the United States and all but three were South African.
+Among them was Lielie, the name she uses publicly, who moved with her family to Texas from South Africa, where they had lived on her stepfather's farm, growing macadamia nuts and bananas.
+Despite walls around the house, an electric fence, and eight bull terriers, she said she felt "fear the whole time" and that on three occasions she saw people entering her property.
+"Nothing was stolen, we weren't harmed, but there are friends of my husband, people that lived around us, they were brutally attacked," she said.
+She said since moving to the US under the Trump administration's refugee pathway her life had changed, she felt safer walking around, and "my kids can actually play outside".
+The Trump administration is planning to admit up to 17,500 additional white Afrikaners as refugees over the next 12 months, according to a notice sent to Congress on Tuesday.
+In a statement to the BBC, a White House spokeswoman said: "President Trump has provided a lifeline for Afrikaners, who are being raped, maimed, killed and driven off their property across South Africa.
+"While the South African government and many in the media have brushed off the horrific lived experiences of this community, the Trump administration continues to process applications for refugee status because the president has a humanitarian heart."
+SJ Du Venage, who lives on South Africa's west coast, has been trying to move to the US under the new scheme.
+Du Venage is a council member of the Freedom Front Plus, a right-wing Afrikaner party, and argues that there is a "political drive towards killing white people, and killing the farmers on the farms".
+"There's absolutely an agenda to wipe us out here," he says.
+- Race policies or Israel - what's really driving Trump's fury with South Africa? 
+  - Published23 February 2025
+- Is there a genocide of white South Africans as Trump claims? 
+  - Published2 June 2025
+- Do Afrikaners want to take Trump up on his South African refugee offer? 
+  - Published15 May 2025
+An Afrikaner lobby group is holding a vigil on Saturday with thousands of white crosses on Washington's National Mall to commemorate what it says are victims of "farm attacks".
+Claims of genocide against white South Africans have been discredited by every political party in the country, including by those representing Afrikaners.
+"I'm an Afrikaner from South Africa myself," Ambassador Meyer said, "and I can say that I've never experienced something of that kind."
+Meyer said he would like to have a conversation with Trump about the reality of the situation, saying that as a "born Afrikaner", he has the "legitimacy" to speak about the subject.
+The ambassador helped negotiate an end to apartheid on behalf of the National Party, which was responsible for it, with now-president Cyril Ramaphosa also a key negotiator for the African National Congress party.
+He said the "trust" between the two men was one reason President Ramaphosa appointed him to help mend US-South Africa relations, as well as "the fact he also saw the value of me being an Afrikaner".
+"But I'm not here to represent the Afrikaner only," Meyer says.
+Last week, the Trump administration announced visa restrictions for those South Africans who it said were responsible for "race-based discrimination" against white people. It also warned of further punitive actions if South African leaders did not address the issue.
+Police data shows the majority of victims of crime in South Africa, including on farms, are black. Farm violence, often motivated by robberies, is an issue but represents a smaller number of homicides in the country.
+While no politician disputes that crime is a problem in South Africa, many experts say this does not qualify as "persecution".
+Larry Bartlett, the former director of the US Refugee Assistance Programme, said it could even be "unlawful" to appropriate a programme defined in law for people who "really have no chance to go home".
+He said white people who were unlikely to qualify as refugee in law were taking scarce opportunities meant for those fleeing war or ethnic cleansing.
+The programme has its critics among Afrikaners in South Africa too.
+"Why single out the white Afrikaner to say this group qualifies to flee to the US? This country suffers gender-based violence. Why not single out women?" Rudi Swanepoel, a pastor from Johannesburg told the BBC.
+Swanepoel thinks it is not persecution but a "loss of privilege" that is causing some Afrikaners to feel aggrieved.
+"To use the metaphor of a cake, 30, 40 years ago the white people of South Africa controlled the cake," he says. "Since democracy came, the obvious reality was we had to now start sharing that cake and those privileges."
+Alongside "rural safety", the Trump administration has raised other concerns about South Africa, including targets for companies to increase non-white employment and a law allowing the state, in exceptional circumstances, to expropriate land without compensation. These are aimed at redressing historic racial inequality.
+Meyer wants Trump's executive order against South Africa, which underpins the refugee pathway, revoked.
+He said South Africa had never prevented people from leaving and had addressed all the US concerns, stressing that the land expropriation law is awaiting a court judgement.
+"South Africa has challenges with the prevention of crime and with the combatting of crime," he said.
+But he added: "It's a problem all around. It's not rural. It's not farm attacks only. If you look at the total picture, the huge levels of crime in the black townships of South Africa are the biggest concern, proportionally, far more than anything else."
+He said he would encourage the US to help South Africa with resources on combatting crime, including by providing equipment to speed up reaction times.
+Meyer also has a message for Afrikaners protesting against "farm attacks" by laying white crosses in Washington.
+"It doesn't help us to raise a voice outside, if we are not committed to doing something inside the country," he says.</description></item><item><title>Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach</title><link>https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach
+- Published
+Current and former FBI agents have spoken to BBC News of their shock, fear and anger following a hack that appears to have exposed the private and personal information of the agency's entire workforce.
+"This is really bad for our undercover agents," says one former FBI agent, who fears for the safety of his colleagues.
+The former cyber investigator is in a group chat with current agents who are worried their personal information could soon be freely available online to criminals and hostile nation-state hackers.
+He says staff fear they could be targeted, or that criminals could use the data to create highly convincing phishing attempts, scams or demands for bribes.
+The hacking group ShinyHunters is threatening to publish the stolen databases and documents within four days unless its demands are met.
+Some agents are also concerned about the risk of physical attacks from cyber criminals they have investigated.
+"One of the things we are discussing in the group chat is 'violence-as-a-service' attacks from young online gangs," says the former worker.
+"They could use this information to harass an FBI agent who has worked on their cases."
+Personal concerns
+Groups similar to ShinyHunters - believed to be an English-speaking gang - have in the past been linked to swatting incidents, and even petrol bomb attacks against law enforcement officers and rivals.
+The group claims it breached FBI systems on Monday and later posted details of the attack on its darknet site.
+The FBI has not responded to requests for comment.
+However, on Wednesday the agency acknowledged the breach - saying it was "aggressively investigating" how it occurred.
+For Michael McPherson, a former FBI agent who is now senior vice president of security operations at cyber firm ReliaQuest, the hack presents "a security threat which cuts to the core of agent safety, particularly their families".
+He says agents understand the "inherent risks" that come with the job.
+"But this incident reportedly includes personal data such as home addresses and contact information, which could expose family members who are normally insulated from the threats associated with such a career," McPherson says.
+ShinyHunters shared samples of the alleged stolen data with reporters, along with an extortion demand.
+The samples appear genuine and include names, addresses, phone numbers, badge numbers, job titles and information about spouses.
 The records appear to relate to thousands of agents, including senior officials such as deputy directors.
-Professor Ciaran Martin, the former head of the UK's National Cyber Security Centre, has described the hack - if confirmed - "as serious as it gets when it comes to data breaches."
-'Phishing, impersonation, identity fraud'
-The news agency Reuters reports that some of the data includes information on agents, external involved in investigations relating to Russia, China and drug cartels.
-Reporting by 404 Media suggests details of a previously little-known FBI hacking unit may also have been exposed, external.
-It was initially thought the breach affected the FBI's 38,000 current employees, but the hackers now claim the number could be far higher.
-The group says it underestimated the scale of the data theft and now claims to hold sensitive information on around 60,000 current and former FBI staff.
-Jamie Akhtar, chief executive and co-founder of CyberSmart, said the hackers' claims should be treated with caution but that the breach appeared to be extremely concerning.
-"Such data could be used for highly convincing phishing, impersonation, identity fraud, blackmail or even operations targeting law-enforcement personnel, making the potential implications particularly serious," he said.
-The hackers, who communicate with reporters in English via the messaging service, Telegram, say they will publish the full dataset in five days unless the FBI meets their demands.
-ShinyHunters is an international hacking collective that has been active since 2019 and has been linked to a number of high-profile cyber-attacks, including incidents affecting Rockstar Games and the education platform Canvas.
-The group claims it exploited a vulnerability in an Oracle cloud storage system used by the FBI, gaining access to multiple platforms including FBIJobs, FBI BEAST, which handles background checks on employees and applicants, FBI MedLink, which stores medical records, and FBI BICS, which contains investigative information.
-In a statement posted on X, the FBI said it was still trying to determine whether the hackers had breached its systems directly or compromised a third-party provider.
-"We are actively and aggressively investigating this matter and working closely with those third-party providers that support FBIJobs.gov to mitigate any and all risk," the statement said.
-- FBI investigating claim hackers have stolen details of all its agents 
-  - Published1 day ago
-- GTA-maker Rockstar Games hacked again but downplays impact 
+The criminals also appear to possess highly sensitive medical information relating to thousands of special agents.
+BBC News has seen samples of stolen "fitness-for-work" medical examinations containing information such as blood and urine test results, along with doctors' notes mentioning conditions including a "shellfish and banana allergy".
+Agents' full names and addresses, as well as references to medical issues including "blood in the urine" and "high cholesterol" are now in the criminals' hands.
+Cynthia Kaiser, who was the Deputy Director of Cyber at the FBI and now leads the Research Centre at Halcyon says ShinyHunters appear to already have lost control of some of the data which is circulating in various online groups of cyber researchers and could lead to harm even before the main tranche is published.
+"A lot of the damage may already be done, and as we have seen in past FBI data breaches, that information continues to circulate the dark web years later," she said.
+There are also concerns about the breach's national security implications, such as staff becoming targets for recruitment efforts by hostile foreign intelligence services.
+Fallout fears
+Alongside fear, many of those who spoke to the BBC expressed anger at the FBI for allowing the data to be stolen.
+The hack is particularly embarrassing from a technical perspective because ShinyHunters is not generally regarded as a highly sophisticated hacking group.
+One former cyber agent said FBI staff were furious about the "sloppy and lazy security failures" that allegedly enabled the breach.
+There is also confusion about how to handle any fallout if data is published next week, as threatened.
+The FBI appears unlikely to comply with the extortion demands, and the hackers have indicated they intend to post the information on their darknet site.
+Unusually, the group is not demanding money. Instead, it wants the FBI to retract an advisory published in May, which it claims "offended" them.
+"The agency leadership is lost," the former cyber investigator tells me.
+He says staff have been advised to sign up to a service called DeleteMe, which helps remove personal information from data broker websites - a response he feels is inadequate.
+According to another former agent, there is widespread shock that such a breach could happen at one of the world's best-resourced law enforcement agencies.
+"You would think this information would not be internet-exposed. It's disturbing, actually," he says.
+'Kicked a sleeping lion'
+There is also embarrassment that a prolific group of young cyber criminals has repeatedly managed to evade law enforcement while carrying out a string of high-profile hacks.
+ShinyHunters has been linked to numerous extortion attacks, including on Rockstar Games and the education platform Canvas.
+The group regularly communicates with reporters via Telegram, where members often boast about their activities.
+"The bureau doesn't know what to do with teenage cyber criminals," one former agent says.
+McPherson says there is no doubt the FBI is taking the incident extremely seriously.
+He expects the agency to draw on its extensive network of partners and resources "to make this group suffer the consequences for this brazen and taunting attack".
+Kaiser added that the hackers have been "reckless and foolish" and warned them to expect "a significant effort by the FBI to quickly bring them to justice."
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
+Related topics
   - Published13 April
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.</description></item><item><title>Pope warns against 'losing humanity' to AI machines</title><link>https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&amp;at_campaign=rss
+  - Published16 July</description></item><item><title>Black woman found hanging from tree was dead before body was 'staged', police say</title><link>https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Black woman found hanging from tree was dead before body was 'staged', police say
+- Published
+Warning: This story contains distressing details
+Police in the US state of Mississippi have said that they believe a black woman was already dead before her body was "staged" and placed hanging in a tree.
+The disclosure was made in court by a detective on Friday, who also said they believed Tasia Fortune, a mother of four, had been killed in a dispute related to drugs.
+The 29-year-old's body was found hanging from a tree at an abandoned home in Jackson in August.
+The discovery sparked widespread fears in the majority-black city, due to the state's deep history of racial violence and lynchings. After weeks of speculation and demands for information, police made multiple arrests.
+In a news release, police said that the medical examiner had determined that Fortune's death was a homicide and that "the scene and the hanging were staged".
+Officials have not stated the exact cause of death or shared why they believe the hanging was staged.
+Fortune's mother told the BBC that she remembers the coroner telling her: "we're not treating this as [an] actual hanging." Her daughter, they told her, was dead before being placed in the tree.
+Spivey also recalled police telling her the incident was "drug related".
+Speaking to reporters outside the Jackson Police Department on Friday, Spivey described how she knows her daughter fought for her life till the very end.
+"I know she did. I know my daughter," Spivey told reporters. Fortune leaves behind four young children, ages 7, 5, 4 and 1, she added.
+Dressed in a shirt that reads "Justice for Tasia Fortune", Spivey stressed that she does not want to see any innocent people going to jail.
+"I just hope they have the right people," she said.
+Three people have so far been arrested in relation to the case, all of whom are black, including Jarques Ratliff, 51, who has pleaded not guilty. He remains in custody in without bond.
+A second person, Earnest Lloyd Jr, 25, was arrested in the case this week.
+A third, 45-year-old Eric Clark, turned himself in to authorities on Friday and was charged with murder. He is scheduled to appear in court on Monday.
+The 29-year-old's death is one of several cases in recent years that has prompted lawmakers to call on the justice department and the FBI to investigate all hanging deaths of black people in the country.
+Representative Ayanna Pressley, Democrat of Massachusetts, cites at least 10 documented incidents in her September letter to Congress, external, which contained over 50 signatures from US lawmakers.
+The most recent incident happened in Prince George's County, a majority-black suburb near Washington DC, on Sunday. It has been ruled a suicide.
+Related topics
+  - Published12 September</description></item><item><title>Pope warns against 'losing humanity' to AI machines</title><link>https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -115,7 +292,25 @@ But in recent years there have been signs of a growing interest in religious tra
 Get our flagship newsletter with all the headlines you need to start the day. Sign up here.
 Related topics
   - Published13 April
-  - Published30 November 2025</description></item><item><title>Supreme Court allows Trump to use controversial database to check voter citizenship</title><link>https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&amp;at_campaign=rss
+  - Published30 November 2025</description></item><item><title>Two arrested after people seen mysteriously emerging from various New York City sewers </title><link>https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Two arrested after people seen mysteriously emerging from various New York City sewers
+- Published
+New York officials arrested two of three men who they said were seen emerging from a manhole, exiting the city's underground sewer system on Wednesday.
+The New York Police Department (NYPD) arrested 26-year-old Kevin Rodriguez and 25-year-old Samuel Reveron on charges of conspiracy and trespassing.
+Three men were seen exiting a manhole near the hotel where Israeli Prime Minister Benjamin Netanyahu was reportedly expected to stay for the United Nations General Assembly.
+In a statement to the BBC, the NYPD said it had seen a number of incidents involving people going into the sewer system to look for valuables and scrap metal after a storm.
+"This incident fits that same criteria, but out of an abundance of caution given the U.N. General Assembly and the sensitivity of the location, the NYPD is conducting additional security sweeps with our federal partners," the police department said in a statement.
+Rodriguez and Reveron, both from Queens, were arrested on Thursday. They allegedly fled the scene after climbing out of the manhole when officers were called around 4:30 EST (9:30 BST) on Wednesday, police said.
+During a hearing on Friday morning, the two men pleaded not guilty and were released from custody, according to court records.
+The arrests follow a string of incidents in which people were seen emerging from pavement manholes in different parts of the city in recent months.
+In August, surveillance footage showed a person coming out of a manhole in Queens early in the morning. The same month, the NYPD said it was investigating three people wearing overalls and headlamps seen climbing out of a manhole near Penn Station.
+In May, a group of people were captured on surveillance footage shifting a manhole cover and climbing down into the sewer in South Brooklyn.
+Going into the New York sewer system is both illegal and dangerous, officials have said, cautioning that there is a risk of toxic gases and flooding in a confined space.
+"For these reasons, members of the public should never enter a pipe, drain, catch basin, manhole, or outfall," the city's Department of Environmental Protection previously told the BBC.
+This year, a woman died after she opened her car door and accidentally fell into an open manhole in Midtown Manhattan.</description></item><item><title>Supreme Court allows Trump to use controversial database to check voter citizenship</title><link>https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -253,8 +448,8 @@ Memes contrasting the two leaders have spread widely on Chinese social media. On
 Xi has found a way to manage one of the world's most unpredictable leaders. But while Trump talks of a "truly great friendship", China's leader is focussed on something bigger: securing China's place alongside the United States as a superpower.
 The pandas, the pageantry and the warm words may help smooth this relationship. But beneath the spectacle, the competition between the world's two most powerful countries remains as fierce as ever.
   - Published2 days ago
-  - Published23 hours ago
-  - Published9 hours ago</description></item><item><title>Senior Kazakh officials detained after 14 service members swept out to sea</title><link>https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&amp;at_campaign=rss
+  - Published1 day ago
+  - Published15 hours ago</description></item><item><title>Senior Kazakh officials detained after 14 service members swept out to sea</title><link>https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -471,142 +666,169 @@ Vannacci said he agreed with the measures, but they should have come years ago.
 The League's Matteo Salvini, who launched a separate package of measures on what he called "political Islam" on Wednesday, accused Vannacci of "continually voting against the government".
 Salvini said he hoped Futuro Nazionale would back the League's new proposals.
 Related topics
-  - Published23 March</description></item><item><title>Media outlets banned by Trump resume White House coverage after judge's order</title><link>https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&amp;at_campaign=rss
+  - Published23 March</description></item><item><title>As Merz scrambles for support, Germany's identity crisis is laid bare</title><link>https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Media outlets banned by Trump resume White House coverage after judge's order
+As Merz scrambles for support, Germany's identity crisis is laid bare
 - Published
-Regular US television coverage resumed on Friday after the White House was forced to lift its ban of news outlets and readmit journalists from CNN, MS NOW and Politico.
-A federal judge had ruled on Thursday that the ban was likely unconstitutional and the administration had to let them back in, at least for now. Trump had barred them for what he called "fake news".
-After the ruling on Thursday, the White House still denied entry to some CNN and MS NOW reporters assigned to cover arrivals for a state dinner for Chinese leader Xi Jinping.
-But on Friday, White House officials allowed reporters entry and coverage went back to normal for the last day of Xi's visit with Trump in Washington.
-Four television networks that have a daily rotation of White House coverage along with CNN - ABC, CBS, Fox News and NBC - had paused their broadcasts of the president in solidarity with the banned outlets.
-Despite the judge's ruling, CNN said that about an hour before Xi was scheduled to arrive for the dinner, the White House said it could cover the event only with a photojournalist and audio technician, but not a team that included a reporter and producer.
-MS NOW White House reporter Laura Barron-Lopez said she was told by White House staff that she could not be let in, and to contact the White House communications director.
-The BBC has contacted the White House for comment.
-A White House communications account posted on X that "contrary to what the Fake News wants you to believe, they don't just get to have free rein into every part of the White House, every event, and every press call".
-The incident was the latest in a series of events on Thursday surrounding the ban on some media outlets at the White House.
-Despite the overnight ruling, CNN, Politico and MS NOW all reported being denied entry to the White House on Thursday morning, prompting a request for an emergency court hearing.
-In response, the director of White House Operations said in a court filing that the press passes and confiscated badges had been restored by 09:45 local time (13:45 GMT).
-Shortly afterwards, all three outlets said they were allowed back in.
-In his ruling, Judge Timothy Kelly said the ban on the outlets should be temporarily lifted because it "likely violated their constitutional due process rights".
-He cast doubt on White House claims that the ban was justified in part on national security grounds, pointing out the president made no mention of this in his initial announcement.
-"The record lacks factual support for defendants' contention that the revocation of plaintiffs' hard passes will in fact protect national security," Kelly wrote.
-Judge Kelly ruled CNN, Politico and MS NOW were "likely to succeed" in showing the White House had not exercised "adequate due process" in the ban.
-He ordered the immediate return of the outlets' press passes and a halt to enforcement of the ban for 14 days.
-In a court filing on Tuesday, the US Department of Justice had accused the news outlets of threatening national security with their coverage.
-Government lawyers cited stories about missile stockpiles, the construction of the White House ballroom and the recent Republican midterm convention.
-- Judge temporarily overturns Trump's White House media ban 
-  - Published1 day ago
-- What is the White House pool and why is it in a row with Trump? 
-  - Published3 days ago
-Trump first announced last Friday he was barring the three outlets from the White House, accusing them of writing "fiction or lies" about his administration.
-By Saturday morning, each outlet reported that they were denied entry to the White House grounds and that their press badges were confiscated.
-All three outlets accused the Trump administration of violating their constitutional rights.
-In a joint statement on Monday, they said they were pursuing legal action to "defend the principle that the government does not decide what the press reports".
-More than 50 media organisations across the ideological spectrum filed an amicus brief in support of the lawsuit, including Fox News, the New York Times, the Washington Post and the Wall Street Journal.
-There have been previous instances of administrations attempting to limit certain outlets' access.
-The Obama administration tried to exclude Fox News from participating in a specific press pool interview with an administration official in 2009.
-But after objections from the other four networks in the press pool, Fox News was allowed in.</description></item><item><title>Four civilians killed in Pakistani strikes in Afghanistan, Taliban says</title><link>https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&amp;at_campaign=rss
+A set of bumper local elections has thrown Germany, and its government, off balance.
+Chancellor Friedrich Merz may now be a man on borrowed time. His coalition government is in crisis.
+But this breakdown of business as usual in Germany has been brewing for years.
+It's a nation wrestling with new, uncomfortable and unresolved realities.
+Think of certain stereotypes about Germany, and think again.
+A country dominated by boring, consensus-driven politics? Not any more.
+A confident, powerhouse economy at the cutting edge of car-making? Yesterday's story.
+A nation that can be used as a byword for impressive efficiency? The trains don't even run on time.
+Many Germans I've spoken to feel their nation has drifted away from the things that once anchored their identity.
+And the question of what next is, as yet, unanswered.
+That uncertainty is currently embodied by a beleaguered chancellor weakened by bruising regional election results.
+In the last fortnight, Friedrich Merz's party was beaten to first place in Berlin, pummelled in the polls in Saxony-Anhalt and pushed out of parliament altogether in Mecklenburg-Western Pomerania.
+A lifeline for Merz is that no-one, within his own centre-right CDU party, is yet willing to challenge the chancellor openly despite persistent rumours of a Kanzlertausch (chancellor swap).
+But he is on thin ice, with record low approval ratings among voters who often describe him as arrogant and out of touch.
+It is a problem that in government circles is sometimes more politely referred to as a "communication" issue.
+Those who back the Chancellor say it is time to double down on much-needed reforms, alongside its centre-left SPD coalition partner, and find a better way of talking to people.
+Swapping chancellors is not the answer as anyone would face the "same challenges", argues Jürgen Hardt, foreign policy spokesperson in parliament for Merz's CDU and its sister party, the CSU.
+Hardt pointed out that the CDU/CSU fared far better in other regional elections earlier this year, when we spoke minutes after Merz addressed party lawmakers at a closed-door meeting in the Bundestag.
+"I think Friedrich Merz knows about his deficits," says Hardt. "He will work on him and we will work on us as (a) party. And hopefully we will convince the people in the next months that we are on the right way."
+Merz came to power in 2025, promising to get tough on immigration and boost Germany's ailing economy.
+He appeared to offer a dynamism that might act as an antidote to the former dull, unhappy drumbeat of centre-left leader Olaf Scholz's bickering three-way coalition.
+And Merz's allies would claim he has had some success.
+This week, leading economic institutes raised the country's growth forecasts for 2026 and 2027 above 1% while illegal entries into Germany – and Europe – are down year on year.
+But that will not eliminate public anxieties, on either issue.
+Households and businesses continue to endure high energy costs while fears persist that China is cannibalising German industry, including its iconic car sector.
+It is a brutal reversal of Germany's old recipe for success: cheap Russian gas that powered a booming export-driven economy.
+And when it comes to immigration, the focus is now less on new arrivals and more on concerns about public safety, welfare costs and integration.
+While there are local exceptions, voters appear to be losing faith in Germany's two principal governing parties (CDU and SPD).
+Enter the rising force in German politics, Alternative für Deutschland (AfD): a party that alarms security officials with its Russia-friendly stance and contains regional branches that are classed as right-wing extremist by domestic intelligence.
+Smears and misrepresentations, argues the AfD, as it claimed its third victory ever in a state election last Sunday in the north-eastern state of Mecklenburg-West Pomerania.
+Its co-leader, Alice Weidel, told me this week that Friedrich Merz's days were numbered.
+The AfD has survived numerous scandals in recent years to now top the polls nationwide, at around 28%. It carries the swagger of a party making the political weather.
+It has capitalised on a nostalgia for the past alongside an anxiety in the present as it consolidates its strongholds in the former communist east.
+An AfD placard I saw in Berlin read "Berlin braucht Ordnung" (Berlin needs order). It is the as yet untested promise that this party can bring back a lost sense of stability.
+But in Germany's capital it was in fact Die Linke (the Left) that topped the polls last Sunday in a further blow to the country's traditional "big tent" parties.
+The victory has put fresh scrutiny on Die Linke, as it faces allegations of antisemitism. The party leadership has insisted it is committed to protecting Jewish life.
+This round of regional elections has encapsulated the country's fault lines: the eroding support for Germany's political centre, and a polarising debate on the AfD.
+Rarely in post-war Germany has a set of local polls generated so much upheaval at home and interest abroad.</description></item><item><title>The treasured 'eternal snow' on this tropical island is about to disappear forever</title><link>https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Four civilians killed in Pakistani strikes in Afghanistan, Taliban says
+The treasured 'eternal snow' on this tropical island is about to disappear forever
 - Published
-Afghanistan's Taliban government said a wave of Pakistani air strikes had killed four civilians in the latest escalation between the two sides.
-The strikes hit provinces including Kandahar, the Taliban's base of power, sources told the BBC. A resident told AFP news agency they heard a jet, followed by a large explosion and then a fire in the city.
-Pakistan said its forces had struck 10 targets in Afghanistan, without specifying their locations, adding the strikes were "strictly limited to identified military objectives".
-It's the second wave of Pakistani air strikes on Afghan territory in the past week, and comes after a deadly attack on a police facility in Pakistan on 18 September.
-In a statement, the Taliban said there would be an "appropriate response" following the attack, while Pakistan said any further "provocative act" would be responded to.
-Taliban government spokesman Zabihullah Mujahid said the attacks were in Afghanistan's Kandahar, Paktia and Khost provinces.
-In Paktia, an official said jets had bombed the Afghan Armed Forces' 203 Mansouri Corps, which is controlled by the Taliban, without providing any information on casualties.
-In Khost, a spokesman said houses were damaged in the strikes, with no casualties reported. Abdullah, a local eyewitness, told Reuters news agency the strikes happened around midnight.
-"People were shouting, and there was panic all around," he said. "Afterwards, the village elder arrived and called out to the houses, asking if anyone was killed. Thankfully, no one was killed."
-Another local, Salamat Khan, told Reuters that "there is no military base here, nor are there any military personnel", adding "there are only the homes of ordinary civilians".
-Zabihullah Mujahid labelled the attack as "reckless, careless, and hostile", and said it "will have adverse consequences for the Pakistani military".
-Pakistan's Information Minister Attaullah Tarar said the strikes were "deliberate, precise, calibrated, and proportionate, and strictly limited to identified military objectives directly linked to the attempted attacks against Pakistan".
-The Taliban and Pakistan had enjoyed three months of relative calm, until fighting reignited following an attack on a mosque at a police compound in north-western Pakistan last week, which killed at least 31 people, according to AFP.
-A group linked to Tehreek-e-Taliban Pakistan (TTP), which has waged a violent campaign against Pakistan for years, claimed the attack.
-Islamabad has accused Kabul of harbouring the TTP. Afghanistan's Taliban government denies this, saying militancy is Pakistan's internal problem.
-Following the attack on the police facility, Pakistan said earlier this week it launched air strikes in the Afghanistan-Pakistan border region, killing 28 militants.
-Farid Dehqan, a spokesman for the Taliban government in Kunar province, told the BBC that three people were killed and four others were injured in the strike. The UN mission Unama also confirmed that at least three civilians were killed.
-Then on Wednesday, Pakistan said it detected drones launched from Afghanistan into its territory and that all of them were "neutralised". Taliban officials denied that their government had launched drones against Pakistan that day.
-Unama said in July that cross-border armed violence between Taliban government forces and Pakistani security forces killed at least 499 civilians and wounded 1,216 others between October 2025 and June 2026.
-The worst single incident occurred in March, when more than 269 people were killed, external in a Pakistani air strike on Kabul, which the Afghan Taliban said hit a drug rehabilitation centre. Islamabad denied the charge, saying it "precisely targeted military installations and terrorist support infrastructure".
-The neighbouring countries had agreed a ceasefire in March, but international mediation has failed to produce a lasting resolution.
-During a meeting on the sidelines of the UN General Assembly earlier this week, Pakistan's Foreign Minister Ishaq Dar called for "concrete and verifiable" measures to ensure that Afghan territory is not used for "terrorism".
+The mountains of Papua are not far from the equator, but they've been topped with "eternal snow" for centuries.
+The peaks in this Indonesian region on the world's second-largest island, just north of Australia, have offered scientists countless insights into the Earth's climate history.
+They're also the epicentre of the spiritual universe for many Papuans - a Mecca or a Vatican, as one activist puts it.
+But now, nearly all the snow is gone.
+A century ago, the 300km (190-mile) stretch of the Sudirman Range had snow and permanent ice on all four of its major peaks.
+But now there are only small areas around Puncak Jaya, also known as Carstensz Pyramid, with any snow at all. These are expected to entirely disappear in a year or two.
+Glacier cover around the peak has shrunk from nearly 1,900 hectares (4,700 acres) in the 19th Century to about 16 hectares (40 acres) today. Almost entire glaciers have vanished within a human lifetime.
+"There is a profound unfairness in this," says Marie Šabacká, a Czech glacier ecologist who travelled to Puncak Jaya last March in a bid to be among the last scientists to study Papua's "eternal snow".
+She says the tropical glaciers in Papua are unique because they are separated from other glacier systems by thousands of kilometres. Papua is home to the "last remaining tropical ice" between the Andes and Himalayas.
+Ice cores taken from the slopes of Puncak Jaya preserve a record of climate history.
+Scientists can use them to obtain information about atmospheric conditions in the region and understand changes in the planet's warmest ocean waters that surround the island - the tropical Pacific and Western Pacific Warm pool.
+But this archive is disappearing before scientists have had time to fully study it.
+Proof of a warming planet
+The retreat of Papua's glaciers is driven by the same forces affecting ice around the world, Šabacká notes, a warming atmosphere caused by human activity, including the burning of fossil fuels like coal, oil and gas.
+As temperatures rise, the freezing point moves higher up mountains, so more precipitation falls as rain instead of snow, even in places that once saw regular snowfall.
+El Niño events can accelerate this process, while local factors such as cloud cover, snowfall and mountain topography influence its pace.
+The mountains in Papua are just 450km (280 miles) south of the equator, where "permanent ice can survive only at very high altitudes and within a narrow range of climatic conditions", Šabacká says.
+A small increase in temperature, a higher freezing point or shift from snowfall to rainfall can determine whether a glacier survives at all, she adds.
+The glaciers' retreat is evidence the Earth has been warming over a long period - and their disappearance "removes both a biological habitat and part of a culturally significant landscape".
+A spiritual anchor
+At least five groups of Indigenous people have had strong spiritual ties to Puncak Jaya for generations.
+The Moni people refer to it as Mbainggela, and believe their ancestors watch over the mountain. To the Amungme people, the range is known as Nemangkawi, or the "White Arrow".
+"Parents and grandparents prayed their children would have hearts like the White Arrow, never straying from the proper path," says Elfrida Natkime, a young Amungme woman. "It symbolises honesty, purity and moral integrity."
+According to traditional Amungme beliefs, Nemangkawi symbolises how people should live.
+Amungme environmental activist Adolfina Kum stresses how important the peak is to her people - and how traditions and cultural foundations risk being shattered as the ice melts.
+"How would Muslims feel if Mecca were destroyed? How would Catholics feel if Rome or the Vatican were destroyed?" she asks. "For the Amungme people, that is what it feels like when Nemangkawi is destroyed."
+For many Indigenous Papuans, the disappearance of the glacier is not an isolated event.
+The discovery of vast copper and gold deposits transformed the region during the 20th Century, and the development of extractive industrial projects have reshaped parts of the landscape.
+Entire mountain faces have been excavated and roads, industrial infrastructure and settlements have transformed surrounding valleys.
+Papuans say the development has brought jobs, roads, education and economic opportunities, but also environmental degradation and decades of social conflict. Some have lost access to their ancestral lands as mining expanded.
+The BBC has approached Freeport, which operates Papua's Grasberg mine, one of the world's largest gold and copper operations, for comment.
+"Every time I see the mountains, I feel amazed, but I also feel sadness," says Elfrida Natkime. "Since the company came, I have seen the exploitation. But the development has also provided a livelihood for many people."
+As local communities watch their sacred landscapes change, scientists and explorers are racing to document what is left.
+Using drones and three-dimensional mapping techniques, Danish researcher Klaus Thymann and his team have created a detailed model of what remains.
+From the early 2000s to 2025, the glaciated area has receded by 95%, he says. "There's almost no ice left. Those are the facts."
+Thymann says glaciers are "incredibly powerful" as indicators of climate change.
+"When people hear that something described as 'eternal' is disappearing, it triggers a reaction," he explains.
+Adolfina Kum believes communities "lose an important source of strength" when sacred mountains, forests or ancestral places are disturbed.
+"I often describe it as pulling out the roots of a tree. Once the roots are removed, the tree loses its foundation."
 Related topics
-  - Published27 February</description></item><item><title>Priest killed and four injured in knife attack at Polish abbey</title><link>https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&amp;at_campaign=rss
+  - Published11 June
+  - Published17 September</description></item><item><title>Are Ethiopians marching back to war in Tigray?</title><link>https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Priest killed and four injured in knife attack at Polish abbey
+Are Ethiopians marching back to war in Tigray?
 - Published
-A priest has been killed and four other people injured in a knife attack in south-east Poland, officials have said.
-A 31-year-old Ukrainian man was arrested after the stabbings on the grounds of a Catholic abbey in the town of Jarosław.
-Polish President Karol Nawrocki said Thursday's attack "has shaken us all and demands a firm response from the state", while his Ukrainian counterpart Volodymyr Zelensky said "we are shocked by this evil".
-Reports in Polish media said the attacker first injured a priest in a nearby cafe, and then another four people inside the abbey itself. A police investigation into the attacker's motives is now under way.
-Polish police said four men and one woman were stabbed in the attack on Thursday morning on the abbey grounds.
-The name of the murdered priest has not been publicly released.
-Polish Interior Minister Marcin Kierwiński said psychological support was now being provided to all those affected by the incident.
-Meanwhile, Polish Prime Minister Donald Tusk said the perpetrator "will be punished with the full severity of Polish law".
-Echoing his words, President Zelensky said "the perpetrator of this evil must bear full responsibility according to the law", adding that Ukraine was counting on "a quick and thorough investigation of all circumstances".
-The Ukrainian embassy in Poland also condemned the attack.
-In a statement, it said: "In such difficult moments, it is especially important to support each other, remain steadfast in respect for human life, and not allow pain to escalate into hatred or new violence. Responsibility for a crime must be based solely on the law."
-Poland has recently seen a number of often violent incidents involving its citizens and Ukrainians, many of whom have fled their home country after Russia's full-scale invasion.</description></item><item><title>Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout</title><link>https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout
-- Published
-Rapper Macklemore is launching a "Free Palestine" tour, days after being dropped from Ed Sheeran's Loop Tour following pro-Palestinian comments he made onstage earlier this month.
-"So, as you all know, my schedule freed up a bit," he said upon announcing the tour on Thursday.
-The American artist - whose real name is Benjamin Haggerty - said proceeds from the tour, which launches in Dublin next month, will go to organisations supporting Palestinians.
-Macklemore's onstage comments and subsequent removal from the tour led Sheeran's support acts to drop out, while the British singer stressed that the decision to drop the rapper was made by his promoter, not by himself.
-- Everything we know about the Ed Sheeran and Macklemore controversy 
-  - Published5 days ago
-In a statement on Thursday, the rapper said that the last couple of weeks had shown him there had been "a collective awakening around Palestinian liberation, the power of billionaires that try to censor that call, and what we expect from artists right now".
-"What happened to me is bigger than one artist or one stage," he said. "When the billionaire class can decide which voices are allowed on stage and which ones are too dangerous to hear, everyone should be paying attention."
-Macklemore said he had spent the last week contacting artists who had used their platforms to stand in solidarity with the Palestinian people, regardless of the consequences.
-Due to how quickly the tour came together, several details were still being worked out, he added: "But this is a moment of momentum, and there is work to be done."
-Macklemore's new tour will begin in Dublin on 26 October followed by Paris on 29 October and London on 30 October.
-US dates will also be added, he said, with additional tickets going on sale next week.
-While performing as the opening act for Sheeran at a concert in early September in New Jersey, Macklemore said: "A big part of the reason why I wanted to do this tour in the first place is so that I could stand up in stadiums like this and say two words that are very, very dear to my heart: Free Palestine."
-The Thrift Shop rapper then performed a song dedicated to pro-Palestinian protesters at Columbia University.
-After he was taken off the tour on 14 September, Macklemore accused stadium owners of rallying together to push him out. He was also accused by billionaire stadium owner Robert Kraft of hate speech and antisemitic rhetoric surrounding Israel and Gaza.
-Sheeran early on said that the decision to drop Macklemore from his tour was made by concert promoter Messina Touring Group.
-His early remarks led to all of his support acts to drop out of the tour in solidarity, and fans to express frustration. Ticket prices for the tour plummeted as well.
-Sheeran addressed the controversy head-on during the start of his set in Philadelphia last week.
-He said he had made "mistakes" handling the fallout, apologising to fans and taking a stand on the Israel-Gaza conflict, which he said was "a humanitarian issue".
-He described the 7 October 2023 Hamas-led attacks as "horrific", and also called the situation in Gaza "unjustifiable and disproportionate".
-  - Published5 days ago</description></item><item><title>105-year-old investigated for crimes at Nazi PoW camp in Germany</title><link>https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-105-year-old investigated for crimes at Nazi PoW camp in Germany
-- Published
-German prosecutors are investigating a man aged 105 over allegations that he was an accessory to multiple counts of murder at a Nazi prisoner of war camp in World War Two.
-The suspect is alleged to have been a camp guard at Stalag 326 VI K in Senne in northwestern Germany.
-A similar case had also been under way involving a second former camp guard at Senne, Dortmund public prosecutor Sonja Frodermann said in a statement.
-That suspect died a few months ago at the age of 99, she said.
-No further details about the two former guards have been made public, however the two cases highlight the difficulties faced by prosecutors who continue to investigate Nazi-era crimes, with most of the remaining suspects already dead.
-More than 5.3 million soldiers from the Soviet Red Army were held in German captivity during World War Two and half are thought to have died. Many of those who did survive were treated as traitors on their return home.
-But the PoW camp, or Stalag, at Senne was one of the biggest.
-One in three Soviet PoWs entering Nazi Germany between 1941 and 1945 went through the complex at Senne, according to the memorial site, and they often ended up doing forced labour in the wider region.
-Living conditions at Stalag were horrific, and prisoners faced appalling mistreatment and malnutrition.
-Of the 180,000-200,000 Soviet prisoners of war registered there, many died and tens of thousands are buried there. PoWs from France, Poland, Serbia and Belgium were also held at Senne.
-The prosecutor made clear the investigation surrounding the 105-year-old was still under way and that the allegations of being an accessory to multiple murders related to his activities at Stalag 36.
-There has been no statute of limitations in Germany for either murder or accessory to murder since 1979, to enable the prosecution of Nazi-era crimes.
-Another centenarian camp guard from the Hemer Stalag VI A camp is also said to be under investigation.
-However, bringing perpetrators to justice more than 80 years after the war is now fraught with difficulty.
-Four years ago a 101-year-old concentration camp guard was given a five-year jail term for complicity in murder at Sachsenhausen. Josef Schütz was the oldest Nazi criminal ever brought to justice.
-He never served time in jail and died in 2023 while appealing his sentence.
-A former Nazi concentration camp secretary was convicted in 2022 of abetting murder and given a suspended jail term. She died last year aged 99.
-Although prosecution of Nazi crimes is handled by the public prosecutors in the western city of Dortmund, cases are initially taken on by the central office for Nazi crime investigations in Ludwigsburg in the south-west.
-Related topics
-  - Published28 June 2022
-  - Published20 December 2022</description></item><item><title>From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema</title><link>https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&amp;at_campaign=rss
+Fighting has erupted in Ethiopia's northern region of Tigray between regional forces and the national army.
+Tigray residents, who have been trying to recover from a brutal two-year war that ended in 2022, fear a return to full-scale conflict.
+There are reports of panic buying - and now internet and call services have been disrupted.
+This means people cannot get access to their money via digital apps in what has become a largely cashless society after ATMs stopped working several months ago.
+Why has fighting broken out now?
+It follows more than six months of worsening relations between the government and the Tigray People's Liberation Front (TPLF), the party that runs Tigray.
+The African Union (AU) brokered a peace deal, known as the Pretoria Agreement, between the two sides, ending the war nearly four years ago - but several issues have remained unresolved that have inflamed tensions.
+This year, both sides have been trading blame while troops have mobilised amid pockets of fighting.
+This week, major clashes erupted in Tigray and quickly spread into the neighbouring Afar and Amhara regions. The two sides disagree over who started the latest escalation.
+The TPLF says it was responding to a federal offensive, including drone strikes, while the government says Tigrayan forces attacked first after seizing control of airports in Tigray.
+Who are the TPLF?
+For much of Tigray's modern political history, it has been governed by the TPLF, which first emerged as an armed movement in the 1970s fighting Ethiopia's military government.
+It became a major force in the overthrow of the Marxist regime in 1991 and went on to become the most powerful component of the Ethiopian People's Revolutionary Democratic Front (EPRDF), the coalition that governed the ethnically diverse country for nearly three decades.
+At times this proved contentious as some felt the TPLF held too much sway as Tigrayans only make up around 6% of Ethiopia's population.
+When Abiy Ahmed became prime minister in 2018, he replaced the EPRDF with the Prosperity Party, significantly watering down the TPLF's influence.
+Relations between Addis Ababa and the TPLF rapidly deteriorated until war erupted in 2020 in what was one of the most deadly conflicts this century.
+The AU mediator estimated some 600,000 people died during the war, which totally cut off Tigray from the outside world and drove the region to the precipice of famine.
+An uneasy truce was agreed in November 2022.
+Why has the peace deal faltered?
+There are four key issues - and two concern the fertile area of western Tigray.
+The TPLF lost control of this territory in the early days of the war to Amhara, a region which neighbours Tigray to the west and whose fighters had fought on the side of the Ethiopian army.
+Many people in Amhara believe the territory of western Tigray should never have been incorporated into Tigray when regional boundaries were redrawn after the military regime was ousted in 1991.
+When its fighters seized control during the recent civil war, hundreds of thousands of ethnic Tigrayan people fled and are now living in homeless camps in Tigray and in the capital, Addis Ababa.
+The TPLF wants western Tigray back and for those displaced from the territory to return. The government says the future of the territory needs to be decided by a referendum.
+For the government, a major matter of contention has been disarmament. It says the TPLF has only handed over old weaponry to the AU and has been hiding its arms.
+The two sides have also been at loggerheads over how Tigray should be governed. Under the terms of the deal, an interim administration was appointed by Abiy.
+But attempts by the prime minister to influence affairs caused disputes within the TPLF itself and just before the general election in May, which was not held in Tigray because of the security situation, it restored its pre-war administration, disbanding the one set up by Abiy.
+This has meant that civil servants are longer being paid and other services have been seizing up, worsening economic conditions.
+Who is backing the TPLF?
+A major development has seen the TPLF, once politically isolated inside Ethiopia, gain several key allies.
+Earlier in September, it joined six other armed movements in forming what is called the Alliance for Survival, which includes those actively fighting the government like Amhara's Fano militia and the Oromo Liberation Army.
+Members of the new alliance have different grievances, but they do share one objective: they want to remove Abiy's government from power.
+So while the TPLF and Fano forces were on opposite sides during the civil war - and still disagree over the fate of western Tigray - they have temporarily put some of their differences aside.
+TPLF officials say they do not want to repeat the situation of 2020, when they felt surrounded and isolated.
+Yet analysts caution the alliance may become difficult to maintain because its members ultimately have very different interests.
+What is the government's position?
+As well as blaming the TPLF for starting the recent fighting, it has criticised the new alliance, portraying it as an attempt to destabilise the country.
+It has also accused Eritrea of supporting armed groups inside Ethiopia, something Asmara denies.
+During the recent civil war, Eritrea fought alongside Ethiopian troops but the two neighbours, which have long had a volatile relationship, have again fallen out.
+Their disagreement centres on the Red Sea and its ports.
+Ethiopia, the world's most populous landlocked nation, lost access to them when Eritrea seceded in 1993. Recently Prime Minister Abiy has been pushing for ownership of Eritrea's southern port of Assab - about 60km (37 miles) from the border - and hinted at taking it by force.
+What do we know about the bombing in Tigray?
+Reports indicate that federal forces have been using drones and other military operations against Tigrayan forces.
+The government's stated justification is that it is responding to attacks and trying to defend federal positions and territory. However, the circumstances surrounding individual strikes are difficult to independently verify.
+Residents in one recently targeted town told the BBC the drones had hit two schools, which local officials said had been used by Ethiopian troops as military bases during the war.
+This suggests Addis Ababa may believe they are again being used for a military purpose - by Tigrayan forces.
+The attacks have come amid reports that the TPLF has been forcibly recruiting young men to join its ranks.
+What is being done to stop the fighting?
+The main diplomatic effort is being led by the AU, which has called for an immediate cessation of hostilities and a return to direct talks.
+It has asked former Nigerian President Olusegun Obasanjo, the AU's special Horn of Africa envoy, to engage the parties urgently.
+The UN has made a similar appeal, warning against a wider and more devastating conflict.
+The regional organisation Igad has also called for fighting to stop and dialogue to resume.
+The difficulty is that trust between Addis Ababa and Tigray is extremely low, while the formation of the new armed alliance has made the situation more complicated.
+Could the fighting spread?
+Yes, there is a significant risk of wider conflict inside Ethiopia.
+The fighting has already moved to areas over and along Tigray's borders, while the government is simultaneously dealing with armed conflicts in other regions, particularly Amhara and Oromia.
+The new alliance potentially connects several of these conflicts politically and militarily.
+There is also a fear that Eritrea could be drawn in again - this time against the government.
+The two aggressors in Sudan's civil war are also on opposite sides when it comes to allegiances in Tigray, potentially complicating matters.
+The AU has specifically urged all neighbouring countries not to take actions that could further escalate the crisis.
+More about Ethiopia and Tigray from the BBC:
+- 'I lost my leg on the way home from school' 
+  - Published2 November 2024
+- Ethiopia PM's party wins landslide as fears grow of new conflict 
+  - Published21 June
+Go to BBCAfrica.com, external for more news from the African continent.
+Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external</description></item><item><title>From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema</title><link>https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -690,7 +912,7 @@ The government is taking advantage of the hack to position itself as a leader on
 Within hours of the announcement, Communications Minister Anika Wells told reporters: "This is an example of an unregulated industry where big tech clearly feels like they can do whatever they like, and that's not going to wash here in Australia."
 Related topics
   - Published17 September
-  - Published1 day ago</description></item><item><title>Trump and Xi come face-to-face as US and China battle to win the AI race</title><link>https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&amp;at_campaign=rss
+  - Published2 days ago</description></item><item><title>Trump and Xi come face-to-face as US and China battle to win the AI race</title><link>https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -746,7 +968,7 @@ Trump has dismissed proposals for an industry-wide slowdown, arguing that it cou
 Ahead of the Trump-Xi summit, US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng discussed establishing a notification mechanism for serious AI incidents.
 While the messaging from Trump on China in recent weeks has been "more antagonistic", the fact that AI is expected to be on the agenda was a "good start", said policy analyst Leia Wang from the Carnegie Endowment for International Peace.
 What we don't want, she added, was for an "unhealthy version of the race narrative to perpetuate", potentially escalating an already fierce rivalry in AI.
-  - Published2 days ago
+  - Published3 days ago
   - Published13 September
   - Published13 September
   - Published17 September</description></item><item><title>In Amish country, nurses go door to door to stop deadly spread of measles</title><link>https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&amp;at_campaign=rss
@@ -799,174 +1021,20 @@ The tensions are not helpful for experts working to combat misinformation in a s
 Related topics
   - Published15 September
   - Published11 August
-  - Published16 April</description></item><item><title>They were labelled 'pervert glasses'. Will a camera-free version transform their image? </title><link>https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&amp;at_campaign=rss
+  - Published16 April</description></item><item><title>Thousands turn out to greet Pope in France</title><link>https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-When Meta first launched its AI-powered smart glasses in 2023, in collaboration with the sunglasses brand Ray-Ban, it unleashed a storm of controversy.
-There have been multiple reports of the devices being used to harass women and girls in particular, filming them without their consent, then sharing the footage.
-The image problem doesn't seem to have been cured by Meta's enlistment this summer of Kylie Jenner, Kim Kardashian's sister, as their prime model. The devices have been dubbed "pervert" or "creepy" glasses. In the UK, JD Wetherspoon pubs, a handful of major theatres, Comic-Con, some schools, and Faslane, home of the UK's nuclear submarines, have all chosen to ban them.
-On Thursday, Meta is unveiling a new version which does not contain a camera at all, called Ray-Ban Meta Audio. They will have the audio functions of the original glasses - including the ability to make phone calls or play music, with the sound funnelled directly into your ear - but with fewer implications for privacy.
-To some in the industry, it looks like an interesting pivot - a response, perhaps, to the backlash over privacy.
-The tech giant denies that the new glasses have been rushed out in response to public anger. They say the product has been in development for two years. The audio-only version is cheaper than its camera-enabled cousins, and Meta says it has a lighter frame and better battery life.
-When I put it to Meta Glasses' head of product Ankit Brahmbhatt that I thought they might overtake the original camera-enabled glasses in sales, there was a pregnant pause.
-"We have, I think, something for everyone," he said, choosing his words very carefully.
-Does the release of a camera-free option represent a shift in how tech companies see the future of smart glasses? And is Meta's original vision getting further away?
-Or should we see camera-free glasses as a niche side-product that serves a small market - a bit like how some mobile manufacturers are now releasing internet-disabled "brick" phones for people who are tired of social media?
-Music, maps, and washing cars
-There's no doubt that smart glasses have become controversial.
-I was lent a pair of Meta Ray-Bans – with cameras - to try out. I was initially nervous about wearing them in public, in case someone got physical: I have heard of people knocking them off wearers' heads and smashing them in the street.
-The reality was that I wore them on public transport and on foot in several cities including London, Glasgow and Portsmouth, and nobody batted an eyelid. It made me wonder whether awareness of them is really as high as both Meta and anti-glasses campaigners believe.
-That said, some people quietly told me they would not be confident enough to approach someone wearing them even if they did spot them, for fear of the interaction being filmed and uploaded.
-The glasses are designed to work as an extension of your phone. They use Bluetooth to sync with a handset via Meta's AI app. They are voice-activated, with open speakers in the arms funnelling sound into your ears. The result is a bit like wearing headphones without the addition of noise-cancelling features, so you can still hear the world around you.
-My potentially cancellable opinion is that I found many of the glasses' features useful. Interestingly, none of them included the camera.
-Listening to music and podcasts on the move without having earbuds stuffed into my ears felt safer. I felt more confident about avoiding the gamut of e-bike-riding phone thieves in central London without my phone physically in my hand.
-And as someone with a pitiful sense of direction, I rely a lot on map apps. It was handy to have the directions spoken in my ears. The pay-off for this, however, was having to accept allowing the Meta AI app to know exactly where I was at all times. Meta is notorious for its hunger for personal data.
-When I posted about using the Meta Ray-Bans on social media, I got a bit of a hard time. Less so when I showed them to people in my everyday life.
-My hairdresser loved the idea of using them to record her clients' hair transformations. A builder I chatted to at the gym reckoned they would be useful on sites for recording what he was doing, either in the event of an accident or even to teach others new skills. My friend who runs said he would like to wear them on a jog.
-Plenty of content creators are big fans. My son borrowed them to wash my car, and was proud of his film showing me how he delicately chipped away at a stubborn bit of bird poo without damaging the paintwork (I was pleased, and happy to take his word for it).
-More broadly, smart glasses have been welcomed by the blind community. One user described them to the BBC as a "game-changer" because they can give audio descriptions of current locations and read out visible text like restaurant menu options. Earlier this year Meta donated 15,000 pairs to a charity for the blind in Ireland.
-Calls for regulation
-But still, anger over privacy has grown.
-The glasses have a blinking white LED that switches on when the camera is active, but a whole industry has sprung up around finding technical workarounds to disable that light, some of which involve taking the glasses apart.
-Meta says less than 0.1% of the frames it has sold worldwide have been physically tampered with. Exact sales figures are unknown, but Ray-Ban's parent company EssilorLuxottica has reported that it sold seven million last year.
-Liz Hunter, a tech founder and parent who launched the "Stop Smart Glasses" campaign, and has set up a petition calling for urgent new regulation of the technology, is furious.
-"They should never, ever have left the lab at Meta," she told me. "It's a real travesty of public trust, and of women's equality, and it's rolled back our privacy rights right before our very eyes."
-Hunter thinks smart glasses should remain available for blind people, but not for the general population.
-"We don't need them, we don't want them," she says.
-A Polish developer has released an app called ZuckOff which uses Bluetooth to identify nearby smart glasses. It's been downloaded thousands of times, reports Wired magazine.
-Ben Wood, from tech research firm CCS Insight, remembers first reading the phrase "pervert glasses" in the usually strait-laced Financial Times - a sign, he says, that it had prompted a "significant public backlash".
-The furore has not deterred other companies from eyeing the market, however.
-Samsung is reported to be working on a collaboration with the upmarket glasses brand Warby Parker. Google is also said to be working on a set. Snap, the firm behind Snapchat, has just launched Specs, which are retailing in the US for $2,195 (and £1,995 in the UK). Users can see data inside the glass, and snap their fingers to take a photo.
-Snap founder Evan Spiegel says he thinks smart glasses will eventually replace phones, and he's not alone.
-Step back or 'half step to the side'?
-When Meta launched smart glasses in 2021, they were geared in part around what the user could see. The firm promised they would allow users to "easily record the world as you see it", and to "capture life's moments as they happen from a unique first-person perspective".
-So Meta's latest announcement - glasses without a camera - is notable.
-Janusz Swierczynski, a researcher at Oxford University's Saïd Business School, who is worried about smart glasses, says the release of a camera-free version is a "positive sign" that Meta seems to have listened to privacy concerns. "They're thinking about it and that they're responding," he says, though he thinks it's "not a perfect" response because the camera-enabled glasses are still on the market.
-Others are less sure it represents a real shift.
-"It's certainly not the end of cameras in glasses," says Wood, from CCS Insight. He thinks that smart glasses are largely about capturing information; the glasses collect as much data as they can from your surroundings and then use AI to tell you about it.
-And glasses armed with a camera - trained on whatever you can see - are an "extremely good" source of that information.
-"That is an invaluable data stream to an AI platform, which can then interpret that data and provide you with the best possible information related to it," Wood says. "So having the vision parts of it with the cameras is a key pillar for getting the best experience."
-More from InDepth
-- AI 'slop' is transforming social media - and a backlash is brewing 
-  - Published4 February
-- Tech billionaires seem to be doom prepping. Should we all be worried? 
-  - Published10 October 2025
-He imagines Meta has been working on the camera-free glasses for several years, and the current backlash over privacy provides "fantastic timing" for their release.
-Indeed, Meta doesn't yet show any signs of slowing down its development of camera-enabled glasses. The company is bringing its third generation of the glasses to the UK next month. These can visually display data inside the specs' lenses. (As a live broadcast journalist who has talked openly about brain fog, I can see the appeal of glasses that can discreetly display a script).
-Kate Winick, a tech analyst at the research firm Forrester, says it's not a step back from camera-enabled glasses but more of a "half step to the side, where they give users time to get comfortable with the technology… so that users themselves start to say, 'Oh, this would be so much more useful if it had a camera'."
-And she says, paradoxically, the existence of camera-free glasses might help "take the heat" off people who wear camera-enabled glasses in public. "It's now clear that out in the market some glasses have cameras and some don't," she says. "You can't automatically get mad at everybody wearing Meta's glasses, because you may not know whether or not they have a camera."
-Towards a social norm
-And other companies are trying to address privacy concerns in different ways - without getting rid of the camera.
-The Taiwanese firm HTC recently launched Vive Eagle glasses, which cost less than a quarter of Snap's.
-Thomas Dexmier, a vice president at HTC Vive, says that if anyone near an Eagle specs wearer says "stop filming" or "stop recording", and it is picked up by one of the four microphones, the camera will deactivate.
-And he adds that all recordings captured by the glasses are encrypted, and the firm itself cannot see them - though this also means HTC cannot flag harmful content.
-"We acknowledge that there are some challenges, potentially becoming a real problem, especially for women," he said.
-He said HTC Vive was working to make it as difficult as possible for the tech to be misused but said it was "too early to comment" on whether the firm would consider a version without cameras.
-Ultimately, Wood thinks that camera-enabled glasses are "not going away".
-He says the current moment reminds him of the 2000s, when some people said that mobile phone companies couldn't install cameras in their devices because of similar concerns over privacy. "There's an inevitability there," he says.
-"We will have to find a societal norm, a framework for the use of these products."
-Top image credit: Getty.
-BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
-Get in touch
-Are you personally affected by the issues raised in this story?</description></item><item><title>Eating garden weeds to survive in Russian-occupied city cut off from food and water</title><link>https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Eating garden weeds to survive in Russian-occupied city cut off from food and water
-- Published
-"Two more civilians died last night," says Halia, before her phone connection cuts off.
-She is trapped in the Russian-occupied Ukrainian city of Oleshky, which she says is "constantly shelled" and cut off from food and water.
-Three days later she tells me the two who were killed were a husband and wife. She knew them well.
-They were bringing home a bag of food from the closest neighbouring town of Radensk, 23km (14 miles) away, but were unable to get home before a curfew imposed by Russian occupation authorities.
-They were then killed by a drone. Four separate sources have confirmed the deaths of two civilians carrying food on 20 September.
-Halia does not want to share their names for fear she might be identified. Her name has been changed to protect her safety.
-Hers is just one of the many harrowing accounts the BBC has heard from residents in the front-line city in southern Kherson in recent days.
-Occupied by Russia since 2022, Oleshky is trapped between the Dnipro River, which separates it from Ukrainian positions, and Russian forces.
-It is also one of the cities where thousands of people lost their homes after the collapse of Nova Khakovka Dam in 2023, flooding buildings up to their rooftops. Ukraine and Nato accused Russia of blowing up the dam, while Russia blamed Ukraine.
-Oleshky was home to 24,000 people before Russia's full-scale invasion. Now the Ukrainian government estimates that some 6,000 people remain in the city and its surrounding areas, including 200 children.
-Residents say children remaining in wider Oleshky are suffering from malnutrition, a lack of medical services, and are "degrading" without access to education.
-Many have also told the BBC independently there is only one hospital partially operational, opening a few days a week to perform critical amputations.
-Ukraine has attempted to deliver supplies to the area but has not had success in recent months.
-Earlier this week the Kremlin acknowledged that Oleshky faced "a critical situation" and "problems with supplies of food and medicine", but added that "Russia's military was working to resolve them" and blamed Kyiv.
-The local population is living under a "full blockade" by Russian forces, according to Ukraine's Foreign Minister Andriy Sybiha.
-Speaking at the UN General Assembly in New York on Tuesday, Sybiha called on the international community to pressure Russia into allowing humanitarian aid into the city.
-Inside Oleshky, Halia faces a daily struggle to survive.
-"There is no food here in the city," she says, adding that the last food delivery was back in May.
-"I eat once a day, a dinner only," she says. "I make some plain bread, sometimes I can have it with a tomato, or with some honey, and a tea. That's it."
-Many residents have turned to cooking garden weeds as they have run out of the vegetables they managed to grow over the summer, she explains.
-Which weeds are safe to eat and how to boil them has become a topic of discussion on local Telegram messaging chats, along with calls between residents to sell, swap or share pieces of food.
-No shops are open any more in Oleshky, with residents unable to source either clothes or hygiene products. The city has had no electricity, gas or water since the Kakhovka dam was attacked three years ago.
-While some residents have risked travelling on foot along mined roads out of the city in search of supplies, it is now deemed too much of a danger.
-Warning: Distressing and graphic descriptions of dead bodies below.
-Working out how many people have been killed in Oleshky is difficult.
-The UN Human Rights Monitoring Mission in Ukraine has recorded reports this year of at least 29 civilians killed and 54 injured in Oleshky and Hola Prystan, external - about 24km to the east.
-Local volunteers estimate that number could be significantly higher.
-Ksenia Arkhipova has been counting the dead since she managed to escape Oleshky in summer 2022 - a few months after it was taken by the Russian army.
-She is a volunteer who is involved in attempts to deliver food and medicine and facilitating evacuations to Oleshky. Locals trust her with their sensitive personal information.
-"I've been putting together a spreadsheet of all those who died as soon as I find out about it, with their names and dates of birth – I've got around 1,200 people now," she says. "Sometimes I don't have time to update it, as the list grows one or two people longer every day: someone was killed by a drone, someone else stepped on the landmine."
-While the BBC cannot independently verify these figures, one local resident has given her personal account of losing her loved ones.
-Both her parents were killed in Oleshky this summer, said Tetiana - also not her real name. She confirmed their identities to the BBC with their dates of birth and photos, but asked not to have them published for her own safety.
-"They were shot inside their home. Russian soldiers came there and wanted to take it," she said.
-- Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says 
-  - Published5 days ago
-Burying the bodies of people killed in Oleshky has been restricted by Russian occupation authorities, residents say. This has made counting the dead even harder.
-They "do not allow us to bury the dead if they were killed by a drone, stepped on a landmine or were killed in any other way", said Tetiana.
-Russia's occupation authorities demand those deaths are confirmed by post mortem examination carried out by a Russian doctor, the BBC has been told. That is not possible in Oleshky.
-Only those who die of natural causes could be buried, she added, and as a result, "some bodies have been on the streets since December".
-Bodies are "either getting piled" up in the local hospital morgue, "where there's been no power since winter", says volunteer Ksenia Arkhipova, or "stray dogs eat them".
-That detail has been verified by the BBC based on numerous pictures obtained from residents. They are all too graphic to publish.
-"This is a tool of psychological pressure," says Ester Vrataryova, the co-founder of charity Humanity, which helps people in Oleshky and the wider Russian-occupied territories of Ukraine.
-"If you try to bury a dead body, you'll become the next one," she says.</description></item><item><title>'Make women feel seen': Why the Dutch have a new word for labia</title><link>https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-'Make women feel seen': Why the Dutch have a new word for labia
-- Published
-Can you imagine seeing the words "shame lips" on your medical notes? The term, which can also be translated as "pubic lips", is the Dutch word for a women's body part. But, for some, it's just one of countless examples that are outdated and loaded with stigma.
-Last month, leading Dutch dictionary Dikke van Dale said it would include a new term for the labia, "vulvalippen" - in its upcoming online addition - alongside the traditional term "schaamlippen".
-European campaigners have long been calling for a rewrite of terms used to discuss women's bodies, sexuality and health. What unites them is the desire to move away from terms that are often seen as misogynistic or judgmental.
-"Language shapes how we see ourselves," says Shari Klein, one of the founders of the Schaamteloos campaign, which targets words that use "schaam" or "shame".
-"It's crucial people have a more neutral, anatomically correct word - not a word that links to shame, whether consciously or sub-consciously," she says.
-'Sex positivity'
-Calls to use vulvalippen aren't new but campaigners say inclusion in the dictionary may be a sign society is "finally ready for change".
-Esther Van der Valk, part of prominent Dutch feminist group Dolle Mina, says it's also about sex positivity and reducing body shaming.
-The campaign's next steps are to convince doctors and officials to use vulvalippen in leaflets and consultations.
-Ton den Boon, editor of the dictionary, says adding vulvalippen is justified because it is becoming more established in the language and is being used more in the media, biology text books, medical leaflets and is even seen in veterinary medicine.
-But whether it will be adopted widely is yet to be seen.
-Other Dutch words, relevant to both men and women, could carry similar connotations - from "schaamhaar" (pubic or shame hair) or "schaambeen" (pubic or shame bone) to even "schaamluis" for pubic lice.
-However, critics say changing a word will not necessarily change people's lives.
-- Language around birth should be less judgemental 
-  - Published15 June 2022
-The campaign mirrors attempts in Germany, where in 2018 journalists Gunda Windmüller and Mithu Sanyal started a petition to change Schamlippen to "Vulvalippen".
-Windmüller says she was compelled to after a gynaecologist told her of the shame some women carry when discussing their bodies and having medical examinations.
-When writing her article, she realised she couldn't even mention anatomy without including the word shame.
-"Vulvalippen" has not yet been adopted by a German dictionary, but Windmüller has spotted it in conversations, school textbooks and women's magazines.
-Her hope is the Dutch move will ignite support closer to home.
-'Virginity membrane'
-Similarly, in Sweden a new word for "hymen" was added in the academic dictionary after a 2009 campaign.
-The association for sexuality education (RFSU) felt traditional term "mödomshinna", which translates as maidenhood skin or virginity membrane, was anatomically inaccurate and did nothing to dispel myths around hymens and virginity.
-The new term "slidkrans" translates as vaginal corona - reflecting the fact the hymen is often folds of tissue in a ring, rather than a seal that breaks once.
-"With a new word we can challenge the myths that seek to control women's sexuality and freedom," Sonja Ghaderi of the RFSU says.
-Ghaderi says slidkrans is used particularly by healthcare professionals and in youth clinics but adds misinformation still exists emphasising the "need to change social constructs".
-In the UK, feminist podcast host Nicola Denson-Elliott started a petition to replace the word "hysterectomy" (surgical removal of the womb) with "uterectomy".
-She argues, as others have, that hysterectomy has linguistic links with hysteria, external - once seen as a disease of emotional excess in women - and wants a more "anatomically correct term" not one "associated with emotion."
-The petition describes it as "medical misogyny", adding: "Women deserve terminology that respects them."
-'Judgmental words'
-Linguistics researcher Dr Beth Malory says any changes need to be researched first.
-"Will people understand uterectomy? Is simply saying removal of the womb better?"
-New words cannot be ambiguous, she says, it's important to look at the whole system so there is no confusion.
-Malory also studies language around pregnancy and loss.
-One phrase highlighted in her research is "incompetent cervix" used to describe the shortening of the cervix that can increase risks of pregnancy loss and early birth. Women told her it made them feel blamed for the medical issue.
-"Why do we need judgmental words like failure or incompetence?" says obstetrician Dr Brooke Vandermolen, external.
-Even though they appear in medical textbooks, she tells me she's moved away from certain terms, including "failure to progress" - which describes labour not moving forward as expected.
-"Language is incredibly important and the words we choose can show recognition and make people feel validated and seen."
-In 2022, the Royal College of Midwives produced guidance offering alternative phrases.
-But Vandermolen says some traditional terms are still being used and still cause distress.
-"I hope this change in the Netherlands sparks more conversations here about how we speak about women's bodies. What we say can have a lasting impact."
+Thousands turn out to greet Pope in France
+Pope Leo XIV has arrived in France for his four-day visit, where he has delivered an address ahead of a giant Mass to be attended by more than half a million people in central Paris.
+President Emmanuel Macron greeted the Pope at Orly airport, before he spoke at the Élysée Palace on geopolitical issues and artificial intelligence (AI).
+The BBC's Paris correpondent Hugh Schofield looks at why the visit is met with enthusiasm the Church attributes to growing spirituality among the French.
 Related topics
-  - Published3 August
-  - Published9 July</description></item><item><title>Robbie Williams' surprise singalong after Peru gig cancelled</title><link>https://www.bbc.co.uk/news/videos/c3qjkxk58y02o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/c3qjkxk58y02o?at_medium=RSS&amp;at_campaign=rss
+- Pope Leo XIVUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- Emmanuel MacronUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- FranceUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- Roman Catholic ChurchUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- ParisUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item><item><title>Robbie Williams' surprise singalong after Peru gig cancelled</title><link>https://www.bbc.co.uk/news/videos/c3qjkxk58y02o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/c3qjkxk58y02o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -1027,13 +1095,7 @@ During the welcome, which included a red carpet, two B-1 bombers flew overhead t
 The supersonic aircraft are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.
 The BBC's Bernd Debusmann was at Joint Base Andrews and unpacks the pomp and pageantry behind Xi's welcome to America.
 CORRECTION 24 September: The reporter in this video originally referred to two B-1 bombers being nuclear-capable. That is no longer the case and they cannot carry nuclear weapons. The video has been amended accordingly.
+Video by Mabel Pickering
 Related topics
 - Xi JinpingUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- Donald TrumpUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item><item><title>Watch: The arms race in space and how the UK is defending itself</title><link>https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Watch: The arms race in space and how the UK is defending itself
-The head of Britain's Royal Air Force has warned that we we now face an unprecedented threat in space, which could have a devastating effect on the satellites we rely on for communication, internet, bank transfers and satnav.
-A defence source has told BBC defence correspondent Jonathan Beale, that Britain has already used a ground based system to jam or block the satellite communications of a hostile state.
-Beale explains there is now a new arms race going on in space.</description></item></channel></rss>
+- Donald TrumpUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item></channel></rss>
