@@ -8,7 +8,9 @@ Iran offers US deal to reopen Strait of Hormuz in seven days
 Iranian Foreign Minister Abbas Araghchi says his country has proposed a deal to the US that would see the Strait of Hormuz reopened within a week.
 Araghchi told reporters at the UN in New York that this could be done "if the necessary conditions are met" and said these were contained within the memorandum of understanding (MOU) signed in June.
 "The choice now rests with the United States," he said, adding the plan was delivered to the US via Qatar.
-Asked about the Iranian offer, a US official told the BBC positive discussions were taking place through mediators, including about nuclear issues. Earlier this week, US President Donald Trump threatened to "annihilate the Islamic Republic".
+Asked about the Iranian offer, a US official told the BBC positive discussions were taking place through mediators, including about nuclear issues.
+While the US has yet to deliver its official response to the proposal, the Wall Street Journal, citing US officials, reported that US President Donald Trump had rejected the deal., external
+Trump was privately sceptical that Iran would meet his demands, it reported, and had told his staff that he saw a renewed bombing campaign as likely.
 The US and Israel launched air strikes on Iran on 28 February. Iran responded by attacking Israel and US bases in the Gulf and Arab Gulf allies of the US - as well as blocking the Strait of Hormuz.
 Some 20% of the world's oil and liquefied natural gas used to pass through the strait before the war and its closure has caused wild fluctuations of energy prices.
 It has also increased pressure on Trump to find a way of ending the conflict - particularly as the US heads to Congressional elections in November.
@@ -16,6 +18,10 @@ It has also increased pressure on Trump to find a way of ending the conflict - p
 He did not specify what steps Iran wanted the US to take but added that "the actions that the United States should take are not new. They are all already in the MOU".
 "I can tell you if there is seriousness in the US side to come to a deal and reopen the Strait of Hormuz, everything is now prepared," he added.
 A US official told the BBC that the US was "in a very strong position with control of the Strait of Hormuz, so we are not in a rush".
+In an interview with CBS News, the BBC's US partner, Iranian President Masoud Pezeshkian said that the ceasefire process "will begin from the very day they accept it".
+"We had previously reached an agreement based on the MOU that was signed in Pakistan... if the United States agrees to proceed in that way, everything will return to the way it was before," he added.
+Pezeshkian also said Iran would now allow UN nuclear inspectors into the country.
+Rejecting claims that Iran is trying to develop a nuclear weapon, the Iranian president said: "If they wish to come in and have inspections, we can reach accords and agreements vis-à-vis that specific topic within the negotiations."
 The MOU between the US and Iran, signed on 18 June, was designed to bring about a ceasefire and at least partly reopen the Strait of Hormuz.
 The 14-point agreement said Iran would never have a nuclear weapon. It noted that the US, Iran and their allies would end military operations on "all fronts" and contained provisions including the end of a US naval blockade and sanctions relief.
 It also said Iran would "make arrangements using its best efforts for the safe passage of commercial vessels" through the strait and hold talks with Oman over future shipping arrangements.
@@ -27,12 +33,13 @@ Shipping data shows a recent 10-day average of about 18 transits per day, with d
 However, Yemen's Houthis - allied to Iran - have recently intensified attacks aimed at disrupting oil exports from Saudi Arabia via the Red Sea on the other side of the Arabian peninsula.
 The group seized large strategically important stretches of the Red Sea coast in a rapid offensive this month, including the port of Mokha, which overlooks the Bab al-Mandab Strait, another chokepoint for global shipping.
 The situation has been exacerbated by Houthi attacks on Saudi oil installations. US media has reported that Saudi Crown Prince Mohammed bin Salman has requested military support from Trump.
+On Saturday, the Saudi-led coalition in Yemen said it had intercepted two ballistic missiles and drones launched by the Houthis towards Saudi Arabia.
 During his speech at the UN General Assembly this week, Trump said he believed an Iran deal, which has so far eluded him, would come right after November's elections.
 "Will a deal be made with Iran that lets them rebuild and create a far greater country than it ever was before?" he said.
 "Or do I annihilate the Islamic Republic and do it quickly, never giving them a chance to kill and destroy people and countries again? Do I drive them into hell?"
 On Friday, Araghchi said Iran did not accept "coercion, threats or intimidation" and added that "peace cannot be built through threats of annihilation".
   - Published11 September
-  - Published2 days ago
+  - Published3 days ago
   - Published18 June</description></item><item><title>OpenAI bots meddled with multiple US government agency sites</title><link>https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
@@ -40,9 +47,9 @@ On Friday, Araghchi said Iran did not accept "coercion, threats or intimidation"
 OpenAI bots meddled with multiple US government agency sites
 - Published
 OpenAI has acknowledged that it alerted "dozens" of global institutions that their websites may have been meddled with by its AI bots acting improperly.
-AI agents attempted to get information from "governments, universities, public agencies, and other institutions", including the SEC, Census Bureau and Education Department, the company said.
-The disclosures come just days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme, Medicare.
-Since August, public fears have grown around the potentially serious, even life-threatening, impacts of AI tools falling outside of human control.
+AI agents attempted to get information from "governments, universities, public agencies, and other institutions", including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said.
+The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme.
+Since August, public fears have grown over the potentially serious, even life-threatening, impacts of AI tools falling outside of human control.
 OpenAI said that some of the data was accessed by AI agents, essentially bots that are designed and trained to operate somewhat autonomously, which were working to find "authoritative sources of public information".
 But the company noted that some of the bots went beyond that and worked to bypass security measures on websites.
 When attempting to get information from the Census Bureau, for instance, AI agents used tools reserved for software developers to access it, the company said.
@@ -51,7 +58,7 @@ However, it noted that information that its bots accessed from the SEC, which re
 In other instances that OpenAI disclosed on Friday, its AI agents transferred data when it should not have.
 Such activity resulted in at least 53 incidents where an OpenAI agent took an image from ChatGPT user activity and transferred it elsewhere.
 The company said that in each instance of a user image being used and transferred by an AI agent, the user had opted in to allow OpenAI to train models using their data.
-Nevertheless, OpenAI admitted: "This is not an appropriate use of this data".
+Nevertheless, OpenAI admitted: "This is not an appropriate use of this data."
 It added that the leak of user images occurred before it had put in place new safeguards on AI training, and it was working to get all the user images transferred to any third-party removed.
 Reuters first reported the expanded investigations. OpenAI also published details to its public blog.
 In certain instances of the agent activity, OpenAI said the tools "bypassed" security controls of some websites.
@@ -67,7 +74,7 @@ Not all of the instances involved in this incident were being considered a signi
 The company said many of the incidents are being referred to as "agent spam", which it described as "unexpected or concerning" AI agent activity, like posting information to the internet.
 OpenAI began taking such incidents more seriously after an incident in July where a group, or "swarm," of its AI agents hacked the AI developer platform Hugging Face without being prompted to do so.
 Hugging Face was first to go public with the incident, with OpenAI publicly taking responsibility for it later.
-Clement Delangue, the head of Hugging Face, said Wednesday during a United Nations Security Council session on AI: "I often wonder what would have happened had I decided not to disclose this attack publicly."
+Clement Delangue, the head of Hugging Face, during a United Nations Security Council session on AI on Wednesday: "I often wonder what would have happened had I decided not to disclose this attack publicly."
 "Especially now that we know similar incidents had been happening months earlier in secret at a handful of frontier labs without monitoring," Delangue added.
 During that same UN meeting, OpenAI CEO Sam Altman and Dario Amodei, the head of rival firm Anthropic, asked for international leaders to form global standards for AI safety and ways to monitor and report such incidents.
 While OpenAI and Anthropic have both said in recent weeks that they will bring third-party evaluators inside their companies to do real-time safety evaluations of AI tools and models, such evaluators have not yet arrived, as the BBC has reported.
@@ -79,7 +86,27 @@ He called for "an immediate, indefinite, international moratorium" on AI develop
 Related topics
   - Published1 day ago
   - Published10 September
-  - Published6 days ago</description></item><item><title>Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says</title><link>https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&amp;at_campaign=rss
+  - Published6 days ago</description></item><item><title>Bangkok roads submerged as flood disaster declared</title><link>https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Bangkok roads submerged as flood disaster declared
+- Published
+A flood emergency disaster has been declared across Bangkok after 48 hours of heavy rain left roads in the Thai capital submerged.
+People have been urged to stay at home and those living close to the city's network of canals have been advised to move their belongings to upper floors.
+Thunderstorms are common in Thailand at this time of year but extreme weather in recent days has inundated Bangkok's drainage system, causing traffic chaos on roads that are already famously congested.
+The rain is expected to continue into Sunday, raising fears that more canals could burst their banks.
+Somkid Pheuk-ngam, a 67-year-old who lives near a canal just north of central Bangkok, told the AFP news agency: "The water keeps coming in. It's hard to go out now. It's like at my waist level now.
+"I cannot go anywhere. I have been closing my shop for two days now."
+She said water levels in the city appeared to be worse than in 2011, when Bangkok was impacted by nationwide flooding.
+Hundreds were killed across Thailand then in an extreme weather event that lasted for three months. So far, no casualties have been reported in Bangkok from this latest flooding.
+The Thai Meteorological Service has forecast more heavy rain through the week, though the area of low pressure causing the downpours of recent days is expected to move towards central Thailand.
+All 50 of Bangkok's districts have been declared emergency zones.
+Chadchart Sittipunt, the city's governor, said the east of the city had been hardest hit, AFP reported.
+He continued: "The rain keeps falling and we are doing our best. We are trying to pump the water out, but the water in canals are full... The risk areas are those who live near canals. Every canal is now filled."
+Related topics
+  - Published4 hours ago
+  - Published2 days ago</description></item><item><title>Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says</title><link>https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -172,7 +199,94 @@ He said South Africa had never prevented people from leaving and had addressed a
 But he added: "It's a problem all around. It's not rural. It's not farm attacks only. If you look at the total picture, the huge levels of crime in the black townships of South Africa are the biggest concern, proportionally, far more than anything else."
 He said he would encourage the US to help South Africa with resources on combatting crime, including by providing equipment to speed up reaction times.
 Meyer also has a message for Afrikaners protesting against "farm attacks" by laying white crosses in Washington.
-"It doesn't help us to raise a voice outside, if we are not committed to doing something inside the country," he says.</description></item><item><title>Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach</title><link>https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&amp;at_campaign=rss
+"It doesn't help us to raise a voice outside, if we are not committed to doing something inside the country," he says.</description></item><item><title>Black woman found hanging from tree was dead before body was 'staged', police say</title><link>https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Black woman found hanging from tree was dead before body was 'staged', police say
+- Published
+Warning: This story contains distressing details
+Police in the US state of Mississippi have said that they believe a black woman was already dead before her body was "staged" and placed hanging in a tree.
+The disclosure was made in court by a detective on Friday, who also said they believed Tasia Fortune, a mother of four, had been killed in a dispute related to drugs.
+The 29-year-old's body was found hanging from a tree at an abandoned home in Jackson in August.
+The discovery sparked widespread fears in the majority-black city, due to the state's deep history of racial violence and lynchings. After weeks of speculation and demands for information, police made multiple arrests.
+In a news release, police said that the medical examiner had determined that Fortune's death was a homicide and that "the scene and the hanging were staged".
+Officials have not stated the exact cause of death or shared why they believe the hanging was staged.
+Fortune's mother told the BBC that she remembers the coroner telling her: "we're not treating this as [an] actual hanging." Her daughter, they told her, was dead before being placed in the tree.
+Christy Spivey also recalled police telling her the incident was "drug related".
+Speaking to reporters outside the Jackson Police Department on Friday, Spivey described how she knows her daughter fought for her life till the very end.
+"I know she did. I know my daughter," Spivey told reporters. Fortune leaves behind four young children, ages 7, 5, 4 and 1, she added.
+Dressed in a shirt that reads "Justice for Tasia Fortune", Spivey stressed that she does not want to see any innocent people going to jail.
+"I just hope they have the right people," she said.
+Three people have so far been arrested in relation to the case, all of whom are black, including Jarques Ratliff, 51, who has pleaded not guilty. He remains in custody without bond.
+A second person, Earnest Lloyd Jr, 25, was arrested in the case this week.
+A third, 45-year-old Eric Clark, turned himself in to authorities on Friday and was charged with murder. He is scheduled to appear in court on Monday.
+The 29-year-old's death is one of several cases in recent years that has prompted lawmakers to call on the justice department and the FBI to investigate all hanging deaths of black people in the country.
+Representative Ayanna Pressley, Democrat of Massachusetts, cites at least 10 documented incidents in her September letter to Congress, external, which contained over 50 signatures from US lawmakers.
+The most recent incident happened in Prince George's County, a majority-black suburb near Washington DC, on Sunday. It has been ruled a suicide.
+Related topics
+  - Published12 September</description></item><item><title>At least two dead after explosion destroys building close to Acropolis in Athens</title><link>https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+At least two dead after explosion destroys building close to Acropolis in Athens
+- Published
+At least two people have died and four more are missing after an explosion destroyed a building housing a holiday rental property in the historic centre of Athens.
+The blast happened in the Plaka area of the Greek capital, a neighbourhood close to tourist sites such as the Acropolis, with local media reporting the building housed a holiday rental.
+An American man and woman have died, with two more US tourists missing, AFP news agency reported citing local officials. A Greek national and UK national who lived in the building are also said to be missing.
+Pictures from the scene showed emergency service workers searching through rubble, with a gas leak the suspected cause of the blast.
+The body of a woman was found on Saturday morning, with a Greek fire official later telling reporters the body of a man had also been found.
+The tourists were confirmed to be missing when they did not arrive for their flight at Athens airport, Reuters news agency reported citing local police.
+Athens Mayor Haris Doukas said: "We are talking about an incredible disaster."
+The three-storey building completely collapsed due to the force of the blast, with neighbouring buildings damaged and debris scattered across the road.
+Local media reported people were injured by material scattered across nearby streets and some buildings needed to be evacuated.
+Excavators and thermal imaging cameras have been used at the scene to search for survivors.
+The explosion happened on a small road situated between two of Athens' most visited sites - the Acropolis and the Temple of Olympian Zeus.
+BBC News has contacted the UK Foreign Office.</description></item><item><title>White House bars CNN from travelling with Trump on Air Force One</title><link>https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+White House bars CNN from travelling with Trump on Air Force One
+- Published
+US broadcaster CNN has been barred from travelling with President Donald Trump on Air Force One for a trip to Tennessee on Saturday.
+The move is the latest in a battle between the White House and the media after it was forced to lift its ban on some news outlets.
+CNN was scheduled to fly with Trump for his trip to Tennessee for a college American football game until a note released on Friday night by the White House did not list the broadcaster on the media schedule.
+The BBC has requested comment from the White House.
+CNN has reported that no other outlet was listed as replacing them in the president's tentative schedule.
+Last week Trump banned CNN, Politico and MS NOW journalists from the White House after accusing them of writing "fiction or lies" about his administration.
+All three media outlets said they were pursuing legal action, and accused Trump of violating their constitutional rights to free speech and freedom of the press.
+Four television networks that have a daily rotation of White House coverage along with CNN - ABC, CBS, Fox News and NBC - had paused their broadcasts of the president in solidarity with the banned outlets.
+The White House then launched its own streaming channel, Trump TV, ahead of the United General Assembly in New York.
+A federal judge has since ruled Trump barring news outlets from the White House was likely unconstitutional and the administration had to let them back in, at least for now.
+However, the White House still denied entry to some CNN and MS NOW reporters assigned to cover arrivals for a state dinner for Chinese leader Xi Jinping on Thursday.
+A White House communications account earlier posted on X that "contrary to what the Fake News wants you to believe, they don't just get to have free rein into every part of the White House, every event, and every press call".
+Regular US television coverage resumed on Friday after White House officials allowed reporters entry.
+The president is set to attend a football game between University of Tennessee vs University of Texas College at Neyland Stadium in Knoxville from midday on Saturday.
+Related topics
+  - Published16 hours ago</description></item><item><title>Brazil's Lula bans online gambling ahead of presidential election</title><link>https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Brazil's Lula bans online gambling ahead of presidential election
+- Published
+Brazilian President Luiz Inácio Lula da Silva has announced a ban on online gambling, just days before an election in which he is seeking a fourth term as the country's leader.
+Lula, who is running against the son of the incarcerated former Brazilian President Jair Bolsonaro, signed a provisional order on Friday that "prohibits all sports betting and online casinos".
+The online gambling industry in Brazil was legalised in 2018 and has since been blamed for widespread household income losses due to addiction.
+Lula described the industry as a "cancer" in his announcement, adding "either we remove the tumour, or it kills us".
+The move comes just over a week before the first round of voting in Brazil's presidential election. Recent polls have the 80-year-old leader almost neck-and-neck with Flávio Bolsonaro.
+The new measures must receive congressional approval within 120 days to remain in force.
+Lula acknowledged online betting was created under the former President Michel Temer's administration but that it "grew without regulation under Bolsonaro's management", in a statement on X .
+He said that there were "no restrictions" particularly for preventing children and adolescents from accessing online betting.
+"We won't allow betting companies to profit at the expense of Brazilian families' income and lives," the president added.
+The president described how he had heard from families who had sold everything in their houses because of their gambling addictions.
+Separate to the online betting order, Lula also signed a bill to penalise criminal offences related to fixed-odds betting.
+Earlier this week, at the United Nations General Assembly, Lula accused the industry of "transforming addiction into profit".
+But Flávio Bolsonaro called the gambling crackdown "populist, hypocritical and politically motivated" during a campaign rally in Rio de Janeiro on Friday, according to Reuters.
+Most types of gambling, such as casinos and slot machines, are illegal in Brazil, but ever since online betting was legalised in 2018, it has exploded in popularity.
+About 59.9% of Brazilian adults support banning internet betting, a survey by Atlas and Bloomberg published this week has found.
+Related topics
+  - Published18 August
+  - Published13 August</description></item><item><title>Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach</title><link>https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -188,6 +302,7 @@ Some agents are also concerned about the risk of physical attacks from cyber cri
 "They could use this information to harass an FBI agent who has worked on their cases."
 Personal concerns
 Groups similar to ShinyHunters - believed to be an English-speaking gang - have in the past been linked to swatting incidents, and even petrol bomb attacks against law enforcement officers and rivals.
+Swatting is a phenomenon so-called because perpetrators make calls that prompt armed police units - called Swat teams in the US - to swoop in on victims.
 The group claims it breached FBI systems on Monday and later posted details of the attack on its darknet site.
 The FBI has not responded to requests for comment.
 However, on Wednesday the agency acknowledged the breach - saying it was "aggressively investigating" how it occurred.
@@ -225,33 +340,86 @@ Kaiser added that the hackers have been "reckless and foolish" and warned them t
 Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
 Related topics
   - Published13 April
-  - Published16 July</description></item><item><title>Black woman found hanging from tree was dead before body was 'staged', police say</title><link>https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&amp;at_campaign=rss
+  - Published16 July</description></item><item><title>Supreme Court allows Trump to use controversial database to check voter citizenship</title><link>https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Black woman found hanging from tree was dead before body was 'staged', police say
+Supreme Court allows Trump to use controversial database to check voter citizenship
 - Published
-Warning: This story contains distressing details
-Police in the US state of Mississippi have said that they believe a black woman was already dead before her body was "staged" and placed hanging in a tree.
-The disclosure was made in court by a detective on Friday, who also said they believed Tasia Fortune, a mother of four, had been killed in a dispute related to drugs.
-The 29-year-old's body was found hanging from a tree at an abandoned home in Jackson in August.
-The discovery sparked widespread fears in the majority-black city, due to the state's deep history of racial violence and lynchings. After weeks of speculation and demands for information, police made multiple arrests.
-In a news release, police said that the medical examiner had determined that Fortune's death was a homicide and that "the scene and the hanging were staged".
-Officials have not stated the exact cause of death or shared why they believe the hanging was staged.
-Fortune's mother told the BBC that she remembers the coroner telling her: "we're not treating this as [an] actual hanging." Her daughter, they told her, was dead before being placed in the tree.
-Spivey also recalled police telling her the incident was "drug related".
-Speaking to reporters outside the Jackson Police Department on Friday, Spivey described how she knows her daughter fought for her life till the very end.
-"I know she did. I know my daughter," Spivey told reporters. Fortune leaves behind four young children, ages 7, 5, 4 and 1, she added.
-Dressed in a shirt that reads "Justice for Tasia Fortune", Spivey stressed that she does not want to see any innocent people going to jail.
-"I just hope they have the right people," she said.
-Three people have so far been arrested in relation to the case, all of whom are black, including Jarques Ratliff, 51, who has pleaded not guilty. He remains in custody in without bond.
-A second person, Earnest Lloyd Jr, 25, was arrested in the case this week.
-A third, 45-year-old Eric Clark, turned himself in to authorities on Friday and was charged with murder. He is scheduled to appear in court on Monday.
-The 29-year-old's death is one of several cases in recent years that has prompted lawmakers to call on the justice department and the FBI to investigate all hanging deaths of black people in the country.
-Representative Ayanna Pressley, Democrat of Massachusetts, cites at least 10 documented incidents in her September letter to Congress, external, which contained over 50 signatures from US lawmakers.
-The most recent incident happened in Prince George's County, a majority-black suburb near Washington DC, on Sunday. It has been ruled a suicide.
-Related topics
-  - Published12 September</description></item><item><title>Pope warns against 'losing humanity' to AI machines</title><link>https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&amp;at_campaign=rss
+The US Supreme Court has lifted restrictions on the Trump administration to use a controversial federal database that uses citizenship information and other sensitive data to identify voters suspected of being non-citizens.
+Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.
+In June, a federal judge ruled that the system was illegal and violated the privacy rights of Americans.
+But the top court's conservative majority ruled that the National Voter Registration Act prohibits broad purges of voter rolls in the weeks before an election, which limits any "potential impact" of the decision ahead of the midterms.
+But states can still check the citizenship of individual voters.
+The three liberal-leaning justices on the Supreme Court dissented from the majority decision.
+One of the dissenting Supreme Court justices, Ketanji Brown Jackson, expressed concern that this could mistakenly revoke the voting rights of eligible voters.
+"The harm caused by burdening or disenfranchising even a few lawful voters outweighs the non-existent harm that the government experiences when it is prevented from taking an action that it likely lacks the authority to take," she wrote.
+The Department of Homeland Security programme, known as Systematic Alien Verification for Entitlements (Save), allows officials to verify the eligibility of voters on their rolls.
+The database was first created in 1986 to help officials verify the citizenship or immigration status of those applying for public benefits.
+But the Trump administration last year expanded its search capabilities by allowing bulk searches using sensitive information from Social Security rolls.
+In June, however, US District Judge Sparkle L Soonnan - a Biden-appointee - ruled that the revamped system shows that the federal government "knowingly trampled on the privacy rights" of US citizens "in a manner that threatens the sacred right to vote".
+A federal appeals court allowed her ruling to stand, only to be overridden by the Supreme Court on Friday.
+The top court ruled that a 1996 law allows DHS to seek citizenship and immigration data from federal agencies, and has "an obligation to respond" to states seeking that information.
+The use of the Save programme by individual states is voluntary.
+The previous judge's order, the Supreme Court ruled, "prevents the federal government from using the programme it believes is best suited to the task".
+Voting rights groups called the ruling "profoundly disappointing".
+"...it puts millions of Americans at risk of being unlawfully targeted by the administration's unreliable voter purge database weeks before the midterm elections," the League of Women Voters, the lead plaintiff in the case, said in a statement.
+"We will be doing everything in our power to protect Americans' voting and privacy rights by ensuring that the district court decision stands," it said.
+Lawyers for the Trump administration have long argued that the system is lawful and necessary to prevent non-citizens from voting. A total of 27 states currently use the system to check voter citizenship.
+Critics, however, have pointed to a number of cases of the system already having led to mistakes.
+For example, officials in Travis County, Texas, found that of nearly 100 voters identified as non-citizens, at least 10% of them - and potentially more - were US citizens, according to US media reports.
+Since the state began checking its voter rolls with the Save system last year, only three non-citizen voters have been charged with illegally voting in Texas.
+Some states, like Georgia, have worked with the government on the Save programme.
+Georgia Secretary of State Brad Raffensperger, a Republican, has touted his office's work with the programme and his recommendations to improve the system.
+Raffensperger told the BBC his office thoroughly vetted the government-provided data to determine whether flagged individuals were non-citizens, even interviewsing some of the voters in question to ensure accuracy.
+"There's always guardrails in place, to make sure that we never denied the right to vote," Raffensperger said.
+Since returning to the White House in January last year, the Trump administration has sought to reform the US electoral system, a process that has included a bid - rejected by the Supreme Court - to reign in mail-in ballots.
+In 2024, for example, Texas Governor Greg Abbott announced that 1,930 people with a "voter history" had been removed from electoral rolls out of a total of nearly 18 million registered voters.
+The figures are far below the hundreds of thousands of non-citizen voters that Trump and the Department of Homeland Security have previously suggested were on voter rolls.
+Kayla Epstein contributed to this report.</description></item><item><title>Two arrested after people seen mysteriously emerging from various New York City sewers </title><link>https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Two arrested after people seen mysteriously emerging from various New York City sewers
+- Published
+New York officials arrested two of three men who they said were seen emerging from a manhole, exiting the city's underground sewer system on Wednesday.
+The New York Police Department (NYPD) arrested 26-year-old Kevin Rodriguez and 25-year-old Samuel Reveron on charges of conspiracy and trespassing.
+Three men were seen exiting a manhole near the hotel where Israeli Prime Minister Benjamin Netanyahu was reportedly expected to stay for the United Nations General Assembly.
+In a statement to the BBC, the NYPD said it had seen a number of incidents involving people going into the sewer system to look for valuables and scrap metal after a storm.
+"This incident fits that same criteria, but out of an abundance of caution given the U.N. General Assembly and the sensitivity of the location, the NYPD is conducting additional security sweeps with our federal partners," the police department said in a statement.
+Rodriguez and Reveron, both from Queens, were arrested on Thursday. They allegedly fled the scene after climbing out of the manhole when officers were called around 4:30 EST (9:30 BST) on Wednesday, police said.
+During a hearing on Friday morning, the two men pleaded not guilty and were released from custody, according to court records.
+The arrests follow a string of incidents in which people were seen emerging from pavement manholes in different parts of the city in recent months.
+In August, surveillance footage showed a person coming out of a manhole in Queens early in the morning. The same month, the NYPD said it was investigating three people wearing overalls and headlamps seen climbing out of a manhole near Penn Station.
+In May, a group of people were captured on surveillance footage shifting a manhole cover and climbing down into the sewer in South Brooklyn.
+Going into the New York sewer system is both illegal and dangerous, officials have said, cautioning that there is a risk of toxic gases and flooding in a confined space.
+"For these reasons, members of the public should never enter a pipe, drain, catch basin, manhole, or outfall," the city's Department of Environmental Protection previously told the BBC.
+This year, a woman died after she opened her car door and accidentally fell into an open manhole in Midtown Manhattan.</description></item><item><title>Trump's plans for massive arch move ahead</title><link>https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Trump's plans for massive arch move ahead
+- Published
+US President Donald Trump's plans for building a massive arch appear to be moving ahead, after a federal advisory council terminated talks on how to handle the 250-foot structure's possible effects on nearby historic sites.
+The council, led by Trump appointees, announced on Thursday it was ending required consultations on the project, saying historic preservation officers from Washington and Virginia had refused to sign off on harm-mitigation plans.
+Construction was already expected to begin this month, but opposition has been growing.
+On Friday, Democratic Senator Tammy Duckworth blasted plans to use the arch for defence as "foolhardy" and called it "yet another Trump vanity project".
+Earlier this week Trump announced that the proposed "Triumphal Arch" would double as a complex to store military equipment, complete with the ability to deploy snipers and drones from the roof and plaza.
+In a letter to the Pentagon and Federal Aviation Administration (FAA), Duckworth said they "must reject this foolhardy plan and instead focus on increasing the safety of the airspace".
+The arch is to be built just outside Arlington National Cemetery in Virginia, and about 4mi (6km) from Ronald Reagan Washington National Airport, the site of the deadly 2025 midair crash between a military helicopter and commercial plane.
+"The American people cannot afford to stand witness to Trump's risky plan to place a 250-foot (72m) structure along a busy approach path, especially if he follows through on plans to station snipers on the arch and fly drones," Duckworth wrote in the letter, which was obtained by the BBC's US partner, CBS News.
+The FAA, however, ruled last week that the massive structure would not pose a risk to flights coming into and out of the airport.
+On Thursday, the Advisory Council on Historic Preservation, led by Trump appointees, announced it was ending required consultations with local officials about how the structure might affect 42 historic properties in the area.
+The council said in the announcement that the National Park Service, which oversees federal landmarks, had proposed a plan for mitigating potential harms to those properties, but local historic preservation officers "raised concerns with the purpose and need of the Triumphal Arch". They also questioned whether the service had adequately identified possible harms and planned sufficient actions to address them.
+Federal and state officials are not required to reach an agreement on a project's harm-mitigation plans, and those consultations are allowed to be terminated if both sides can't agree. The council expects to submit a final report on the process early next month.
+Meanwhile, Democratic Virginia Congressman Don Beyer says excavation work on the site where the arch will stand has already begun.
+Beyer, who is leading congressional opposition to the arch, said he found workers operating heavy equipment when he visited the site on Thursday who told him they were "conducting archaeological work to evaluate the composition of the soil".
+That is "deeply troubling", Beyer said, particularly because the administration is required to give 48 hours notice before work can begin.
+"The Administration appears to be pushing ahead with activity at the site even while it still has not done the basic work necessary to understand the consequences of this project," Beyer wrote.
+A rendering of the design from earlier this year includes a golden, winged Lady Liberty on the top of the arch, flanked by two gold eagles, and with the phrases "One Nation Under God" and "Liberty and Justice for All" inscribed in gold on either side of the structure.
+  - Published21 May
+  - Published16 April
+  - Published21 August</description></item><item><title>Pope warns against 'losing humanity' to AI machines</title><link>https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -292,86 +460,7 @@ But in recent years there have been signs of a growing interest in religious tra
 Get our flagship newsletter with all the headlines you need to start the day. Sign up here.
 Related topics
   - Published13 April
-  - Published30 November 2025</description></item><item><title>Two arrested after people seen mysteriously emerging from various New York City sewers </title><link>https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Two arrested after people seen mysteriously emerging from various New York City sewers
-- Published
-New York officials arrested two of three men who they said were seen emerging from a manhole, exiting the city's underground sewer system on Wednesday.
-The New York Police Department (NYPD) arrested 26-year-old Kevin Rodriguez and 25-year-old Samuel Reveron on charges of conspiracy and trespassing.
-Three men were seen exiting a manhole near the hotel where Israeli Prime Minister Benjamin Netanyahu was reportedly expected to stay for the United Nations General Assembly.
-In a statement to the BBC, the NYPD said it had seen a number of incidents involving people going into the sewer system to look for valuables and scrap metal after a storm.
-"This incident fits that same criteria, but out of an abundance of caution given the U.N. General Assembly and the sensitivity of the location, the NYPD is conducting additional security sweeps with our federal partners," the police department said in a statement.
-Rodriguez and Reveron, both from Queens, were arrested on Thursday. They allegedly fled the scene after climbing out of the manhole when officers were called around 4:30 EST (9:30 BST) on Wednesday, police said.
-During a hearing on Friday morning, the two men pleaded not guilty and were released from custody, according to court records.
-The arrests follow a string of incidents in which people were seen emerging from pavement manholes in different parts of the city in recent months.
-In August, surveillance footage showed a person coming out of a manhole in Queens early in the morning. The same month, the NYPD said it was investigating three people wearing overalls and headlamps seen climbing out of a manhole near Penn Station.
-In May, a group of people were captured on surveillance footage shifting a manhole cover and climbing down into the sewer in South Brooklyn.
-Going into the New York sewer system is both illegal and dangerous, officials have said, cautioning that there is a risk of toxic gases and flooding in a confined space.
-"For these reasons, members of the public should never enter a pipe, drain, catch basin, manhole, or outfall," the city's Department of Environmental Protection previously told the BBC.
-This year, a woman died after she opened her car door and accidentally fell into an open manhole in Midtown Manhattan.</description></item><item><title>Supreme Court allows Trump to use controversial database to check voter citizenship</title><link>https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Supreme Court allows Trump to use controversial database to check voter citizenship
-- Published
-The US Supreme Court has lifted restrictions on the Trump administration to use a controversial federal database that uses citizenship information and other sensitive data to identify voters suspected of being non-citizens.
-Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.
-In June, a federal judge ruled that the system was illegal and violated the privacy rights of Americans.
-But the top court's conservative majority ruled that the National Voter Registration Act prohibits broad purges of voter rolls in the weeks before an election, which limits any "potential impact" of the decision ahead of the midterms.
-But states can still check the citizenship of individual voters.
-The three liberal-leaning justices on the Supreme Court dissented from the majority decision.
-One of the dissenting Supreme Court justices, Ketanji Brown Jackson, expressed concern that this could mistakenly revoke the voting rights of eligible voters.
-"The harm caused by burdening or disenfranchising even a few lawful voters outweighs the non-existent harm that the government experiences when it is prevented from taking an action that it likely lacks the authority to take," she wrote.
-The Department of Homeland Security programme, known as Systematic Alien Verification for Entitlements (Save), allows officials to verify the eligibility of voters on their rolls.
-The database was first created in 1986 to help officials verify the citizenship or immigration status of those applying for public benefits.
-But the Trump administration last year expanded its search capabilities by allowing bulk searches using sensitive information from Social Security rolls.
-In June, however, US District Judge Sparkle L Soonnan - a Biden-appointee - ruled that the revamped system shows that the federal government "knowingly trampled on the privacy rights" of US citizens "in a manner that threatens the sacred right to vote".
-A federal appeals court allowed her ruling to stand, only to be overridden by the Supreme Court on Friday.
-The top court ruled that a 1996 law allows DHS to seek citizenship and immigration data from federal agencies, and has "an obligation to respond" to states seeking that information.
-The use of the Save programme by individual states is voluntary.
-The previous judge's order, the Supreme Court ruled, "prevents the federal government from using the programme it believes is best suited to the task".
-Voting rights groups called the ruling "profoundly disappointing".
-"...it puts millions of Americans at risk of being unlawfully targeted by the administration's unreliable voter purge database weeks before the midterm elections," the League of Women Voters, the lead plaintiff in the case, said in a statement.
-"We will be doing everything in our power to protect Americans' voting and privacy rights by ensuring that the district court decision stands," it said.
-Lawyers for the Trump administration have long argued that the system is lawful and necessary to prevent non-citizens from voting. A total of 27 states currently use the system to check voter citizenship.
-Critics, however, have pointed to a number of cases of the system already having led to mistakes.
-For example, officials in Travis County, Texas, found that of nearly 100 voters identified as non-citizens, at least 10% of them - and potentially more - were US citizens, according to US media reports.
-Since the state began checking its voter rolls with the Save system last year, only three non-citizen voters have been charged with illegally voting in Texas.
-Some states, like Georgia, have worked with the government on the Save programme.
-Georgia Secretary of State Brad Raffensperger, a Republican, has touted his office's work with the programme and his recommendations to improve the system.
-Raffensperger told the BBC his office thoroughly vetted the government-provided data to determine whether flagged individuals were non-citizens, even interviewsing some of the voters in question to ensure accuracy.
-"There's always guardrails in place, to make sure that we never denied the right to vote," Raffensperger said.
-Since returning to the White House in January last year, the Trump administration has sought to reform the US electoral system, a process that has included a bid - rejected by the Supreme Court - to reign in mail-in ballots.
-In 2024, for example, Texas Governor Greg Abbott announced that 1,930 people with a "voter history" had been removed from electoral rolls out of a total of nearly 18 million registered voters.
-The figures are far below the hundreds of thousands of non-citizen voters that Trump and the Department of Homeland Security have previously suggested were on voter rolls.
-Kayla Epstein contributed to this report.</description></item><item><title>Trump's plans for massive arch move ahead</title><link>https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Trump's plans for massive arch move ahead
-- Published
-US President Donald Trump's plans for building a massive arch appear to be moving ahead, after a federal advisory council terminated talks on how to handle the 250-foot structure's possible effects on nearby historic sites.
-The council, led by Trump appointees, announced on Thursday it was ending required consultations on the project, saying historic preservation officers from Washington and Virginia had refused to sign off on harm-mitigation plans.
-Construction was already expected to begin this month, but opposition has been growing.
-On Friday, Democratic Senator Tammy Duckworth blasted plans to use the arch for defence as "foolhardy" and called it "yet another Trump vanity project".
-Earlier this week Trump announced that the proposed "Triumphal Arch" would double as a complex to store military equipment, complete with the ability to deploy snipers and drones from the roof and plaza.
-In a letter to the Pentagon and Federal Aviation Administration (FAA), Duckworth said they "must reject this foolhardy plan and instead focus on increasing the safety of the airspace".
-The arch is to be built just outside Arlington National Cemetery in Virginia, and about 4mi (6km) from Ronald Reagan Washington National Airport, the site of the deadly 2025 midair crash between a military helicopter and commercial plane.
-"The American people cannot afford to stand witness to Trump's risky plan to place a 250-foot (72m) structure along a busy approach path, especially if he follows through on plans to station snipers on the arch and fly drones," Duckworth wrote in the letter, which was obtained by the BBC's US partner, CBS News.
-The FAA, however, ruled last week that the massive structure would not pose a risk to flights coming into and out of the airport.
-On Thursday, the Advisory Council on Historic Preservation, led by Trump appointees, announced it was ending required consultations with local officials about how the structure might affect 42 historic properties in the area.
-The council said in the announcement that the National Park Service, which oversees federal landmarks, had proposed a plan for mitigating potential harms to those properties, but local historic preservation officers "raised concerns with the purpose and need of the Triumphal Arch". They also questioned whether the service had adequately identified possible harms and planned sufficient actions to address them.
-Federal and state officials are not required to reach an agreement on a project's harm-mitigation plans, and those consultations are allowed to be terminated if both sides can't agree. The council expects to submit a final report on the process early next month.
-Meanwhile, Democratic Virginia Congressman Don Beyer says excavation work on the site where the arch will stand has already begun.
-Beyer, who is leading congressional opposition to the arch, said he found workers operating heavy equipment when he visited the site on Thursday who told him they were "conducting archaeological work to evaluate the composition of the soil".
-That is "deeply troubling", Beyer said, particularly because the administration is required to give 48 hours notice before work can begin.
-"The Administration appears to be pushing ahead with activity at the site even while it still has not done the basic work necessary to understand the consequences of this project," Beyer wrote.
-A rendering of the design from earlier this year includes a golden, winged Lady Liberty on the top of the arch, flanked by two gold eagles, and with the phrases "One Nation Under God" and "Liberty and Justice for All" inscribed in gold on either side of the structure.
-  - Published21 May
-  - Published16 April
-  - Published21 August</description></item><item><title>Students strike across Germany in protest against military service</title><link>https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&amp;at_campaign=rss
+  - Published30 November 2025</description></item><item><title>Students strike across Germany in protest against military service</title><link>https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -396,320 +485,7 @@ Germany's former Chancellor, Angela Merkel, ended compulsory military service in
 But now, in the face of perceived threats from Russia and heavy pressure from Germany's traditional ally, the US, Merz has vowed to transform the Bundeswehr into Europe's strongest conventional army.
 The Bundeswehr currently has around 186,700 troops. By the early 2030s, Germany wants to raise the number to 260,000, supplemented by around 200,000 reservists, in order to meet new Nato force targets and strengthen Germany's defences.
   - Published5 December 2025
-  - Published13 November 2025</description></item><item><title>Man shot during 2024 Trump campaign rally in Butler dies</title><link>https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Man shot during 2024 Trump campaign rally in Butler dies
-- Published
-One of the three attendees who was shot at Donald Trump's 2024 presidential campaign rally in Butler, Pennsylvania, has passed away from complications stemming from his injuries, according to the Pennsylvania attorney general.
-Jim Copenhaver, 76, was struck twice when a gunman opened fire from a nearby rooftop. Another attendee, Corey Comperatore, was killed in the shooting and Trump's ear was grazed by a bullet.
-Copenhaver died on Wednesday at a hospital in Pittsburgh, Pennsylvania, according to a statement from the Allegheny County medical examiner shared with local media.
-The gunman, 20-year-old Thomas Crooks, was killed by Secret Service after he opened fire.
-In a post on his social media site Truth Social, Trump called Copenhaver a "true American patriot".
-"More than two years ago in Butler, Pennsylvania, a crazed gunman attempted to stifle our America First Movement. Instead, Jim and so many other wonderful Patriots who love our Country, stood united in defense of our shared values of Freedom, Liberty, and Justice," Trump said. "Our hearts and prayers are with the Copenhaver family, especially his incredible wife Marianne."
-An attorney for Copenhaver's family said his dedication to the US was a "defining part of his life".
-"As a veteran, he proudly served our nation in the armed forces, and his love of country never wavered," the lawyer said in a statement to the BBC's US partner CBS News.
-In an interview with CBS a year after the Butler rally, Copenhaver and David Dutch, the third attendee who was shot, said they had been through infections and surgeries after being wounded.
-Copenhaver was shot in the arm and the abdomen. A year later, the bullet was still lodged in his body next to his spine, he told CBS, causing him to walk with a cane.
-Both Dutch and Copenhaver sued the federal government for damages in June, arguing the Secret Service failed to ensure their safety and was therefore liable for their injuries.
-Republicans in the US House of Representatives also paid tribute to Copenhaver on Friday, saying in a social media post: "Jim endured unimaginable hardship with strength and perseverance."
-Related topics
-  - Published21 July 2024</description></item><item><title>Xi got Trump's red carpet welcome - but not everything he wanted</title><link>https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Xi got Trump's red carpet welcome - but not everything he wanted
-- Published
-President Xi Jinping's summits with Donald Trump have one clear aim.
-China believes the United States is trying to contain its rise as a superpower, and it wants Washington to stay out of its way - particularly when it comes to trade, technology and Taiwan.
-On this visit, however, despite Trump rolling out the red carpet for him, the Chinese leader didn't get everything he wanted.
-The trade truce that saw both countries pause a tit-for-tat tariff war and prevent a further escalation, was extended by only a few months - from November to January.
-Beijing had hoped for at least a year as Xi looks to ride out the remainder of Trump's presidency.
-This means key disputes on tariffs, China's dominance on rare earth supplies and access to advanced US chips are being kicked forward into yet another round of negotiations.
-This suggests the US wants China to do more to fulfil its side of the bargain before offering longer-term concessions.
-The uncomfortable truth for Xi is that his domestic economy is in trouble. While the country sells a record number of goods around the world, consumers at home are holding back. Youth unemployment remains stubbornly high and property prices have slumped in a country where 80% of people own their own homes.
-Trade is helping to prop up growth, making access to overseas markets more important than ever. Xi needs to protect those exports from the kind of debilitating tariffs the US imposed last year.
-On Taiwan, Xi once again made clear that US arms sales to Taiwan are a red line for China.
-The US is bound by law to provide the self-governing island with the means to defend itself.
-In May, Xi warned Trump that mishandling the issue could cause the two countries to "collide or even enter into conflict".
-Trump then delayed the approval of a $14 billion arms package for Taiwan, describing it as a "very good negotiating chip" with Beijing.
-Xi may have seized on that opening during the talks and likely argued that restraining support for Taiwan reduces the risk of conflict.
-On Thursday he reiterated his hope that the US would adhere to the "correct position" of opposing Taiwan independence.
-However, Trump - who is coming under some bipartisan pressure to continue US support to Taiwan - is yet to make any public response to the Chinese leader's comments.
-The two leaders did at least discuss artificial intelligence (AI) although it's unclear whether they agreed to any safeguards.
-All eyes were on whether they would make any concrete decisions on AI - such as an agreement to hold a summit - in the wake of an essay by Anthropic CEO Dario Amodei calling for the slowing down of AI development to make it safer. That followed a warning by a top safety researcher from the company that there was a "greater than 10% chance" that AI could cause the extinction of humans.
-But besides Xi talking about the importance of ensuring AI "is always under human control" we didn't get much else. Trump has most recently dismissed fears of human extinction from the technology as a "hoax".
-And, of course, let's not forget the pandas. The gift of Ping Ping and Fu Shuang to Atlanta was first heralded in April, but Xi has now announced they will arrive in just a few days as China's panda diplomacy resumes.
-There may be more announcements to come as the two prepare to have tea and visit the national archives on Friday.
-But for now, one of the summit's biggest victories for Beijing may have been the optics.
-The lavish welcome, a personal greeting at the airport and a state banquet featuring sesame crusted sea bass and braised baby bok choy have been welcomed by those watching from China. It will have helped cement Xi's image at home as Trump's equal.
-Memes contrasting the two leaders have spread widely on Chinese social media. One popular image shows Trump grimacing as bomber jets fly overhead, while Xi remained impassive.
-Xi has found a way to manage one of the world's most unpredictable leaders. But while Trump talks of a "truly great friendship", China's leader is focussed on something bigger: securing China's place alongside the United States as a superpower.
-The pandas, the pageantry and the warm words may help smooth this relationship. But beneath the spectacle, the competition between the world's two most powerful countries remains as fierce as ever.
-  - Published2 days ago
-  - Published1 day ago
-  - Published15 hours ago</description></item><item><title>Senior Kazakh officials detained after 14 service members swept out to sea</title><link>https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Senior Kazakh officials detained after 14 service members swept out to sea
-- Published
-Five senior military officials have been detained in Kazakhstan following the death of 14 service members who were taking part in military exercises.
-Those who died were among a total of 17 who were swept into the Caspian Sea as they were disembarking from a boat on Thursday. Officials say the incident occurred "during a combat training mission due to a sharp deterioration in meteorological conditions and increasing winds".
-Three were rescued.
-Those detained include the chief of staff and first deputy commander of Kazakhstan's Naval Forces, two military unit commanders, and the commanders of a marine company and a boat. They are suspected of criminal negligence.
-An interior ministry committee has been set up to investigate the incident, which occurred some 43km (27 miles) from the city of Aktau in south-western Kazakstan.
-Deputy Interior Minister Sanzhar Adilov said a pretrial investigation into the deaths was being conducted.
-The investigation was looking into the decisions made during the organisation and execution of the military training exercise, whether safety requirements had been observed, and weather conditions had been taken into account - in addition to technical specifications of the boat.
-More than 500 military personnel, warships and coastal units were participating in the Caspian Defense 2026 military exercise, according to the Kazakh ministry of defence.</description></item><item><title>Jay-Z rape accuser says her allegation was false</title><link>https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Jay-Z rape accuser says her allegation was false
-- Published
-A woman who accused Jay-Z of raping her when she was 13 has formally said her allegation was untrue.
-The unnamed woman filed a lawsuit in 2024 claiming she had been drugged and raped by Jay-Z, real name Shawn Carter, and Sean "Diddy" Combs at a party after the MTV Video Music Awards in 2000.
-The stars denied the allegation and she dropped the lawsuit last year. Carter then sued her and her lawyers.
-In a statement filed in that case on Thursday, she wrote: "Shawn 'Jay-Z' Carter never raped me. I have never met or spoken to Mr. Carter. Mr. Carter never engaged in any inappropriate conduct toward me whatsoever."
-The woman, known in court documents by the pseudonym Jane Doe, also said: "My claims that Mr Carter and Mr Combs raped me while a third celebrity, [name redacted] watched are false. There is no truth to any of my claims against Mr Carter.
-"I understand my false accusations have caused Mr Carter immense pain, suffering, and damage that can never be fully undone."
-Jay-Z and family's 'trauma'
-Carter had vehemently denied the accusations, saying they were a "blackmail attempt" and describing them as "frivolous, fictitious and appalling allegations".
-When the accuser dropped her case in February 2025, the rapper, who is married to singer Beyoncé, said: "The trauma that my wife, my children, loved ones and I have endured can never be dismissed."
-The woman, from Alabama, has now been removed from Carter's lawsuit.
-She said she had not received any money from the rap superstar or anyone acting on his behalf, and had not been paid to make her latest declaration.
-The rapper is still suing the woman's former lawyers, led by Tony Buzbee.
-In a statement to Rolling Stone, external, which first reported Jane Doe's new declaration, Buzbee said he had not seen it.
-He said: "We have multiple lawyers (at least four) who dealt with Ms Doe long before she met me. She gave the exact same story to each. If for some reason now she is claiming she lied to us and the court, that's new information."
-When Carter filed his lawsuit against the woman and her lawyers in February 2025, Buzbee claimed at the time that Carter's investigators had "repeatedly harassed, threatened and harangued this poor woman for weeks, trying to intimidate her and make her recant her story".
-In her new declaration, the woman said: "I never received any threat from Mr Carter or anyone acting on his behalf."
-'No due diligence'
-Setting out the events that led to her allegation, the woman said she saw an advert on Facebook in September or October 2024 looking for people who might have sexual assault claims against Combs. "The ad triggered memories of being raped when I was 13 years old," she said.
-She was contacted by a law firm but was not provided with a draft of the lawsuit containing her allegations and did not authorise it before it was filed in October 2024, she said.
-She also said Buzbee and other lawyers acting on her behalf filed it "without conducting any independent investigation, background inquiry, or due diligence, and without obtaining any corroboration of the allegations".
-She said: "The October Complaint alleges that Mr Carter and Mr Combs raped me when I was a minor while an unnamed celebrity watched. As discussed above, these allegations were false."
-Buzbee also represents numerous other people who have made allegations against Combs.
-Combs denied Jane Doe's claims, which his lawyer described at the time as one of a number of civil cases "pushed forward by an attorney more focused on media headlines than legal merit".
-The BBC has contacted Buzbee for comment.
-In July 2025, Combs was convicted by a criminal court on prostitution-related charges involving his two ex-girlfriends, and is currently serving a four-year prison sentence.
-  - Published4 March 2025
-  - Published15 February 2025
-  - Published9 December 2024</description></item><item><title>Internet restricted after fighting breaks out in Ethiopia's Tigray region</title><link>https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Internet restricted after fighting breaks out in Ethiopia's Tigray region
-- Published
-Internet and call services have been disrupted in Ethiopia's northern region of Tigray following the outbreak of fighting this week between regional forces and the national army.
-Services provided by state-owned telecoms operator Ethio Telecom have been completely cut, although those from the smaller private firm Safaricom remain operational. Internet monitoring group NetBlocks earlier posted on X that network data indicated a sub-national internet shutdown in northern Tigray.
-"Last night telecommunications got knocked out," Duke Burbridge, an American humanitarian worker in Tigray's capital, Mekelle, told the BBC's Newsday programme.
-The BBC has contacted Ethiopia's authorities for comment.
-Sources have told the Reuters news agency that the group which controls Tigray, the Tigray People's Liberation Front (TPLF), ordered the communications blackout, with one suggesting it was to disrupt government drones.
-The TPLF has not commented.
-The BBC is unable to report from Tigray and surrounding areas.
-Even before the current disruption, finding video and images to establish what is happening on the ground has been a challenge.
-So far, other than footage from Mekelle, most of what has been shared online has been from outside the region.
-Burbridge said there had been a scarcity of cash in Tigray for the past eight months, with people unable to access ATMs so the lack of internet services would be "devastating for everybody".
-Many people rely on banking and mobile money applications for transactions, with the majority using Ethio Telecom and Safaricom's networks to access these services.
-On Thursday a Mekelle resident who we are only identifying as Fitsum made a similar point.
-He told the BBC "there is almost no cash" in the city.
-With the outbreak of war, people were limiting their movements and the city was all quiet - "it's like a curfew has been placed," he said.
-Clashes between Tigrayan forces and their allies and Ethiopia's federal troops broke out on Wednesday, prompting fears of a return to a full scale civil war and reports of panic buying.
-A humanitarian source in the neighbouring region of Afar told the AFP news agency there was "heavy fighting overnight", including drone strikes, around the town of Abala in the mountains between Afar and Tigray, as "federal forces pushed the rebels from entering the town".
-There have also been reports of fighting near the town of Lalibela in the Amhara region, which is home to churches hewn out of rock, recognised as a UN World Heritage site. The US has warned against travel to all three regions.
-During the two-year conflict which ended in 2022, Tigray was totally cut off from the outside world.
-Limited access to cash, food and medicine pushed hundreds of thousands into famine-like conditions.
-It was one of the most deadly conflicts this century - with estimates that some 600,000 people died as the fighting drove the region to the precipice of famine.
-On Sunday, the TPLF announced an alliance with six other armed groups to oust the government.
-On Wednesday, its forces seized control of three airports from federal police.
-Following the seizure of the airports, Ethiopian Airlines has cancelled all flights to Tigray.
-Additional reporting by Peter Mwai, BBC Verify
-More about Tigray from the BBC:
-- 'I lost my leg on the way home from school' 
-  - Published2 November 2024
-- Is Ethiopia heading back to war in Tigray? 
-  - Published26 February
-- Ethiopia PM's party wins landslide as fears grow of new conflict 
-  - Published21 June
-Go to BBCAfrica.com, external for more news from the African continent.
-Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external</description></item><item><title>US backs Elon Musk's bid to overturn €120m EU fine against X</title><link>https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-US backs Elon Musk's bid to overturn €120m EU fine against X
-- Published
-The US government is seeking to join Elon Musk's legal challenge to overturn a €120m (£105m) EU fine against X over its blue tick badges.
-In December 2025, the European Commission said the platform "deceives users" by allowing people to pay for a blue verified check mark, because it is not "meaningfully verifying" who is behind the account.
-But US Assistant Attorney General Brett A. Shumate said on Thursday that the commission had "inappropriately attempted" to expand its reach to American companies outside its control.
-Musk, who spent millions helping elect Donald Trump and other Republicans, has previously claimed EU tech regulation "inhibits progress" for companies.
-The US Department of Justice (DOJ) has filed an application, external with the EU's General Court in support of Musk's and X's attempts to dismiss the case.
-It claims that under a section of law in the Statute of the Court of Justice of the EU, a state may intervene in disputes before the court if it "can establish an interest in the result of the case to the court".
-The DOJ said the US "has a clear interest" in ensuring any decision by the commission was applied consistently with "how territorial jurisdiction is generally understood in international law".
-It also wants to make sure it would not "otherwise prejudice" US-headquartered digital services that "contribute significantly" to its economy.
-In a press briefing on Friday, external, European Commission spokesperson Thomas Regnier said it was "ready to defend" its position in court.
-He added that the commission had an "solid case" at its disposal, due to the alleged breach of its Digital Services Act.
-In addition to its use of blue ticks, EU regulators had accused X of failing to provide transparency around its adverts and denying researchers access to public data.
-Henna Virkkunen, the regulator's executive vice-president for tech sovereignty, said at the time of the fine's issue it was "holding X responsible for undermining users' rights and evading accountability".
-"Deceiving users with blue checkmarks, obscuring information on ads and shutting out researchers have no place online in the EU," she said.
-US Secretary of State Marco Rubio and the Federal Communications Commission (FCC) had criticised the EU regulator, accusing it of attacking and censoring US firms.
-"The European Commission's fine isn't just an attack on X, it's an attack on all American tech platforms and the American people by foreign governments," Rubio wrote in a post on X.
-"The days of censoring Americans online are over."
-His remarks were reposted by Musk, who added "absolutely".
-The European Commission denied targeting any specific nationality, stating it is simply protecting its digital and democratic standards to maintain its role as a global benchmark.
-The action marked the Commission's first official non-compliance decision under the Digital Services Act (DSA), one of two mandatory rulebooks governing online platforms in the EU.
-However, the EU is also conducting several other investigations into the platform, including one into its integrated AI assistant Grok over concerns it was used to create sexualised images of real people.
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
-  - Published15 January
-  - Published12 July 2024
-  - Published24 November 2025</description></item><item><title>Netanyahu defends Israeli military action as delegates walk out before UN speech</title><link>https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Netanyahu defends Israeli military action as delegates walk out before UN speech
-- Published
-Israeli Prime Minister Benjamin Netanyahu has fiercely defended his country's military campaigns in Iran, Gaza and elsewhere in the Middle East in a speech to the UN General Assembly.
-After dozens of delegates walked out in protest as he took to the stage, Netanyahu vowed to continue fighting: "We're going to win. We have no other choice."
-In response to the walkout, he said: "If there are any other moral cowards who haven't left the hall, please do so now."
-The Israeli leader also rejected accusations that Israel is committing genocide in Gaza.
-Hours earlier, in a recorded message Palestinian President Mahmoud Abbas told the UN that Israeli policies - in particular the illegal expansion of Jewish settlements in the occupied West Bank - threatened "the very life and existence of the Palestinian people on their homeland".
-He also said it jeopardised the two-state solution, which is an internationally backed formula for peace between Israel and the Palestinians.
-Abbas said that Palestinians were being subjected to "killing, destruction, starvation and attempts at displacement, as well as a genocidal war" in Gaza by the Israeli military.
-The Palestinian leader was addressing the annual gathering via a video link because he had been denied a US entry visa.
-Netanyahu, who is subject to an International Criminal Court arrest warrant for alleged war crimes, launched scathing attacks on nations and leaders who have criticised him.
-"They accuse Israel, tiny Israel, of colonialism - some colonialism. And who's accusing us? Among them are people in Britain and in France. For God's sake, they invented the term," he said.
-Netanyahu also accused the media of misrepresenting violence by Jewish settlers in the occupied West Bank and said "maybe two or three" people are killed a year.
-But, according to figures published by the UN, 23 Palestinians have been killed in the context of settler attacks this year - and 72 since the beginning of 2023.
-Netanyahu went on to label Turkish President Recep Tayyip Erdogan a "tyrant", accusing him of supporting the Palestinian armed group Hamas.
-Erdogan told the UN on Tuesday that the injustices faced by those in Gaza and the West Bank "deeply offends the conscience of humanity".
-Netanyahu's comments drew a sharp response from the Turkish presidency's communications director Burhanettin Duran.
-The Israeli PM's use of the UN General Assembly podium to level "baseless accusations" against Turkey and Erdogan was incompatible with the UN's "ideals of peace, law and dialogue", Duran said, according to state-run news agency Anadolu.
-New York City's left-wing mayor Zohran Mamdani - who had previously vowed to arrest Netanyahu but later said he did not have the authority to do so - was also criticised by the Israeli leader.
-"Since you were elected mayor of this city, many Jews no longer feel safe in New York," the Israeli prime minister said.
-In a statement, Mamdani's office said Netanyahu "used his speech to repeat baseless lies meant to sanitize his genocide of Palestinians".
-Netanyahu also thanked US President Donald Trump for his "bold leadership", referring to the air strikes the US and Israel jointly launched against Tehran in February.
-"Israel and America acted together not only to protect ourselves, but to save civilisation," he said.
-Election campaign looms
-Much of Netanyahu's speech was pitched at the two audiences he needs to convince the most: Israelis as he faces a critical election at home next month, and Americans as Israel faces growing isolation and fractures in support abroad.
-In Israel, Netanyahu's once unrivalled image as "Mr Security" has come under increasing scrutiny in what is the first election since the 7 October 2023 attacks.
-Some political opponents have argued he is unfit for office following Israeli media reports, firmly denied by Netanyahu, that he did not heed warnings of a potential attack by Hamas.
-His characteristic defiance at the UN podium will be replayed in a campaign seeing his religious-right wing coalition trailing in the polls.
-Netanyahu appeared to have pre-scripted his comments about "moral cowards" as he faced a mass walkout.
-It will likely be used as he tries once again to burnish an image as being the only Israeli politician that can truly take on Israel's growing number of global critics.
-There were also clearly marked references meant for American audiences, including the joint US-Israeli strikes on Iran and his praise for Trump.
-Netanyahu, who was born in Israel but spent his formative years in Pennsylvania, has always tried to present himself as having a unique ability to pitch Israel's case in the US.
-Despite continued weapons supply from Washington, he faces an increasingly sceptical public.
-Polls suggest plummeting support for Israel among Democrats, and a fracture in historically high levels of backing among Republicans which has spread to Trump's Maga base.
-Celebrity protesters held
-A number of people protesting against Netanyahu's visit were detained in New York City.
-Among them were the Oscar-winning actress Susan Sarandon and Emmy-winning Hacks actress Hannah Einbinder.
-Also detained were Democratic congressional candidate Darializa Avila Chevalier and New York City council member Chi Osse.
-A spokesperson for the NYPD said officers had responded to reports of an "unscheduled demonstration" where protesters were blocking a junction.
-The Israeli military launched a ground offensive in the Gaza Strip after the 7 October 2023 Hamas attack against Israel, in which about 1,200 people were killed and 251 others taken hostages.
-During the Israeli military campaign more than 73,920 people have been killed in Gaza, according to the territory's Hamas-run health ministry.
-A resolution passed by the International Association of Genocide Scholars (IAGS) stated that Israel's conduct meets the legal definition as laid out in the UN convention on genocide.
-Israel has regularly denied its actions in Gaza amount to genocide and says they are justified as a means of self-defence.
-On 28 February, Israel and the US started launching massive air strikes on Iran, suspecting it of secretly building a nuclear weapon - a claim denied by Tehran.
-Iran retaliated by carrying out missile and drone attacks on Israel and neighbouring Gulf Arab states which host US military bases.
-  - Published2 days ago
-  - Published1 day ago</description></item><item><title>Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti</title><link>https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti
-- Published
-Nigerian billionaire Aliko Dangote has announced that he is helping to fund a new $660m (£500m) fuel pipeline between Ethiopia and Djibouti
-The project will include a 120km- (75 mile-) pipeline connecting Djibouti's Damerjog port to a distribution facility in Dewele, Ethiopia, as well as storage capacity of about 400 million litres.
-It is expected to begin operations within 18 months.
-Ethiopian Prime Minister Abiy Ahmed said the pipeline would reduce the time needed to transport fuel from Djibouti's port to the Ethiopian capital, Addis Ababa, from five days to one.
-The first phase will transport key petroleum products, including jet fuel, diesel and petrol.
-Speaking at the ground-breaking ceremony, Dangote, Africa's richest man, said the project would strengthen Ethiopia's energy security and make its fuel supply chain more resilient.
-Landlocked Ethiopia relies heavily on Djibouti's port for imports, including petroleum products. The new infrastructure is expected to reduce pressure on existing transport systems supporting industries, including transport, aviation, agriculture and construction.
-Djibouti is also expected to benefit from increased port activity, job creation and higher government revenues.
-The project is part of Dangote's wider expansion of infrastructure and manufacturing businesses across Africa.
-Dangote Cement has production capacity of about 55 million tonnes a year, while his oil refinery in Nigeria currently has capacity to process 700,000 barrels of crude a day and is seeking to double that to 1.4 million barrels a day.
-The refinery recently listed 4.1 billion ordinary shares on the Nigerian stock exchange, aiming to raise about $1.63bn (£1.2bn).
-In Kenya, the company is due to break ground next week on a proposed 700,000-barrel-a-day crude oil refinery in Lamu.
-You may also be interested in:
-Go to BBCAfrica.com, external for more news from the African continent.
-Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external</description></item><item><title>Italy ministers agree to ban burqa and niqab in school and cap foreigners in class</title><link>https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Italy ministers agree to ban burqa and niqab in school and cap foreigners in class
-- Published
-The Italian government has approved a ban on the burqa and niqab in schools, along with a limit on the share of pupils who speak little Italian in any one class.
-A 30% cap will be imposed on children without Italian citizenship or poor knowledge of the Italian language in the first year of primary, middle and high school.
-Prime Minister Giorgia Meloni described the measures as "common-sense tools that do not divide but really help to integrate".
-Opposition parties accuse the government of pandering to the policies of the hard-right Futuro Nazionale party, ahead of a general election next year.
-Education Minister Giuseppe Valditara has said the limit is "purely linguistic" rather than one of citizenship, while he has sought to frame the ban on the niqab and burqa as a matter of gender equality.
-"You must go to school with your face uncovered," Meloni said while announcing the plans on Sunday, adding that no-one could decide that a young woman should hide herself in the name of tradition.
-There were several drafts of the decree ahead of Thursday's council of ministers meeting, however the core details were clear.
-The veil ban would apply to the burqa and niqab, but not the hijab, which leaves the face visible.
-The niqab is a veil for the face that leaves the area around the eyes clear. However, it may be worn with a separate eye veil. It is worn with an accompanying headscarf.
-The burka is a one-piece veil that covers the face and body. Often there is a mesh screen around the eyes to see through.
-Non-Italian citizens make up 11.6% of pupils in Italy's schools, according to the research institution Fondazione ISMU.
-The 30% limit on pupils who speak limited Italian will cover separate stages of education differently.
-In primary schools, it would cover non-Italian citizens who have either not been born in Italy or who have not attended at least two years of nursery school.
-In lower- and upper- secondary schools, it would cover pupils without Italian citizenship who have not successfully completed at least three years in the Italian school system.
-Local school offices would be asked to spread pupils with little Italian language skills more evenly among nearby schools. Where that is not possible, exemptions would apply, with extra Italian teaching.
-The aim was to avoid "ghetto classes", the education minister explained.
-The draft also goes further on parents, according to the Ansa news agency. Schools would have to report to social services cases in which persistent language barriers among those with parental responsibility hinder a child's integration. Free Italian courses would be offered.
-The measure is a decree law, meaning it can take effect immediately, but must be ratified by parliament within 60 days.
-Italy already has guidance on Italian language at schools. A 2010 ministerial notice under then-Education Minister Mariastella Gelmini set a 30% limit "as a rule" on pupils without Italian citizenship. The new decree puts the limit into law.
-The political opposition says the plan is as much about politics as schools.
-Opponents accuse Meloni of pandering to Roberto Vannacci, a retired military general who leads the hard-right Futuro Nazionale party and is seen as a threat to the governing coalition's right flank.
-The leader of the centre-left Democratic Party (PD), Elly Schlein, called the plan propaganda and impossible to implement. PD deputy and chamber vice-president Anna Ascani also accused the government of propaganda at the expense of schoolchildren.
-Valditara, speaking by video link from New York at a press conference rejected the charge.
-"We are not chasing Vannacci; if anything, he is chasing us," he said.
-Vannacci said he agreed with the measures, but they should have come years ago.
-The League's Matteo Salvini, who launched a separate package of measures on what he called "political Islam" on Wednesday, accused Vannacci of "continually voting against the government".
-Salvini said he hoped Futuro Nazionale would back the League's new proposals.
-Related topics
-  - Published23 March</description></item><item><title>As Merz scrambles for support, Germany's identity crisis is laid bare</title><link>https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-As Merz scrambles for support, Germany's identity crisis is laid bare
-- Published
-A set of bumper local elections has thrown Germany, and its government, off balance.
-Chancellor Friedrich Merz may now be a man on borrowed time. His coalition government is in crisis.
-But this breakdown of business as usual in Germany has been brewing for years.
-It's a nation wrestling with new, uncomfortable and unresolved realities.
-Think of certain stereotypes about Germany, and think again.
-A country dominated by boring, consensus-driven politics? Not any more.
-A confident, powerhouse economy at the cutting edge of car-making? Yesterday's story.
-A nation that can be used as a byword for impressive efficiency? The trains don't even run on time.
-Many Germans I've spoken to feel their nation has drifted away from the things that once anchored their identity.
-And the question of what next is, as yet, unanswered.
-That uncertainty is currently embodied by a beleaguered chancellor weakened by bruising regional election results.
-In the last fortnight, Friedrich Merz's party was beaten to first place in Berlin, pummelled in the polls in Saxony-Anhalt and pushed out of parliament altogether in Mecklenburg-Western Pomerania.
-A lifeline for Merz is that no-one, within his own centre-right CDU party, is yet willing to challenge the chancellor openly despite persistent rumours of a Kanzlertausch (chancellor swap).
-But he is on thin ice, with record low approval ratings among voters who often describe him as arrogant and out of touch.
-It is a problem that in government circles is sometimes more politely referred to as a "communication" issue.
-Those who back the Chancellor say it is time to double down on much-needed reforms, alongside its centre-left SPD coalition partner, and find a better way of talking to people.
-Swapping chancellors is not the answer as anyone would face the "same challenges", argues Jürgen Hardt, foreign policy spokesperson in parliament for Merz's CDU and its sister party, the CSU.
-Hardt pointed out that the CDU/CSU fared far better in other regional elections earlier this year, when we spoke minutes after Merz addressed party lawmakers at a closed-door meeting in the Bundestag.
-"I think Friedrich Merz knows about his deficits," says Hardt. "He will work on him and we will work on us as (a) party. And hopefully we will convince the people in the next months that we are on the right way."
-Merz came to power in 2025, promising to get tough on immigration and boost Germany's ailing economy.
-He appeared to offer a dynamism that might act as an antidote to the former dull, unhappy drumbeat of centre-left leader Olaf Scholz's bickering three-way coalition.
-And Merz's allies would claim he has had some success.
-This week, leading economic institutes raised the country's growth forecasts for 2026 and 2027 above 1% while illegal entries into Germany – and Europe – are down year on year.
-But that will not eliminate public anxieties, on either issue.
-Households and businesses continue to endure high energy costs while fears persist that China is cannibalising German industry, including its iconic car sector.
-It is a brutal reversal of Germany's old recipe for success: cheap Russian gas that powered a booming export-driven economy.
-And when it comes to immigration, the focus is now less on new arrivals and more on concerns about public safety, welfare costs and integration.
-While there are local exceptions, voters appear to be losing faith in Germany's two principal governing parties (CDU and SPD).
-Enter the rising force in German politics, Alternative für Deutschland (AfD): a party that alarms security officials with its Russia-friendly stance and contains regional branches that are classed as right-wing extremist by domestic intelligence.
-Smears and misrepresentations, argues the AfD, as it claimed its third victory ever in a state election last Sunday in the north-eastern state of Mecklenburg-West Pomerania.
-Its co-leader, Alice Weidel, told me this week that Friedrich Merz's days were numbered.
-The AfD has survived numerous scandals in recent years to now top the polls nationwide, at around 28%. It carries the swagger of a party making the political weather.
-It has capitalised on a nostalgia for the past alongside an anxiety in the present as it consolidates its strongholds in the former communist east.
-An AfD placard I saw in Berlin read "Berlin braucht Ordnung" (Berlin needs order). It is the as yet untested promise that this party can bring back a lost sense of stability.
-But in Germany's capital it was in fact Die Linke (the Left) that topped the polls last Sunday in a further blow to the country's traditional "big tent" parties.
-The victory has put fresh scrutiny on Die Linke, as it faces allegations of antisemitism. The party leadership has insisted it is committed to protecting Jewish life.
-This round of regional elections has encapsulated the country's fault lines: the eroding support for Germany's political centre, and a polarising debate on the AfD.
-Rarely in post-war Germany has a set of local polls generated so much upheaval at home and interest abroad.</description></item><item><title>The treasured 'eternal snow' on this tropical island is about to disappear forever</title><link>https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&amp;at_campaign=rss
+  - Published13 November 2025</description></item><item><title>The treasured 'eternal snow' on this tropical island is about to disappear forever</title><link>https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -756,7 +532,50 @@ Adolfina Kum believes communities "lose an important source of strength" when sa
 "I often describe it as pulling out the roots of a tree. Once the roots are removed, the tree loses its foundation."
 Related topics
   - Published11 June
-  - Published17 September</description></item><item><title>Are Ethiopians marching back to war in Tigray?</title><link>https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&amp;at_campaign=rss
+  - Published17 September</description></item><item><title>As Merz scrambles for support, Germany's identity crisis is laid bare</title><link>https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+As Merz scrambles for support, Germany's identity crisis is laid bare
+- Published
+A set of bumper local elections has thrown Germany, and its government, off balance.
+Chancellor Friedrich Merz may now be a man on borrowed time. His coalition government is in crisis.
+But this breakdown of business as usual in Germany has been brewing for years.
+It's a nation wrestling with new, uncomfortable and unresolved realities.
+Think of certain stereotypes about Germany, and think again.
+A country dominated by boring, consensus-driven politics? Not any more.
+A confident, powerhouse economy at the cutting edge of car-making? Yesterday's story.
+A nation that can be used as a byword for impressive efficiency? The trains don't even run on time.
+Many Germans I've spoken to feel their nation has drifted away from the things that once anchored their identity.
+And the question of what next is, as yet, unanswered.
+That uncertainty is currently embodied by a beleaguered chancellor weakened by bruising regional election results.
+In the last fortnight, Friedrich Merz's party was beaten to first place in Berlin, pummelled in the polls in Saxony-Anhalt and pushed out of parliament altogether in Mecklenburg-Western Pomerania.
+A lifeline for Merz is that no-one, within his own centre-right CDU party, is yet willing to challenge the chancellor openly despite persistent rumours of a Kanzlertausch (chancellor swap).
+But he is on thin ice, with record low approval ratings among voters who often describe him as arrogant and out of touch.
+It is a problem that in government circles is sometimes more politely referred to as a "communication" issue.
+Those who back the Chancellor say it is time to double down on much-needed reforms, alongside its centre-left SPD coalition partner, and find a better way of talking to people.
+Swapping chancellors is not the answer as anyone would face the "same challenges", argues Jürgen Hardt, foreign policy spokesperson in parliament for Merz's CDU and its sister party, the CSU.
+Hardt pointed out that the CDU/CSU fared far better in other regional elections earlier this year, when we spoke minutes after Merz addressed party lawmakers at a closed-door meeting in the Bundestag.
+"I think Friedrich Merz knows about his deficits," says Hardt. "He will work on him and we will work on us as (a) party. And hopefully we will convince the people in the next months that we are on the right way."
+Merz came to power in 2025, promising to get tough on immigration and boost Germany's ailing economy.
+He appeared to offer a dynamism that might act as an antidote to the former dull, unhappy drumbeat of centre-left leader Olaf Scholz's bickering three-way coalition.
+And Merz's allies would claim he has had some success.
+This week, leading economic institutes raised the country's growth forecasts for 2026 and 2027 above 1% while illegal entries into Germany – and Europe – are down year on year.
+But that will not eliminate public anxieties, on either issue.
+Households and businesses continue to endure high energy costs while fears persist that China is cannibalising German industry, including its iconic car sector.
+It is a brutal reversal of Germany's old recipe for success: cheap Russian gas that powered a booming export-driven economy.
+And when it comes to immigration, the focus is now less on new arrivals and more on concerns about public safety, welfare costs and integration.
+While there are local exceptions, voters appear to be losing faith in Germany's two principal governing parties (CDU and SPD).
+Enter the rising force in German politics, Alternative für Deutschland (AfD): a party that alarms security officials with its Russia-friendly stance and contains regional branches that are classed as right-wing extremist by domestic intelligence.
+Smears and misrepresentations, argues the AfD, as it claimed its third victory ever in a state election last Sunday in the north-eastern state of Mecklenburg-West Pomerania.
+Its co-leader, Alice Weidel, told me this week that Friedrich Merz's days were numbered.
+The AfD has survived numerous scandals in recent years to now top the polls nationwide, at around 28%. It carries the swagger of a party making the political weather.
+It has capitalised on a nostalgia for the past alongside an anxiety in the present as it consolidates its strongholds in the former communist east.
+An AfD placard I saw in Berlin read "Berlin braucht Ordnung" (Berlin needs order). It is the as yet untested promise that this party can bring back a lost sense of stability.
+But in Germany's capital it was in fact Die Linke (the Left) that topped the polls last Sunday in a further blow to the country's traditional "big tent" parties.
+The victory has put fresh scrutiny on Die Linke, as it faces allegations of antisemitism. The party leadership has insisted it is committed to protecting Jewish life.
+This round of regional elections has encapsulated the country's fault lines: the eroding support for Germany's political centre, and a polarising debate on the AfD.
+Rarely in post-war Germany has a set of local polls generated so much upheaval at home and interest abroad.</description></item><item><title>How fresh fighting in Tigray could spark wider conflict in Ethiopia</title><link>https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -883,145 +702,28 @@ Rio thinks Nagaland still remains at the edge of that scene. Its film industry i
 But he hopes some of the attention around Angh travels back with it.
 There are, he says, "so many talented filmmakers with so many beautiful stories that are yet to be told".
 For now, though, Rio is looking forward to something more ordinary - getting back to Nagaland.
-"I want to play football with my friends."</description></item><item><title>Why Australia chose the world's biggest political stage to reveal OpenAI hack</title><link>https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&amp;at_campaign=rss
+"I want to play football with my friends."</description></item><item><title>Why an international arrest warrant didn't stop Netanyahu's US trip</title><link>https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Why Australia chose the world's biggest political stage to reveal OpenAI hack
-- Published
-Australia made a dramatic revelation on Wednesday during the United Nations General Assembly.
-Rogue AI agents had hacked one of its government bodies - the first known incident of its kind in the world. Private data, but not sensitive information, was taken from Medicare, Australia's universal healthcare scheme.
-The breach happened in June, but OpenAI says it only became aware of it in August - and then took until 10 September to alert Australia's government, by sending an email to an address used by researchers and academics to alert authorities to concerns of vulnerabilities.
-While worrying, the timing of the incident is somewhat of a gift for Australia.
-A middle power that doesn't usually get as much of a platform as its influential allies, the country wants to be seen as punching above its weight on one of the most defining issues of our time - big tech regulation.
-In the past year alone, it has implemented the world's strictest social media ban, announced what it says are the world's strongest algorithm controls, floated the possibility of "world-leading" limits on smart glasses, and is now the first government to confront AI firms over a rogue attack on its data.
-It's entirely possible other governments have been the victim of rogue AI agents.
-Former Australian government cybersecurity adviser Alastair MacGibbon told the BBC he'd heard whispers that several others have been notified of similar recent breaches by OpenAI agents.
-"Some have chosen to not be public – that's every government's choice on how it wants to handle these things," he said. "The [Australian] government chose a time to release this to gain maximum publicity which is their wont to do."
-Revealing a data breach can of course be a risky strategy for governments - it leaves them vulnerable to criticism that their security systems aren't up to scratch. But the fact that no sensitive information was leaked put Australia in a stronger position to use the incident.
-"Nobody has died," says the University of Queensland's associate professor Michael Noetel, who studies AI risks. "This is another canary in the coal mine. This sort of loss-of-control incident, even though it's minor now, is what CEOs are worried about getting worse over time."
-Though Australia has made a name for itself by taking a stand against social media companies, taking up the AI mantle now is another way for Australia to rein in big tech, says Tama Leaver, professor of internet studies at Curtin University in Perth.
-"It's impossible to say for sure, but it seems incredibly likely that this was very carefully planned."
-The fact that leaders were all together in New York this week has probably helped.
-Albanese says he had a "frank" discussion with OpenAI CEO Sam Altman to express Australia's "extreme concern" about what happened. Altman acknowledged "issues with protocols" at OpenAI, he said.
-The Australian leader also posed with Donald Trump for a selfie - and the two may have had face-to-face talks. But Australia risks the ire of the US president, who wants to encourage AI, "not rein it in", and even rename it "super intelligence".
-Earlier this week, Albanese had to deflect criticism from the Trump administration over his government's proposal to give users the ability to opt out of social media algorithms. The US said it amounted to "censorship of protected speech".
-Back home, Australia's very own eSafety commission is currently arming itself with lawyers, preparing to take on social media platforms objecting to its social media law for under 16s.
-Australia isn't popular with big tech. But its bold policies on social media and internet safety have been largely supported among Australians themselves, especially parents.
-The government is taking advantage of the hack to position itself as a leader on one of the biggest talking points of our time. And it's wasting no time in using the incident to advance the country's broader crusade.
-Within hours of the announcement, Communications Minister Anika Wells told reporters: "This is an example of an unregulated industry where big tech clearly feels like they can do whatever they like, and that's not going to wash here in Australia."
+Why an international arrest warrant didn't stop Netanyahu's US trip
+Israeli Prime Minister Benjamin Netanyahu defended his country's military campaigns in Iran, Gaza and elsewhere in the Middle East in a speech to the UN General Assembly on 24 September. His speech occurred while an arrest warrant from the International Criminal Court for alleged war crimes is in effect. The BBC's Nada Tawfik explains why Netanyahu was not arrested after speaking at the UN General Assembly.
 Related topics
-  - Published17 September
-  - Published2 days ago</description></item><item><title>Trump and Xi come face-to-face as US and China battle to win the AI race</title><link>https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&amp;at_campaign=rss
+- UN General AssemblyUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- Israel-Gaza warUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- IsraelUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- United NationsUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- Benjamin NetanyahuUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item><item><title>Bangkok declares disaster as heavy rains spark flooding</title><link>https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Trump and Xi come face-to-face as US and China battle to win the AI race
-- Published
-"Whoever wins AI, WINS!"
-US President Donald Trump has been blunt about his AI ambitions, as well as about who he considers the US's main rival to be: China.
-His Chinese counterpart, Xi Jinping, has not said anything so forthright - but it seems he holds a similar view.
-"China very much sees it as a race, they very much think China should be the leading force in AI - they see AI as a power maximiser," says Rebecca Arcesati, from the Mercator Institute for China Studies.
-You can look beyond the rhetoric for evidence of this: AI has been a cornerstone of China's technological ambitions for more than a decade, whether Xi emphasises it publicly or not.
-For Trump, beating China to AI supremacy outweighs any risks of the technology to humans - something he has described as "a hoax".
-China's foreign ministry warned that "narratives of threat" and confrontation hinder global AI governance, calling for cooperation to ensure it benefits all.
-It means when the two presidents sit down on Thursday there will be few more important topics than their AI ambitions - and what they say and decide will matter to the whole world.
-Is the US in the lead?
-There's no doubt the US and China are global leaders in AI but who is ahead depends on how success is measured.
-American companies lead on so-called frontier models, with the highest-performing systems on most benchmarks coming from firms such as Anthropic, Google and OpenAI.
-In February 2025, an AI model by China's DeepSeek "briefly matched the top US model" and as of March 2026, Anthropic's top model led the pack "by just 2.7%", according to researchers at Stanford University, external.
-Part of the US advantage stems from the vast sums being invested in leading AI companies as the frontier labs burn through mountains of cash to build the infrastructure to train new models.
-The stock market is booming and a large part of the US economy's expansion relies on the enormous growth - and projected profitability - of AI companies.
-So that might partly explain why President Trump sees AI as key to US success.
-Another factor limiting China's ability is the sweeping government restrictions placed on US companies that prevent them from selling advanced microchips to Chinese firms - these are crucial for developing cutting-edge models.
-China's advantage
-Despite the chip restrictions, new AI models are coming out almost monthly in both countries and it's unclear what "winning" the AI race would actually mean, or whether there is a finish line at all.
-Many companies are racing to develop artificial general intelligence (AGI), a theoretical form of AI capable of learning, reasoning and performing a wide range of tasks at or above the level of humans.
-The Chinese AI industry has so far focused not on creating frontier models but releasing what is known as open weight models - downloadable and tweakable in a similar way to open source software.
-This contrasts with the approach taken by many US firms, which largely focus on proprietary models accessed through paid subscriptions or company platforms.
-Chinese open weight models are being released at a rapid pace, with benchmarks showing the country's top models trailing US rivals by only a few months.
-Models such as Moonshot AI's Kimi K3 have become popular in China and overseas because they perform close to the frontier models while remaining freely downloadable and adaptable.
-Beijing's focus is more about deploying the technology across its economy, China analyst Lizzi Lee from the Asia Society Policy Institute said.
-"AI isn't the moon landing," she said. "The US may lead at the frontier, while China could still gain enormous economic and geopolitical leverage by making capable AI cheap, open and ubiquitous."
-AI is also very energy hungry, and China is very well placed there, Rebecca Arcesati told Tech Life on the BBC World Service.
-"Chinese AI companies are able to access the electricity they need for a much lower cost and that really is an advantage," she said.
-In robotics - a field of AI that some believe will be world-changing - China has become the world's biggest manufacturer of robots, with more than two million working in the country's factories, the International Federation of Robotics estimated.
-The nation is also the world's biggest maker of humanoid robots, accounting for more than nine-tenths of global shipments in the first half of the year, according to independent policy institute Chatham House.
-Chinese AI developers have showed "remarkable resilience and innovation" in spite of the shortage of advanced American chips, analyst Lian Jye Su from tech research firm Omdia said.
-But US officials and AI firms have also alleged that Chinese developers closed the gap by using distillation - a technique that enables models to learn from more advanced platforms.
-China's foreign ministry said in response that AI development was "fuelled" by the country's "vision of extensive consultation and joint contribution for shared benefit".
-Safety concerns?
-China and the US may be in fierce competition, but their governments' approaches to safety concerns are markedly different.
-While some in the industry have recently warned that AI could pose an existential risk to humanity, Chinese researchers seem less concerned about that and are more worried about potential misuse of the technology and cyber war.
-Responding to concerns over AI, Trump has said the US already has sufficient rules in place and that the only guardrails AI needs are a "high IQ" president.
-"We're leading now over China by a lot, and everyone else, and we're going to keep it that way," Trump said this week, adding that the US was not going to "stifle the growth of something that will be bigger than the industrial revolution".
-Washington has prioritised innovation and sought to reduce regulation in an effort to "keep American labs ahead", said information security officer Jayant Dave from cybersecurity firm Check Point Software Technologies.
-Beijing has taken a different strategy to the US hands-off approach.
-Xi urged the country's leaders to keep a close eye on AI's risks and ensure the technology was always "under human control".
-"China has taken a relatively cautious and centrally-coordinated approach," introducing guides on data usage and algorithms before many other countries, helping to address many underlying concerns, Dave said.
-The use of guidelines, though not legally binding, sets expectations while giving developers room to innovate, said National University of Singapore AI ethics lecturer Jonathan Sim.
-Will they cooperate?
-Despite calls for international cooperation, it remains unclear how the AI superpowers plan to address the technology's potential dangers - if at all.
-The two countries have previously cooperated on existential threats such as nuclear weapons, but that was based on a shared understanding of the threat, which is not currently the case with AI, Dave said.
-"Washington worries about capability escaping control. Beijing worries about capability threatening domestic stability," he added.
-Trump has dismissed proposals for an industry-wide slowdown, arguing that it could allow Chinese developers to close the gap.
-Ahead of the Trump-Xi summit, US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng discussed establishing a notification mechanism for serious AI incidents.
-While the messaging from Trump on China in recent weeks has been "more antagonistic", the fact that AI is expected to be on the agenda was a "good start", said policy analyst Leia Wang from the Carnegie Endowment for International Peace.
-What we don't want, she added, was for an "unhealthy version of the race narrative to perpetuate", potentially escalating an already fierce rivalry in AI.
-  - Published3 days ago
-  - Published13 September
-  - Published13 September
-  - Published17 September</description></item><item><title>In Amish country, nurses go door to door to stop deadly spread of measles</title><link>https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-In Amish country, nurses go door to door to stop deadly spread of measles
-- Published
-For the past few months, nurse Dale Weiser has been making unexpected home visits.
-As the state battles the deadliest measles outbreak in recent history, the clinical supervisor drives 30 miles (48.3km), sometimes daily, to a rural corner of Pennsylvania where many Amish people live.
-Walking into strangers' homes, Weiser says she tries her best to be respectful and non-intrusive as she vaccinates dozens of family members against the measles, sometimes around the kitchen table.
-"A lot of people that I encounter, they don't have health insurance. They don't have a lot of interaction with the health system, and they just haven't seen the need to get these vaccines," said Weiser, who works for the Chester County Health Department.
-"When you start talking and you answer their questions, and build that trust, a lot of times they will make a different decision."
-The at-home vaccinations are part of the county and state health departments' strategy to encourage immunisations in the county, which includes an Amish community who abstain from many aspects of modern life, including regular contact with the western medical system.
-The state health department told the BBC it has administered nearly 4,300 measles, mumps and rubella (MMR) vaccines at pop-up clinics near the epicentre of the outbreak since it began in late April.
-But even as health officials see success in their vaccine programmes, the state has reported four deaths from measles complications, marking the most deadly outbreak the US has seen since 1992.
-The infections have led to tensions between state and federal health officials, including vaccine-sceptic Health Secretary Robert F Kennedy Jr.
-Those politics are back of mind in the Amish community, where people are growing fearful of more deaths as they watch their friends and family fall sick with the disease, which for decades has been eliminated in the US.
-"They're not a community that's as easy to reach - we can't just put up a social media post," Weiser said. "They are suffering at the moment, and we're trying to reach out and make connections."
-Amish people began coming to the US in the early 1700s, with the first community settling in Lancaster, Pennsylvania. Known as the "Plain People" for the simple clothes they wear, the Amish are a devout Christian community that does not use many forms of technology, relying on horse and buggies instead of cars.
-About 90,000 Amish people live in Pennsylvania, with estimates suggesting around only a quarter of Amish people in the Lancaster area have had the MMR vaccine.
-There is no particular religious text advising against vaccines, but Amish people do not have regular contact with the western medical system, or have a way to easily travel to appointments, experts said.
-"A lot of people who haven't gotten vaccinated, it's not because they have a strong stance against getting vaccinated for measles. It's just that they haven't gotten around to it. It's not convenient," said Braxton Mitchell, a genetic epidemiologist with University of Maryland School of Medicine who runs a research clinic studying the Amish in Lancaster.
-Amish people are extremely social, he said, so when the virus hits one church group, it affects everyone who is unvaccinated.
-"Measles is rampant in the Amish community," he said. "People are concerned about it."
-He added the community has been especially concerned about the dangers to babies; so far two newborns have died of measles complications, as well as an 18-year-old and a 40-year-old woman, according to state officials.
-Boots on the ground
-Chester County public health officials did not wait long to launch a response to the growing measles outbreak in their community, which shares a border with Lancaster County, the epicentre of the outbreak.
-Jeanne Franklin, the director of the health department, said officials have been using some of the strategies they employed during the Covid pandemic - knocking on doors in the community to let them know about the outbreak and offering private settings, like people's homes, for immunisations.
-Since the outbreak started, the county has given 538 MMR vaccines, 340 of which they administered in private settings.
-"People have called up and said, 'I can't get to your clinic, or, I don't want people to know I've changed my mind," Franklin said. "'If you can come to us, that's a lot easier.'"
-The boots-on-the-ground approach has helped the health department dispel misinformation and build trust with the community, local health officials said.
-In recent years, childhood vaccination rates have fallen across the country as false theories about the safety of the measles vaccine have proliferated on social media.
-Those theories have found roots even in an insulated community with limited access to computers, Weiser said. She has heard people ask if there are heavy metals in the vaccine that could make them magnetic, or if the shot has a computer chip in it.
-"You're clearly getting information from that hard-core group that is promoting that misinformation and disinformation," she said.
-People in this "hard-core group", who are staunchly against vaccines, are unlikely to be swayed, experts and officials themselves said.
-But now, local health officials said, many affected by the Pennsylvania outbreak are seeing their neighbours fall seriously ill and asking thoughtful questions. Weiser said many are parents who are unfamiliar with the shots and are scared to make the wrong choice for their children.
-"There is the classically-defined anti-vaxer, versus people who are unaware or their culture feels differently," Franklin said. "The thinking and the willingness to discuss and possibly change your mind is different between those two bookends."
-Kennedy casts doubt on deaths
-The ongoing measles outbreak in Pennsylvania has once again sparked political debate in the US.
-After the state health department announced the first two deaths - both in infants - Kennedy, the top health official, took to social media to dispute at least one of the deaths. The BBC has contacted the Department of Health and Human Services for comment.
-Democratic Governor Josh Shapiro took aim at Kennedy, saying he told the top US health official that he was spreading misinformation that was worsening the outbreak.
-Lancaster County coroner Stephen Diamantoni, a Republican, has said one of the two infants died of a ruptured spleen rather than measles itself. Measles can cause the spleen to enlarge, making it more likely to rupture. Several doctors have said the measles infection made the child vulnerable.
-"I think the measles very much contributed to that child's demise," said William Moss, a paediatric infectious disease specialist at the Johns Hopkins Bloomberg School of Public Health.
-Public health experts said a number of actions taken by Kennedy and the Trump administration have sowed doubts about vaccine safety and worsened outbreaks.
-Last month, Trump passed an executive order recommending the MMR shot be split into three separate shots, a move doctors say is costly and unnecessary for a vaccine that is already safe.
-"What he's doing is casting doubt," said Dr Moss. "He basically said the vaccine could be dangerous in its current combined form."
-The tensions are not helpful for experts working to combat misinformation in a so-far unrelenting outbreak, they said. They worry for the start of the school year, which will provide even more opportunities for the highly contagious virus to spread.
-"I think we're in this for six to 12 months. It does feel like it's spreading and accelerating," Weiser said. "We're in community transmission now. We can't stop it easily."
+Bangkok declares disaster as heavy rains spark flooding
+Days of almost continuous heavy rains have caused widespread flooding in the Thai capital, with the city's governor declaring it a disaster-affected zone.
+Almost 300 millimetres (11.8 inches) has fallen over the period, and more is expected in the coming days, according to Governor Chadchart Sittipunt.
+Videos from Bangkok show cars trying to navigate roads that have been entirely submerged by the floodwaters, with some vehicles appearing stranded.
 Related topics
-  - Published15 September
-  - Published11 August
-  - Published16 April</description></item><item><title>Thousands turn out to greet Pope in France</title><link>https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&amp;at_campaign=rss
+- ThailandUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- FloodsUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item><item><title>Thousands turn out to greet Pope in France</title><link>https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -1070,32 +772,4 @@ Related topics
 - United StatesUpdates from your News topics will appear in My News and in a collection on the News homepage.
 - Donald TrumpUpdates from your News topics will appear in My News and in a collection on the News homepage.
 - Xi JinpingUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- ChinaUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item><item><title>Watch: UN delegates walk out of Netanyahu speech</title><link>https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Watch: UN delegates walk out of Netanyahu speech
-Dozens of United Nations delegates walked out of the hall Israeli Prime Minister Benjamin Netanyahu was due to deliver a speech in.
-Addressing the UN's General Assembly in New York, Netanyahu described those walking out as "moral cowards". Those who remained and felt similarly should leave, he said.
-The Israeli delegation could be seen cheering Netanyahu in support.
-Israel has faced condemnation for its actions in Gaza and Lebanon. A UN commission of inquiry has previously accused Israel of committing genocide against Palestinians in Gaza - Israel has strongly rejected the accusations.
-The war was triggered by the Hamas-led attack on southern Israel on 7 October 2023, in which about 1,200 people were killed and 251 others were taken hostage.
-Israel responded by launching a military campaign in Gaza, during which more than 73,920 people have been killed, according to the territory's health ministry.
-Related topics
-- United NationsUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- IsraelUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- Benjamin NetanyahuUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- Israel-Gaza warUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item><item><title>A red carpet and military flyover - How Trump welcomed Xi</title><link>https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-A red carpet and military flyover - How Trump welcomed Xi
-Donald Trump has welcomed Xi Jinping at the Joint Base Andrews with a red carpet and military flyover to kick off a historic three-day US visit.
-During the welcome, which included a red carpet, two B-1 bombers flew overhead to celebrate Xi's arrival.
-The supersonic aircraft are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.
-The BBC's Bernd Debusmann was at Joint Base Andrews and unpacks the pomp and pageantry behind Xi's welcome to America.
-CORRECTION 24 September: The reporter in this video originally referred to two B-1 bombers being nuclear-capable. That is no longer the case and they cannot carry nuclear weapons. The video has been amended accordingly.
-Video by Mabel Pickering
-Related topics
-- Xi JinpingUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- Donald TrumpUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item></channel></rss>
+- ChinaUpdates from your News topics will appear in My News and in a collection on the News homepage.</description></item></channel></rss>
