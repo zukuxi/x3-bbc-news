@@ -1,5 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>BBC World News (x3 Direct)</title><link>https://github.com/zukuxi/x3-bbc-news</link><description>BBC 全文内嵌版，专为纯粹阅读打造</description><item><title>Inside Yemen's front-line city as Houthis battle for control</title><link>https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&amp;at_campaign=rss
+<rss version="2.0"><channel><title>BBC World News (x3 Direct)</title><link>https://github.com/zukuxi/x3-bbc-news</link><description>BBC 全文内嵌版，专为纯粹阅读打造</description><item><title>OpenAI scraps rollout of new model over safety concerns</title><link>https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+OpenAI scraps rollout of new model over safety concerns
+- Published
+OpenAI will not release its new AI model - GPT-6.1 Astra - due to safety concerns, the ChatGPT-maker confirmed on Tuesday.
+The AI system - which performs tasks like browsing the web and using apps by itself - "didn't quite meet the bar" of the company's standards, Saachi Jain, head of safety systems at OpenAI, said.
+On Tuesday, OpenAI also issued an update on incidents, that occurred in June but were not made public until last week, in which its models accessed Australian government websites and systems without authorisation.
+Those incidents and similar breaches by models developed by major AI firms have in recent weeks intensified the debate around the risks posed by the technology.
+Top AI leaders including OpenAI's Sam Altman and Anthropic boss Dario Amodei have urged the industry to slow the pace of development due to concerns about risks associated with the technology.
+OpenAI's decision, which was first reported by the Wall Street Journal, is a rare instance of a major AI developer pulling a new release over safety concerns.
+The model fell short in terms of "staying within scope and authorisation, and how it communicates back to the user about the type of work it's done," Jain said.
+"We want to make sure our model development is safe no matter whether that's in the company, or when we ship it to users. But when we ship it to users, we have an extremely high bar in terms of safety and alignment," she added.
+The flagship GPT-6 Astra agentic model was released in September and specialises in complex reasoning and executing tasks autonomously. OpenAI said it was the result of "years of research and big bets".
+OpenAI is set to hold its annual DevDay developer conference in San Francisco on Tuesday, where it is expected to make several announcements. It is unclear if a new version of Astra will be among them.
+The company's security controls have come under intense scrutiny after several high-profile incidents involving its technology.
+Australia hacks
+Last week, Australian Prime Minister Anthony Albanese announced that a rogue OpenAI agent had hacked into government websites and systems in June in what experts said was the first known case of its kind in the world.
+Albanese criticised OpenAI for notifying the Australian government through a generic email address rather than making direct contact with officials.
+OpenAI said in a statement on Tuesday that it was sorry for the incident and that it "should have handled our response better".
+Services Australia, the NSW Bureau of Crime Statistics and Research, the Victorian Department of Health and the Australian Institute of Health and Welfare were all affected, OpenAI clarified.
+The firm said it launched investigations into the incidents as soon as it became aware of them in mid-August and notified the affected organisations between 10 and 24 September.
+"Our aim was to give affected agencies a detailed account once our investigation was complete," OpenAI said, adding that it should have shared early findings more promptly and kept Australian authorities updated.
+- OpenAI bots meddled with multiple US government agency sites 
+  - Published3 days ago
+OpenAI added that it will develop "practical approaches" to how developers and governments identify and disclose future AI incidents.
+The company will fund cyber security measures, offer dedicated support to impacted agencies and set up a taskforce to manage the risks from increasingly advanced AI agents.
+The also said a top OpenAI executive will be in Australia to attend a Joint Select Committee hearing on AI on 6 October.
+In July, OpenAI said its AI systems had accessed the internet and hacked into open-source developer hub Hugging Face, prompting researchers and officials to call for tighter controls over the technology.
+Concerns should be 'taken seriously'
+On Monday, chip giant Nvidia released a set of software safety tools for autonomous AI platforms - called agents - that it said could have prevented the Hugging Face hack.
+One of the new tools uses hardware features in Nvidia's chips to contain agents.
+Nvidia boss Jensen Huang has largely dismissed calls for tighter AI regulations, arguing that rogue agents are an engineering problem that can be solved.
+Nvidia agreed to buy Hugging Face for $12.9bn (£9.74bn) earlier this month.
+Pope Leo XIV said on Monday during a visit to France that the technology "should be taken seriously" and expressed scepticism over Huang's views.
+The pontiff said he had read that the Nvidia CEO had announced there could be a way to insert guardrails into certain AI models.
+"He's the same one, however, that says there should be no limits placed and no government regulation," said the Pope.
+"This is a problem that I think we need to sit down and talk about," added Pope Leo, who has previously warned about "losing our humanity" to machines.
+The BBC has contacted Nvidia for comment.
+US President Donald Trump and House Speaker Mike Johnson are set to host tech executives at the White House later on Tuesday to discuss regulations around AI.
+Trump has downplayed concerns about AI's risks as a "hoax", arguing that the US has sufficient laws in place and that the only "guardrails" the technology needs is a "strong and smart" president.
+Related topics
+  - Published6 days ago
+  - Published5 days ago</description></item><item><title>Inside Yemen's front-line city as Houthis battle for control</title><link>https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -54,7 +98,29 @@ It warned that another 100,000 could – like Fatma – be forced from their hom
 Additional reporting by Jasmin Dyer
 Related topics
   - Published4 days ago
-  - Published16 September</description></item><item><title>Seoul summons Ukraine envoy over North Korean prisoner-of-war row</title><link>https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&amp;at_campaign=rss
+  - Published16 September</description></item><item><title>New York Times executive fatally shot allegedly by elderly in-laws</title><link>https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+New York Times executive fatally shot allegedly by elderly in-laws
+- Published
+A New York Times executive was fatally shot in California, allegedly by his wife's elderly parents who have been arrested on suspicion of murder.
+Jonathan McKinsey, 40, the newspaper's director of engineering for games player experience, was found with multiple gunshot wounds in a car park in Dublin - 35 miles (56km) west of San Francisco - on Saturday afternoon, police said.
+Shouyong Zhang and Shili Chen, his parents-in-law who are both 77 years old, are facing multiple charges, including first-degree murder.
+It was unclear whether the couple have a lawyer, and they are due to appear in court to formally face the charges on Wednesday.
+McKinsey's death was confirmed by The New York Times.
+His body was found at 15:00 (23:00 GMT) on Thursday afternoon outside the Dublin Sports Grounds.
+Witnesses told KGO-TV in San Francisco that they heard a flurry of gunshots, before seeing the victim on the ground.
+"I saw the guy drop to the floor: head bloody and chest bloody," witness Assad Razawi told the news outlet.
+His daughter added that her father saw the couple "walking together and then casually walk away from the shooting".
+The couple were arrested several minutes later by an officer passing by the scene. They had remained in the area after the attack, a witness said.
+McKinsey was pronounced dead at the scene, according to police.
+Police have not disclosed any motive for his killing.
+The elderly couple are being held at the Santa Rita jail.
+They also face charges of felony conspiracy, wilful discharge of a firearm with gross negligence, and child endangerment.
+Related topics
+  - Published3 April 2023
+  - Published1 February 2022</description></item><item><title>Seoul summons Ukraine envoy over North Korean prisoner-of-war row</title><link>https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -83,7 +149,60 @@ Meanwhile Russia's foreign ministry has warned it would have "no choice but to r
 South Korea has long pursued cordial ties with its neighbours who may be at odds with its ally, the US.
 Since the collapse of the Soviet Union, it has worked to deepen trade and diplomatic relations with Russia, which borders North Korea, and views both Moscow and Beijing as key partners in efforts to influence Pyongyang.
 Additional reporting by Anastasiia Levchenko
-  - Published11 January 2025</description></item><item><title>Twelve women have been killed in one part of South Africa since July. Here's what we know so far</title><link>https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&amp;at_campaign=rss
+  - Published11 January 2025</description></item><item><title>French PM warns against escalation of school protests after 164 arrested</title><link>https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+French PM warns against escalation of school protests after 164 arrested
+- Published
+France's Prime Minister Sébastien Lecornu has warned that any escalation in the country's current wave of student protests would be "irresponsible", following the arrests of 164 people on Monday.
+The demonstrations, which began in Paris and have seen teenagers blockading their schools for days, stem from issues including overcrowded classes and teacher shortages.
+Lecornu cited reported incidents at protests in a post on X, saying: "Fireworks, fires, violence near high schools: nothing justifies endangering students, staff, or police officers."
+But a French union that defends the interests of high school students said the protests were a "legitimate response" to the conditions they face.
+Interior Minister Laurent Nuñez said 12 members of the security forces, 12 students and three school staff were injured on Monday, while 180 schools were affected.
+He did not provide further details on those who had been arrested.
+The movement at French lycées, equivalent to sixth form in the UK or high school in the US, began last week in the Île-de-France region around Paris.
+Incidents of vandalism were reported, along with fireworks being aimed at police, and the protests have now spread to other regions in France.
+According to the AFP news agency, four high schools were reported to have been blockaded in the southern regions of Alpes-Maritimes and Var. Protests have also been reported in Marseille, the northern Lille area and Sedan in the north-eastern Ardennes.
+The Union Syndicale Lycéenne, which represents students, defended the protests in a post on social media.
+"Lack of teachers and staff, dilapidated schools, overcrowded schedules and classes, stress caused by Parcoursup [the web platform used in France for students to apply to the first year of higher education]... These issues are by no means inevitable, but simply the result of 10 years of Macron's policies and the lack of resources in the national education system," it said.
+It called on students to blockade schools on Tuesday in defence of "their rights and against budget austerity".
+On the same day, unions representing teachers, hospital staff and civil servants also called for a day of walkouts to protest against issues including low wages and working conditions.
+In response to the student movement, Lecornu said "the difficulties of high schools must be heard and addressed", but that "violence must be condemned unequivocally, and its perpetrators must answer for their actions".
+The prime minister also accused the far-left France Unbowed (LFI) party of urging students to expand the movement.
+Jean-Luc Mélenchon, LFI's leader, blamed the Lecornu government for having "ordered the crackdown" on the protest, adding that the high school students taking part were "harmless".
+But Nuñez said the demonstrations and blockades were "not very typical protest movements".
+"It is much more like urban violence, with a number of individuals who were masked, equipped with fireworks in tubes, equipped with projectiles, who clearly wanted to confront the internal security forces," he said.
+"It wasn't about making demands; it was really violence in its purest form."
+Since the protests began, several incidents involving violence between students and police officers have been reported.
+In one incident, a police officer reportedly fired a round from a grenade launcher used for crowd control, injuring a high school student, according to France's BFMTV.
+Investigations have been launched into these incidents, the broadcaster added.
+  - Published3 days ago
+  - Published18 September
+  - Published16 September</description></item><item><title>Tennessee governor declines to halt execution of state's lone woman on death row</title><link>https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Tennessee governor declines to halt execution of state's lone woman on death row
+- Published
+Tennessee Governor Bill Lee has denied a clemency request from death row inmate Christa Pike, who is scheduled to be executed by lethal injection on Wednesday.
+Pike, now 50, was 18 when she and her then-boyfriend beat, tortured and murdered Colleen Slemmer, a 19-year-old they met at a job training camp for troubled teens.
+She may have one last chance at halting her execution as her attorneys have filed a petition with the US Supreme Court hoping for a last-minute reprieve.
+If it proceeds, Pike would be the first woman to be executed in Tennessee in more than 200 years. Only 18 women have been executed in the US since the 1970s, compared to 1,663 men.
+"After deliberate consideration of Christa Gail Pike's request for clemency, and after a thorough review of the case, I am upholding the sentence of the State of Tennessee and do not plan to intervene," Governor Lee said in a statement.
+Pike's legal team had filed the clemency petition earlier this month, requesting that her death sentence be commuted to life in prison.
+Moving ahead with Pike's execution puts Tennessee "on singular footing", her attorneys said, as she would be the first person the state "executes in the modern death penalty era who was a teenager at the time of the offence".
+Attorneys Stephen Ferrell, Kelly Gleason and Randy Spivey said the governor's decision "leaves unanswered vital questions about Tennessee's execution protocol".
+"With this decision, the State of Tennessee is ignoring what both science and our legal system have decided: an 18-year-old brain is not an adult brain, and 18 is too young to face execution," they said in a statement on Monday.
+The murder of Colleen Slemmer created a media frenzy in Knoxville, Tennessee in 1995, when the 19-year-old was found with a pentagram - a symbol of Satanic ritual - carved into her chest.
+Pike had accused Colleen of insulting her and trying to steal her boyfriend. Two other residents at the camp later testified that Pike had bragged about the murder before and after, and showed them a piece of Colleen's skull.
+A year later, she was convicted of first-degree murder and sentenced to death, while then-boyfriend Tadaryl Shipp- who was 17 at the time - was given a life sentence with the possibility of parole.
+At the time of her incarceration, the 21-year-old was the youngest person on death row, according to the Tennessee Department of Corrections.
+Pike is scheduled to be executed on 30 September after years of failed appeals.
+Colleen's mother has insisted she wants Pike's execution to move forward so that her daughter "finally can be resting".
+Pike has a documented history of childhood sexual abuse, abandonment and neglect. Her lawyers believe that if she was found guilty of the same crime today as a teenager she would not receive a death sentence.
+"The 18-year-old girl suffering from severe mental illness and near-debilitating trauma no longer exists," her attorneys said. "Christa is a 50-year-old remorseful woman who understands her actions, receives proper treatment for her mental illness, and provides for and guides fellow incarcerated women."
+In the years since her sentencing, her defence team have uncovered details about her childhood that they say the jury never had the chance to consider.</description></item><item><title>Twelve women have been killed in one part of South Africa since July. Here's what we know so far</title><link>https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -161,41 +280,11 @@ You may also be interested in:
 - Grim discoveries of murdered women spark fear in South Africa 
   - Published19 September
 - South African white genocide does not exist, new ambassador to US tells BBC 
-  - Published2 days ago
+  - Published3 days ago
 - South African president vows justice as more women's bodies found near Johannesburg 
   - Published16 September
 Go to BBCAfrica.com, external for more news from the African continent.
-Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external</description></item><item><title>French PM warns against escalation of school protests after 164 arrested</title><link>https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-French PM warns against escalation of school protests after 164 arrested
-- Published
-France's Prime Minister Sébastien Lecornu has warned that any escalation in the country's current wave of student protests would be "irresponsible", following the arrests of 164 people on Monday.
-The demonstrations, which started in Paris and have seen teenagers blockading their schools for days, stem from issues including overcrowded classes and teacher shortages.
-Lecornu cited reported incidents at protests in a post on X, saying: "Fireworks, fires, violence near high schools: nothing justifies endangering students, staff, or police officers."
-But a French union that defends the interests of high school students said the protests were a "legitimate response" to the conditions they face.
-Interior Minister Laurent Nuñez said 12 members of the security forces, 12 students and three school staff were injured on Monday, while 180 schools were affected.
-He did not provide further details on those who had been arrested.
-The movement at French lycées, equivalent to sixth form in the UK or high school in the US, began last week in the Île-de-France region around Paris.
-Incidents of vandalism were reported, along with fireworks being aimed at police, and the protests have now spread to other regions in France.
-According to the AFP news agency, four high schools were reportedly blockaded in the southern regions of Alpes-Maritimes and Var. Protests have also been reported in Marseille, the northern Lille area and Sedan in the north-eastern Ardennes.
-The Union Syndicale Lycéenne, which represents students, defended the protests in a post on social media.
-"Lack of teachers and staff, dilapidated schools, overcrowded schedules and classes, stress caused by Parcoursup [the web platform used in France for students to apply to the first year of higher education]... These issues are by no means inevitable, but simply the result of 10 years of Macron's policies and the lack of resources in the national education system," it said.
-It called on students to blockade schools on Tuesday in defence of "their rights and against budget austerity".
-On the same day, unions representing teachers, hospital staff and civil servants also called for a day of walkouts to protest against issues including low wages and working conditions.
-In response to the student movement, Lecornu said "the difficulties of high schools must be heard and addressed", but that "violence must be condemned unequivocally, and its perpetrators must answer for their actions".
-The prime minister also accused the far-left France Unbowed (LFI) party of urging students to expand the movement.
-Jean-Luc Mélenchon, LFI's leader, blamed the Lecornu government for having "ordered the crackdown" on the protest, adding that the high school students taking part were "harmless".
-But Nuñez said the demonstrations and blockades were "not very typical protest movements".
-"It is much more like urban violence, with a number of individuals who were masked, equipped with fireworks in tubes, equipped with projectiles, who clearly wanted to confront the internal security forces," he said.
-"It wasn't about making demands; it was really violence in its purest form."
-Since the protests began, several incidents involving violence between students and police officers have been reported.
-In one incident, a police officer reportedly fired a round from a grenade launcher used for crowd control, injuring a high school student, according to France's BFMTV.
-Investigations have been launched into these incidents, the broadcaster added.
-  - Published3 days ago
-  - Published18 September
-  - Published16 September</description></item><item><title>Nigerian attempts to break world record by dancing non-stop for seven days</title><link>https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&amp;at_campaign=rss
+Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external</description></item><item><title>Nigerian attempts to break world record by dancing non-stop for seven days</title><link>https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -372,12 +461,23 @@ Jane Doe also alleged in her civil lawsuit that Cornell did not protect her nor 
 Jane Doe suffered "severe emotional and psychological distress and personal physical injury" due to the incident and the university's handling, the suit states, adding that news of the incident quickly circulated through the school.
 In November 2024, Cornell University issued a public statement regarding the "serious and deeply disturbing allegations of drug abuse and sexual violence at the Chi Phi fraternity house", saying its campus police department was investigating and that it had suspended the local chapter of the Chi Phi fraternity, as well as "a number of students."
 Cornell also said it had opened an internal investigation as well as a civil rights inquiry under the Title IX law - which bars sex discrimination in schools that receive funding from the federal government, including most universities.
+The Xi chapter of Chi Phi fraternity remains barred from its campus, Cornell said.
 On Monday, the university disputed Jane Doe's allegation that it did not adequately investigate or punish the alleged perpetrators.
 The university said in a statement that the matter was referred to a "panel of trained faculty and staff" that issued "a range of sanctions, which included expulsions and suspensions from Cornell".
 "None of the individuals charged were offered the opportunity to write essays as a sole consequence of their involvement," Cornell said.
 Jeremy Saland, an attorney for one of the men named in the lawsuit, denied the allegations.
 Saland acknowledged his client "responded to and made an immature comment on Snapchat", but "did nothing else." Saland denied his client "was involved in no sexual activity nor touched the plaintiff in any way and ingested no ketamine".
-The case has received national attention following Doe's lawsuit and the announcement the case would be reopened. Several celebrities, including actress Florence Pugh, have spoken out about it.
+The case has received national attention following Doe's lawsuit and the announcement the case would be reopened. Several celebrities, including actress Florence Pugh, and US lawmaker Alexandria Ocasio-Cortez have spoken out about it.
+There is a mix of outrage and shock on campus, along with "a humungous wave of solidarity" from people across the US, Sophia Dasser, editor-in-chief of the student newspaper, The Cornell Daily Sun, told the BBC.
+The newspaper's editorial board published the names of the men named in the lawsuit and called for an independent, third-party review of the reporting and resolution processes.
+"Much of the frustration, in my opinion, does stem from how little students really were told over the last two years regarding this case and how opaque the Title IX process is," Dasser said.
+She noted that other universities publicise anonymous outcome, sanction and process results of sexual assaults on campus, but Cornell University does not.
+"So all we ask is really, truly transparency to the student body, especially the student body in which the university is responsible for keeping safe," she said.
+The mayor of Ithaca, New York, where Cornell is located, has called for a moratorium on all student event and special event permits.
+The pause is in place until the university "conducts an accounting of its protocols to prevent and prosecute crimes of sexual violence".
+The Ivy League institution on Monday said that a task force on campus sexual assault was formed in 2025 and has made recommendations that have either been implemented or are in development.
+A 2025 school survey, external found that 35% of undergraduate women and 8% of undergraduate men have reported experiencing sexual assault during their time at Cornell, the report said.
+The report said that despite a long history of actions to address sexual assault, rates of sexual assault "remain persistently high".
 If you are suffering distress or despair and need support, you could speak to a health professional, or an organisation that offers support. Details of help available in many countries can be found at Befrienders Worldwide., external
 A list of UK organisations that can help is available here.</description></item><item><title>Remains of dozens of suspected kidnap victims found in Nigerian forests</title><link>https://www.bbc.co.uk/news/articles/c6e30x757nx4o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6e30x757nx4o?at_medium=RSS&amp;at_campaign=rss
 
@@ -400,23 +500,29 @@ Separately over the weekend, more than 80 people, mostly women, were seized in s
 In an attack on Sunday, nearly 50 farmers were abducted by gunmen in Niger State.
 On Sunday, about 40 other women were kidnapped in the neighbouring state of Zamfara, according to two security reports seen by AFP and a local source.
 Abductions for ransom have become a key source of income for criminals, including bandits and militant Islamists, in northern Nigeria.
-  - Published29 December 2025</description></item><item><title>Mexico's Pacific coast braces for Hurricane Polo</title><link>https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&amp;at_campaign=rss
+  - Published29 December 2025</description></item><item><title>Hurricane Polo unleashes threatening winds as it approaches Mexico</title><link>https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Mexico's Pacific coast braces for Hurricane Polo
+Hurricane Polo unleashes threatening winds as it approaches Mexico
 - Published
-People living on the northern Pacific coast of Mexico are bracing for the arrival of Hurricane Polo, which is forecast to make landfall later on Monday or early on Tuesday.
-The category three storm, with maximum sustained winds near 115 mph (185 km/h), is expected to move over the state of Baja California Sur, a region popular with tourists and home to the resort destination of Los Cabos.
-Meteorologists at the US-based National Hurricane Center (NHC) have warned of heavy rainfall which could lead to life-threatening flooding and mudslides, especially in areas of steep terrain.
-Residents on Sunday stocked up on essentials such as drinking water and food as the storm approached.
-The NHC warned of the storm surge Hurricane Polo could unleash, which it said could be accompanied by large and destructive waves.
-In Cabo San Lucas, famous for its natural rock arch, the authorities restricted access to the beaches. Some restaurants also closed in the town, which acts as a base for sport fishers and whale watchers.
+Hurricane Polo is lashing the northern Pacific coast of Mexico with intense winds as it moves ashore with the threat of life-threatening flash floods.
+The powerful category three storm, with maximum sustained winds near 115 mph (185 km/h), is expected to make landfall on Monday evening over the state of Baja California Sur, a region popular with tourists and home to the resort destination of Los Cabos.
+Meteorologists at the US-based National Hurricane Center (NHC) have warned that life-threatening winds and flash foods had begun to hit portions of the region
+Residents boarded up homes and businesses and stocked up on essentials such as drinking water and food as the storm approached.
+The eye of the storm is expected to move inland along the coast of Baja California Sur on Monday evening, and then move inland into southern Sonora on Tuesday morning, according to NHC.
+"Conditions will deteriorate quickly", the US weather agency warned, urging residents to seek safe shelter.
+Forecasters also warned of the intense storm surge the hurricane could unleash, which could be accompanied by large and destructive waves.
+Heavy rains could also lead to life-threatening flooding and mudslides, especially in areas of steep terrain.
+The hurricane centre said even after Polo dissipates, its remnants could produce strong gusty winds in southern New Mexico and western Texas.
+In Cabo San Lucas, famous for its natural rock arch, authorities restricted access to the beaches. Some restaurants also closed in the town, which acts as a base for sport fishers and whale watchers.
+Laura Velázquez, national coordinator of Mexico's Civil Protection Agency, said that travel will be halted in the area where the hurricane is expected to make landfall and ports will be closed.
+Dangerous surf and rip currents are likely along portions of the northwestern coast of Mexico and Baja California for the next day or so, meteorologists said.
 The regional government of Baja California Sur has ordered schools to remain closed on Monday as a preventive measure.
 Governor Víctor Manuel Castro Cosío said temporary shelters had been opened should residents need to be evacuated.
 The federal authorities have also deployed thousands of members of the navy and the army along with specialised machinery.
 Polo has been slowly moving towards Mexico's coast line.
-Meteorologists said it was being fuelled by extremely warm waters caused by the El Niño climate phenomenon.
+Meteorologists said it was being fuelled by extremely warm waters caused by the El Niño climate phenomenon, which has led to a more active hurricane season in Pacific waters.
 Related topics
   - Published6 days ago
   - Published5 days ago</description></item><item><title>Trump-Xi summit: What wasn't said might matter the most</title><link>https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&amp;at_campaign=rss
@@ -439,7 +545,7 @@ The meeting was being closely watched for any developments or agreements in rela
 - Trump and Xi come face-to-face as US and China battle to win the AI race 
   - Published5 days ago
 - Trump wants AI to be rebranded as super intelligence. Will it work? 
-  - Published5 days ago
+  - Published6 days ago
 Trade truce - what was included and what was left out
 Chinese state media confirmed for the first time on Monday that the trade truce has been extended until 10 January.
 The short extension ensures both leaders will meet again at major international gatherings later this year.
@@ -572,7 +678,7 @@ Police were notified of a helicopter in distress that may have crashed and caugh
 An hour after the call, the fire at the site had been brought under control, though officials were still working at the crash site just before 22:00 local time.
 The victims have not yet been identified and Bilodeau said this process may "take a few days."
 Related topics
-  - Published3 days ago
+  - Published4 days ago
   - Published4 days ago</description></item><item><title>Pope says 'scourge' of abuse must be rooted out as he visits Lourdes</title><link>https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
@@ -658,117 +764,11 @@ The Trump administration has dubbed an economic blockade on Iran "Operation Econ
 But some economists have questioned whether the latest sanctions will be effective, as this depends on the reaction from Iran's major trading partners.
 These include China, the biggest buyer of Iranian oil, which has ignored previous US sanctions and continued to do business with Tehran.
 Related topics
-  - Published5 days ago</description></item><item><title>Killer Christa Pike to be executed within days - but her defence say she's a victim too</title><link>https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&amp;at_campaign=rss
+  - Published5 days ago</description></item><item><title>The Frenemy: How Australia navigates superpower rivalry</title><link>https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
-Killer Christa Pike to be executed within days - but her defence say she's a victim too
-- Published
-Ashlee Sellars last heard from her friend Christa Pike earlier this week, when Pike texted her from her cell on death row as she prepares to be killed by lethal injection by the US state of Tennessee.
-Pike told Sellars she did not want any of her loved ones to be present on Wednesday when she is executed.
-"She doesn't want us to experience that," Sellars says.
-Sellars finds it hard to reconcile this woman, whom she has only known to be kind and protective, with the person who committed a heinous crime 31 years ago.
-Pike, now 50, was 18 when she and her boyfriend at the time, Tadaryl Shipp, beat, tortured and murdered Colleen Slemmer, a 19-year-old they met at a job training camp for troubled teens.
-The murder created a media frenzy in Knoxville, Tennessee in 1995, when Colleen was found with a pentagram - a symbol of Satanic ritual - carved into her chest.
-Pike had accused Colleen of insulting her and trying to steal her boyfriend. Two other residents at the camp later testified that Pike had bragged about the murder before and after, and showed them a piece of Colleen's skull.
-A year later she was sentenced to death, while Shipp - who was 17 at the time - was given a life sentence with the possibility of parole.
-Now, after years of failed appeals, Pike's execution has been set. If it goes ahead, she will be the first woman put to death in Tennessee in more than 200 years. Only 18 women have been executed in the US since the 1970s, compared to 1,663 men.
-Colleen's mother has said she wants Pike's execution to happen so that her daughter "finally can be resting".
-But Pike's lawyers, who filed a 226-page clemency petition, are still hoping for a last-minute reprieve, while UN human rights experts have also called for the execution to be stopped., external
-Pike has a documented history of childhood sexual abuse, abandonment and neglect. Her lawyers believe that if she was found guilty of the same crime today as a teenager she would not receive a death sentence.
-In the years since her sentencing, her defence team have uncovered details about her childhood that they say the jury never had the chance to consider.
-"It is mind-boggling that they did not present any of her history of abuse and rape, even though they knew about it," says Sandra Babcock, an expert in gender and the death penalty at Cornell Law School, who has worked on Pike's defence.
-"Her case is so uniquely compelling, not just because of her really incomprehensible history of sexual violence but the combination of that with her youth and her mental illness."
-In 1995, forensic psychologist Dr Diana McCoy was hired by Pike's defence team and found she was severely neglected by both of her parents.
-McCoy's report found Pike was physically and sexually abused by several of her mother's husbands and boyfriends, and raped several times, once when she was 11 and again aged 17. Later, it was discovered that she was repeatedly raped as a toddler by her grandmother's boyfriend. McCoy said Pike's mother didn't believe her that these rapes happened.
-But Pike's trial lawyer did not put McCoy on the stand or call many of the witnesses she recommended. These details emerged over a decade later in a court hearing reviewing her case, when a new team of lawyers claimed ineffective assistance of counsel, a claim that was denied by the judge.
-In 2021, Pike was diagnosed with bipolar disorder in prison and has been medicated since.
-Later, another forensic psychologist working for Pike's defence, Dr Bethany Brand, who assessed Pike in 2023, said her case was extremely rare because she was abused by so many people who should have protected her.
-"Her childhood was replete with physical, sexual and emotional abuse. She was sexually violated by a number of men, starting before she was school age," she says.
-Brand says Pike had untreated manic episodes due to bipolar disorder and untreated PTSD.
-"Both of those things together absolutely influenced how threatened she felt by the girl she ended up killing and her lack of emotional control in that situation."
-Babcock adds: "If they let her be executed, then what it tells us is that the death penalty in this country is just a joke. It's not for the worst of the worst. It is for the people who receive the worst legal representation and who are the most damaged and vulnerable."
-'She should pay for it'
-Last year, Tennessee's Supreme Court ruled Pike had not shown circumstances that would justify commuting her sentence. Her appeals process had been exhausted and a date was set for her execution.
-A federal appeals court had earlier ruled that the jury had already heard about her difficult childhood during testimony from her mother, father and aunt during her trial. And that new evidence of bipolar disorder, PTSD and brain damage "mostly repeated" what the jury had heard and would not have changed the verdict.
-The row has some parallels with the high-profile case of murderer Lisa Montgomery, whose lawyers also argued she was a mentally ill victim of abuse who deserved mercy.
-Montgomery's legal challenges failed to commute her sentence and she was executed by lethal injection in Indiana in 2021.
-Unless she is granted clemency by Tennessee Governor Bill Lee, Pike will be executed on 30 September. That decision is unlikely to come until the last moment and Lee has never before granted clemency in a death penalty case.
-The Tennessee Supreme Court this week denied Pike's request to halt the execution. Her counsel say they have been discussing next steps.
-On her execution day, Pike has requested an all-female team. She says being held down by a group of men will exacerbate her trauma. The state of Tennessee has said the goal is that female guards will transfer Pike to the prison where she will be executed but hasn't guaranteed it.
-Colleen's mother May Martinez supports Christa's execution.
-"She did the crime. I think she should pay for it," she said on Knoxville TV station WBIR in 2021, and told the BBC this week she still stands by those comments.
-Pike should suffer before she dies, Martinez told WBIR. "I would feel better that she felt the same pain that Colleen did."
-"My heart breaks every single day because I keep reliving it and reliving it, and I can't no more, and I want this to happen before I die," she added.
-"There's not a day goes by that I don't think about Colleen or how she died and how rough it was. I just want Christa down so I can end it, relieve my daughter, so she finally can be resting."
-The Justice Coalition, a victims' rights advocacy group, has raised money to help Martinez travel to Tennessee to watch the execution.
-The group's executive director, Robert Bracewell, said this sentence was determined by a jury of Pike's peers and it was what Colleen's family want.
-"We stand firm with the family that on the 30 September her execution ought to proceed."
-Ashlee Sellars grapples with two seemingly conflicting beliefs: that Colleen's mother has a right to feel justice has been served and that everyone, including her friend Christa, deserves a chance at redemption.
-"When I think about reconciling who you see on TV or the horrible tragedy that happened with Colleen, the only thing that makes sense to me is around mental health and trauma and the way that people process stuff in a moment when they don't have the things that they need," Sellars says.
-"These horrible things happen in your youth and then those traumas moved through you, in our community, and you cause harm to somebody else."
-Sellars met Pike in prison while serving a 25-year sentence for her involvement in a robbery-murder. They spoke to each other through the meal flaps in their doors on the high security unit. Now, Sellars works as an advocate for justice reform and victims of crime.
-"People want to know that everyone's life matters, right? They want to know that Colleen's life mattered," she says.
-"Christa in this moment, I think she is fighting much more for her life to matter than she is to actually live."
-Related topics
-  - Published13 August
-  - Published13 January 2021
-  - Published23 December 2024</description></item><item><title>Woman charged with stealing from patients and staff at hospitals across Ontario</title><link>https://www.bbc.co.uk/news/articles/c3ew9e5lg01vo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c3ew9e5lg01vo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Woman charged with stealing from patients and staff at hospitals across Ontario
-- Published
-Police in Ontario, Canada, have charged a woman with 65 offences including fraud and theft for allegedly stealing from patients and staff at several healthcare centres in the province.
-Ontario Provincial Police (OPP) identified the suspect as Nassim Eronn, 34, from Burlington, a city 56km (34 miles) south of Toronto.
-"The investigation was initiated following multiple reports of theft and fraud involving patients and staff members within healthcare facilities," police said in a statement to BBC News.
-They say the incidents under investigation began in February 2024 and continued until as recently as last month. The suspect worked at health centres across the province.
-The suspect faces charges including 34 counts of fraud under $5,000 (£3,800), 13 counts of theft under $5,000 and seven counts of disobeying a court order, according to police. Other charges include breach of trust and impersonation.
-OPP began investigating the woman in May after a report of theft when she worked at Orillia Soldiers' Memorial Hospital, about 130km north of Toronto.
-"This investigation was prompted by several complaints of theft and fraud from patients and staff within the hospital," police said at the time.
-The investigation was expanded to cover more hospitals where further incidents were uncovered.
-"Multiple search warrants were executed where significant amounts of property were seized," police said.
-It is unclear what were the suspect's specific duties at the hospitals.
-Investigators believe there may be more victims and have urged the public to come forward with relevant information after reviewing their financial records for suspicious transactions.
-Five healthcare facilities are covered by the investigation:
-- Orillia Soldiers' Memorial Hospital (Orillia, ON) - between April 2025 and March 2026
-- Headwaters Health Care Centre (Orangeville, ON) - between August 2026 and September 2026
-- Trillium Health Partners, Mississauga Hospital (Mississauga, ON) - between August 2025 and July 2026
-- St Joseph's Health Centre (Toronto, ON) - between July 2024 and January 2025
-- West Park Health Care Centre (Toronto, ON) - between February 2024 and April 2024</description></item><item><title>German town bans 'stumbling stone' memorials to Nazi victims</title><link>https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-German town bans 'stumbling stone' memorials to Nazi victims
-- Published
-There has been a wave of criticism in Germany after the town of Heidenau, near Dresden in Saxony, decided to ban "stumbling stone" memorials to victims of the Nazis.
-Germany's Education Minister Karin Prien told newspaper Bild that the ban was a "scandal".
-Since the 1990s, many towns in countries across Europe, including in Germany and Austria, have embedded small brass plaques in the streets in memory of Jews and other victims of Nazi atrocities.
-The plaques, called Stolpersteine in German, are often placed outside the houses where the victims used to live or work. They are frequently funded by donations.
-But now councillors from the Alternative für Deutschland (AfD) party and the conservative CDU in Heidenau have voted to ban stumbling stones in their town.
-The AfD in Saxony has been classified as extreme-right by German intelligence, a designation the party rejects.
-The motion in the town council said that many citizens felt that this form of commemoration of Nazi victims was inappropriate.
-Memorials should in future be placed at the city's Nordfriedhof cemetery to make it "impossible to step directly onto the memorial elements", the motion stated.
-However, Karin Prien, a member of the CDU, criticised the decision.
-"Anyone who banishes Stolpersteine and memorial sites commemorating Jewish life from public spaces to the cemetery is prioritising death over life and rendering Jewish people invisible once again," she told Bild.
-She said her own CDU party in Saxony also bore responsibility for the decision.
-Charlotte Knobloch, a Holocaust survivor and president of the Jewish Community in Munich, said that removing memorials from the cityscape was "completely the wrong approach".
-She told the Funke Media Group that she was "appalled that a democratic party would stoop to supporting such a transparent manoeuvre by the extremists of the AfD".
-Knobloch said that she was not a supporter of the stumbling stones, but added that "decentralised remembrance – which is not banished from public space but, on the contrary, permeates and shapes it" was crucial to a genuine culture of remembrance.
-In her own city of Munich, there are no Stolpersteine on municipal land. Instead, the city allows memorial plaques on public buildings.
-As the name suggests, Stolpersteine are intended as memorials people stumble upon, making them reflect on the history of their location.
-Gunter Demnig, the artist who initiated the Stolperstein project, said that given the recent electoral successes of the AfD "it was certainly to be expected that something like this would happen".
-The AfD recently secured major victories in state elections in Saxony-Anhalt and Mecklenburg-Vorpommern.
-Some branches of the populist AfD are classed as right-wing extremist by domestic intelligence, a designation the party strongly rejects.
-Its anti-immigration, "Germany first" and Russian-friendly agenda has found fertile ground in the country's former communist east.
-Related topics
-  - Published30 May 2022
-  - Published7 May
-  - Published24 November 2025</description></item><item><title>Stuck between superpowers: How Australia navigates the China-US rivalry</title><link>https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Stuck between superpowers: How Australia navigates the China-US rivalry
+The Frenemy: How Australia navigates superpower rivalry
 - Published
 Snipers shatter the silence of the Australian bush. Then the missiles hit, the smoke rising in the distance. The buzz of drones starts up, soon to be drowned out by helicopters flying overhead.
 Every piece of hardware is being deployed, no expense spared. But this is no war zone – the last time Townsville saw conflict was during World War Two. This is a show of military might.
@@ -813,7 +813,107 @@ But old rivalries live on. With Australia caught between two superpowers, every 
 "This is, if not the transition of great powers, at least [it's] power struggles of great powers, says Zhang.
 And in that competition, Australia is inevitably affected. The US is a security ally that while more unreliable than in the past is still its mainstay. But economically so too is China. It's not an either/or relationship, it's a balancing act.
 "There's no way Australia will choose one side and [dump] the other- it's not in their interests," Zhang says.
-"It's getting harder and harder to maintain, but Australia has to do it."</description></item><item><title>Why some Indian civil servants become heroes for doing their jobs</title><link>https://www.bbc.co.uk/news/articles/cw980vje6l3eo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cw980vje6l3eo?at_medium=RSS&amp;at_campaign=rss
+"It's getting harder and harder to maintain, but Australia has to do it."</description></item><item><title>Sign before praying: A new conversion law is affecting churchgoers in Indian state</title><link>https://www.bbc.co.uk/news/articles/cmj4jg2vxvpdo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cmj4jg2vxvpdo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Sign before praying: A new conversion law is affecting churchgoers in Indian state
+- Published
+Some churches in and around India's financial capital Mumbai have begun asking worshippers to give a declaration in writing - "I came here to pray of my own free will."
+Visitors write down their names, sometimes add an ID card number, and sign to say that nobody forced or enticed them to attend church. The forms, a copy of which the BBC has seen, have no official standing. Churches keep them in case a prayer meeting is challenged and its organisers are accused of trying to convert those inside.
+The practice began at some churches in late August, just before a new law against religious conversion took effect in Maharashtra state, of which Mumbai is the capital.
+The law prohibits religious conversions brought about by force, fraud, coercion or inducement. It also requires people who want to convert voluntarily to notify authorities in advance. An unlawful conversion can lead to a prison sentence of up to seven years, rising to 10 for a repeat offence.
+Maharashtra's government says the law protects people, particularly those who are socially or economically vulnerable, from being forced or deceived into changing their religion.
+But critics say its broad definitions, severe penalties and scrutiny of even voluntary conversions risk drawing the state and the police into one of the most private decisions a person can make. The state government did not respond to the BBC's repeated requests for comment.
+While the law applies to all religions, the anxiety is being felt most deeply at places where minorities, especially Christians, worship. At the heart of the debate is a long-running tension over allegations, usually made by right-wing groups, about people being coerced or induced to change their religion for benefits.
+Devdan Tribhuvan has seen some of that anxiety up close.
+A fourth-generation Christian in Vasai, a suburb of Mumbai, he is part of an organisation that provides legal aid to Christians in and around the city. In recent months, he says, people have increasingly approached him not about court cases, but with accounts of disrupted prayer meetings and questions about what they are still free to do.
+Some have described strangers walking into churches and questioning those inside: "What is your name? Why are you here? Has anyone offered you something?"
+The questions can become more pointed, Tribhuvan said, when a worshipper has a name that does not sound Christian: "Has anyone forced you to come? Has anyone offered you an inducement?"
+Many who contact him are not looking to take legal action. They want to know whether simply gathering to pray could leave them vulnerable to an accusation of conversion.
+In July, an investigation by The Indian Express, external documented five disruptions of Christian prayer meetings around Mumbai between April and July. Nine police cases followed - seven against worshippers or prayer organisers, and two against members of the Hindu nationalist group Bajrang Dal. Police did not respond to detailed questions about the cases or the action taken.
+"Is gathering for prayer itself conversion?" Tribhuvan asks.
+In Mumbai, Tribhuvan's question carries particular weight. The city grew by drawing people from across India and beyond, bringing their gods and rituals with them. A church bell can sound within earshot of a mosque's call to prayer; a shrine belonging to one faith can draw followers of another.
+People of many faiths make their way to the Muslim shrine Haji Ali. Hindus light candles at Mount Mary, a Catholic basilica overlooking the city. Crowds fill the streets around Lalbaug during the Hindu festival of Ganesh Chaturthi and stream to Siddhivinayak temple throughout the year.
+Maharashtra is the latest of more than a dozen states to restrict religious conversion. The laws differ, but their reach has expanded in recent years, particularly in states governed by Prime Minister Narendra Modi's Bharatiya Janata Party. Several are being challenged before the Supreme Court.
+Behind that expansion lie claims long made by Hindu nationalist groups, that Christians use money, schooling or medical care to draw poor and tribal communities away from Hinduism, and that Muslim men court Hindu women to convert them - an alleged conspiracy they call "love jihad."
+Critics say such accusations have fuelled harassment of Christian prayer meetings and interfaith couples, and that the laws give those making them a way to draw the police into questions of prayer, marriage and belief.
+Maharashtra's government says the new law leaves people free to convert by choice, while addressing what it says is a rise in forced conversions that existing laws have failed to curb.
+Critics question where it draws the line between force and choice.
+"We do not support forceful conversions, if any," said Samsuddin Tamboli, president of the Muslim Satyashodhak Mandal (Muslim Truth-seeking Society), a reformist organisation. His concern is what the law counts as inducement.
+Its definition of "allurement" includes employment, free education at a religious institution, a promise of marriage, a "better lifestyle" and "divine healing". Even glorifying one religion over another can fall within it.
+"The definition has been kept so vague that almost any benefit accruing to a person can be considered or argued to be an allurement," said Abhay Thipsay, a retired Bombay High Court judge.
+"If a person receives some benefit and consciously chooses to convert for that reason, why should it be considered wrong?"
+The law also allows parents, siblings and other relatives to complain to police about an allegedly unlawful conversion, leaving the person accused of causing or assisting it to prove that it was lawful.
+Critics say for interfaith couples, that provision adds another potential obstacle to marriages that can already face family opposition.
+Indian law allows people of different faiths to marry without converting, but requires a month's notice. Lara Jesani, a lawyer who has helped interfaith couples obtain court protection, said details of planned weddings have sometimes reached relatives and Hindu nationalist groups opposed to them within that notice period.
+In cases she has handled, she said, families have taken women away, even from the marriage registrar's office.
+Now, she fears the new law may give the families or right-wing organisations a new way to target such couples.
+"Even when neither intend to convert, [the couples] fear a relative could accuse one partner of trying to convert the other."
+The Maharashtra government did not respond to detailed questions from the BBC about these concerns. But when the law was passed, state minister Pankaj Bhoyar said it did not infringe upon the right to change religion. The notification requirement, he said, was intended to establish whether a conversion was voluntary, while allowing the state to act against those brought about by fraud, coercion or inducement.
+But Tribhuvan is still worried, an anxiety, he says, which reaches even the small prayer gatherings held closer to home when a church is too far away.
+Fifty people might attend, he said, sometimes 100 - and someone who is not Christian might join too.
+"If someone else wishes to come and pray, we cannot stop them," he said. "That is what we call the right to choose."
+To Thipsay, the retired judge, the precaution points to a larger question.
+"If an adult has the power to make major decisions - such as whom to marry - and has been given the right to vote," he said, "why should they not have the power to make this decision too?"</description></item><item><title>Journalist to be crowned king in Uganda after bitter succession dispute</title><link>https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&amp;at_campaign=rss
+
+========================================
+
+Journalist to be crowned king in Uganda after bitter succession dispute
+- Published
+Prince Edward Rukidi Kijanangoma Nyabongo II, who is set to be crowned king of Uganda's Tooro kingdom later, has long been a familiar face in the country.
+For many Ugandans, he was known not as the heir to the throne, but as a storyteller, as a long-serving anchor and editor at the state broadcaster.
+But Kijanangoma, 56, has now become the subject of media attention himself - his rise to the Tooro throne sparking controversy and widespread reactions beyond the country.
+Tooro is one of Uganda's four main officially recognised historical kingdoms. For the last 31 years, it has been headed by King Oyo Nyimba Kabamba Iguru Rukidi IV, who was once known as a "boy king", after ascending to the throne as an infant.
+Oyo became king in 1995 at the age of just three, following the death of his father. Then the world's youngest monarch, he ruled until he died last month from cancer, aged just 34.
+The coronation is a day for celebration, involving traditional practices starting from midnight. The new king then walks about 4km (2.5 miles) to the official Karuziika royal palace where he is crowned.
+A mock fight follows, to signify that kingship does not come easy, and he is then blessed by members of the royal Babiito clan, the Tooro kingdom's Information Minister Charles Mwanguhya told the BBC Focus on Africa podcast.
+He performs other ceremonies that signifies his assumption of the throne, before he sits on the throne and an actual crown placed on his head to signify his new authority, his new position as the new Tooro king.
+But the selection of Kijanangoma as king was far from straightforward.
+According to tradition, a recognised son of the late king should succeed him. Close members of the royal family said Oyo had left a young son and a will with instructions that the child should be next on the throne.
+But the son has never been revealed to the public and nor was he recognised by the committee of 21 Babiito clan members who choose the king and eventually selected Kijanangoma.
+The late King Oyo was never publicly married, and little is known about his wife or their son.
+Nonetheless his mother, Queen Best Kemigisa, argued that the late king's will ought to have been respected.
+However, the royal succession committee ignored her wishes, insisting their selection process was conducted in accordance with Tooro customs and traditions.
+The new king has thus found himself at the centre of a succession dispute, with Kemigisa and her close relatives unhappy with the outcome.
+Kemigisa referred to Kijanangoma's selection as the "announcement of a second king" being "made after the will of King Oyo was read to members of the royal family".
+"As a mother, that was extraordinarily painful," she said, describing celebrations for the next king taking place "only metres from where my son's body lay".
+The queen later said Oyo's son, who was in the US state of Texas, had been due to return home but that could not happen amid a "tense and polarised succession dispute".
+"No child should be placed in circumstances where returning to his father's homeland could mean being drawn into hostility and conflict," Kemigisa asserted in a post on X.
+But according to the Tooro kingdom's information minister, the son being talked about "hasn't been presented anywhere, which means there is a growing acceptance that sad as it may be, King Oyo didn't leave a son behind".
+While King Oyo inherited the crown from his father, Mwanguhya told the BBC "the crown has moved to a different line within the ruling clan".
+A king must come from the Babiito clan, specifically the lineage of King George David Matthew Kamurasi Rukidi III, according to royal palace sources.
+Kijanangoma and the late King Oyo are cousins. Both are grandsons of Rukidi III, the 11th king, or Omukama, who ruled the Tooro kingdom from 1928 to 1965.
+Kijanangoma was among several people who were considered for the role, including Prince George Desmond Kamurasi, who plays football for one of the UK's best-known amateur clubs.
+According to the succession committee, the South East Dons captain and goalkeeper declined the offer of the throne, citing other responsibilities.
+After he was formally announced, Kijanangoma promised that the palace would be open to the people, while vowing to focus on unity and development.
+"I ask you for one thing - they have given me this title as king but I cannot work alone, I have to work with you," he said.
+Uganda's traditional kings have no formal political authority, but they retain cultural influence and command significant loyalty in the communities they lead.
+The country is home to four main kingdoms, the largest and most prominent being Buganda in the central region, which encompasses the capital Kampala.
+The kingdoms were abolished in 1967, but the government under President Yoweri Museveni restored them in the early 1990s.
+The government said this was to promote cultural pride and national unity, but the move has also been interpreted as a way of appeasing communities and fostering political loyalty.
+Amid the succession dispute, the government backed the Babiito clan's choice of Kijanangoma. Attorney General Sam Mayanja said the Tooro kingdom was cleared to go ahead with the coronation, as there had not been a formal complaint against him.
+The date of the coronation was announced by the government and Museveni is scheduled to attend.
+The president's son and the head of the military, Muhoozi Kainerugaba, has also publicly supported Kijanangoma. "Long may he reign," he posted on X.
+Kijanangoma's very name points to his royal heritage.
+His father, the first Kijanangoma, was born in the year King Rukidi III became king. The king gave him the name, which means the "one who comes with the royal drum".
+The drum of royalty, foretold two generations earlier, is now returning to its bearer.
+Kijanangoma was born in 1970 and raised at their family home at Kidukuru village in Fort Portal, about 300 km (186 miles) from Kampala.
+He left the village to pursue further studies and graduated with a mass communication degree from Uganda's prestigious Makerere University in 1999.
+He worked as a broadcaster in a career spanning more than two decades, including in neighbouring Rwanda and at home, with the Uganda Broadcasting Corporation.
+The years spent engaging with the public, the interactions with leaders and the exposure to national affairs in his work as a journalist may yet serve him well as he returns to the community he came from, this time as their leader.
+After he was named king, Kijanangoma said he would use the connections he had built up over 21 years working as a journalist "to get good things for our people".
+His mother, Assimwe Yusta Kijanangoma, is confident that he is well prepared for his new role. She says his upbringing was deeply rooted in tradition.
+"I really raised him with the teachings of the old kingdom of a cane and instructions and scolding. I laugh with him, and other times I scold him," she told the BBC.
+She added: "Eddy is well-mannered, he does not fight, or shout, even when wronged, he says a few words and does not go so much into it."
+She feels good for her son, although she admits to having mixed emotions, especially as her son is taking over after the death of a "great man".
+More about Uganda from the BBC:
+- The 'shadow army' helping Uganda's long-serving president keep an iron grip on power 
+  - Published17 October 2025
+- Uganda's King Oyo buried amid calls for unity over his successor 
+  - Published12 September
+Go to BBCAfrica.com, external for more news from the African continent.
+Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external</description></item><item><title>Why some Indian civil servants become heroes for doing their jobs</title><link>https://www.bbc.co.uk/news/articles/cw980vje6l3eo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cw980vje6l3eo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
@@ -956,97 +1056,7 @@ Addressing the venue during the encore, G-Dragon appeared clearly moved, admitti
 As fireworks lit up the night sky, the three members linked hands and bowed deeply - a triumphant moment for the group widely credited with helping reshape modern K-pop.
 Related topics
 More weekend picks
-  - Published19 May 2024</description></item><item><title>Young people in China are fangirling over a professor who gets their anxiety</title><link>https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-Young people in China are fangirling over a professor who gets their anxiety
-- Published
-"A star sent from the heavens," is how Zihan Han describes the man she's become a huge fan of recently, a man who young Chinese people call an "idol".
-Except this is no pop singer or movie star, but a 54-year old anthropologist. Professor Biao Xiang has become an unlikely guide for an increasingly disillusioned generation.
-And it's because of what he talks about: anxiety and how to navigate it.
-China's economy and tech have grown at breakneck speed, but there is plenty worrying its Gen Z, from jobs to romantic prospects to the sheer pressure of keeping up.
-"The transition from school to the real world brings a lot of uncertainty now, and people often feel anxious because they don't know how to face it," says a 23-year-old Chinese graduate who didn't want to reveal her name because she was worried speaking to foreign media might affect her chances of finding a job back home.
-"People need an anchor in their life. And his words make us feel there is someone that gets me."
-She and Zihan were among some 500 people - mostly Chinese diaspora - who piled into an auditorium recently in Singapore. Xiang spoke for more than an hour in Mandarin before he took questions. When it ended, dozens queued to meet and take photos with him. The Chinese grad called it "an academic fan meeting".
-Xiang has been interviewed by major Chinese outlets and has travelled to top Chinese campuses to talk, including at his alma mater, the prestigious Peking University – one talk earlier this year was live-streamed because the auditorium was full. "When in doubt, ask Biao Xiang," has become a saying, according to Chinese media.
-In Singapore, Xiang spoke of the recognition young people seek in today's China, where they often look to systems for approval - from competitive exams to secure jobs - and how that approval becomes a measure of self-worth, which can be exhausting and damaging.
-It is healthier, he suggested, to seek meaning and understanding from others and use that to understand ourselves better.
-These are hardly quick fixes. But in a country where discontent can be politically sensitive and heavily censored, he is a rare public figure who addresses what he calls the "pain point of the times".
-"Everyone knows where the issue is, but they are reluctant to look at it. Sometimes it is too painful to look at, or they don't have a way," he tells the BBC over tea in Singapore.
-"But as an academic, it is not terrifying if you can describe it – that's how you analyse and manage it."
-He now lives in Germany, where he is the director of the Max Planck Institute for Social Anthropology, and studies social change in China and other parts of Asia.
-Xiang believes Chinese society is at a "turning point", where people are searching for meaning while making sense of rapid social and economic change. He sees contradictions – uncertain youth in a powerful, assertive country; disillusionment despite huge advancement – and his job, he says, is to unpack what is driving it.
-China's leader Xi Jinping has acknowledged it too: he said the "principal contradiction" was "between the people's ever-growing needs for a better life and unbalanced and inadequate development".
-Xiang has catchy names for what is causing this. "Floating" is how he describes people working relentlessly just to survive, like a hummingbird that keeps flapping its wings to stay mid-air.
-"The nearby" refers to what is immediately around us. Xiang argues that people are preoccupied by the "very near" (themselves) and the very far (the world) while the space in between - "the nearby" - is neglected. This, he says, leaves them feeling disconnected.
-This seems to be resonating deeply with young people looking for answers.
-One user on RedNote writes, "He consistently views issues from the perspective of the vulnerable, attributes personal stress to macro-level causes, and encourages people to actively engage with life - it's truly wonderful."
-Another says, "He never spouts empty, feel-good platitudes; instead, he crouches down to face real-life dilemmas alongside us."
-Zihan says it boils down to Xiang's willingness to talk openly about these things: "Those who have said similar things aren't as kick-ass as Teacher Xiang, yet people who are as kick-ass as him haven't said such things."
-Born in 1972, Xiang came of age during another turning point, as China emerged from the brutal chaos of Mao Zedong's rule to trade with the world. It urbanised, ordinary people turned into entrepreneurs and businesses took off for the first time in the Communist nation.
-Growing up in Wenzhou, which transformed into an industrial port, Xiang witnessed this first-hand. "It was a vast landscape of small business owners," he recalls. "Most people didn't care too much about education, the focus was on practical matters - specifically, how to make money."
-And many of them did. Their children grew up in a glorious era of double-digit economic growth. But the economy slowed during Covid and hasn't bounced back. The old equation - hard work = secure job - no longer works, and they want a new narrative, Xiang says.
-Youth unemployment hit 21.3%, before the government stopped publishing the data in mid-2023. Those with "good jobs" - civil servants, corporate employees, engineers - are anxious about losing them.
-They constantly complain online about long, exhausting working hours and a toxic office culture and their fear of the "curse of 35" - a cutoff age for job advertisements, after which it is harder to find a new job.
-Because of censorship, it's hard to know the true extent of this mood. But that feeling of being squeezed seeps into public discourse in other ways. That anxiety quickly turns into anger in online debates, be it about university entrance exams or bride price or food safety scandals.
-Terms associated with this mood have been trending for years. The most famous are "lying flat", when people opt out of the rat race entirely, and "involution", a rather clunky term now commonly used to describe intense competition which generates little meaningful reward.
-Xiang believes two forces have amplified this anxiety - the property market and the higher education system. The property boom, fuelled by local government's reliance on land sales, tied families' sense of security and success to the values of their homes. And a rapid expansion in university enrolment raised the bar for achievement, intensifying competition.
-The result, he says, is a universal playbook: get a good degree, find a stable job, marry and buy a home.
-"When 1.4 billion people are all in the same race, that is involution."
-About three years ago, when he learned that a camp for digital nomads where he spoke raised prices after his visit, he "realised I was no longer only known in the academic circles".
-Many of his peers, he said, prioritise publishing research and are "quite cold" to his methods. Some warned him about "cherishing your feathers", a Chinese expression for protecting one's reputation.
-But Xiang is encouraged by his popularity.
-"If someone calls me an influencer I'll take it as a compliment. Because the real influence I can have is to make people think for themselves."
-Related topics
-  - Published17 July 2025</description></item><item><title>The treasured 'eternal snow' on this tropical island is about to disappear forever</title><link>https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&amp;at_campaign=rss
-
-========================================
-
-The treasured 'eternal snow' on this tropical island is about to disappear forever
-- Published
-The mountains of Papua are not far from the equator, but they've been topped with "eternal snow" for centuries.
-The peaks in this Indonesian region on the world's second-largest island, just north of Australia, have offered scientists countless insights into the Earth's climate history.
-They're also the epicentre of the spiritual universe for many Papuans - a Mecca or a Vatican, as one activist puts it.
-But now, nearly all the snow is gone.
-A century ago, the 300km (190-mile) stretch of the Sudirman Range had snow and permanent ice on all four of its major peaks.
-But now there are only small areas around Puncak Jaya, also known as Carstensz Pyramid, with any snow at all. These are expected to entirely disappear in a year or two.
-Glacier cover around the peak has shrunk from nearly 1,900 hectares (4,700 acres) in the 19th Century to about 16 hectares (40 acres) today. Almost entire glaciers have vanished within a human lifetime.
-"There is a profound unfairness in this," says Marie Šabacká, a Czech glacier ecologist who travelled to Puncak Jaya last March in a bid to be among the last scientists to study Papua's "eternal snow".
-She says the tropical glaciers in Papua are unique because they are separated from other glacier systems by thousands of kilometres. Papua is home to the "last remaining tropical ice" between the Andes and Himalayas.
-Ice cores taken from the slopes of Puncak Jaya preserve a record of climate history.
-Scientists can use them to obtain information about atmospheric conditions in the region and understand changes in the planet's warmest ocean waters that surround the island - the tropical Pacific and Western Pacific Warm pool.
-But this archive is disappearing before scientists have had time to fully study it.
-Proof of a warming planet
-The retreat of Papua's glaciers is driven by the same forces affecting ice around the world, Šabacká notes, a warming atmosphere caused by human activity, including the burning of fossil fuels like coal, oil and gas.
-As temperatures rise, the freezing point moves higher up mountains, so more precipitation falls as rain instead of snow, even in places that once saw regular snowfall.
-El Niño events can accelerate this process, while local factors such as cloud cover, snowfall and mountain topography influence its pace.
-The mountains in Papua are just 450km (280 miles) south of the equator, where "permanent ice can survive only at very high altitudes and within a narrow range of climatic conditions", Šabacká says.
-A small increase in temperature, a higher freezing point or shift from snowfall to rainfall can determine whether a glacier survives at all, she adds.
-The glaciers' retreat is evidence the Earth has been warming over a long period - and their disappearance "removes both a biological habitat and part of a culturally significant landscape".
-A spiritual anchor
-At least five groups of Indigenous people have had strong spiritual ties to Puncak Jaya for generations.
-The Moni people refer to it as Mbainggela, and believe their ancestors watch over the mountain. To the Amungme people, the range is known as Nemangkawi, or the "White Arrow".
-"Parents and grandparents prayed their children would have hearts like the White Arrow, never straying from the proper path," says Elfrida Natkime, a young Amungme woman. "It symbolises honesty, purity and moral integrity."
-According to traditional Amungme beliefs, Nemangkawi symbolises how people should live.
-Amungme environmental activist Adolfina Kum stresses how important the peak is to her people - and how traditions and cultural foundations risk being shattered as the ice melts.
-"How would Muslims feel if Mecca were destroyed? How would Catholics feel if Rome or the Vatican were destroyed?" she asks. "For the Amungme people, that is what it feels like when Nemangkawi is destroyed."
-For many Indigenous Papuans, the disappearance of the glacier is not an isolated event.
-The discovery of vast copper and gold deposits transformed the region during the 20th Century, and the development of extractive industrial projects have reshaped parts of the landscape.
-Entire mountain faces have been excavated and roads, industrial infrastructure and settlements have transformed surrounding valleys.
-Papuans say the development has brought jobs, roads, education and economic opportunities, but also environmental degradation and decades of social conflict. Some have lost access to their ancestral lands as mining expanded.
-The BBC has approached Freeport, which operates Papua's Grasberg mine, one of the world's largest gold and copper operations, for comment.
-"Every time I see the mountains, I feel amazed, but I also feel sadness," says Elfrida Natkime. "Since the company came, I have seen the exploitation. But the development has also provided a livelihood for many people."
-As local communities watch their sacred landscapes change, scientists and explorers are racing to document what is left.
-Using drones and three-dimensional mapping techniques, Danish researcher Klaus Thymann and his team have created a detailed model of what remains.
-From the early 2000s to 2025, the glaciated area has receded by 95%, he says. "There's almost no ice left. Those are the facts."
-Thymann says glaciers are "incredibly powerful" as indicators of climate change.
-"When people hear that something described as 'eternal' is disappearing, it triggers a reaction," he explains.
-Adolfina Kum believes communities "lose an important source of strength" when sacred mountains, forests or ancestral places are disturbed.
-"I often describe it as pulling out the roots of a tree. Once the roots are removed, the tree loses its foundation."
-Related topics
-  - Published11 June
-  - Published17 September</description></item><item><title>Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test</title><link>https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&amp;at_campaign=rss
+  - Published19 May 2024</description></item><item><title>Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test</title><link>https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&amp;at_campaign=rss</link><description>【原文链接】：https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&amp;at_campaign=rss
 
 ========================================
 
